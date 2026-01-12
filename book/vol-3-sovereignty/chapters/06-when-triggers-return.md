@@ -312,7 +312,7 @@ You swing between two poles:
 - **Over-giving:** Explaining everything. Bridging every gap. Making your life make sense to everyone.
 - **Sudden withdrawal:** "I owe you nothing." Shutting down. Taking it all back.
 
-This is a system that learned to over-bridge difference discovering it no longer wants to—but doesn't yet have a template for what comes next.
+This is a system that learned to over-bridge difference, discovering it no longer wants to—but doesn't yet have a template for what comes next.
 
 **What triggers it:**
 
@@ -437,7 +437,7 @@ No excessive apology. No over-explaining. Just honest acknowledgment that the di
 
 ### When Words Become the Weapon
 
-The anger finds an exit. But exits have texture. And often, when buffer is empty, the exit is verbal—and the words that emerge are sharper than you'd choose.
+The anger finds an exit. But exits have texture. And often, when the buffer is empty, the exit is verbal—and the words that emerge are sharper than you'd choose.
 
 **What happens:**
 
