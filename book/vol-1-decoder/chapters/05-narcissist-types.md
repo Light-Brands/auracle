@@ -157,7 +157,7 @@ Eye-rolling, sighing, dismissive sounds. Contempt is one of the most corrosive r
 **Absolute language as weapon:**
 "You always..." "You never..." "Everyone thinks..." These erase nuance and complexity. They turn a specific behavior into a permanent character flaw.
 
-**Swearing at vs. swearing about:**
+**Swearing at versus swearing about:**
 "This situation is fucking impossible" is expression.
 "You're a fucking idiot" is assault.
 The distinction matters.
@@ -187,11 +187,7 @@ These responses aren't weakness. They're accurate threat detection. Your body re
 
 One harsh comment might be forgettable. But verbal abuse is rarely one incident.
 
-It's:
-- Hundreds of small cuts
-- Years of walking on eggshells around their mood
-- Decades of editing yourself before you speak
-- A lifetime of your body bracing when you hear a certain tone
+It's hundreds of small cuts, years of walking on eggshells around their mood, decades of editing yourself before you speak, a lifetime of your body bracing when you hear a certain tone.
 
 This accumulation creates wear patterns:
 - You flinch at raised voices
@@ -269,7 +265,7 @@ But your body remembers.
 
 The explanation of why they spoke that way doesn't change the impact of receiving it. Understanding their stress doesn't regulate your nervous system.
 
-### The Pattern vs. The Incident
+### The Pattern Versus The Incident
 
 Everyone has said something harsh they regret. The question is what happens next:
 
@@ -292,9 +288,9 @@ If harsh language is frequent, minimized, blamed on you, and shows no change—t
 
 ### The Progression
 
-Early relationship: Contempt directed at exes, service workers, "difficult" people
-Mid relationship: Contempt starts leaking toward you during conflict
-Late relationship: Contempt becomes the default tone
+Early-relationship: Contempt directed at exes, service workers, "difficult" people
+Mid-relationship: Contempt starts leaking toward you during conflict
+Late-relationship: Contempt becomes the default tone
 
 The harsh language you witness them using on others is in rehearsal. Eventually, the show comes to your stage.
 
@@ -359,6 +355,8 @@ Reconciliation after verbal violence that doesn't include these elements isn't r
 *If "I'm sorry" always comes with "but you..." or if the apology requires your comfort before you've been allowed to feel your own hurt, that's not repair. That's management.*
 
 ### When Harsh Language Becomes a Dealbreaker
+
+**A note before this section:** If you're still in a relationship with someone whose language harms you, this section isn't a judgment. Leaving is rarely simple. There may be children, financial dependence, housing constraints, immigration status, religious community, family pressure, or genuine fear of what happens if you try to go. There may be love—real love—tangled with the harm. Staying doesn't mean you're weak or foolish. It often means you're navigating impossible constraints with whatever resources you have. This section offers clarity about patterns, not a mandate about what you must do.
 
 Not everyone can change. Not every relationship should continue. Here are markers that harsh language has crossed into territory that may require leaving:
 

@@ -40,7 +40,7 @@ By the time she finally agreed to 5:15, she was shaking. Depleted. Unable to be 
 
 *He won,* she thought. And then: *No. He always wins as long as the game is engagement.*
 
-The breakthrough came when she stopped negotiating. "5pm works. See you then." No explanation. No justification. No opening for counter-attack.
+The breakthrough came when she stopped negotiating. "5pm works. See you then." No explanation. No justification. No opening for counterattack.
 
 He escalated for a few weeks—testing to see if the old patterns still worked. They didn't.
 

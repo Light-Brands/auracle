@@ -1084,7 +1084,7 @@ It looks like this:
 
 - You do not argue
 - You do not defend yourself
-- You do not counter-attack
+- You do not counterattack
 - You do not try to be understood
 
 Instead, you agree neutrally. You stay calm. You let the accusation land without absorbing it.
