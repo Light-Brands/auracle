@@ -2250,13 +2250,206 @@ If their online behavior consistently creates insecurity and they dismiss your c
 
 ---
 
+# PART 4: PROFESSIONAL BOUNDARY PATTERNS (Cards P-1 to P-4)
+
+*These patterns appear in professional contexts—business partnerships, workplaces, and collaborative relationships—but the underlying dynamic is the same: your autonomy is experienced as a threat.*
+
+---
+
+## Field Note: The Call He Had to Join
+
+She's on a video call with a potential collaborator. A project she's been developing on her own time. Her work. Her vision.
+
+He walks into the room. Doesn't leave.
+
+"Who's that?" he asks, loud enough for the mic to pick up.
+
+She mutes. "A colleague. I'll be done in twenty minutes."
+
+He sits down in frame. "I should probably be on this call too."
+
+She feels her chest tighten. This is her project. Her meeting. Her relationship to manage.
+
+But he's already introducing himself. Already asking questions. Already positioning himself as part of something that was never his.
+
+Later, when she says she felt intruded upon, he looks wounded. "I was trying to help. Why are you so defensive about your work?"
+
+The question hangs there. And she realizes: she's now defending her right to have something that's hers.
+
+---
+
+## Card P-1: Territorial Hovering
+
+**The Pattern:** Surveillance disguised as involvement
+
+**What They Say/Do:**
+- Trying to join your calls, meetings, or conversations uninvited
+- Hovering when you're on the phone, asking "Who's that?"
+- Not allowing you to have private professional meetings
+- Needing to know the details of every work interaction
+- Positioning themselves as needing to be "in the loop" on everything
+- "I should probably be part of this conversation."
+- "Why can't I sit in? I'm just curious."
+
+**What's Really Happening:**
+Your professional space is being colonized. What looks like interest or partnership is actually monitoring. They can't tolerate you having conversations, relationships, or projects they don't have access to. Your privacy feels like their exclusion—and their exclusion feels intolerable.
+
+**The escalation:** It often starts small. A question about who you're talking to. Sitting nearby during calls. Over time, they insert themselves into more and more of your professional life until you have no space that's truly yours.
+
+**How It Hooks You:**
+You feel guilty for wanting privacy. You start holding calls in your car or waiting until they're not around. You pre-emptively include them to avoid conflict. You stop pursuing collaborations that don't include them. Your professional world shrinks to what they can supervise.
+
+**Your Power Move:**
+"This is my meeting. I'll fill you in on anything relevant afterward." You don't need to justify having professional relationships they're not part of. Privacy in professional contexts isn't secrecy—it's sovereignty.
+
+> *"When someone needs to be in every room you're in, they're not curious—they're controlling."*
+
+---
+
+### Once Upon a Time: The Dog in the Manger
+
+A dog lies in a manger full of hay. He can't eat it—dogs don't eat hay. But when the ox comes to feed, the dog snarls and snaps. He guards what he can't use, simply to prevent others from having it.
+
+This is ownership without utility. They don't need access to your project. They can't contribute to your meeting. They have no role in your collaboration. But they can't stand you having something they're not part of. So they insert themselves—not to add value, but to claim territory.
+
+The manger was never theirs. But they'll guard it anyway.
+
+**The Decoder:** When someone claims ownership of things they can't use and didn't create, they're not protecting resources—they're preventing your independence.
+
+---
+
+## Card P-2: Ownership Entitlement
+
+**The Pattern:** Claiming what isn't theirs
+
+**What They Say/Do:**
+- Treating your personal projects as shared assets
+- Trying to add ownership stakes to things you created independently
+- "If we're in this together, everything should be shared."
+- "What's mine is yours and what's yours is mine."
+- Feeling entitled to profit from your independent work
+- Acting as if your capacity, creativity, and output belong to them
+- "You wouldn't have had time to work on that without our partnership."
+
+**What's Really Happening:**
+This is territorial absorption—the belief that being in relationship with you entitles them to everything you produce. Your independent work threatens them because it proves you exist outside of them. Claiming ownership is how they prevent that separateness.
+
+**The logic underneath:** *"If you created something without me, you don't need me. If you don't need me, you might leave. So everything you create must involve me."*
+
+**How It Hooks You:**
+You feel selfish for wanting things that are just yours. You start hiding projects or downplaying their significance. You question whether you're being a "good partner" for having independent work. You give away equity, credit, or ownership to keep the peace.
+
+**Your Power Move:**
+"This project existed before our partnership and isn't part of it." Healthy relationships have clear boundaries around what's shared and what's individual. Someone who can't tolerate you having something that's only yours isn't offering partnership—they're demanding absorption.
+
+> *"They don't want partnership. They want everything you are."*
+
+---
+
+### Once Upon a Time: The Fisherman's Wife
+
+A fisherman catches a magic fish. He lets it go. His wife sends him back: "Ask for a cottage." He does. Then she wants a castle. A kingdom. To be emperor. To be pope. Finally, to control the sun and moon.
+
+Each time the fisherman returns to the sea, the water grows darker, the waves angrier. But he keeps going back—because her appetite has no limit.
+
+This is what entitlement without boundary looks like. It's never enough. The project becomes the business. Your clients become shared clients. Your ideas become their intellectual property. Your very capacity becomes something they're owed.
+
+The sea was warning him all along. So was yours.
+
+**The Decoder:** When the requests keep expanding and "fair" keeps shifting in their favor, you're not in a partnership—you're being consumed.
+
+---
+
+## Card P-3: Collaborative Threat Response
+
+**The Pattern:** Your other relationships are treated as betrayal
+
+**What They Say/Do:**
+- Feeling threatened by you working with anyone else
+- Treating your colleagues or collaborators as competition
+- "Why do you need to work with them? Aren't I enough?"
+- Subtle (or not subtle) hostility toward your professional contacts
+- Interrogating you about professional relationships
+- Acting hurt or angry when you have successful collaborations that don't include them
+- "You seem to have more energy for them than for our work."
+
+**What's Really Happening:**
+They experience your other professional relationships as abandonment or betrayal. Collaborating with someone else means you don't need them exclusively. Your success with others threatens their position as central to your professional life. Their reaction isn't about the work—it's about control.
+
+**The possessive logic:** In their mind, your professional capacity belongs to the partnership. Using it elsewhere—even on your own time, your own projects—is theft. You're "taking" something they feel entitled to.
+
+**How It Hooks You:**
+You start avoiding collaborations that might trigger their reaction. You hide professional relationships or downplay their significance. You choose less interesting projects to avoid conflict. You isolate yourself professionally to manage their feelings. Your network shrinks; your options narrow.
+
+**Your Power Move:**
+"I need professional relationships outside this partnership. That's healthy, not threatening." If they can't tolerate you having a professional life they don't control, the problem isn't your collaborations—it's their need for monopoly.
+
+> *"A partner who's threatened by your other relationships isn't protecting the partnership—they're preventing your growth."*
+
+---
+
+### Once Upon a Time: The Tar Baby
+
+Br'er Fox makes a baby out of tar and places it on the road. Br'er Rabbit comes along and greets it. The Tar Baby says nothing. Rabbit gets offended—punches it. His fist sticks. He punches again. Stuck. Kicks. Stuck. Head-butts. Stuck. The more he fights, the more trapped he becomes.
+
+This is what happens when you try to address these patterns directly with someone who won't acknowledge them.
+
+"Why are you on my calls?" *I'm just being supportive. Why are you so defensive?*
+"This project is mine." *You're being selfish. I thought we were partners.*
+"I'm allowed to work with other people." *Why are you attacking me? What are you hiding?*
+
+Each attempt to set a boundary sticks you further. Your reasonable reaction becomes the problem. Your defense becomes the offense. You're now fighting about your reaction instead of their intrusion.
+
+**The Decoder:** When every boundary you set becomes evidence of your dysfunction, you're not in a conversation—you're in a trap.
+
+---
+
+## Card P-4: The Reaction Flip (DARVO)
+
+**The Pattern:** Your response to violation becomes the violation
+
+**What They Say/Do:**
+- "Why are you so angry?" (when you confront a boundary violation)
+- "I was just trying to help. Your reaction is the problem."
+- "I can't believe you're making such a big deal out of this."
+- Turning your reasonable anger into evidence of your instability
+- Making the conversation about your tone, not their behavior
+- "If you weren't so defensive, we could have a normal conversation."
+
+**What's Really Happening:**
+This is DARVO: Deny, Attack, Reverse Victim and Offender. They deny the violation ("I was just being involved"). They attack your response ("You're overreacting"). They reverse positions so they're the victim of your reaction and you're the offender for having one.
+
+**The trap:** You came to address their intrusion into your professional space. Now you're defending your right to be upset about it. The original violation disappears. Your anger becomes the story.
+
+**How It Hooks You:**
+You start managing your reactions more than the actual problem. You question whether you're "too sensitive" or "too angry." You approach violations tentatively, carefully, hoping to find the magic tone that won't be used against you. You swallow legitimate anger because expressing it always backfires.
+
+**Your Power Move:**
+"My reaction is proportionate to what happened. We can discuss my tone after we address your behavior." Don't let the subject change. The violation came first. The reaction came second. Keep the sequence clear.
+
+> *"If every boundary you hold becomes evidence of your dysfunction, the conversation is rigged."*
+
+---
+
+> **The Professional Truth:**
+>
+> Professional boundary violations carry the same signature as personal ones: your autonomy is experienced as threat. Your separateness is experienced as abandonment. Your success outside of them is experienced as betrayal.
+>
+> The context changes—business partnership instead of romantic relationship, colleague instead of spouse—but the pattern doesn't. Someone who can't tolerate your professional independence isn't collaborating with you. They're colonizing you.
+>
+> You're allowed to have work they're not part of. Meetings they don't attend. Collaborators they've never met. Projects that are just yours.
+>
+> That's not secrecy. That's sovereignty.
+
+---
+
 > **⏸️ PAUSE BEFORE SUBSTANCE PATTERNS**
 >
 > The following section covers patterns involving alcohol, drugs, or intoxication. These patterns often intersect with other manipulation tactics and deserve their own focus.
 
 ---
 
-# PART 4: SUBSTANCE-RELATED PATTERNS (Cards S-1 to S-4)
+# PART 5: SUBSTANCE-RELATED PATTERNS (Cards S-1 to S-4)
 
 *These patterns use alcohol, drugs, or other substances as tools for control, excuse-making, or reality distortion.*
 
