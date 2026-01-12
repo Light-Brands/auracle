@@ -150,6 +150,8 @@ Some people are immature but growing. Some are immature and stuck. Some are imma
 
 Your job isn't to diagnose which one. Your job is to notice the impact on your nervous system and choose proximity accordingly.
 
+**A note on your own patterns:** If you recognize emotional immaturity in yourself during stress—the reactivity, the swing between over-giving and withdrawal, the misdirected anger—Volume 3, Chapter 6 maps a specific cascade that may help you understand the sequence and where to interrupt it. Understanding the mechanism doesn't excuse the impact, but it does make change possible.
+
 ---
 
 ## Neuroscience Lens: Why Capacity Gets Stuck
