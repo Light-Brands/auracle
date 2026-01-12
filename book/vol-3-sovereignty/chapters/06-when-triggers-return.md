@@ -435,6 +435,193 @@ No excessive apology. No over-explaining. Just honest acknowledgment that the di
 
 ---
 
+### When Words Become the Weapon
+
+The anger finds an exit. But exits have texture. And often, when buffer is empty, the exit is verbal—and the words that emerge are sharper than you'd choose.
+
+**What happens:**
+
+When you're depleted and activated, language loses its modulation. The prefrontal cortex—the part that chooses words carefully, considers impact, softens edges—goes offline. What comes out is raw, unfiltered, sometimes cutting.
+
+You might:
+- Swear when you wouldn't normally
+- Use a tone that's dismissive, contemptuous, or cold
+- Say things designed to wound rather than communicate
+- Name-call, label, or attack character instead of addressing behavior
+- Raise your voice in a way that intimidates rather than expresses
+
+This isn't calculated cruelty. It's **verbal dysregulation**—the language equivalent of a flinch. But the impact is real regardless of intent.
+
+**The somatic truth:**
+
+Words are not just sounds. They are events in the body—for both people.
+
+**What happens in the listener's body:**
+- Nervous system registers threat before meaning is processed
+- Heart rate increases, breath shortens
+- Body braces, contracts, prepares for more
+- Cortisol floods the system
+- The words land in tissue, not just memory
+
+**What happens in your body when you speak harshly:**
+- Your own system escalates
+- Adrenaline and cortisol spike
+- The harshness reverberates back through you
+- You become more dysregulated, not less
+- The relief you're seeking doesn't come—only more activation
+
+This is the trap: harsh words feel like discharge, but they actually escalate. You're not releasing pressure—you're adding to it in both bodies.
+
+**The feedback loop:**
+
+```
+You're depleted
+   ↓
+Anger needs exit
+   ↓
+Words come out sharp
+   ↓
+Their body reacts (defense, withdrawal, counter-attack)
+   ↓
+Your body registers their reaction as threat
+   ↓
+You escalate further
+   ↓
+Both systems flood
+   ↓
+Repair becomes harder
+```
+
+The harshness that was supposed to end the discomfort creates more of it.
+
+**What it looks like:**
+
+- "You always..." / "You never..." (absolute language that erases nuance)
+- "What's wrong with you?" (character attack, not behavior feedback)
+- Eye-rolling, sighing, dismissive tone (contempt signals)
+- Raised voice that creates fear rather than emphasis
+- Swearing at the person vs. swearing about the situation
+- Cold silence wielded as punishment
+- Sarcasm that cuts instead of lightens
+
+**The distinction that matters:**
+
+There's a difference between:
+- Expressing anger ("I'm furious right now")
+- Attacking with anger ("You're unbelievable")
+
+The first communicates. The second wounds.
+
+And there's a difference between:
+- Swearing about a situation ("This is so fucking frustrating")
+- Swearing at a person ("You're such a fucking disappointment")
+
+The first is expression. The second is assault.
+
+**Why "I was triggered" doesn't undo it:**
+
+You can understand exactly why your language became harsh. You can trace the cascade, name the depletion, recognize the mechanism.
+
+And the words still landed in their body.
+
+Understanding your pattern is necessary for interrupting it. It's not a retroactive permission slip for the damage done.
+
+**What the other person experiences:**
+
+They don't see the cascade. They don't know your buffer was empty. They don't feel the accumulation that led to this moment.
+
+They just experience: someone they trust speaking to them in a way that doesn't feel safe.
+
+That experience is valid. Your explanation of why it happened doesn't change what it felt like to receive.
+
+---
+
+### Field Note: "Shut Up"
+
+He didn't mean to say it.
+
+His partner was explaining something—again. The same point, rephrased, for the third time. She wasn't attacking. She was trying to be understood.
+
+But he'd already said yes to hosting her family that weekend when he didn't want to. He'd spent the morning defending their parenting choices to his mother on the phone. He'd been managing everyone's opinions for weeks.
+
+The buffer was empty.
+
+And when she kept talking—kept explaining, kept trying to land her point—something in him snapped.
+
+"Just shut up."
+
+Two words. Flat. Cold. Final.
+
+Her face changed. The room changed. He felt it land in her body—the flinch, the withdrawal, the way she physically pulled back.
+
+He wanted to take it back immediately. But you can't un-say words.
+
+**What happened in his body when he said it:**
+
+The moment the words left his mouth, he felt a brief flash of relief—the pressure released. Then immediately: heat in his chest, shame rising, his own system flooding with the recognition of what he'd done.
+
+The "shut up" didn't regulate him. It just transferred his dysregulation to her and added shame to his own load.
+
+**What happened in her body:**
+
+She stopped mid-sentence. Breath caught. Body contracted. The words landed before she could process them—her nervous system registered threat, dismissal, contempt.
+
+She went quiet. Not because she had nothing to say, but because it no longer felt safe to speak.
+
+**The aftermath:**
+
+He apologized. She said it was fine. But her body told a different story—she was more careful with her words for days. She checked his mood before bringing things up. The easy flow of conversation had a new friction in it.
+
+Two words. Seconds to say. Days to ripple through.
+
+**The repair that was needed:**
+
+Not just "I'm sorry"—but acknowledgment of impact:
+
+*"When I told you to shut up, I shut you down. That wasn't okay. You were trying to communicate, and I made it unsafe to talk to me. I'm sorry for that."*
+
+And then: not doing it again. Consistently. Over time.
+
+**The pattern interrupt he needed earlier:**
+
+When he felt the pressure building—when her continued talking felt unbearable—that was the signal.
+
+Not to silence her. To exit.
+
+*"I can't hear this right now. I need five minutes."*
+
+That's not avoidance. That's preventing the word that can't be taken back.
+
+---
+
+### The Shame Spiral (And Why It Doesn't Help)
+
+After harsh words land, shame often follows:
+
+- "I can't believe I said that"
+- "What's wrong with me?"
+- "I'm just like them"
+
+This shame feels appropriate, but it doesn't repair anything. It just adds another layer of dysregulation.
+
+The move isn't to spiral into self-attack. It's to:
+1. Regulate first
+2. Acknowledge the impact
+3. Repair without over-explaining
+4. Interrupt earlier next time
+
+**A note on patterns:**
+
+If harsh language emerges only when you're severely depleted, and you can repair and interrupt it earlier next time—this is growth in progress.
+
+If harsh language is your default when challenged, if you justify it, if you rarely repair—that's a different pattern. (Volume 1 addresses this dynamic when it comes from others.)
+
+The question isn't whether you've ever used words as weapons. Most people have, under enough stress.
+
+The question is: What do you do next? And what do you do differently?
+
+---
+
 ### The Full Cascade
 
 Seen together:
