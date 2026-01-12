@@ -298,6 +298,103 @@ Late relationship: Contempt becomes the default tone
 
 The harsh language you witness them using on others is in rehearsal. Eventually, the show comes to your stage.
 
+### When "That's Just How We Talk"
+
+Some families normalize harsh language. Some cultures accept what others would call verbal abuse. Some households run on raised voices, sharp tongues, and words that cut.
+
+If you grew up in this environment, you may struggle to recognize verbal abuse because it sounds like home.
+
+**Signs the normalization is distorting your perception:**
+
+- You excuse their harshness because "my family was the same way"
+- You tell yourself "they don't mean it" because that's what you told yourself as a child
+- You feel dramatic or oversensitive for having a reaction
+- You've accepted that "people who love each other fight like this"
+- You can't tell the difference between passion and aggression
+
+**The truth:** Just because something is familiar doesn't mean it's healthy. Your family's patterns may have been survival—necessary adaptations to difficult circumstances. But survival patterns don't have to become relationship patterns.
+
+*Normal is not the same as healthy.*
+
+If everyone in your family yells, you may not recognize yelling as alarming. If sarcasm was the family language, you may not feel the cuts. If "brutal honesty" was valued, you may have learned that kindness is weakness.
+
+**The recalibration:** You get to decide what's acceptable in your relationships now, regardless of what was normal before. Your nervous system's response is more accurate than your conditioning. If your body tightens, if you feel small, if something in you flinches—that's information. Trust it, even if your mind says "this is fine."
+
+### The Make-Up Trap
+
+The pattern goes like this:
+
+1. **Explosion.** Harsh words. Raised voices. Something gets said that can't be unsaid.
+2. **Aftermath.** Coldness. Distance. The relationship feels like it might end.
+3. **Reconciliation.** Apologies. Tears. Intensity. "I can't live without you." "I'll never do it again."
+4. **Honeymoon.** Everything feels heightened. The relief of reconnection. The sex might be incredible. The tenderness feels real.
+5. **Escalation.** Tension builds. Small irritations accumulate. The cycle begins again.
+
+**Why this trap is so effective:**
+
+The neurochemistry of this cycle is addictive. The fear of loss followed by relief of reconnection creates powerful bonding chemicals. The contrast between the pain and the reconciliation makes the good times feel *more* good. The brain starts to associate the relationship with intensity rather than stability.
+
+This is how trauma bonds form.
+
+**Signs you're in the make-up trap:**
+
+- The reconciliation feels better than the relationship ever felt before the fight
+- You find yourself almost anticipating the fight because of how good the make-up will be
+- The honeymoon period gets shorter each cycle, but the explosions don't diminish
+- You confuse intensity for intimacy
+- The relationship feels boring or "off" when things are calm
+- You've started to believe that passionate relationships just look like this
+
+**The make-up is not repair.**
+
+True repair involves:
+- Understanding what happened, not just that it happened
+- Accountability without deflection
+- Changed behavior over time
+- Decreased frequency of incidents
+- Your nervous system actually calming, not just getting a hit of relief
+
+Reconciliation after verbal violence that doesn't include these elements isn't repair—it's reset. The cycle doesn't end. It just reloads.
+
+*If "I'm sorry" always comes with "but you..." or if the apology requires your comfort before you've been allowed to feel your own hurt, that's not repair. That's management.*
+
+### When Harsh Language Becomes a Dealbreaker
+
+Not everyone can change. Not every relationship should continue. Here are markers that harsh language has crossed into territory that may require leaving:
+
+**Immediate dealbreakers:**
+
+- Threats of physical harm, even "joking"
+- Language designed to make you feel you can't survive without them
+- Verbal abuse in front of children
+- Attacks on your core identity (your worth as a person, parent, partner)
+- Language that escalates to physical intimidation (blocking exits, destroying property, getting in your face)
+
+**Pattern dealbreakers:**
+
+- No change despite multiple conversations, boundaries, requests
+- Escalation over time (what was occasional becomes frequent)
+- Your physical health declining (chronic stress symptoms, sleep disruption, weight changes)
+- Your other relationships suffering because of your depletion
+- You no longer recognize yourself—your confidence, your voice, your sense of self
+
+**The question isn't just "Can I tolerate this?"**
+
+The questions are:
+- Is this sustainable?
+- What is this costing me?
+- What am I modeling if children are present?
+- Is there genuine movement, or just repeated apologies?
+- Am I waiting for change that isn't coming?
+
+**You don't need to reach a threshold of "bad enough."**
+
+Leaving doesn't require a dramatic incident. It doesn't require proof that would convince a jury. It doesn't require their agreement that the relationship is harmful.
+
+You're allowed to leave because it's not working. You're allowed to leave because your nervous system can't regulate around them. You're allowed to leave because the cost is too high, even if others think you should stay.
+
+*Not all relationships end because someone is a monster. Some relationships end because the pattern is unsustainable—and recognizing that is wisdom, not weakness.*
+
 ### Your Body Is Not Overreacting
 
 If you feel afraid when they raise their voice, that's not too sensitive.

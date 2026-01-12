@@ -724,6 +724,180 @@ or
 
 ---
 
+### When You're the Receiver
+
+Everything above describes the cascade from the inside—what happens when you're the one whose buffer depletes, whose words get sharp, whose anger finds the wrong target.
+
+But what about when you're on the receiving end?
+
+**What it feels like:**
+
+When someone's verbal dysregulation lands on you:
+- Your body reacts before your mind catches up
+- You may freeze, unable to find words
+- You might feel smaller, contracted, unsafe
+- Their tone echoes in your body for hours or days
+- You find yourself replaying the moment, trying to understand
+- You question yourself: "Was I being too sensitive?" "Did I cause this?"
+
+**The receiver's confusion:**
+
+You may know intellectually that they were depleted, that their reaction wasn't proportional, that you didn't deserve the harshness.
+
+But your body doesn't care about intellectualizing. It registered threat. It responded.
+
+And now you're left with the aftermath: the physical residue of their dysregulation landing in your system.
+
+**What you need (that you may not be getting):**
+
+- Acknowledgment that their words impacted you
+- Space to have your own response without having to manage theirs
+- Time to regulate before being expected to reconnect
+- Repair that doesn't require you to comfort them first
+- Permission to set limits on what you'll accept
+
+**The trap of over-understanding:**
+
+If you've read this chapter, you may now understand their cascade perfectly. You can trace the peacekeeping consent, the buffer depletion, the messenger misfire.
+
+This understanding is valuable. It replaces confusion with mechanism.
+
+But understanding why someone spoke harshly to you doesn't mean you have to tolerate it.
+
+*You can have compassion for their process AND hold a boundary about impact.*
+
+**What healthy repair looks like from the receiver's perspective:**
+
+- They acknowledge what happened without you having to explain
+- They don't require your comfort before offering theirs
+- They take responsibility without extensive justification
+- The repair doesn't become about their feelings about having hurt you
+- There's changed behavior over time, not just repeated apologies
+
+**What repair should NOT require:**
+
+- You minimizing your reaction to make them feel better
+- You explaining why their words hurt (they should be able to see it)
+- You comforting them for having hurt you
+- You accepting an apology before you're ready
+- You pretending it didn't happen to restore equilibrium
+
+**The boundary you get to hold:**
+
+"I understand you were depleted. I understand this was your cascade, not calculated cruelty. I also need you to know: those words landed in my body. I'm not ready to be close yet. I need time."
+
+That's not punishment. That's honest regulation.
+
+**Signs the pattern requires harder limits:**
+
+- The cycle repeats without meaningful change
+- Their "understanding" of the cascade becomes a permanent excuse
+- You find yourself walking on eggshells to avoid triggering them
+- Your own regulation depends on managing their state
+- You've stopped expressing your needs because it might deplete their buffer
+- The repair always centers their feelings, not yours
+
+When understanding becomes a shield against accountability—when "I was triggered" means never having to change—you're no longer dealing with someone who's growing. You're dealing with a pattern that's using insight as armor.
+
+**A note on reciprocity:**
+
+If you've been the one whose words got sharp, and someone else has had to receive your dysregulation, remember:
+
+Their recovery is not your timeline to set. Their trust takes time to rebuild. Their wariness is earned.
+
+The fastest path back to connection isn't pushing for it. It's demonstrating change—consistently, without demanding credit for it.
+
+---
+
+### When Old Relationships Echo in New Ones
+
+Sometimes triggers don't come from the past directly. They come from the past echoing in the present—when a current relationship activates patterns from a previous one.
+
+**How it shows up:**
+
+- Your current partner raises their voice, and suddenly you're responding to your ex
+- A friend's criticism activates the parent who never thought you were good enough
+- A colleague's tone matches the boss who undermined you years ago
+- Any conflict feels like the conflict—the one that ended badly before
+
+**The time collapse:**
+
+Your nervous system doesn't always distinguish between:
+- "This person is doing something similar to what hurt me before"
+- "This IS the person who hurt me before"
+
+The pattern match fires, and suddenly you're fighting two battles: the current situation AND the historical wound.
+
+**What the other person experiences:**
+
+From their side, your reaction seems disproportionate. They said something mildly critical, and you shut down completely. They asked a reasonable question, and you got defensive. They expressed a need, and you acted like they were attacking you.
+
+They're confused because they're only seeing their part. They can't see the historical figure standing behind them.
+
+**Signs you're re-triggering:**
+
+- The intensity doesn't match the situation
+- You feel like you're "back there" even though you're here
+- You're responding to what they might do based on what someone else did
+- You can't hear their actual words—only the echo of old ones
+- You assign them motives that come from someone else's playbook
+
+**The unfairness (that you still need to own):**
+
+Your new partner didn't abuse you. Your current friend isn't the one who betrayed you. This colleague isn't the boss who made you feel small.
+
+And yet they're receiving the response meant for someone else.
+
+Understanding why this happens matters. It still requires repair.
+
+*"I realize I reacted to something old, not something you did. That wasn't fair to you. I'm sorry."*
+
+**What helps:**
+
+1. **Name it to yourself first.** "This feels like my ex, but this is not my ex."
+
+2. **Pause before reacting.** Ask: "Am I responding to what's happening now, or to what happened before?"
+
+3. **Give them the benefit of differentiation.** Until proven otherwise, assume this person is not repeating the old pattern.
+
+4. **Communicate the echo.** "I'm having a strong reaction. I think it's connected to something from my past. Can you give me a minute?"
+
+5. **Do the work outside the moment.** If a certain dynamic keeps activating you, that's therapeutic material—not your partner's problem to solve.
+
+**When the echo is accurate:**
+
+Sometimes the pattern match is correct. Sometimes your current partner IS doing something harmful, and your nervous system is accurately detecting it.
+
+The question becomes: Is this an echo, or is this information?
+
+**Clues it's information, not just an echo:**
+
+- The pattern repeats even after you've addressed it
+- Others have noticed the same dynamic
+- Your body stays activated even after giving them many chances
+- The evidence accumulates, not just the feeling
+
+**Clues it's primarily an echo:**
+
+- The intensity is much higher than the situation warrants
+- The person has generally shown themselves to be safe
+- You can trace the feeling directly to a previous relationship
+- Once you calm down, you can see they weren't doing what you feared
+
+**The integration:**
+
+You will carry echoes from past relationships into new ones. This is not pathology—it's the nature of having a history.
+
+What matters is:
+- You learn to recognize when you're in an echo
+- You don't make your current people responsible for your past people's behavior
+- You do your own work on the patterns that keep activating
+- You communicate when you need support distinguishing past from present
+
+*"My history comes with me. My healing is making sure it doesn't run the show."*
+
+---
+
 ## The Trigger Response Sequence
 
 When triggered, this is what typically happens without awareness:
