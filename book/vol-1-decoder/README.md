@@ -95,6 +95,7 @@ Read the book in order starting from the [Front Matter](./00-front-matter.md). T
 - **Core Patterns (Cards 0-27):** The foundational patterns you'll encounter most often—gaslighting, triangulation, shame-dumping, and other common tactics. Start here.
 - **Advanced Patterns (Cards 28-51):** Sophisticated tactics that appear during high-stakes moments like relationship exits, custody battles, or when you're threatening to leave.
 - **Digital Patterns (Cards D-1 to D-4):** Ghosting, breadcrumbing, surveillance, and social media triangulation—same patterns, digital arena.
+- **Professional Patterns (Cards P-1 to P-4):** Territorial hovering, ownership entitlement, collaborative threat response, and DARVO—when workplace or business relationships become controlling.
 - **Substance Patterns (Cards S-1 to S-4):** Patterns involving alcohol, drugs, or intoxication as manipulation tools.
 
 ---

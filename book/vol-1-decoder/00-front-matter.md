@@ -80,6 +80,7 @@ Chapter 14: The Decoder Cards — Quick-Reference Guides for Real-Time Pattern R
 - *Cards 1-27: Core Patterns*
 - *Cards 28-51: Advanced Patterns*
 - *Cards D-1 to D-4: Digital Manipulation Patterns*
+- *Cards P-1 to P-4: Professional Boundary Patterns*
 - *Cards S-1 to S-4: Substance-Related Patterns*
 - *Emergency Protocol: When You Need Clarity Now*
 

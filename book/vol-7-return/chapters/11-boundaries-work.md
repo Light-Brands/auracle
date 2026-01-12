@@ -602,6 +602,165 @@ Then you may normalize professional erosion that others would flag immediately.
 
 ---
 
+## Special Case: When a Partner Becomes a Warden
+
+Some professional boundary violations aren't about a boss or colleague. They come from someone closer—a business partner, a spouse who's involved in your work, or a collaborator who was once a friend.
+
+These relationships are particularly disorienting because they blur the lines between personal and professional. The violations feel intimate because they are. And the person doing the violating often frames their intrusion as care, partnership, or protection.
+
+### The Surveillance Partnership
+
+**What it looks like:**
+- They need to be on every call, in every meeting, part of every conversation
+- They hover when you're working, asking who you're talking to
+- They feel entitled to know the details of all your professional relationships
+- They frame this as "being involved" or "staying in the loop"
+- When you ask for privacy, they act hurt or suspicious
+
+**What it really is:**
+This isn't partnership—it's monitoring. The question "Who's that?" when you're on a call isn't curiosity. It's a check. The need to join meetings that aren't their domain isn't engagement. It's surveillance.
+
+**What to notice:**
+- Do you find yourself taking calls in your car to avoid questions?
+- Do you hide professional relationships that are completely appropriate?
+- Do you pre-emptively include them in things just to avoid conflict?
+- Has your professional world shrunk to what they can supervise?
+
+**Scripts for territorial hovering:**
+- "This is my meeting. I'll let you know if anything relevant comes up."
+- "I need to have some professional conversations that are just mine."
+- "I'm not hiding anything. I'm maintaining appropriate boundaries."
+- "My work relationships don't require your approval or involvement."
+
+### The Ownership Creep
+
+**What it looks like:**
+- Your personal projects somehow become "our" projects
+- They try to add ownership stakes to things you created independently
+- They act as if your capacity, time, and creativity belong to the partnership
+- "What's mine is yours and what's yours is mine"—but only in one direction
+- They feel entitled to profit from work they didn't contribute to
+
+**The real-world version:**
+You've been developing something on your own time. A side project. An idea that predates your partnership. Your intellectual property.
+
+Then they want a percentage.
+
+"We're partners, aren't we? If you're doing well, we should both benefit."
+
+Never mind that they didn't create it. Didn't contribute to it. Weren't part of its genesis. The logic is: *If I'm in relationship with you, I'm entitled to everything you produce.*
+
+**What to notice:**
+- Do you feel guilty for having work that's just yours?
+- Do you hide projects or downplay their significance?
+- Have you given away equity or credit to keep the peace?
+- Do they frame your independent success as somehow taking from them?
+
+**Scripts for ownership entitlement:**
+- "This project predates our partnership and isn't part of it."
+- "I'm allowed to have work that's independent of our business relationship."
+- "My personal intellectual property isn't up for negotiation."
+- "Partnership doesn't mean you own everything I create."
+
+### When Your Collaborations Become Threats
+
+**What it looks like:**
+- They feel threatened when you work with anyone else
+- Your colleagues or collaborators are treated as competition
+- Successful projects with others trigger their insecurity or anger
+- "Why do you need to work with them? Aren't I enough?"
+- They interrogate you about professional relationships
+
+**The possessive logic:**
+In their mind, your professional capacity belongs to the partnership. Using it elsewhere—even on your own time—is theft. They experience your other relationships as abandonment.
+
+This isn't about the work. It's about control.
+
+**What to notice:**
+- Do you avoid collaborations that might trigger their reaction?
+- Do you downplay or hide professional relationships?
+- Have you chosen less interesting projects to avoid conflict?
+- Has your network shrunk to manage their feelings?
+
+**Scripts for collaborative threat response:**
+- "I need professional relationships outside this partnership. That's healthy."
+- "My collaborations with others don't diminish what we have."
+- "I'm not going to limit my professional growth to manage your feelings."
+- "If you're threatened by my success with others, that's worth examining."
+
+### The Reaction Flip
+
+Here's what happens when you try to address any of this:
+
+**You:** "I need to be able to have private meetings."
+**Them:** "Why? What are you hiding? Why are you being so defensive?"
+
+**You:** "This project is mine, not ours."
+**Them:** "I can't believe you're being so selfish. I thought we were partners."
+
+**You:** "I'm allowed to work with other people."
+**Them:** "Why are you attacking me? I just want us to succeed together."
+
+Notice the pattern. Every boundary you set becomes evidence of your dysfunction. Your reasonable anger becomes the problem. The original violation—their surveillance, their entitlement, their possessiveness—disappears. Now you're defending yourself.
+
+This is DARVO: Deny, Attack, Reverse Victim and Offender.
+
+**Scripts for the reaction flip:**
+- "We can discuss my tone after we address your behavior."
+- "My reaction is proportionate to what happened."
+- "I'm not going to defend my right to have boundaries."
+- "The violation came first. My response came second."
+
+### Why This Pattern Is Particularly Damaging
+
+When the person violating your professional boundaries is also someone you're personally connected to—a business partner who's also a friend, a spouse who's also a collaborator—the stakes feel impossibly high.
+
+Setting a boundary might mean:
+- Threatening the business relationship
+- Damaging a personal friendship
+- Creating conflict at home
+- Being labeled as difficult, secretive, or disloyal
+
+So you absorb. You include them when you shouldn't. You give away ownership to keep the peace. You shrink your professional life to what they can supervise.
+
+**The truth:** A healthy partnership—personal or professional—doesn't require you to surrender your autonomy. Someone who can't tolerate your independence isn't protecting the relationship. They're preventing your growth.
+
+### What Healthy Professional Partnership Actually Looks Like
+
+For contrast:
+
+**Healthy partnership includes:**
+- Clear agreements about what's shared and what's individual
+- Respect for each person's independent professional relationships
+- Space for work that belongs to only one party
+- Trust that privacy isn't secrecy
+- The ability to celebrate each other's independent successes
+
+**Healthy partnership does not include:**
+- Monitoring each other's calls and meetings
+- Claiming ownership of work you didn't create
+- Treating each other's collaborators as threats
+- Requiring approval for professional relationships
+- Making someone's anger about boundaries into the problem
+
+### The Exit Question
+
+If you recognize these patterns, you have a decision to make. Not necessarily about leaving—though that may become necessary—but about how much of yourself you're willing to surrender.
+
+Ask yourself:
+- Is this partnership making me larger or smaller professionally?
+- Am I growing, or am I shrinking to fit their tolerance?
+- Can I have honest conversations about boundaries without being punished?
+- Is my professional life expanding or contracting?
+
+A partnership that requires you to give up your professional autonomy isn't a partnership. It's a cage with a business plan.
+
+**You're allowed to have work that's just yours.** Meetings they don't attend. Collaborators they've never met. Projects that belong to you alone.
+
+That's not betrayal. That's sovereignty.
+
+---
+
 ## Reader Reflection
 
 - What work boundaries do I currently lack?

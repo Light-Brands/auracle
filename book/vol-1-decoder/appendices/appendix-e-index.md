@@ -87,6 +87,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Core patterns (Cards 0-27) .................... [pg. XX]
   - Advanced patterns (Cards 28-51) .................... [pg. XX]
   - Digital patterns (Cards D-1 to D-4) .................... [pg. XX]
+  - Professional patterns (Cards P-1 to P-4) .................... [pg. XX]
   - Substance patterns (Cards S-1 to S-4) .................... [pg. XX]
   - Decoder Protocol (Chapter 14) .................... [pg. XX]
   - How to use .................... [pg. XX]
@@ -319,6 +320,12 @@ This index provides quick access to the major concepts, tactics, and tools discu
 **Projection** .................... [pg. XX]
   - Examples .................... [pg. XX]
   - Recognition .................... [pg. XX]
+
+**Professional Boundary Patterns**—See Cards P-1 to P-4 .................... [pg. XX]
+  - Territorial Hovering (P-1) .................... [pg. XX]
+  - Ownership Entitlement (P-2) .................... [pg. XX]
+  - Collaborative Threat Response (P-3) .................... [pg. XX]
+  - Reaction Flip / DARVO (P-4) .................... [pg. XX]
 
 **Protective Self** .................... [pg. XX]
 
