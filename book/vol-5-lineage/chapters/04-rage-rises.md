@@ -473,7 +473,7 @@ When verbal violence is frequent, unrepaired, or escalating—the effects compou
 
 If your child has witnessed verbal violence—between you and a partner, between you and them, between anyone in their environment:
 
-1. **Acknowledgment that they saw/heard it.** Don't pretend it didn't happen. "You heard Mommy and Daddy having a very loud argument. That was hard to hear."
+1. **Acknowledgment that they saw/heard it.** Don't pretend it didn't happen. "You heard the grown-ups having a very loud argument. That was hard to hear."
 
 2. **Reassurance that it's not their fault.** "This was about grown-up stuff. It had nothing to do with you. You didn't cause it."
 
@@ -483,7 +483,7 @@ If your child has witnessed verbal violence—between you and a partner, between
 
 5. **Reconnection.** Physical closeness, reassuring presence, return to normal routine. Their nervous system needs to know that safety has returned.
 
-6. **Modeling repair.** If they witnessed conflict with another adult, let them see the repair too. "Remember when Daddy and I were yelling? We talked about it, and we both said sorry. We're okay now."
+6. **Modeling repair.** If they witnessed conflict with another adult, let them see the repair too. "Remember when we were yelling earlier? We talked about it, and we both said sorry. We're okay now."
 
 **The hardest truth:**
 

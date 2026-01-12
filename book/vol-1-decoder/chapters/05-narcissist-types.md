@@ -332,7 +332,7 @@ The pattern goes like this:
 
 **Why this trap is so effective:**
 
-The neurochemistry of this cycle is addictive. The fear of loss followed by relief of reconnection creates powerful bonding chemicals. The contrast between the pain and the reconciliation makes the good times feel *more* good. The brain starts to associate the relationship with intensity rather than stability.
+The neurochemistry of this cycle is addictive. The fear of loss followed by relief of reconnection creates powerful bonding chemicals. The contrast between the pain and the reconciliation makes the good times feel *even better*. The brain starts to associate the relationship with intensity rather than stability.
 
 This is how trauma bonds form.
 
