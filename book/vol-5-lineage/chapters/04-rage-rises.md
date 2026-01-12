@@ -384,6 +384,122 @@ And if they've already come out—repair. Acknowledge what you said. Take respon
 
 ---
 
+## What Children Experience When They Witness
+
+"They're too young to understand."
+"We only fight when they're asleep."
+"They weren't in the room."
+
+These are the things we tell ourselves. And they're rarely as true as we need them to be.
+
+**The truth about children and verbal violence:**
+
+Children don't need to understand the words to feel the energy. Their nervous systems are wired to detect threat—and raised voices, contemptuous tones, and verbal aggression register as threat before language is even processed.
+
+Even very young children—infants, toddlers—respond physiologically to verbal conflict in their environment:
+- Heart rate increases
+- Cortisol spikes
+- Sleep disrupts
+- Attachment behaviors intensify
+- Development can be affected
+
+**What happens in a child's body when they witness verbal violence:**
+
+Whether the harsh words are directed at them, between parents, or from a parent to another adult:
+
+1. **The amygdala fires.** Threat detected. The child's nervous system shifts into protection mode.
+
+2. **Stress hormones flood.** Cortisol and adrenaline activate, preparing the body for danger.
+
+3. **The prefrontal cortex goes offline.** Just like in adults, the thinking brain becomes less accessible. Learning, memory formation, and emotional regulation all become impaired.
+
+4. **The body braces.** Muscles tense. Breathing shallows. The child becomes hypervigilant, scanning for more danger.
+
+5. **Neural pathways form.** With repetition, these stress responses become patterns. The brain learns that home means danger. That love includes fear. That connection is unstable.
+
+**The myth of "not in the room":**
+
+Children sense conflict even when they don't witness it directly:
+- They hear it through walls, through floors, through closed doors
+- They feel the tension in the air afterward
+- They read it in your body when you return to them
+- They absorb it through the changed quality of your attention, your presence, your regulation
+
+You may not have fought "in front of them." But if they live in a home where verbal violence occurs, they live in that energy. Their nervous systems know.
+
+**What children learn from witnessing verbal violence:**
+
+These lessons are implicit—absorbed through experience, not taught through words:
+
+- **This is what anger looks like.** They learn that when someone is angry, voices get raised, words become weapons, people become scary.
+
+- **Relationships include fear.** They learn that loving someone means sometimes being afraid of them. This shapes their relational template for life.
+
+- **Conflict means danger.** They may become conflict-avoidant, people-pleasing, hypervigilant to others' moods—or they may learn that aggression is how conflict gets resolved.
+
+- **Words can wound.** They learn that language can be used to hurt. Some children become careful with their own words; others learn to weaponize them.
+
+- **I must manage the adults.** Many children of verbal violence develop precocious caretaking—learning to read parental mood, de-escalate tension, or disappear to avoid triggering conflict.
+
+- **My safety is not guaranteed.** The fundamental developmental need—a sense of safety—becomes compromised. This affects everything: attachment, exploration, trust, identity.
+
+**The differentiation that doesn't help them:**
+
+"I wasn't yelling at YOU."
+"This is between me and your mother/father."
+"Go to your room, this is adult business."
+
+To a child's nervous system, these distinctions don't land. Their mirror neurons don't differentiate. When someone they depend on is yelling—at anyone—their body responds as if they're in danger.
+
+The verbal violence doesn't need to be directed at them to affect them. Witnessing it is enough.
+
+**What repeated exposure does:**
+
+When verbal violence is occasional, followed by repair, and decreases over time—children can recover.
+
+When verbal violence is frequent, unrepaired, or escalating—the effects compound:
+
+- **Chronic stress response.** The child's baseline shifts. They're always slightly activated, always scanning for danger.
+
+- **Attachment disruption.** The parent who is supposed to be the source of safety becomes the source of fear. This creates disorganized attachment—the child needs comfort from the same person who frightens them.
+
+- **Emotional dysregulation.** Growing up in a verbally volatile environment doesn't teach regulation—it teaches dysregulation. The child may become explosive, or shut down, or swing between both.
+
+- **Relationship patterns.** Children who witness verbal violence are more likely to either perpetuate it or accept it in their own relationships. The pattern becomes familiar, and familiar feels like home.
+
+- **Physical health effects.** Research links childhood exposure to conflict with increased risk of physical health problems later in life, including cardiovascular issues, autoimmune conditions, and chronic inflammation.
+
+**What children need after they've witnessed:**
+
+If your child has witnessed verbal violence—between you and a partner, between you and them, between anyone in their environment:
+
+1. **Acknowledgment that they saw/heard it.** Don't pretend it didn't happen. "You heard Mommy and Daddy having a very loud argument. That was hard to hear."
+
+2. **Reassurance that it's not their fault.** "This was about grown-up stuff. It had nothing to do with you. You didn't cause it."
+
+3. **Validation of their experience.** "It can be scary when people yell. It's okay that you felt scared." Don't tell them they shouldn't have reacted—validate the reaction.
+
+4. **Information about safety.** "Even when we get angry, we still love each other and we still love you. And we're working on not yelling so loudly."
+
+5. **Reconnection.** Physical closeness, reassuring presence, return to normal routine. Their nervous system needs to know that safety has returned.
+
+6. **Modeling repair.** If they witnessed conflict with another adult, let them see the repair too. "Remember when Daddy and I were yelling? We talked about it, and we both said sorry. We're okay now."
+
+**The hardest truth:**
+
+The work to protect children from verbal violence isn't primarily about managing moments. It's about addressing the patterns.
+
+If verbal violence is occurring in your home—whether you're the source, you're the recipient, or it's between you and a co-parent—your children are being affected. The question isn't whether they know. The question is what you're going to do about the pattern.
+
+Sometimes this means individual therapy.
+Sometimes this means couples work.
+Sometimes this means separation.
+Always, it means accountability.
+
+Your children can recover from witnessing imperfect moments. They cannot thrive in an environment where verbal violence is a regular occurrence. The distinction matters.
+
+---
+
 ## The Shame After
 
 After rage—especially if you've said or done things you regret—the shame arrives.

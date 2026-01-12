@@ -107,6 +107,53 @@ Understanding this doesn't excuse the behavior. But it explains why apologies do
 
 ---
 
+## A Direction, Not a Diagnosis
+
+Here's something important to understand: **emotional immaturity is not the same as narcissism.**
+
+This book series focuses on narcissistic dynamics because they represent some of the most confusing and harmful patterns. But emotional immaturity is a broader category—a direction on a spectrum, not a destination.
+
+**Most people display emotional immaturity under stress.** When overwhelmed, exhausted, or triggered, even generally regulated people can:
+
+- Become reactive and defensive
+- Externalize blame
+- Struggle to hear feedback
+- Need reassurance or agreement to feel okay
+- Say things they later regret
+
+This is normal. This is human. The question isn't whether someone ever becomes emotionally immature—it's whether they can recover, repair, and return to regulation.
+
+**The spectrum looks like this:**
+
+- **Temporary dysregulation** → Everyone experiences this. Bad day, high stress, limited capacity in the moment. Recovery happens. Repair is possible.
+
+- **Patterned immaturity** → Consistent difficulty with regulation across contexts. May have insight but limited capacity for change. Often related to developmental interruption.
+
+- **Characterological rigidity** → The pattern has become identity. Defensive structure is calcified. Change is resisted because it threatens the self-concept.
+
+- **Narcissistic organization** → Emotional immaturity has crystallized into a personality structure organized around protecting a false self. The patterns are not just habits—they are architecture.
+
+**Narcissism is what can happen when emotional immaturity becomes fixed, defended, and central to identity.** But many emotionally immature people are not narcissists. They're simply stuck at an earlier developmental stage—often aware of their limitations, sometimes genuinely trying to grow.
+
+The difference matters because:
+
+- Emotionally immature people may be capable of growth with sustained effort
+- Narcissistically organized people rarely change because the structure itself resists examination
+- Your response to each may need to be different
+- Compassion is easier when you're not conflating struggle with pathology
+
+**Why this distinction helps you:**
+
+When you can see emotional immaturity as a direction rather than a diagnosis, you stop needing to label everyone who hurts you as a narcissist. You can simply ask: *What is this person's capacity? Is it enough for the relationship I need?*
+
+Some people are immature but growing. Some are immature and stuck. Some are immature and defended against ever changing.
+
+Your job isn't to diagnose which one. Your job is to notice the impact on your nervous system and choose proximity accordingly.
+
+**A note on your own patterns:** If you recognize emotional immaturity in yourself during stress—the reactivity, the swing between over-giving and withdrawal, the misdirected anger—Volume 3, Chapter 6 maps a specific cascade that may help you understand the sequence and where to interrupt it. Understanding the mechanism doesn't excuse the impact, but it does make change possible.
+
+---
+
 ## Neuroscience Lens: Why Capacity Gets Stuck
 
 Emotional regulation is a **learned skill**. It requires:
