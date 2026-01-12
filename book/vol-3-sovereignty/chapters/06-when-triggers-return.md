@@ -288,13 +288,13 @@ Eventually, the buffer empties.
 
 **Why it matters:**
 
-When your buffer is full, you can hear difficult feedback without reactivity. You can hold difference without needing to resolve it. You can tolerate others' discomfort without making it your emergency.
+When your reserves are full, you can hear difficult feedback without reactivity. You can hold difference without needing to resolve it. You can tolerate others' discomfort without making it your emergency.
 
-When your buffer is empty, everything hits harder. Small comments land like attacks. Minor differences feel like threats. Your system has no cushion left for nuance.
+When you're depleted, everything hits harder. Small comments land like attacks. Minor differences feel like threats. Your system has no cushion left for nuance.
 
 **The setup:**
 
-You don't realize the buffer is empty until something triggers you and the response is disproportionate.
+You don't realize you're running on empty until something triggers you and the response is disproportionate.
 
 Then you wonder: *"Why did I react so strongly to that?"*
 
@@ -304,7 +304,7 @@ Answer: Because that wasn't the first withdrawal. It was the one that overdrew t
 
 ### Stage 3: The Give-Withdraw Swing
 
-With the buffer depleted, the system starts oscillating.
+With your capacity depleted, the system starts oscillating.
 
 **What happens:**
 
@@ -344,7 +344,7 @@ The swing is recalibration in progress. It looks chaotic because the new templat
 
 ### Stage 4: Messenger Misfire
 
-When the buffer is empty and the swing is active, anger finds an exit.
+When reserves are empty and the swing is active, anger finds an exit.
 
 **What happens:**
 
@@ -354,7 +354,7 @@ Maybe they're offering feedback. Maybe they're sharing an observation. Maybe the
 
 Your system hears: *"You're being questioned."*
 
-And because there's no buffer left, the anger arrives fast—and it discharges toward the nearest carrier.
+And because there's no cushion left, the anger arrives fast—and it discharges toward the nearest carrier.
 
 **The mechanism:**
 
@@ -437,7 +437,7 @@ No excessive apology. No over-explaining. Just honest acknowledgment that the di
 
 ### When Words Become the Weapon
 
-The anger finds an exit. But exits have texture. And often, when the buffer is empty, the exit is verbal—and the words that emerge are sharper than you'd choose.
+The anger finds an exit. But exits have consequences. And often, when the buffer is empty, the exit is verbal—and the words that emerge are sharper than you'd choose.
 
 **What happens:**
 
@@ -481,7 +481,7 @@ Anger needs exit
    ↓
 Words come out sharp
    ↓
-Their body reacts (defense, withdrawal, counter-attack)
+Their body reacts (defense, withdrawal, counterattack)
    ↓
 Your body registers their reaction as threat
    ↓
@@ -676,25 +676,25 @@ You can intervene at any stage:
 
 ### Field Note: The Cascade in Action
 
-Her partner's mother made a comment. Something about their lifestyle, phrased as concern.
+Their partner's mother made a comment. Something about their lifestyle, phrased as concern.
 
-She felt the activation immediately—heat in her chest, jaw tightening.
+They felt the activation immediately—heat in their chest, jaw tightening.
 
-She'd already said yes to three things she didn't want that week. She'd spent an hour explaining their choices to her own mother the day before. She'd been managing everyone's opinions about her relationship for months.
+They'd already said yes to three things they didn't want that week. They'd spent an hour explaining their choices to their own mother the day before. They'd been managing everyone's opinions about their relationship for months.
 
 The buffer was empty.
 
-She snapped. Not at the mother-in-law—at her partner. "Why can't your family just accept us? Why do I always have to defend our life?"
+They snapped. Not at the mother-in-law—at their partner. "Why can't your family just accept us? Why do I always have to defend our life?"
 
-Her partner, confused, tried to explain. She cut him off. Withdrew. Spent the evening in silence.
+Their partner, confused, tried to explain. They cut them off. Withdrew. Spent the evening in silence.
 
-Later, she saw it: the mother-in-law's comment was clumsy but not malicious. Her partner wasn't the problem. The feedback she'd been getting from multiple sources—maybe some of it was worth considering.
+Later, they saw it: the mother-in-law's comment was clumsy but not malicious. Their partner wasn't the problem. The feedback they'd been getting from multiple sources—maybe some of it was worth considering.
 
-But she couldn't hear any of it in the moment. The cascade had run its course.
+But they couldn't hear any of it in the moment. The cascade had run its course.
 
-What helped: recognizing the pattern afterward. Not shaming herself for having it—but also not excusing the impact. She apologized to her partner. She sat with the feedback she'd been avoiding. She started tracking her buffer more honestly.
+What helped: recognizing the pattern afterward. Not shaming themselves for having it—but also not excusing the impact. They apologized to their partner. They sat with the feedback they'd been avoiding. They started tracking their reserves more honestly.
 
-The cascade would run again. But now she knew what it was—and where to interrupt it.
+The cascade would run again. But now they knew what it was—and where to interrupt it.
 
 ---
 
@@ -712,7 +712,7 @@ And you're responsible for what happens when the cascade runs—both the repair 
 
 **One-line anchor:**
 
-*"The swing between giving everything and taking it all back isn't instability—it's what happens when a system trained to over-bridge difference begins to reclaim its center."*
+*"The swing isn't instability—it's a system learning to stop over-bridging."*
 
 **Internal mantra:**
 
@@ -974,7 +974,7 @@ Slow exhale (longer than inhale). This activates the parasympathetic system.
 Not: "I shouldn't be triggered by this."
 
 **Step 5: Orient to present**
-Look around. Name what you see. "I am in my office. It is 2024. I am safe."
+Look around. Name what you see. "I am in my office. It is [current year]. I am safe."
 
 **Step 6: Don't make big decisions**
 Wait until you're regulated to respond, act, or decide. "I don't need to figure this out right now."

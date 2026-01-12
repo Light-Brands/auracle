@@ -449,7 +449,7 @@ These lessons are implicit—absorbed through experience, not taught through wor
 "This is between me and your mother/father."
 "Go to your room, this is adult business."
 
-To a child's nervous system, these distinctions don't land. Their mirror neurons don't differentiate. When someone they depend on is yelling—at anyone—their body responds as if they're in danger.
+To a child's nervous system, these distinctions don't land. Their mirror neurons—brain cells that fire both when performing an action and when observing someone else perform it—don't differentiate. When someone they depend on is yelling—at anyone—their body responds as if they're in danger.
 
 The verbal violence doesn't need to be directed at them to affect them. Witnessing it is enough.
 
@@ -461,7 +461,7 @@ When verbal violence is frequent, unrepaired, or escalating—the effects compou
 
 - **Chronic stress response.** The child's baseline shifts. They're always slightly activated, always scanning for danger.
 
-- **Attachment disruption.** The parent who is supposed to be the source of safety becomes the source of fear. This creates disorganized attachment—the child needs comfort from the same person who frightens them.
+- **Attachment disruption.** The parent who is supposed to be the source of safety becomes the source of fear. This creates *disorganized attachment*—the child needs comfort from the same person who frightens them.
 
 - **Emotional dysregulation.** Growing up in a verbally volatile environment doesn't teach regulation—it teaches dysregulation. The child may become explosive, or shut down, or swing between both.
 
