@@ -449,7 +449,7 @@ These lessons are implicit—absorbed through experience, not taught through wor
 "This is between me and your mother/father."
 "Go to your room, this is adult business."
 
-To a child's nervous system, these distinctions don't land. Their mirror neurons don't differentiate. When someone they depend on is yelling—at anyone—their body responds as if they're in danger.
+To a child's nervous system, these distinctions don't land. Their mirror neurons—brain cells that fire both when we act and when we observe others acting, helping us "catch" emotional states—don't differentiate. When someone they depend on is yelling—at anyone—their body responds as if they're in danger.
 
 The verbal violence doesn't need to be directed at them to affect them. Witnessing it is enough.
 

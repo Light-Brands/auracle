@@ -437,7 +437,7 @@ No excessive apology. No over-explaining. Just honest acknowledgment that the di
 
 ### When Words Become the Weapon
 
-The anger finds an exit. But exits have texture. And often, when the buffer is empty, the exit is verbal—and the words that emerge are sharper than you'd choose.
+The anger finds an exit. But exits have consequences. And often, when the buffer is empty, the exit is verbal—and the words that emerge are sharper than you'd choose.
 
 **What happens:**
 

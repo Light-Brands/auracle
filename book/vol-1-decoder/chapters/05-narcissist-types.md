@@ -187,11 +187,7 @@ These responses aren't weakness. They're accurate threat detection. Your body re
 
 One harsh comment might be forgettable. But verbal abuse is rarely one incident.
 
-It's:
-- Hundreds of small cuts
-- Years of walking on eggshells around their mood
-- Decades of editing yourself before you speak
-- A lifetime of your body bracing when you hear a certain tone
+It's hundreds of small cuts. Years of walking on eggshells around their mood. Decades of editing yourself before you speak. A lifetime of your body bracing when you hear a certain tone.
 
 This accumulation creates wear patterns:
 - You flinch at raised voices
@@ -359,6 +355,8 @@ Reconciliation after verbal violence that doesn't include these elements isn't r
 *If "I'm sorry" always comes with "but you..." or if the apology requires your comfort before you've been allowed to feel your own hurt, that's not repair. That's management.*
 
 ### When Harsh Language Becomes a Dealbreaker
+
+**Before we go here:** If you're still in the relationship, that's not failure. Leaving is not simple—there are real barriers: financial dependence, children, housing, immigration status, family pressure, fear of what they'll do, fear of being alone, or simply love for the person they sometimes are. Staying while you figure things out is not weakness. This section is information, not pressure.
 
 Not everyone can change. Not every relationship should continue. Here are markers that harsh language has crossed into territory that may require leaving:
 
