@@ -261,7 +261,7 @@ These 12 cards are excerpted from **You Are Not Crazy: The Narcissism Decoder**,
 - Nervous system recovery tools
 - Practical response scripts
 
-**Get the book:** [Your Gumroad/Amazon link]
+**Get the book:** gumroad.com/l/narcissism-decoder | amazon.com/dp/[ASIN]
 
 ---
 
@@ -275,7 +275,7 @@ When you're ready to move from recognition to secure attachment, **The Bridge: L
 - Dating after trauma
 - Building relationships that regulate rather than activate
 
-**Get Volume 2:** [Your Gumroad/Amazon link]
+**Get Volume 2:** gumroad.com/l/the-bridge-book | amazon.com/dp/[ASIN]
 
 ---
 
@@ -283,7 +283,7 @@ When you're ready to move from recognition to secure attachment, **The Bridge: L
 
 Join the newsletter for weekly insights on recognizing manipulation and building secure connection:
 
-**[Your Substack link]**
+**Subscribe:** [yourname].substack.com
 
 ---
 
@@ -293,11 +293,13 @@ Join the newsletter for weekly insights on recognizing manipulation and building
 
 **About the Author**
 
-[Your author bio here—2-3 sentences about your background and why you wrote this]
+Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the books she needed but couldn't find. She lives in Costa Rica, where she offers aura readings and healing work through Light Field Institute.
+
+**Connect:** lightfield.institute | @jae.lawless
 
 ---
 
-© [Year] [Your Name]. All rights reserved.
+© 2026 Jennifer Brooke Lawless. All rights reserved.
 
 *If this guide helped you, please share it with someone who needs it.*
 
