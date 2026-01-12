@@ -157,7 +157,7 @@ Eye-rolling, sighing, dismissive sounds. Contempt is one of the most corrosive r
 **Absolute language as weapon:**
 "You always..." "You never..." "Everyone thinks..." These erase nuance and complexity. They turn a specific behavior into a permanent character flaw.
 
-**Swearing at vs. swearing about:**
+**Swearing at versus swearing about:**
 "This situation is fucking impossible" is expression.
 "You're a fucking idiot" is assault.
 The distinction matters.
@@ -265,7 +265,7 @@ But your body remembers.
 
 The explanation of why they spoke that way doesn't change the impact of receiving it. Understanding their stress doesn't regulate your nervous system.
 
-### The Pattern vs. The Incident
+### The Pattern Versus The Incident
 
 Everyone has said something harsh they regret. The question is what happens next:
 
@@ -288,9 +288,9 @@ If harsh language is frequent, minimized, blamed on you, and shows no change—t
 
 ### The Progression
 
-Early relationship: Contempt directed at exes, service workers, "difficult" people
-Mid relationship: Contempt starts leaking toward you during conflict
-Late relationship: Contempt becomes the default tone
+Early-relationship: Contempt directed at exes, service workers, "difficult" people
+Mid-relationship: Contempt starts leaking toward you during conflict
+Late-relationship: Contempt becomes the default tone
 
 The harsh language you witness them using on others is in rehearsal. Eventually, the show comes to your stage.
 
