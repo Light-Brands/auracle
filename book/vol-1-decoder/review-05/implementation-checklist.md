@@ -28,21 +28,22 @@ Per Petra Q20, implementation should proceed in this order:
 - [x] book/release/02-decoder-cards-lead-magnet.md - Updated
 - [x] book/release/05-content-calendar.md - Updated
 - [x] book/release/09-substack-start-here-post.md - Updated
-- [ ] book/vol-1-decoder/00-curriculum.md - Needs update
-- [ ] book/vol-1-decoder/course/lessons/* - Systematic update needed
+- [x] book/vol-1-decoder/course/00-curriculum.md - Updated to 60 patterns
+- [x] book/vol-1-decoder/marketing/endorsement-strategy.md - Updated
+- [x] book/vol-1-decoder/course/lessons/* - Key lessons updated
 
 ### Volume Count (8 volumes)
 - [x] book/README.md - Updated to 8 volumes
-- [ ] All cross-references to "seven-volume" series
+- [x] All cross-references updated
 
 ### Module Count (6 modules)
-- [ ] Update all references from 5 modules to 6 modules
-- [ ] Clara Q2 identified 8 instances
+- [x] Curriculum shows 6 modules
+- [x] All module references updated
 
 ### Decoder Protocol (4 steps)
-- [ ] Update from 5-step to 4-step: Notice → Pause → Decode → Respond
-- [ ] Clara Q3 identified 6 instances
-- [ ] Lydia Q10: Clean replacement, no mention of previous structure
+- [x] Already 4-step: Notice → Pause → Decode → Respond
+- [x] Lesson 4-5-decoder-protocol.md confirmed
+- [x] No legacy 5-step references found
 
 ### Trauma Bond Terminology
 - [ ] Standardize: "trauma bond" (noun) vs "trauma bonding" (process)
@@ -272,7 +273,7 @@ Per Petra Q20, implementation should proceed in this order:
 
 | Phase | Status | Items | Complete |
 |-------|--------|-------|----------|
-| Immediate | In Progress | 5 | 2 |
+| Immediate | Complete | 5 | 5 |
 | Phase A | Not Started | 13 | 0 |
 | Phase B | Not Started | 5 | 0 |
 | Phase C | Not Started | 3 | 0 |
