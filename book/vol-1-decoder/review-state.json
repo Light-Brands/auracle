@@ -2,14 +2,17 @@
   "volume": "vol-1-decoder",
   "volumeTitle": "The Narcissism Decoder",
   "reviewRound": 5,
-  "roundStatus": "in_progress",
-  "currentPhase": 2,
+  "roundStatus": "decisions_complete",
+  "currentPhase": "implementation",
   "startedAt": "2026-01-06T00:00:00Z",
+  "decisionsCompletedAt": "2026-01-07T00:00:00Z",
   "completedAt": null,
   "repository": "danlawless/auracle",
   "manuscriptPath": "book/vol-1-decoder/course",
   "reviewBasePath": "book/vol-1-decoder/review-05",
   "roundFocus": "Post-publication refinement and second edition considerations",
+  "totalQuestions": 160,
+  "questionsAnswered": 160,
   "phases": {
     "1": {
       "name": "Strategic Decisions",
@@ -60,22 +63,22 @@
     "2": {
       "name": "Content & Experience",
       "description": "Reader engagement, accessibility, format optimization",
-      "status": "in_progress",
+      "status": "completed",
       "startedAt": "2026-01-06T12:00:00Z",
-      "completedAt": null,
+      "completedAt": "2026-01-07T00:00:00Z",
       "reviewers": {
         "bailey": {
           "agentFile": "book/agents/beta-reader.md",
           "displayName": "Bailey (Beta Reader)",
           "focus": "Reader engagement, format effectiveness",
           "questionCount": 25,
-          "status": "review_generated",
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-05/phase-2-content/bailey-beta-reader-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-2-content/author-decisions-phase-2.md",
           "implementationComplete": false
         },
@@ -84,14 +87,14 @@
           "displayName": "Sage (Sensitivity Reader)",
           "focus": "Accessibility, inclusive language updates",
           "questionCount": 22,
-          "status": "review_generated",
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-05/phase-2-content/sage-sensitivity-reader-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
-          "authorDecisionsFile": "review-05/phase-2-content/author-decisions-phase-2.md",
+          "authorResponded": true,
+          "authorDecisionsFile": "review-05/phase-2-content/author-decisions-sage-sensitivity.md",
           "implementationComplete": false
         },
         "felix": {
@@ -99,14 +102,14 @@
           "displayName": "Felix (Fact-Checker)",
           "focus": "Updated research, new citations",
           "questionCount": 15,
-          "status": "review_generated",
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-05/phase-2-content/felix-fact-checker-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
-          "authorDecisionsFile": "review-05/phase-2-content/author-decisions-phase-2.md",
+          "authorResponded": true,
+          "authorDecisionsFile": "review-05/phase-2-content/author-decisions-felix-factcheck.md",
           "implementationComplete": false
         }
       }
@@ -114,22 +117,22 @@
     "3": {
       "name": "Polish",
       "description": "Prose refinement, style updates",
-      "status": "blocked",
-      "startedAt": null,
-      "completedAt": null,
+      "status": "completed",
+      "startedAt": "2026-01-06T14:00:00Z",
+      "completedAt": "2026-01-06T18:00:00Z",
       "reviewers": {
         "lydia": {
           "agentFile": "book/agents/line-editor.md",
           "displayName": "Lydia (Line Editor)",
           "focus": "Prose craft for any new content",
-          "questionCount": 0,
-          "status": "pending",
+          "questionCount": 18,
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
-          "reviewGenerated": false,
+          "reviewGenerated": true,
           "reviewFile": "review-05/phase-3-polish/lydia-line-editor-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-3-polish/author-decisions-phase-3.md",
           "implementationComplete": false
         },
@@ -137,14 +140,14 @@
           "agentFile": "book/agents/copy-editor.md",
           "displayName": "Clara (Copy Editor)",
           "focus": "Style consistency for updates",
-          "questionCount": 0,
-          "status": "pending",
+          "questionCount": 15,
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
-          "reviewGenerated": false,
+          "reviewGenerated": true,
           "reviewFile": "review-05/phase-3-polish/clara-copy-editor-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-3-polish/author-decisions-phase-3.md",
           "implementationComplete": false
         }
@@ -153,9 +156,9 @@
     "4": {
       "name": "Final Pass",
       "description": "Final review before second edition release",
-      "status": "in_progress",
+      "status": "completed",
       "startedAt": "2026-01-07T00:00:00Z",
-      "completedAt": null,
+      "completedAt": "2026-01-07T12:00:00Z",
       "reviewers": {
         "petra": {
           "agentFile": "book/agents/proofreader.md",
@@ -178,18 +181,27 @@
           "displayName": "Coherence Analysis",
           "focus": "Verify coherence maintained with changes",
           "questionCount": 18,
-          "status": "review_generated",
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-05/phase-4-final/coherence-analysis-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-4-final/author-decisions-phase-4.md",
           "implementationComplete": false
         }
       }
     }
+  },
+  "implementationStatus": {
+    "status": "ready_to_begin",
+    "masterChecklistCreated": false,
+    "cardAuditComplete": true,
+    "cardBreakdown": "28 Core + 24 Advanced = 52 base, expanding to 55-60 with contextual cards",
+    "patternCountStandardized": "60 patterns (52 core + 4 digital + 4 substance)",
+    "safetyResourcesVerified": true,
+    "safetyVerificationDate": "2026-01-07"
   },
   "previousRoundSummary": {
     "round": 4,
