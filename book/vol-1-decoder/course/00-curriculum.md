@@ -11,7 +11,7 @@
 **Lessons:** 28 video lessons across 6 modules
 **Core Insight:** *"This wasn't love—this was conditioning."*
 
-This course teaches you to recognize manipulation patterns in real-time. You will learn to decode 56 tactics of control, understand why your nervous system got hooked, and reclaim your perception. By the end, you will trust yourself again.
+This course teaches you to recognize manipulation patterns in real-time. You will learn to decode 60 manipulation patterns, understand why your nervous system got hooked, and reclaim your perception. By the end, you will trust yourself again.
 
 ---
 
@@ -59,7 +59,7 @@ The foundation. Learn to recognize control in your body before your mind catches
 ### Module 2: The Playbook
 **Lessons:** 6 | **Duration:** ~2.5 hours
 
-The tactics. Decode 56 manipulation patterns organized by function. Name what was done to you.
+The tactics. Decode 60 manipulation patterns organized by function. Name what was done to you.
 
 | Lesson | Title | Duration | Script |
 |--------|-------|----------|--------|
