@@ -464,6 +464,8 @@ This is what happens when the prefrontal cortex goes fully offline. The thinking
 
 > **Field Note:** *"We were arguing about something stupid—I can't even remember what. But suddenly we were in each other's faces, eyes locked, and I could feel this animal thing rising in me. Like I wanted to hit him. Like I was going to hit him. It took my wife walking in to break whatever spell we were under. Afterward, I felt sick. That wasn't me. But it was—it was the part of me that's still a primate."*
 
+> **Field Note:** *"I've seen what happens when no one breaks it. Two guys at a job site, chest to chest, neither backing down. The words got uglier and uglier—things you can't unsay. Then fists. Blood on the concrete. Police. Both of them fired, one with assault charges. Over what? A parking spot. The rational brain that would have said 'this isn't worth it' was completely offline. They weren't men anymore. They were animals. Fight club with no rules, no ref, no one to stop it. That's what the mammalian brain does when it takes over completely. It doesn't calculate consequences. It just fights."*
+
 **The way out is breaking the circuit:**
 - Look away (this is not weakness—it's wisdom)
 - Step back physically
