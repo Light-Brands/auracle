@@ -173,7 +173,7 @@ Now that you've completed the tactics overview, reflect on these questions:
 
 ## Module 2 Summary
 
-**38 Tactics in 5 Categories:**
+**60 Patterns in 5 Categories:**
 
 1. **Information & Perception** — Gaslighting, reality revision, selective memory, information withholding, contradiction flooding, moving goalposts, comparative reality, plausible deniability
 
