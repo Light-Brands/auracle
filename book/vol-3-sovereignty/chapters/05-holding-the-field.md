@@ -255,6 +255,105 @@ You are learning to be the container.
 
 ---
 
+## The Sovereign Gaze
+
+There is a particular skill in learning to hold the field through your eyes.
+
+Your gaze is not neutral. Where your eyes go, your energy follows. When you look at someone, you're not just receiving visual information—you're creating a connection, a channel. And that channel can merge, dominate, submit, or simply meet.
+
+**Most people's eyes fall into one of three patterns when they feel unsafe:**
+
+**The submissive gaze:** Eyes down, away, unable to hold contact. This was discussed in earlier volumes as a trauma response. The eyes escape because the connection feels threatening.
+
+**The avoidant gaze:** Eyes scan the room, dart away, never settle. This creates distance through motion—I'm here, but I'm not landing.
+
+**The merging gaze:** Eyes lock on and absorb. You feel what they feel through the looking. The boundary between watcher and watched dissolves.
+
+**The sovereign gaze is something else entirely.**
+
+It holds without gripping. It meets without merging. It stays without fleeing. It sees without absorbing.
+
+### What the Sovereign Gaze Feels Like
+
+From the inside:
+- You are grounded in your own body first
+- Your eyes are soft, not hard
+- You move naturally in the face triangle—eyes, nose, mouth—without fixing
+- You break contact to think, to process, to breathe—and return easily
+- You're looking *from* your own center, not reaching out to grasp
+- There's no urgency in your seeing
+
+From the outside:
+- Others feel met but not invaded
+- Your presence is calm, not intense
+- People can hold your gaze without feeling challenged or consumed
+- There's warmth without demand
+- You're clearly present, clearly there
+
+### The Difference Between Seeing and Scanning
+
+In Volume 1, we discussed how the narcissist's gaze feels like being scanned—evaluated, assessed, objectified.
+
+The sovereign gaze offers the opposite experience: being *seen*.
+
+**Scanning** is about extracting information. It asks: What can I get from this? What do I need to know? How does this serve me?
+
+**Seeing** is about witnessing. It asks nothing. It simply receives the other person as they are.
+
+When you see from sovereignty, people feel:
+- Safe to be themselves
+- Not evaluated or judged
+- Met without being demanded from
+- Witnessed without being consumed
+
+This is a gift you give through your presence alone.
+
+### Reclaiming Your Gaze
+
+If you learned to avert your eyes to survive, reclaiming your gaze happens gradually.
+
+**The practice is not:** Force yourself to stare. Push through discomfort. Prove you're not weak.
+
+**The practice is:** Stay in your own body first. Feel your feet, your breath, your spine. *Then* let your eyes meet another's—from that grounded place.
+
+The eyes follow the nervous system. When you're regulated, your gaze naturally softens and steadies. When you're dysregulated, no amount of willpower will make your eyes feel safe.
+
+So don't start with the eyes. Start with the body. The gaze will follow.
+
+**Stages of reclaiming:**
+
+1. **Notice avoidance.** Just become aware of when your eyes flee without choosing to.
+
+2. **Practice with safe people.** Choose someone whose gaze feels nourishing, not threatening. Practice staying in eye contact while staying in your body.
+
+3. **Expand gradually.** As your nervous system learns that eye contact can be safe, your capacity will naturally increase.
+
+4. **Learn your limits.** Some gazes you will never want to meet directly—and that's discernment, not weakness.
+
+> **Field Note:** *"My therapist would just look at me with soft eyes. At first I couldn't tolerate it—I'd look away, laugh, change the subject. But over months, I learned that her seeing me wasn't dangerous. I could stay. And then I started being able to stay with other people too. She taught my nervous system that eyes could be safe."*
+
+### Staying in Your Own Eyes
+
+There's a particular temptation, especially for sensitive people, to leave your own body through your eyes.
+
+You look at someone and you're suddenly *over there*, feeling what they feel, seeing from their perspective, losing your own.
+
+The sovereign gaze stays home.
+
+You can look at another person without abandoning yourself. You can witness their experience without becoming it. Your eyes can be a window you look through, not a door you exit.
+
+**The practice:**
+
+When you look at someone:
+- Keep part of your attention in your own body
+- Notice your own feet, your own breath, your own center
+- Let your eyes be *outposts* of your presence, not escape routes from it
+- Stay curious about them while remaining anchored in you
+
+This is the embodied version of everything we've discussed about holding the field. Your eyes are one of the primary channels through which merging happens—and through which sovereignty can be maintained.
+
+---
+
 ## Why Holding the Field Feels Unfamiliar
 
 When you stop absorbing:
