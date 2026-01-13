@@ -22,7 +22,7 @@ The other half is responding effectively.
 
 And here's the problem: Manipulation is designed to hijack your response system.
 
-When you're activated—flooded with guilt, shame, fear, or confusion—your prefrontal cortex goes offline. The part of your brain that makes wise decisions, that sees the bigger picture, that knows what you really want—it becomes inaccessible.
+When you're activated—flooded with guilt, shame, fear, or confusion—your prefrontal cortex goes offline.¹ The part of your brain that makes wise decisions, that sees the bigger picture, that knows what you really want—it becomes inaccessible.
 
 What remains is reaction. Automatic patterns. The scripts you've been running since childhood.
 
@@ -50,7 +50,7 @@ If three seconds isn't enough—if you're more activated—take three conscious 
 
 Not big, dramatic breaths. Just slightly longer than normal. Inhale for a count of four. Exhale for a count of six.
 
-The longer exhale is key. It engages your parasympathetic nervous system—the rest-and-digest system that calms activation. Three breaths with extended exhales can shift your physiological state in under thirty seconds.
+The longer exhale is key. Research from Stanford Medicine (2023) found that cyclic sighing—breathing with emphasized exhalations—significantly reduces stress and anxiety. The extended exhale engages your parasympathetic nervous system—the rest-and-digest system that calms activation. Three breaths with extended exhales can shift your physiological state in under thirty seconds.
 
 You can do this while appearing to think about what was said. No one will know you're regulating your nervous system.
 
@@ -132,7 +132,7 @@ If you stay regulated, you can make good decisions about the relationship. You c
 
 The 3-3-3 Rule is a tool for staying clear so you can make those choices.
 
-**In our next module,** we'll dive into the specific tactics of manipulation—the 38-part playbook that makes up the narcissist's toolkit. You'll learn to name what was done to you.
+**In our next module,** we'll dive into the specific tactics of manipulation—the 60 patterns that make up the narcissist's playbook. You'll learn to name what was done to you.
 
 For now, practice the 3-3-3 Rule. Make it automatic. It will serve you for the rest of your life.
 
@@ -209,3 +209,9 @@ Practice short responses. When asked your opinion, try responding in 5 words or 
 - Pace: Clear and methodical—this is a tool lesson
 - Energy: Building confidence
 - Note: Clearly articulate the practice scenario; use different vocal quality for "old pattern" vs "new pattern"
+
+---
+
+## Footnotes
+
+¹ "Goes offline" is a colloquial way to describe what neuroscience shows: under stress, the prefrontal cortex's regulatory functions become impaired, not literally inactive. Recent research (2025) confirms stress significantly impairs prefrontal cortex function, particularly the ventromedial PFC involved in emotional regulation and decision-making.

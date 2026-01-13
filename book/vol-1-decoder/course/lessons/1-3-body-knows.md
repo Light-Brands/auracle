@@ -30,7 +30,7 @@ In this lesson, we're going to learn to read that data clearly.
 
 Your nervous system evolved over millions of years to detect threats faster than conscious thought. This is survival technology.
 
-When a predator appeared, your ancestors couldn't wait for their prefrontal cortex to analyze the situation. They needed to react in milliseconds. So the threat detection system—what we now call the limbic system—learned to process danger before conscious awareness kicked in.
+When a predator appeared, your ancestors couldn't wait for their prefrontal cortex to analyze the situation. They needed to react in milliseconds. Neuroscientist Joseph LeDoux's research on fear circuits identified what he calls the "low road"—a direct pathway from sensory input to the amygdala that bypasses conscious processing entirely. This threat detection system learned to process danger before conscious awareness kicked in.
 
 Here's the key: This system doesn't distinguish between physical danger and emotional danger.
 

@@ -134,7 +134,7 @@ You may have friends you like individually who are difficult in the group contex
 
 **Protect your energy.** You can choose proximity. Not everyone deserves close access.
 
-**Build diverse connections.** Don't depend on one group. Have multiple communities.
+**Build diverse connections.** Don't depend on one group. Have multiple communities. Anthropologist Robin Dunbar's research suggests we can maintain roughly 150 stable relationships, with only about 15 in our close support network. Choose carefully who occupies those inner circles.
 
 **Trust slow.** Let people earn trust over time through consistent behavior.
 

@@ -30,7 +30,7 @@ They text constantly. They want to see you all the time. They talk about the fut
 
 It feels incredible. It's also a tactic.
 
-Love bombing creates rapid attachment. It floods your brain with dopamine and oxytocin. It bonds you before you've had time to assess who this person actually is.
+Love bombing creates rapid attachment. Research by Strutzenberg et al. (2017) found that this "whirlwind romance" pattern floods your brain with dopamine and oxytocin, creating intense neurochemical bonding before you've had time to assess who this person actually is.
 
 **The decoder:** Fast intimacy is a red flag, not a green light. Genuine connection builds over time. If it feels too good to be true at the start, slow down.
 
@@ -89,7 +89,7 @@ These tactics exploit your connection needs—your attachment, your loyalty, you
 
 **Tactic 14: Intermittent Reinforcement**
 
-This is the most powerful bonding mechanism known to psychology.
+This is one of the most powerful bonding mechanisms known to psychology.
 
 Sometimes they're wonderful. Sometimes they're cruel. You never know which version you'll get.
 
@@ -212,7 +212,7 @@ Rate your experience with each tactic (0 = never, 5 = frequently):
 - Emotional tactics hijack your feelings
 - Relational tactics exploit your need for connection
 - Love bombing creates fast, unstable attachment
-- Intermittent reinforcement is the most powerful bonding mechanism
+- Intermittent reinforcement is one of the most powerful bonding mechanisms
 - Future faking keeps you invested while delivering nothing
 - Combined effect: anxious attachment that feels like love but is conditioning
 

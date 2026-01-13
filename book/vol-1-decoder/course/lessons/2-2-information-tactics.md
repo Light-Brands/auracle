@@ -24,7 +24,7 @@ These form the foundation of manipulation because they compromise your reality t
 
 Let's decode the major tactics in this category.
 
-**Tactic 1: Gaslighting**
+**Tactic 1: Gaslighting**¹
 
 This is the most recognized term, but it's often misunderstood.
 
@@ -196,6 +196,12 @@ For each tactic, rate your experience (0 = never experienced, 5 = frequently exp
 - Moving Goalposts: targets that always change
 - Plausible Deniability: always having an alternative explanation
 - Trust patterns over individual incidents
+
+---
+
+## Footnotes
+
+¹ The term "gaslighting" comes from the 1944 film *Gaslight* (based on Patrick Hamilton's 1938 play), in which a husband systematically manipulates his wife into believing she's going insane—including dimming the gas lights in their home and denying that anything has changed when she notices.
 
 ---
 

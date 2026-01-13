@@ -115,7 +115,7 @@ Reflect on your nervous system's responses in relationships:
 ## Key Concepts
 
 - Healthy attachment forms through consistency; trauma bonds form through inconsistency
-- Intermittent reinforcement is the most powerful conditioning mechanism
+- Intermittent reinforcement is one of the most powerful conditioning mechanisms
 - The dopamine reward system treats trauma bonds like addiction
 - Intensity created by alternating highs and lows feels like love but isn't
 - The limbic system prioritizes attachment over logic
