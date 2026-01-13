@@ -479,6 +479,72 @@ This takes capacity that many emotionally immature people don't have. But naming
 
 ---
 
+## When Anger Goes Underground
+
+Not all shooting the messenger is visible.
+
+Sometimes the anger is contained—held inside, never expressed. The messenger never knows they were shot. There's no blow-up, no obvious rupture. Just... something shifts.
+
+### The Slow Distance
+
+When anger isn't confronted, it doesn't disappear. It leaks:
+
+- Subtle withdrawal
+- Decreased warmth without explanation
+- Things that feel "off" but can't be named
+- Passive-aggressive comments disguised as jokes
+- Reduced availability, presence, intimacy
+- An accumulating sense that something is wrong
+
+This creates distance that builds over time. No single incident to point to. No rupture to repair. Just slow erosion.
+
+The messenger is left confused—sensing something but unable to address it because nothing was ever named.
+
+### The Repair Paradox
+
+If the person works through the anger internally—genuinely processes it—they may initiate repair. Acts of kindness. Renewed warmth. Attempts to reconnect.
+
+Here's where it gets complex:
+
+**If the receiver was unaware of the anger:** They experience these gestures as genuinely kind. The repair lands. The relationship moves forward.
+
+**If the receiver sensed the passive-aggression:** The same kind gestures read very differently:
+
+- Manipulative ("What do they want?")
+- Emotionally unstable ("Which version of you am I getting?")
+- Jarring ("Yesterday you were cold, now you're affectionate?")
+- Untrustworthy ("This feels like a performance")
+
+The repair attempts don't land because the container has been compromised. The receiver can't relax into the kindness because they've learned that warmth can shift to coldness without warning or acknowledgment.
+
+### The Pattern Beneath the Pattern
+
+What the passive-aggressive person often doesn't understand: the receiver *did* notice. The subtle withdrawal. The tone shift. The way the temperature dropped. They may not have named it—but they felt it.
+
+So when kindness returns without acknowledgment of what happened, it doesn't feel like repair. It feels like gaslighting. "Nothing was wrong." But something was wrong. And pretending otherwise makes the receiver question their own perception.
+
+> **Field Note:** *"I see a pattern where when my partner doesn't feel heard, he gets triggered and delivers his message irritated—which then makes it harder for me to hear. I don't want to diminish his passion. I just want him to speak to me without irritation."*
+
+This is what unprocessed anger does to delivery. The content might be valid. The passion might be real. But when it comes wrapped in irritation, the receiver has to push through the emotional heat just to get to the message.
+
+And here's the circuit: He doesn't feel heard → delivers with irritation → she can't receive it → he feels even less heard → more irritation.
+
+The anger that isn't named creates the very dynamic that generates more anger.
+
+### Breaking the Circuit
+
+For the person containing anger:
+
+The work is to notice when you're holding something—and either process it fully or name it directly. "I felt hurt by what you said earlier. I've been sitting with it." This gives the other person something to respond to. It invites repair instead of forcing them to guess.
+
+For the person receiving passive-aggression:
+
+You're not imagining it. Trust your perception. You can name what you're sensing: "Something feels off between us. Is there something you're holding?" This invites them into consciousness without accusation.
+
+If they deny it repeatedly while the pattern continues, you're facing a choice about how much confusion you're willing to live with.
+
+---
+
 ## Field Note: The Spiritual Bypass
 
 He spoke beautifully about consciousness.
