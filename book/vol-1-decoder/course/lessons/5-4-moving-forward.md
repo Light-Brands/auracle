@@ -34,6 +34,22 @@ I want to be honest with you about what lies ahead.
 
 **You may encounter more narcissists.** Now that you know the patterns, you'll recognize them everywhere—in old relationships you hadn't assessed clearly, in new people you meet. This is disconcerting at first. It's also protection.
 
+**The power of radical acceptance**
+
+There's a concept that survivors find transformative: radical acceptance.
+
+Radical acceptance doesn't mean approving of what happened. It doesn't mean forgiving or excusing. It means accepting the reality of who they are—not who you hoped they'd be, not who they pretended to be, not who they could become "if only."
+
+They showed you who they are. Radical acceptance means believing them.
+
+This is harder than it sounds. Part of you may still be waiting for the apology that will never come, the acknowledgment that will never arrive, the change that will never happen. That waiting keeps you tethered to them.
+
+Radical acceptance cuts that cord. When you stop hoping they'll become different, you reclaim all the energy you were spending on that hope. You stop analyzing their behavior for signs of change. You stop explaining yourself in new ways, hoping this time they'll understand.
+
+They understand. They don't care. That's the reality.
+
+Accepting this isn't giving up—it's growing up. It's the mature recognition that you cannot change another person, and you no longer need to try.
+
 **Practical next steps**
 
 Here's what I suggest for your immediate future:
@@ -114,6 +130,7 @@ When I feel pulled back, I will: _______________
 - Recovery is not linear—progress is measured in months, not days
 - Insight isn't enough—somatic practice is essential
 - The urge to return is neurological, not weakness
+- Radical acceptance: accepting who they are, not who you hoped they'd be
 - New patterns take time and conscious effort
 - Building support is critical to the journey
 - Patience with yourself is part of the practice
