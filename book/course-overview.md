@@ -20,7 +20,7 @@ This comprehensive course bundle transforms the 8-volume Sovereignty Series into
 **Stage:** SEE | **Duration:** ~10 hours | **Lessons:** 24
 > *"This wasn't love—this was conditioning."*
 
-Learn to recognize and name manipulation patterns. Decode 38 tactics of control in real-time. Reclaim your perception.
+Learn to recognize and name manipulation patterns. Decode 60 patterns of control in real-time. Reclaim your perception.
 
 **Ideal For:** Anyone who has felt confused, gaslit, or drained by relationships
 

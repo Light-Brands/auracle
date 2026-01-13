@@ -140,7 +140,7 @@ My permission to pause: "I can stop at any time because _______________"
 
 - Module 1 established the foundation: seeing the architecture, trusting body signals, interrupting reactions
 - Naming brings patterns from shadow into light
-- Module 2 provides specific language for 56 manipulation tactics
+- Module 2 provides specific language for 60 manipulation patterns
 - Difficult material may activate you—that's normal
 - The 3-3-3 Rule works for managing your own responses to the course
 - Going at your own pace is wisdom, not weakness

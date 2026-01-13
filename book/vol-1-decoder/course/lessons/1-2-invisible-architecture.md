@@ -32,7 +32,7 @@ Not through force. Not through obvious cruelty. Through confusion.
 
 When you're confused, you can't act. When you can't act, you're controllable. When you're controllable, someone else gets to define reality.
 
-This is the core architecture. Everything else we'll study—the 38 tactics, the family systems, the romantic patterns—all of it works by creating confusion.
+This is the core architecture. Everything else we'll study—the 60 patterns, the family systems, the romantic dynamics—all of it works by creating confusion.
 
 If you've ever left a conversation thinking, "Wait, how did that become my fault?" or "I went in upset about something they did, and somehow I ended up apologizing"—you've experienced this architecture in action.
 

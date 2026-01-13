@@ -78,7 +78,7 @@ Some relationships cycle through hoovering and discard multiple times.
 
 **The specific tactics in romance**
 
-Let's look at how the 38 tactics show up specifically in intimate relationships:
+Let's look at how the 60 patterns show up specifically in intimate relationships:
 
 **Love bombing** is the primary idealization tactic. Overwhelming attention and affection that creates rapid attachment.
 

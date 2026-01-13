@@ -356,7 +356,7 @@ For readers of this series, the connection is clear:
 
 Financial abuse is a form of narcissistic control.
 
-Volume 1 identified 34 tactics of narcissistic manipulation. Many of those tactics have financial expressions:
+Volume 1 identified 60 patterns of narcissistic manipulation. Many of those patterns have financial expressions:
 
 - **Gaslighting:** "You're imagining things. We don't have money problems."
 - **Reality distortion:** "I handle the finances because you're irresponsible."

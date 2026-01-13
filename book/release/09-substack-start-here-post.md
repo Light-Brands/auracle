@@ -76,7 +76,7 @@ No overwhelm. No daily content. Just one meaningful email designed to help you f
 
 *Control Disguised as Care*
 
-For anyone who has left a conversation feeling worse without understanding why. This book names 34 manipulation tactics, explains trauma bonds, and gives you scripts for real-time response.
+For anyone who has left a conversation feeling worse without understanding why. This book names 60 manipulation patterns, explains trauma bonds, and gives you scripts for real-time response.
 
 **[Get it on Amazon →]** | **[Get it on Gumroad (with bonuses) →]**
 

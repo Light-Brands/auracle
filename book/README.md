@@ -1,8 +1,8 @@
 # The Sovereignty Series
 
-A seven-volume journey from recognition through embodiment and beyond—for those healing from narcissistic relationships, trauma bonds, and dysregulated family systems.
+An eight-volume journey from recognition through embodiment and beyond—for those healing from narcissistic relationships, trauma bonds, and dysregulated family systems.
 
-**Total Series: 555,835 words | ~2,021 pages | 143 chapters | 33 appendices**
+**Total Series: ~615,835 words | ~2,239 pages | 161 chapters | 37 appendices**
 
 ---
 
@@ -16,6 +16,7 @@ Volume 4: LIVE    →  "Your presence is erotic when it belongs to you."
 Volume 5: GIVE    →  "You don't have to be healed to be a good parent. You have to be healing."
 Volume 6: SERVE   →  "Your healing is your credential. Your boundaries are your offering."
 Volume 7: THRIVE  →  "You are allowed to thrive, not just survive."
+Volume 8: BECOME  →  "You were never becoming—you were always unveiling."
 ```
 
 ---
@@ -30,7 +31,7 @@ Volume 7: THRIVE  →  "You are allowed to thrive, not just survive."
 **Focus:** Recognition, naming patterns, understanding manipulation tactics
 
 This book helps you:
-- Recognize the 34 tactics of control disguised as care
+- Recognize the 60 patterns of control disguised as care
 - Understand why these patterns hook your nervous system
 - Decode manipulation in real-time instead of days later
 - Respond from a place of power rather than reaction
@@ -162,6 +163,26 @@ This book helps you:
 
 ---
 
+### [Volume 8: Quantum You](./vol-8-quantum/README.md)
+**Becoming the Version You Were Always Meant to Be** | ~60,000 words | ~218 pages | 18 chapters
+
+*A Guide for Those Ready to Unveil Their Infinite Self*
+
+**Focus:** Quantum consciousness, integration, unveiling the true self
+
+This book helps you:
+- Integrate all previous volumes into embodied presence
+- Release the last layers of survival identity
+- Trust the whisper beneath the conditioned mind
+- Live from alignment rather than management
+- Recognize synchronicity as navigation
+
+**Best for:** Those who have completed the healing journey and are ready to step fully into who they've always been.
+
+**Core insight:** *"You were never becoming—you were always unveiling."*
+
+---
+
 ## Reading Path
 
 ### If you're currently confused or in crisis
@@ -188,8 +209,11 @@ Start with **Volume 2**. The issue isn't recognition—it's nervous system repat
 ### If you're rebuilding your material life
 **Volume 7** addresses financial recovery and career after trauma.
 
+### If you're ready to fully embody who you are
+**Volume 8** is for those who have integrated the previous work and are ready to unveil their quantum self.
+
 ### If you want the complete journey
-Read all seven, in order:
+Read all eight, in order:
 - Volume 1 gives you the **language**
 - Volume 2 gives you the **healing**
 - Volume 3 gives you the **authority**
@@ -197,6 +221,7 @@ Read all seven, in order:
 - Volume 5 gives you the **legacy**
 - Volume 6 gives you the **purpose**
 - Volume 7 gives you the **prosperity**
+- Volume 8 gives you the **integration**
 
 ---
 
@@ -211,7 +236,8 @@ Read all seven, in order:
 | 5 | The Lineage | 84,162 | ~306 | 21 | 5 |
 | 6 | The Guide | 89,711 | ~326 | 23 | 5 |
 | 7 | The Return | 82,348 | ~299 | 22 | 5 |
-| **Total** | | **555,835** | **~2,021** | **143** | **33** |
+| 8 | Quantum You | ~60,000 | ~218 | 18 | 4 |
+| **Total** | | **~615,835** | **~2,239** | **161** | **37** |
 
 *Page estimates based on 275 words/page (standard trade paperback)*
 
@@ -228,6 +254,7 @@ Read all seven, in order:
 ├── vol-5-lineage/              # The Lineage ✅
 ├── vol-6-guide/                # The Guide ✅
 ├── vol-7-return/               # The Return ✅
+├── vol-8-quantum/              # Quantum You ✅
 ├── extras/                     # Source materials and notes
 └── release/                    # Marketing and launch materials
 ```
@@ -236,7 +263,7 @@ Read all seven, in order:
 
 ## Core Philosophy
 
-All seven books share these principles:
+All eight books share these principles:
 
 1. **You were never the problem.** The patterns you adapted to survive are not character flaws.
 

@@ -54,7 +54,7 @@ Working in such a culture can be deeply draining even if no single individual is
 
 **Workplace tactics**
 
-How do the 38 tactics show up at work?
+How do the 60 patterns show up at work?
 
 **Gaslighting:** "That's not what was decided in the meeting." "I never said the deadline was Friday." "You're remembering it wrong."
 
