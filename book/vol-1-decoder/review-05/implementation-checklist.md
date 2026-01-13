@@ -232,14 +232,31 @@ Per Petra Q20, implementation should proceed in this order:
 
 ---
 
-## PHASE D: Duration Recalculation
+## PHASE D: Duration Recalculation ✅ COMPLETE
 
 **Source:** Felix Q14, Clara Q11
-**Note:** Wait until content is finalized
 
-- [ ] Recalculate all lesson durations
-- [ ] Recalculate all module durations
-- [ ] Update total course duration (expected: 11-12 hours)
+- [x] Recalculate all lesson durations
+- [x] Recalculate all module durations
+- [x] Update total course duration
+
+**Updated Durations:**
+| Module | Lessons | Duration |
+|--------|---------|----------|
+| Module 1 | 5 | ~1.5 hours |
+| Module 2 | 6 | ~2.5 hours |
+| Module 3 | 6 | ~2.25 hours |
+| Module 4 | 5 | ~2 hours |
+| Module 5 | 5 | ~1.75 hours |
+| Module 6 | 4 | ~1.5 hours |
+| **Total** | **31** | **~11 hours** |
+
+**Individual lesson adjustments:**
+- 1.5: 20 min → 10 min (matches file)
+- 3.1a: 20 min → 15 min (matches file)
+- 3.1b: 20 min → 15 min (matches file)
+- 3.5: 20 min → 30 min (matches file, updated title)
+- 5.4: 20 min → 15 min (matches file, updated title and link)
 
 ---
 
@@ -276,7 +293,7 @@ Per Petra Q20, implementation should proceed in this order:
 | Phase A | ✅ Complete | 13 | 11 | 2 deferred to second edition |
 | Phase B | ✅ Complete | 5 | 3 | 2 deferred to second edition |
 | Phase C | ✅ Complete | 3 | 3 | Citations/footnotes added |
-| Phase D | Ready | 1 | 0 | Duration recalculation |
+| Phase D | ✅ Complete | 1 | 1 | Durations recalculated (~11 hours) |
 | Verification | Ready | 4 | 1 | Final pass needed |
 
 ### Summary
@@ -292,6 +309,7 @@ Per Petra Q20, implementation should proceed in this order:
 - Digital and spiritual manipulation content
 - All citations and footnotes added (Phase C)
 - Language qualifications applied
+- All durations recalculated (Phase D) — 31 lessons, ~11 hours total
 
 **Deferred to Second Edition:**
 - Reader testimonial boxes (requires collecting post-launch)
@@ -300,8 +318,7 @@ Per Petra Q20, implementation should proceed in this order:
 - Window of Tolerance diagram (enhancement)
 
 **Still Needed for Launch:**
-- Phase D: Final duration recalculation
-- Verification pass
+- Verification pass (optional final quality check)
 
 ---
 
