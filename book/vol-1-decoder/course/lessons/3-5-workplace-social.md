@@ -54,7 +54,7 @@ Working in such a culture can be deeply draining even if no single individual is
 
 **Workplace tactics**
 
-How do the 38 tactics show up at work?
+How do the 60 patterns show up at work?
 
 **Gaslighting:** "That's not what was decided in the meeting." "I never said the deadline was Friday." "You're remembering it wrong."
 
@@ -134,7 +134,7 @@ You may have friends you like individually who are difficult in the group contex
 
 **Protect your energy.** You can choose proximity. Not everyone deserves close access.
 
-**Build diverse connections.** Don't depend on one group. Have multiple communities.
+**Build diverse connections.** Don't depend on one group. Have multiple communities. Anthropologist Robin Dunbar's research suggests we can maintain roughly 150 stable relationships, with only about 15 in our close support network. Choose carefully who occupies those inner circles.
 
 **Trust slow.** Let people earn trust over time through consistent behavior.
 

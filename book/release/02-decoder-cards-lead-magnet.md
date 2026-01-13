@@ -254,7 +254,7 @@ When activated and confused:
 
 These 12 cards are excerpted from **You Are Not Crazy: The Narcissism Decoder**, which includes:
 
-- **34 manipulation tactics** fully decoded
+- **60 manipulation patterns** fully decoded
 - The psychology of trauma bonds
 - Narcissist archetypes and roles
 - Family systems and narcissistic dynamics

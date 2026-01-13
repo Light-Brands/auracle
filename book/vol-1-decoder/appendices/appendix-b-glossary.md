@@ -250,6 +250,9 @@ Enlisting others to do your work of manipulation, abuse, or control. The people 
 
 ## R
 
+### Radical Acceptance
+Accepting the reality of who someone is—not who you hoped they'd be, not who they pretended to be, not who they could become "if only." This doesn't mean approving or forgiving; it means no longer waiting for change that won't come. When you stop hoping they'll become different, you reclaim the energy you were spending on that hope.
+
 ### Reactive Abuse
 When you finally react to sustained abuse—with anger, tears, or behavior they can use against you. They provoke the reaction, then point to it as proof that you're the problem.
 

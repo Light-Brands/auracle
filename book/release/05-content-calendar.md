@@ -154,7 +154,7 @@ The difference? Caring people trust your ability to manage yourself. Controlling
 
 **Power Move:** "I'm fine—I'll reach out if I need anything."
 
-**CTA:** 37 more tactics in The Narcissism Decoder
+**CTA:** 60 patterns in The Narcissism Decoder
 
 ---
 
@@ -246,7 +246,7 @@ Your response: "I'm not in competition for this relationship. If you'd prefer to
 - Brief intro
 - Cover 6 tactics with pattern/power move format
 - End with: "Naming breaks the spell"
-- CTA: Get the full Playbook (38 tactics)
+- CTA: Get the full Playbook (60 patterns)
 
 ---
 

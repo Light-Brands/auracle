@@ -59,7 +59,7 @@ In the next five lessons, we'll go deep into each category. For now, I want you 
 
 **The two core functions**
 
-All 38 tactics serve one of two functions:
+All 60 patterns serve one of two functions:
 
 **Function 1: Destabilize**
 Some tactics are designed to knock you off-balance. They create confusion, doubt, or emotional flooding. When you're destabilized, you can't trust your own judgment. You become dependent on external validation—specifically, their validation.
@@ -107,7 +107,7 @@ Understanding the playbook isn't about being cynical or cold. It's about protect
 
 **How to use this module**
 
-Over the next five lessons, we'll cover all 38 tactics.
+Over the next five lessons, we'll cover all 60 patterns.
 
 I don't expect you to memorize them all at once. Instead, I want you to notice which ones resonate. Which ones create that sick feeling of recognition. Which ones make you think, "That's exactly what happened to me."
 
@@ -154,7 +154,7 @@ The categories you checked are likely where you'll find the most recognition in 
 
 ## Key Concepts
 
-- 38 tactics organized into 5 categories
+- 60 patterns organized into 5 categories
 - Information & Perception, Emotional, Relational, Punishment & Control, Identity & Isolation
 - Two core functions: Destabilize and Control
 - The cycle: Idealization → Destabilization → Control → Reinforcement

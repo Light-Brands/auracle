@@ -60,7 +60,7 @@ Then tension begins building again.
 
 Here's the neuroscience: Your brain's reward system responds most intensely not to consistent reward, but to unpredictable reward.
 
-This is called intermittent reinforcement, and it's the most powerful conditioning mechanism known.
+This is called intermittent reinforcement, and it's one of the most powerful conditioning mechanisms known.
 
 Think about slot machines. They don't pay out every time. They pay out unpredictably. That unpredictability is what creates compulsive gambling. The uncertain reward creates a dopamine pattern that feels like craving.
 
@@ -181,7 +181,7 @@ Reflect on a relationship where you struggled to leave or kept returning:
 
 - Trauma bonds form through cycles of abuse and intermittent reinforcement
 - The four phases: tension, incident, reconciliation, calm
-- Intermittent reinforcement is the most powerful conditioning mechanism
+- Intermittent reinforcement is one of the most powerful conditioning mechanisms
 - The relief after abuse creates attachment, not despite the abuse but because of it
 - Trauma bonds share features with addiction
 - Breaking the bond requires time, no contact, alternative connections, and grief

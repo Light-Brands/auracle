@@ -165,7 +165,7 @@ Write a short letter to your future self—to read when you're doubting, foggy, 
 │  Workplace, social, digital, and spiritual dynamics.│
 │                                                     │
 │  MODULE 4: THE DECODER CARDS                        │
-│  52 pattern recognition tools.                      │
+│  60 pattern recognition tools.                      │
 │  The 4-step Decoder Protocol.                       │
 │                                                     │
 │  MODULE 5: RESPONSE & RECOVERY                      │

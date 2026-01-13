@@ -68,7 +68,7 @@ Adds clinical legitimacy.
 1. **Cover letter** (personalized to each recipient)
    - Why you're reaching out to them specifically
    - Brief author credentials (trauma-trained therapist background)
-   - What makes this book unique (Decoder Cards, 56 tactics, body-based recognition)
+   - What makes this book unique (Decoder Cards, 60 patterns, body-based recognition)
    - Timeline for publication
 
 2. **One-page summary** of the book

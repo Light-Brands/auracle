@@ -24,7 +24,7 @@ Now we make it practical.
 
 The Decoder Cards are quick-reference tools for real-time recognition. When something feels off but you can't name it, you flip to the right card and immediately understand what's happening.
 
-This module gives you 52 cards across two sets—Core and Advanced—plus a protocol for using them effectively.
+This module gives you 60 cards across two sets—Core and Advanced—plus a protocol for using them effectively.
 
 **What are Decoder Cards?**
 
@@ -120,7 +120,7 @@ Over time, you won't need the physical cards. The patterns will be internalized.
 
 That's the decoder in action.
 
-**In the next three lessons,** we'll walk through all 52 cards—what they are, how they show up, and how to respond.
+**In the next three lessons,** we'll walk through all 60 cards—what they are, how they show up, and how to respond.
 
 Take your time with these. Review them multiple times. They're the practical toolkit you'll use for the rest of your life.
 
