@@ -429,6 +429,125 @@ If you mistake avoidance for dissociation, you never grow your capacity.
 
 ---
 
+## The Dysregulation Blind Spot
+
+Here's something rarely discussed: when you're dysregulated, you often cannot see how your own energy is landing on others.
+
+This isn't moral failure. It's neurological reality.
+
+When your nervous system shifts into sympathetic activation (fight or flight), several things happen:
+
+- Blood flow decreases to the prefrontal cortex (rational thinking, empathy, impulse control)
+- The amygdala takes over (threat detection, reactive response)
+- Your social engagement system goes partially offline
+- You lose access to nuanced perception of others' states
+
+**In this state, you become temporarily unable to read the room.**
+
+Your gaze might become intense without you knowing it. Your voice might carry an edge you can't hear. Your presence might be dysregulating others while you feel justified, defensive, or simply unaware.
+
+This is what we might call **temporary narcissism**—not a personality disorder, but a state-dependent loss of empathy and self-awareness that can happen to anyone under enough stress.
+
+### The Lions in the Room
+
+Watch two dysregulated men in conflict.
+
+It often follows a predictable pattern: Eye contact becomes locked. Neither looks away. The gaze becomes a challenge, a territorial claim, a dare. The face triangle dissolves—no soft scanning of eyes, mouth, nose. Just fixed stare meeting fixed stare.
+
+As the prefrontal cortex goes offline, something older takes over. The limbic system—the survival brain—begins running the show. These aren't colleagues anymore, or brothers, or friends. They're two animals in the jungle, sizing each other up. Lions establishing dominance.
+
+The body prepares for physical confrontation even if the conscious mind doesn't intend it. Shoulders square. Jaw sets. Hands may clench. The voice drops or rises. Space closes.
+
+Neither man, in that moment, can see how he's affecting the other. Neither can access the rational brain that might de-escalate. They're locked in a feedback loop of mutual threat detection—each one's intensity triggering more intensity in the other.
+
+This is what happens when the prefrontal cortex goes fully offline. The thinking, empathizing, future-considering part of the brain simply isn't available. What remains is ancient: dominance, threat, survival.
+
+> **Field Note:** *"We were arguing about something stupid—I can't even remember what. But suddenly we were in each other's faces, eyes locked, and I could feel this animal thing rising in me. Like I wanted to hit him. Like I was going to hit him. It took my wife walking in to break whatever spell we were under. Afterward, I felt sick. That wasn't me. But it was—it was the part of me that's still a primate."*
+
+> **Field Note:** *"I've seen what happens when no one breaks it. Two guys at a job site, chest to chest, neither backing down. The words got uglier and uglier—things you can't unsay. Then fists. Blood on the concrete. Police. Both of them fired, one with assault charges. Over what? A parking spot. The rational brain that would have said 'this isn't worth it' was completely offline. They weren't men anymore. They were animals. Fight club with no rules, no ref, no one to stop it. That's what the mammalian brain does when it takes over completely. It doesn't calculate consequences. It just fights."*
+
+**The way out is breaking the circuit:**
+- Look away (this is not weakness—it's wisdom)
+- Step back physically
+- Change the plane (sit down if standing)
+- Involve a third person
+- Name what's happening: "We're escalating. I need to pause."
+
+The one who breaks eye contact first isn't losing. They're the one whose prefrontal cortex came back online.
+
+### Eye Contact as Nervous System Signal
+
+Your eyes both transmit and receive nervous system states.
+
+**What your eyes do when you're regulated (ventral vagal):**
+- Soft gaze that moves naturally
+- Triangle pattern across face (eyes, mouth, nose)
+- Natural breaks every few seconds
+- Warmth and presence without intensity
+- Can hold eye contact without it becoming a challenge
+
+**What your eyes do when you're activated (sympathetic):**
+- Fixed, intense focus
+- Staring without the natural breaks
+- Scanning, darting, or hypervigilant movement
+- Hard quality that others experience as threatening
+- Either locked on or avoidant—no relaxed middle
+
+**What your eyes do when you're shut down (dorsal vagal):**
+- Gaze avoidance
+- Looking down or away
+- Flat, absent quality
+- Difficulty making or maintaining eye contact
+- The "lights are off" feeling others sometimes describe
+
+Your eyes don't lie about your nervous system state. And others' nervous systems read your eyes before their conscious minds do.
+
+### When You Can't See Your Own Impact
+
+The humbling realization: you may have been on both sides of this dynamic.
+
+There may have been times when your stress, your intensity, your dysregulated gaze affected others without you knowing it. Times when you were so consumed by your own activation that you couldn't perceive their discomfort.
+
+This isn't an accusation. It's an invitation to self-awareness.
+
+**Signs you might be in a dysregulation blind spot:**
+- You feel completely justified in your intensity
+- You can't understand why others are reacting so strongly
+- You feel like you're being perfectly reasonable and they're not
+- You're unaware of your own physical state (clenched jaw, tense shoulders, hard eyes)
+- You're surprised later by how the interaction went
+
+The blind spot is most dangerous because you can't see it from inside.
+
+**What helps:**
+- Trusted people who can give you honest feedback
+- Physical practices that help you notice your own body state
+- Learning to recognize your early warning signs of activation
+- Building the habit of pausing when you notice escalation
+- Asking yourself: "What might my presence feel like to them right now?"
+
+### Survival Adaptations: The Wisdom of Workarounds
+
+People who regularly face dysregulating others develop creative survival strategies.
+
+**Looking past them:** Some people learn to soften their focus and look just past the difficult person—at a point on the wall, a window, the nature outside. This reduces the intensity of the gaze-lock while maintaining the appearance of engagement. It's a way to stay in the room without being destroyed by it.
+
+> **Field Note:** *"I learned to look at the tree outside the window behind my father's head during his lectures. He thought I was being attentive. Really, I was escaping into the oak tree. It saved me."*
+
+**Watching yourself on video calls:** Some people in regular contact with dysregulating individuals have discovered that looking at their own video image—rather than the other person's face—helps them manage the interaction. They can maintain apparent engagement while avoiding the direct gaze that triggers their nervous system.
+
+> **Field Note:** *"My boss's face on video calls sends me into freeze. I discovered if I look at my own little square instead, I can stay regulated enough to speak. He can't tell the difference. It's the only way I survive our weekly one-on-ones."*
+
+These aren't failures or avoidance. They're **creative survival**—the nervous system finding a way to stay functional in impossible situations.
+
+The cost is real: partial dissociation, reduced connection, energy spent on management. But sometimes the cost of direct engagement is higher.
+
+**The Bridge Reframe:**
+
+Honor these adaptations for what they got you through. And notice when you no longer need them—when you're with safe people whose gaze you can actually meet.
+
+---
+
 ## Somatic Flashbacks
 
 Not all flashbacks are visual. Not all flashbacks are memories.

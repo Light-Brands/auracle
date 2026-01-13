@@ -564,7 +564,17 @@ Something in your stomach feels unsettled. Not quite nausea, but an unease—som
 
 You find yourself breaking eye contact more than usual, looking down, or looking away. Your eyes are trying to escape a gaze that feels invasive or evaluating.
 
+To understand why, consider what healthy eye contact actually looks like. In safe connection, eyes dance. They move naturally across the other person's face in soft triangles—left eye, right eye, mouth or nose—every few seconds. They break away briefly to think or process, then return with warmth. This rhythm is unconscious, mutual, and regulating. It communicates: *I'm taking in the whole you, not targeting you.*
+
+The narcissist's gaze does neither. It locks and holds. It fixes on your eyes without the natural roaming across your face. It doesn't break in the normal rhythm of connection—or when it does break, it's dismissive rather than processing. The gaze feels like being pinned rather than met.
+
+This is partly why it registers as predatory. Predators lock onto prey with fixed focus. Safe connection involves a softer, wider attention that takes in the whole person. Your nervous system knows the difference—even when your conscious mind is still deciding whether they're "nice."
+
+There's also the quality of attention. In healthy eye contact, you feel *seen*—taken in, received, met. In the narcissist's gaze, you feel *scanned*—evaluated, assessed, objectified. One is connection. The other is targeting. Your eyes try to escape the second, even when you can't name what's wrong.
+
 > **Field Note:** *"I used to think I was just shy. Then I noticed I could hold eye contact easily with everyone except her. With her, I looked at the floor, the wall, my hands—anywhere but directly at her. My eyes knew what my heart was trying to hide from."*
+
+> **Field Note:** *"His eyes never moved. That's the only way I can describe it. Normal people look at your eyes, your mouth, glance away to think. He just... stared. Fixed. Like he was looking through me to something behind my face. I felt like prey being tracked. My therapist called it 'the predator gaze.' My body had been responding to it for years before I had words for why."*
 
 ### The Freeze Frame
 

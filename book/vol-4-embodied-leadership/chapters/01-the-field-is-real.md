@@ -314,6 +314,71 @@ From the outside, others experience you as:
 
 ---
 
+## The Eyes of the Field: What Safe Eyes Offer
+
+Your eyes are where your field becomes visible.
+
+All the work of regulation, coherence, and presence shows up in how you look at others. The eyes don't lie about the nervous system behind them.
+
+**When you've done this work, your eyes change.**
+
+Not through effort or performance. Not by trying to look calm. But because a regulated nervous system produces a particular quality of gaze—and others feel it immediately.
+
+### What Coherent Eyes Look Like
+
+**The soft gaze:** Not unfocused, but not hard. Able to see without gripping. Present without intensity.
+
+**The natural rhythm:** Eyes that dance—moving naturally across the face triangle (eyes, nose, mouth), breaking to think or process, returning with warmth. This rhythm communicates safety at a level below words.
+
+**The unhurried quality:** No urgency in looking. No need to extract or evaluate. Just steady, calm attention.
+
+**The warmth:** Something in the eyes that communicates "you're welcome here." Not effortful warmth, but the natural byproduct of an open heart and regulated nervous system.
+
+### What Your Eyes Offer Others
+
+When your field is coherent, your gaze becomes a gift:
+
+**A regulating presence.** Just as dysregulated eyes can dysregulate others (remember the narcissist's stare, the locked gaze of escalating conflict), regulated eyes can regulate. Your soft gaze gives others' nervous systems something to entrain to.
+
+**Permission to be seen.** Many people have never experienced being looked at with genuine welcome. When you offer that, something relaxes in them that may have been defended for years.
+
+**Safety without words.** Your eyes communicate what your words cannot: "I'm not a threat. You don't need to perform. You can be here."
+
+**A mirror of their goodness.** When you see someone from regulation rather than evaluation, they often see themselves reflected back differently. Your gaze becomes a kind of blessing.
+
+> **Field Note:** *"There's a woman in my meditation group who just... looks at you differently. When she greets me, her eyes are so soft. No agenda. No evaluation. Just 'hello, you.' The first time she really looked at me, I almost cried. I didn't know eyes could feel like that. I didn't know I'd been hungry for that my whole life."*
+
+### The Responsibility of Your Gaze
+
+When you develop a coherent field, your eyes gain weight.
+
+Not heaviness—but impact. What you look at, you affect. How you look at people, you shape.
+
+This isn't about pressure. It's about recognition.
+
+Your gaze is not neutral. It never was. The only question is whether you're aware of what you're transmitting.
+
+**Questions for reflection:**
+- What do people experience when I look at them?
+- Do my eyes offer safety or evaluation?
+- Do I look from my center, or do I reach out and grasp?
+- When I'm dysregulated, what happens to my gaze?
+- Whose eyes taught me that being seen could be safe?
+
+### The Cascade of Coherence
+
+Eyes → face → posture → voice → presence
+
+It all connects.
+
+When your eyes are soft, your face relaxes. When your face relaxes, your shoulders drop. When your shoulders drop, your voice softens. When your voice softens, your whole presence becomes inviting.
+
+And when your whole presence is inviting, people's nervous systems respond. They settle. They breathe. They meet you with less armor.
+
+This is leadership without words. Influence without effort. The quiet power of a coherent field expressed through eyes that know how to see without consuming.
+
+---
+
 ## The Myth of the "Natural"
 
 Some people seem to have natural presence. They walk into a room and everyone notices—not because they're demanding attention, but because their field is coherent.
