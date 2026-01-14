@@ -23,8 +23,8 @@ Volume 8: BECOME  →  "You were never becoming—you were always unveiling."
 
 ## The Books
 
-### [Volume 1: The Narcissism Decoder](./vol-1-decoder/README.md)
-**Control Disguised as Care** | 66,025 words | ~240 pages | 16 chapters
+### [Volume 1: You Are Not Crazy](./vol-1-decoder/README.md)
+**The Narcissism Decoder** | 66,025 words | ~240 pages | 17 chapters
 
 *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
 
