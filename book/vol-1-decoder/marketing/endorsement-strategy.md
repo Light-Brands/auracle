@@ -1,4 +1,4 @@
-# Endorsement Strategy for "Control Disguised as Care"
+# Endorsement Strategy for "You Are Not Crazy: The Narcissism Decoder"
 
 ## Why Endorsements Matter for Bestseller Status
 
@@ -88,19 +88,19 @@ Adds clinical legitimacy.
 ### Sample Outreach Email
 
 ```
-Subject: Endorsement Request: "Control Disguised as Care" - Narcissistic Abuse Recovery Book
+Subject: Endorsement Request: "You Are Not Crazy: The Narcissism Decoder" - Narcissistic Abuse Recovery Book
 
 Dear [Name],
 
 Your work on [specific work of theirs] has been foundational in helping survivors understand [specific topic]. I'm reaching out because I believe you would appreciate a new resource I've written for this community.
 
-"Control Disguised as Care: The Narcissism Decoder" is a practical guide to recognizing and responding to manipulation patterns in real-time. As a trauma-trained therapist who spent years working on locked psychiatric units and in family therapy settings—while navigating these dynamics in my own life—I wrote the book I wished I'd had.
+"You Are Not Crazy: The Narcissism Decoder" is a practical guide to recognizing and responding to manipulation patterns in real-time. As a trauma-trained therapist who spent years working on locked psychiatric units and in family therapy settings—while navigating these dynamics in my own life—I wrote the book I wished I'd had.
 
 What makes this book unique:
-- 56 named manipulation tactics organized into a "Decoder Playbook"
-- 52 "Decoder Cards" for real-time pattern recognition
+- 60 named manipulation patterns organized into a "Decoder Playbook"
+- 60 Decoder Cards for real-time pattern recognition
 - Body-based recognition tools (helping readers trust their nervous system)
-- A 4-step protocol that works even when activated
+- The 3-3-3 Rule—a tactical foundation that works even when activated
 
 I would be honored if you would consider providing an endorsement. I've attached a one-page summary and can send the full manuscript at your request.
 
@@ -200,7 +200,7 @@ Your book has several angles for different endorsers:
 
 **For trauma experts:** Emphasize the body-based recognition, nervous system integration, and somatic tools.
 
-**For narcissism specialists:** Emphasize the 56-tactic taxonomy and Decoder Card system as practical innovation.
+**For narcissism specialists:** Emphasize the 60-pattern taxonomy and Decoder Card system as practical innovation.
 
 **For survivors/advocates:** Emphasize the accessible language, real-life examples, and validation of reader experience.
 
