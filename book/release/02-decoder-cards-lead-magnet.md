@@ -293,7 +293,7 @@ Join the newsletter for weekly insights on recognizing manipulation and building
 
 **About the Author**
 
-Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the books she needed but couldn't find. She lives in Costa Rica, where she offers aura readings and healing work through Light Field Institute.
+Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the books she needed but couldn't find. She lives in Costa Rica, where she offers healing sessions through Light Brands and Light Field Institute.
 
 **Connect:** lightfield.institute | @jae.lawless
 
