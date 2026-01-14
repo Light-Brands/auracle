@@ -28,7 +28,7 @@ The answer is here. And so are you.
 
 - Website: lightfield.institute
 - Instagram: @jae.lawless
-- Email: lightwavesenergy@gmail.com
+- Email: lightfieldlawless@gmail.com
 
 ---
 

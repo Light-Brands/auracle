@@ -1,7 +1,7 @@
-# The Narcissism Decoder
-## Quick Reference Guide
+# You Are Not Crazy
+## The Narcissism Decoder — Quick Reference Guide
 
-**Volume 1: Control Disguised as Care**
+**Volume 1 of The Sovereignty Series**
 
 ---
 
@@ -205,4 +205,4 @@ When you're ready to move from recognition to healing, **Volume 2: The Bridge** 
 
 **This is Volume 1 of The Sovereignty Series**
 
-For the complete book with all chapters, decoder cards, and exercises, get *The Narcissism Decoder: Control Disguised as Care*
+For the complete book with all 60 patterns, decoder cards, and exercises, get *You Are Not Crazy: The Narcissism Decoder*

@@ -138,7 +138,7 @@ Share individual guides with others who might benefit. These summaries stand alo
 
 These guides are companions to the complete books. For the full teachings, stories, exercises, and deep dives:
 
-- **Volume 1:** *The Narcissism Decoder: Control Disguised as Care*
+- **Volume 1:** *You Are Not Crazy: The Narcissism Decoder*
 - **Volume 2:** *The Bridge: Learning Secure Attachment After Trauma*
 - **Volume 3:** *Sovereignty: Living From Internal Authority*
 - **Volume 4:** *Embodied Leadership: Aura, Erotic Coherence & Living From Presence*
