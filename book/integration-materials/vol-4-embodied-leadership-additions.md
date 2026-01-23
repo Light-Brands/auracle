@@ -4,6 +4,34 @@
 
 ---
 
+## ✅ COMPLETED: Chapter 4B — Energy Centers as Information
+
+**Status:** INTEGRATED
+**File:** `chapters/04b-energy-centers-as-information.md`
+
+### Purpose:
+Foundational chapter introducing energy centers (chakras) as physiological realities—mini-brains with their own frequencies, hormones, neuron clusters, and consciousness. This serves as a **precursor for a future series** on chakras and energy work.
+
+### Key Concepts Introduced:
+- Energy centers as information processing hubs (not mystical concepts)
+- Each center has: frequency, associated glands, hormones, chemicals, gene expression, neuron clusters
+- All centers under autonomic nervous system control (language = feeling)
+- Different centers = different emotions, states, consciousness
+- Centers build on each other (energy of lower centers wraps into higher)
+- Incoherence = dysregulation = "static on the wire" to organs/tissues
+
+### Practices Added:
+- Center Awareness Scan (daily practice)
+- Coherence Breathing for Specific Centers
+- Sound for Center Activation
+
+### Positioning:
+- Placed between Chapter 4 (Nervous System as Engine) and Chapter 5 (State Awareness)
+- Bridges polyvagal foundations with practical state regulation
+- Lays groundwork for future deep-dive chakra/energy series
+
+---
+
 ## 1. CHAPTER 21 ENHANCEMENT: "The Myth of Balance"
 **Target:** Chapter 21 (myth-of-balance.md) — SUBSTANTIAL ENHANCEMENT
 
