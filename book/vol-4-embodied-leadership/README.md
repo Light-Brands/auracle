@@ -16,6 +16,7 @@
 | [Chapter 2](./chapters/02-aura-hygiene.md) | Aura Hygiene | Daily practices for energetic clarity |
 | [Chapter 3](./chapters/03-digital-cord-environmental-hygiene.md) | Digital, Cord & Environmental Hygiene | The three domains where most hygiene fails |
 | [Chapter 4](./chapters/04-nervous-system-as-engine.md) | The Nervous System as the Aura's Engine | Polyvagal foundations for field coherence |
+| [Chapter 4B](./chapters/04b-energy-centers-as-information.md) | Energy Centers as Information | The seven mini-brains and their languages |
 | [Chapter 5](./chapters/05-state-awareness-regulation.md) | State Awareness and Regulation | The practices that move your nervous system |
 
 ### Part II — The Sovereign Body
@@ -94,11 +95,12 @@ By the end of this book, you will:
 ## Book at a Glance
 
 ```
-PART I: THE FIELD (5 chapters)
+PART I: THE FIELD (6 chapters)
 ├── Chapter 1 ............. The Field Is Real
 ├── Chapter 2 ............. Aura Hygiene
 ├── Chapter 3 ............. Digital, Cord & Environmental Hygiene
 ├── Chapter 4 ............. The Nervous System as Engine
+├── Chapter 4B ............ Energy Centers as Information
 └── Chapter 5 ............. State Awareness and Regulation
 
 PART II: THE SOVEREIGN BODY (4 chapters)
