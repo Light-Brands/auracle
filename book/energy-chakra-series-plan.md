@@ -75,7 +75,9 @@ Following the Sovereignty Series model, The Energy Series moves through a natura
 - What is energetic debris? (cords, imprints, entities, thought forms)
 - Why empaths absorb and how to stop
 - Clearing techniques: breath, sound, movement, visualization
-- Cutting cords without cutting connection
+- **Cutting cords:** types of cords, when to cut, how to cut without cutting love
+- **Cancelling spiritual agreements:** vows, contracts, soul ties, and inherited agreements
+- **Reclaiming your energy:** calling back scattered pieces after sex, meetings, conflicts
 - Ancestral clearing and inherited patterns
 - Professional clearing vs. self-practice
 - When to seek help (spiritual emergency vs. cleansing)
@@ -96,6 +98,7 @@ Following the Sovereignty Series model, The Energy Series moves through a natura
 - Substance impact: caffeine, alcohol, plant medicines
 - Reading as energetic intake
 - Sexual energy as fuel or drain
+- **Reclaiming energy after intimacy:** post-sex clearing and boundary restoration
 - Information diet design
 - Fasting and cleansing protocols
 
@@ -137,7 +140,9 @@ Following the Sovereignty Series model, The Energy Series moves through a natura
 - Romantic relationship energy dynamics
 - Friendship audits and conscious curation
 - Workplace energy management
+- **Reclaiming energy after business meetings:** clearing exchanges, returning what's not yours
 - Ending relationships energetically
+- **Energetic closure rituals:** after conflict, negotiation, or difficult conversations
 - Staying clear when you can't leave
 
 ---
@@ -260,7 +265,7 @@ vol-[N]-[title]/
 
 ---
 
-### Volume 3: The Cleanse (14 Chapters)
+### Volume 3: The Cleanse (18 Chapters)
 
 | Ch | Title | Focus |
 |----|-------|-------|
@@ -273,17 +278,21 @@ vol-[N]-[title]/
 | 7 | Sound and Vibration Clearing | Voice, instruments, frequency |
 | 8 | Movement and Shake | Physical release protocols |
 | 9 | Water and Salt Protocols | Baths, showers, ocean, salt |
-| 10 | Cutting Cords Consciously | Release without abandonment |
-| 11 | Ancestral Clearing | Inherited patterns and lineage work |
-| 12 | When to Seek Help | Professional clearing, spiritual emergency |
-| 13 | Staying Clear | Maintenance after deep work |
-| 14 | Epilogue: The Clean Slate | Freedom and blessing |
+| 10 | Cutting Cords Consciously | Types of cords, when to cut, release without abandonment |
+| 11 | **Cancelling Spiritual Agreements** | Vows, contracts, soul ties, oaths across lifetimes |
+| 12 | **Reclaiming Scattered Energy** | Calling back your power after sex, conflict, giving too much |
+| 13 | **Post-Interaction Clearing** | After meetings, dates, arguments, crowds |
+| 14 | Ancestral Clearing | Inherited patterns and lineage work |
+| 15 | Entity and Attachment Release | When it's more than energy |
+| 16 | When to Seek Help | Professional clearing, spiritual emergency |
+| 17 | Staying Clear | Maintenance after deep work |
+| 18 | Epilogue: The Clean Slate | Freedom and blessing |
 
-**Appendices:** A-Emergency Clearing Protocol, B-Glossary, C-Bibliography, D-20 Quick Clearing Techniques
+**Appendices:** A-Emergency Clearing Protocol, B-Glossary, C-Bibliography, D-20 Quick Clearing Techniques, E-Cord Cutting Scripts, F-Agreement Cancellation Declarations
 
 ---
 
-### Volume 4: The Fuel (14 Chapters)
+### Volume 4: The Fuel (16 Chapters)
 
 | Ch | Title | Focus |
 |----|-------|-------|
@@ -295,14 +304,16 @@ vol-[N]-[title]/
 | 6 | Media and Entertainment | What you watch becomes you |
 | 7 | The Books You Read | Information as energy intake |
 | 8 | Conversation as Consumption | Who you talk to, what you discuss |
-| 9 | Sexual Energy Management | Conservation, exchange, transmutation |
-| 10 | Information Diet Design | Curating your intake |
-| 11 | Fasting and Cleansing Protocols | Physical and digital detox |
-| 12 | Supplements and Support | Energetic assistance |
-| 13 | The Conscious Kitchen | Preparing food with intention |
-| 14 | Epilogue: The Nourished Field | Integration and blessing |
+| 9 | Sexual Energy as Sacred Fuel | Conservation, exchange, transmutation |
+| 10 | **Reclaiming Energy After Intimacy** | Post-sex clearing, cord awareness, boundary restoration |
+| 11 | **Conscious Sexual Agreements** | Energetic consent, clearing past partners |
+| 12 | Information Diet Design | Curating your intake |
+| 13 | Fasting and Cleansing Protocols | Physical and digital detox |
+| 14 | Supplements and Support | Energetic assistance |
+| 15 | The Conscious Kitchen | Preparing food with intention |
+| 16 | Epilogue: The Nourished Field | Integration and blessing |
 
-**Appendices:** A-Food Frequency Guide, B-Glossary, C-Bibliography, D-7-Day Cleanse Protocol, E-Digital Detox Guide
+**Appendices:** A-Food Frequency Guide, B-Glossary, C-Bibliography, D-7-Day Cleanse Protocol, E-Digital Detox Guide, F-Post-Intimacy Clearing Ritual
 
 ---
 
@@ -329,7 +340,7 @@ vol-[N]-[title]/
 
 ---
 
-### Volume 6: The Circle (14 Chapters)
+### Volume 6: The Circle (18 Chapters)
 
 | Ch | Title | Focus |
 |----|-------|-------|
@@ -342,13 +353,17 @@ vol-[N]-[title]/
 | 7 | Romantic Energy Dynamics | Partnership as energy system |
 | 8 | Friendship Curation | Conscious relationship design |
 | 9 | Workplace Energy | Professional boundary management |
-| 10 | Ending Relationships Energetically | Clean closure |
-| 11 | When You Can't Leave | Staying clear in toxic proximity |
-| 12 | Group Energy | Community and collective fields |
-| 13 | Protecting Your Children | Family field management |
-| 14 | Epilogue: The Sovereign Circle | Integration and blessing |
+| 10 | **Reclaiming Energy After Business** | Post-meeting clearing, negotiations, pitches |
+| 11 | **Energetic Closure Rituals** | After conflict, difficult conversations, endings |
+| 12 | **Clearing Past Relationship Residue** | Ex-partners, former friends, old dynamics |
+| 13 | Ending Relationships Energetically | Clean closure protocols |
+| 14 | When You Can't Leave | Staying clear in toxic proximity |
+| 15 | Group Energy | Community and collective fields |
+| 16 | Protecting Your Children | Family field management |
+| 17 | Energy Hygiene in Public | Crowds, events, travel |
+| 18 | Epilogue: The Sovereign Circle | Integration and blessing |
 
-**Appendices:** A-Relationship Energy Audit Tool, B-Glossary, C-Bibliography, D-Scripts for Difficult Conversations, E-Daily Protection Practices
+**Appendices:** A-Relationship Energy Audit Tool, B-Glossary, C-Bibliography, D-Scripts for Difficult Conversations, E-Daily Protection Practices, F-Post-Meeting Clearing Protocol, G-Relationship Cord Inventory
 
 ---
 
@@ -453,14 +468,131 @@ From Sovereignty Series DNA:
 
 ---
 
+## Core Theme: Energy Reclamation & Spiritual Agreements
+
+A major through-line in this series is the concept of **energy sovereignty**—your right and ability to fully own your energy, regardless of where it has been scattered.
+
+### Cutting Cords (Volume 3, Chapter 10)
+
+**Types of Energetic Cords:**
+- **Healthy cords:** Love bonds that nourish both parties
+- **Draining cords:** One-way energy siphons
+- **Trauma cords:** Bonds formed through shared pain or abuse
+- **Sexual cords:** Created through physical intimacy
+- **Ancestral cords:** Inherited from family lineage
+
+**Key Principle:** Cutting a cord does not mean cutting love. You can release energetic drain while maintaining genuine care.
+
+**Protocols Included:**
+- Visualization techniques for identifying cords
+- Breath-based cord cutting
+- Fire ceremony for stubborn connections
+- When NOT to cut (healthy bonds, premature cutting)
+
+---
+
+### Cancelling Spiritual Agreements (Volume 3, Chapter 11)
+
+**Types of Agreements:**
+- **Conscious vows:** Promises made in this lifetime (wedding vows, blood oaths, pledges)
+- **Unconscious contracts:** Unspoken agreements with family, partners, or organizations
+- **Soul contracts:** Agreements made before incarnation (from a spiritual perspective)
+- **Inherited agreements:** Ancestral vows passed through lineage
+- **Religious/spiritual vows:** Past-life or childhood religious commitments
+- **Trauma bonds:** Agreements made under duress or manipulation
+
+**Key Principle:** You have the right to revoke any agreement that no longer serves your highest good—even ones you don't consciously remember making.
+
+**Protocols Included:**
+- Written declaration of revocation (with exact language)
+- Spoken cancellation rituals
+- Working with witnesses for powerful release
+- Replacing old agreements with new intentions
+
+**Sample Declaration:**
+> "I hereby revoke, cancel, and dissolve any and all agreements, contracts, vows, oaths, and commitments—conscious or unconscious, spoken or unspoken, from this lifetime or any other—that no longer serve my highest good and sovereign path. I call back all energy I have given away through these agreements and return any energy that is not mine. This is done. So it is."
+
+---
+
+### Reclaiming Energy After Sex (Volume 4, Chapters 10-11)
+
+**Why Sexual Energy Exchange Matters:**
+- Sexual intimacy creates the strongest energetic bonds between people
+- Energy is exchanged regardless of emotional connection
+- Past partners can leave energetic imprints that affect future relationships
+- Casual encounters without clearing can accumulate energetic debris
+
+**Immediate Post-Intimacy Protocol:**
+1. Conscious breath to return to your own field
+2. Water clearing (shower or bath with intention)
+3. Grounding practice (feet on earth, visualization)
+4. Energy boundary restoration
+5. Gratitude or release (depending on relationship context)
+
+**Clearing Past Sexual Partners:**
+- Cord identification and cutting
+- Energy retrieval visualization
+- Forgiveness practice (for self and others)
+- Womb/sacral center clearing (specific practices)
+
+**Conscious Sexual Agreements:**
+- How to discuss energetic exchange with partners
+- Setting intentions before intimacy
+- Creating sacred container for sexual energy
+- When to abstain for energetic health
+
+---
+
+### Reclaiming Energy After Business Meetings (Volume 6, Chapters 10-11)
+
+**Why Business Interactions Create Energy Exchange:**
+- Negotiations involve power dynamics and energy projection
+- Sales environments often employ energetic manipulation
+- Contracts and agreements have energetic weight
+- Office politics create complex cord networks
+
+**Post-Meeting Clearing Protocol (5-Minute Practice):**
+1. **Shake:** Physical shake from hands down to feet (30 seconds)
+2. **Breathe:** Three deep exhales, releasing any energy that isn't yours
+3. **Declare:** "I release all energy from this meeting that is not mine. I call back any energy I gave away."
+4. **Ground:** Feet flat, visualize roots into earth
+5. **Seal:** Hand on heart, restore your boundary
+
+**Specific Scenarios:**
+- After difficult negotiations or conflict
+- Following job interviews
+- Post-presentation energy recovery
+- Clearing after being in someone else's office
+- Energy hygiene for salespeople and consultants
+
+**Energetic Closure Rituals:**
+- End-of-workday clearing practice
+- Friday release ritual for the week
+- Project completion energy closing
+- Client relationship boundaries
+
+---
+
+### Key One-Line Decoders for Energy Reclamation
+
+- "You can love someone and still cut the cord that drains you."
+- "Every agreement you didn't consciously make can be consciously unmade."
+- "Your energy went with them. It's time to call it home."
+- "Intimacy without clearing is accumulation without awareness."
+- "That meeting ended an hour ago. Your field doesn't know that yet."
+- "You don't owe anyone access to your energy—not even people you love."
+- "The contract you signed with your pen is different from the one you signed with your field."
+
+---
+
 ## Production Notes
 
 ### Estimated Scope
 - 8 volumes
-- ~14 chapters per volume (112 total chapters)
-- ~40,000-60,000 words per volume
-- ~320,000-480,000 words total
-- 40+ appendices across series
+- ~15 chapters per volume (120+ total chapters)
+- ~45,000-65,000 words per volume
+- ~360,000-520,000 words total
+- 50+ appendices across series
 
 ### Research Foundation
 - HeartMath Institute research (heart coherence, biofield)
@@ -515,10 +647,15 @@ Volume 2:
 Volume 3:
 - "You've been carrying things that were never yours to hold."
 - "Clearing isn't about emptiness—it's about making room for you."
+- "You can love someone and still cut the cord that drains you."
+- "Every agreement you didn't consciously make can be consciously unmade."
+- "Your energy went with them. It's time to call it home."
 
 Volume 4:
 - "You don't eat food. You eat frequency."
 - "What you scroll becomes your scroll."
+- "Intimacy without clearing is accumulation without awareness."
+- "They left your bed but not your field—until you clear them."
 
 Volume 5:
 - "You're always broadcasting. The question is: what?"
@@ -527,6 +664,8 @@ Volume 5:
 Volume 6:
 - "Some people are meant to be loved from a distance."
 - "Protection isn't walls—it's clarity about who gets access."
+- "That meeting ended an hour ago. Your field doesn't know that yet."
+- "The contract you signed with your pen is different from the one you signed with your field."
 
 Volume 7:
 - "Your home is either sanctuary or drain. There is no neutral."
