@@ -681,6 +681,80 @@ You can return gifts. You can name the dynamic. You can decline future offerings
 
 ---
 
+## Card 26: Premature Bonding
+
+**The signal:** Connection language arrives before you've decided. Warmth feels like weight. Appreciation lands as expectation. You don't yet know if you're in or out—but meaning is already being assigned.
+
+**Pattern:** When emotional closeness forms before clear agreement, your nervous system reads it as pressure. Gratitude shows up before money, clarity, mutual commitment, or a clear yes inside you. The binding happened before the choosing.
+
+**What's happening:**
+- Their anxiety is being regulated through your presence
+- Connection language stabilizes their commitment before you've chosen
+- Leaving would make you "the bad one"
+- The appreciation is kind in words but heavy in your body
+- You feel obligated before you've agreed to anything
+
+**The reframe:**
+*"I can receive warmth without promising permanence."*
+
+Too much doesn't mean bad or manipulative by default. It means mis-timed and mis-sized. Your nervous system is saying: "Don't bind me with meaning before I've chosen."
+
+**Practice:**
+When appreciation feels heavy, you don't need to match their energy or explain yourself. Neutral receipt options:
+
+- *"Thank you for sharing that—it means a lot to hear, and I'm still feeling my way through things."*
+- *"I appreciate you saying that. I'm taking things one step at a time right now."*
+- *"That's kind of you to say. I'm staying present and seeing what feels aligned as I go."*
+- *"Thank you—I'm keeping things light and focused right now."*
+- *"Thank you, I appreciate the sentiment."* (And then you don't add anything else.)
+
+These acknowledge without deepening attachment. No return emotion. No over-engagement. Just clean receipt.
+
+**Micro Field Note:**
+> Appreciation arrived before clarity.
+> My body felt pressure, not warmth.
+> Gratitude that limits exit is not generosity.
+> I noticed the urge to stay—and named it as information.
+
+**Integration line:** *"Too much means I need more space, not more justification."*
+
+---
+
+## Card 27: Emotional Compensation Loop
+
+**The signal:** You're receiving praise, gratitude, appreciation—but your body doesn't relax. The warmth lands as duty. Leaving feels like betrayal even though the arrangement isn't working.
+
+**Pattern:** When appreciation substitutes for structure—pay, clarity, role definition, mutual agreement—it becomes leverage. Connection is being used to stabilize what isn't working. This can happen without malicious intent; good intent does not equal clean impact.
+
+**What's happening:**
+- Praise arrives instead of money, results, or clear agreement
+- Emotional bonding occurs before role definition or fair compensation
+- "I appreciate you" lands as obligation, not nourishment
+- Your irritation is boundary intelligence, not ingratitude
+- Something can feel manipulative without malicious intent
+- Over-functioning echoes: you stay because someone is "grateful"
+
+**Where this shows up:**
+- Spiritual workplaces
+- Healing spaces
+- "Heart-led" businesses
+- Friendships that quietly turn into unpaid labor
+- Mentorship that never quite becomes structured
+
+**The reframe:**
+Gratitude that creates pressure is compensation, not appreciation. Real appreciation *adds to* solid structure. It never *replaces* pay, clarity, or choice. When appreciation arrives before agreement, the nervous system registers pressure—not love.
+
+**Practice:**
+Ask: *"Does this gratitude expand my freedom or constrain it?"*
+
+If appreciation makes leaving harder, that's data—not debt. Your body detecting pressure is discernment. The irritation isn't personality or mood—it's somatic intelligence noticing misalignment.
+
+**Body cue to notice:** Chest tightness, irritation, or obligation when receiving praise—especially when nothing material has been exchanged. Warmth that lands like honey poured over a crack.
+
+**Integration line:** *"When appreciation replaces structure, the nervous system registers pressure—not love."*
+
+---
+
 ## One-Page Summary: The Bridge Cards
 
 | Pattern | Reframe | Practice |
@@ -705,6 +779,8 @@ You can return gifts. You can name the dynamic. You can decline future offerings
 | Difficulty receiving | Learned, not inherent | "Thank you" without deflecting |
 | Access Drift | Small erosions add up | "Did I consciously choose this?" |
 | Soft Claim | Gifts that bind aren't gifts | "Does this expand or constrain?" |
+| Premature Bonding | Mis-timed, not malicious | "I can receive without promising" |
+| Emotional Compensation | Pressure, not appreciation | "Does this expand or constrain my freedom?" |
 
 ---
 
