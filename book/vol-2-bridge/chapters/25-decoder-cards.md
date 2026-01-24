@@ -761,6 +761,24 @@ If appreciation makes leaving harder, that's data—not debt. Your body detectin
 
 **Body cue to notice:** Chest tightness, irritation, or obligation when receiving praise—especially when nothing material has been exchanged. Warmth that lands like honey poured over a crack.
 
+**The Somatic Truth:**
+
+If you wanted it, your body wouldn't brace.
+
+When something is aligned, appreciation feels warm. When it's misaligned, appreciation feels heavy. The pressure isn't created by their gratitude alone—it's created by the mismatch between what they're leaning into and what you're quietly pulling away from.
+
+Your nervous system is saying: *"This is being added to me, not offered to me."*
+
+That's not ingratitude. That's discernment.
+
+**Grounding reframes:**
+- Desire feels expansive. Obligation feels constrictive.
+- Alignment doesn't require reassurance.
+- If it were a yes, your body wouldn't need to manage it.
+
+**For those trained to over-attune:**
+Pressure often masquerades as kindness when you've learned to track others' needs before your own. You're not rejecting the person—you're rejecting the implied pull. That's healthy.
+
 **Integration line:** *"When appreciation replaces structure, the nervous system registers pressure—not love."*
 
 ---
