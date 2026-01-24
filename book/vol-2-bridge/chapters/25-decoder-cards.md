@@ -779,6 +779,14 @@ That's not ingratitude. That's discernment.
 **For those trained to over-attune:**
 Pressure often masquerades as kindness when you've learned to track others' needs before your own. You're not rejecting the person—you're rejecting the implied pull. That's healthy.
 
+**The deeper tell:**
+What you're feeling isn't "they're grateful"—it's "they're anchoring to me." Stable systems don't need constant emotional reinforcement to hold people in place. You're not annoyed by their feelings—you're reacting to the lack of container.
+
+**Internal diagnostic:**
+Ask your body: *"If nothing changed here for another year, would I feel relieved or depleted?"*
+
+Your answer is already showing up.
+
 **Integration line:** *"When appreciation replaces structure, the nervous system registers pressure—not love."*
 
 ---

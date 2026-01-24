@@ -40,6 +40,70 @@
 
 ---
 
+### Pattern 9: Emotional Spillover + Relational Pull
+
+**Definition:** When someone's business is unstable, personal life is in upheaval, and roles are blurry, appreciation unconsciously becomes a regulation strategy. Not manipulation in a cartoon-villain way—but pressure created by need.
+
+**The Key Distinction:**
+
+What you're feeling isn't: *"She's grateful."*
+
+It's: *"She's anchoring to me."*
+
+**What the nervous system clocks:**
+- Inconsistent structure
+- Emotional volatility in the environment (crises, upheaval)
+- Shifting ground (changing direction, unpredictable timelines)
+- Relational intensity (personal drama bleeding into work)
+- Frequent expressions of gratitude and appreciation layered on top
+
+To a regulated system, this might feel nice.
+To a system trained in unstable environments, it feels like:
+
+*"Please stay. Please hold. Please don't leave."*
+
+Even if they never say that.
+
+**Why trauma survivors feel this acutely:**
+
+Given histories of parentification or over-functioning, the body is exquisitely sensitive to:
+- Being positioned as stabilizer
+- Being emotionally leaned on
+- Gratitude that subtly implies obligation
+- Roles that quietly expand without clarity or payoff
+
+The system learned early: *Appreciation often precedes expectation.*
+
+So irritation is self-protection, not judgment.
+
+**The core mismatch:**
+
+| Their Mode | Your Mode |
+|------------|-----------|
+| Survival + transition | Consolidation + sovereignty |
+| Needs stabilization | Needs clarity |
+| Seeks emotional anchor | Seeks clean exchange |
+
+These phases don't pair well.
+
+**The critical insight:**
+You're not annoyed by their feelings—you're reacting to the lack of container. Stable systems don't need constant emotional reinforcement to hold people in place.
+
+**Internal diagnostic:**
+Ask your body: *"If nothing changed here for another year, would I feel relieved or depleted?"*
+
+Your answer is already showing up.
+
+**Integration:**
+You can appreciate someone without committing to the role they're unconsciously assigning you. And you're allowed to outgrow:
+- Unstable structures
+- Emotionally noisy work environments
+- Roles where "learning" replaces fair exchange for too long
+
+**Decoder line:** *"Stable systems don't need constant emotional reinforcement to hold people in place."*
+
+---
+
 ### Pattern 8: Premature Bonding
 
 **Definition:** Connection language used to stabilize anxiety or commitment before the other person has chosen. Attachment is leveraged before consent.
