@@ -710,6 +710,16 @@ When appreciation feels heavy, you don't need to match their energy or explain y
 
 These acknowledge without deepening attachment. No return emotion. No over-engagement. Just clean receipt.
 
+**Ultra-clean options** (when even warmth feels like labor):
+- *"Thank you."*
+- *"I appreciate that."*
+- *"Thanks for sharing."*
+- *"Got it, thank you."*
+
+Shorter = safer. You're not cold. You're regulating attachment load.
+
+**Internal mantra:** *"Acknowledging is not agreeing. Gratitude is not a contract."*
+
 **Micro Field Note:**
 > Appreciation arrived before clarity.
 > My body felt pressure, not warmth.

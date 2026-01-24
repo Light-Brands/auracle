@@ -171,6 +171,16 @@ When appreciation arrives too early or too heavy, you don't need to explain or e
 
 You're not rejecting them. You're refusing premature emotional contracts.
 
+**Ultra-clean options** (when even warmth feels like labor):
+- *"Thank you."*
+- *"I appreciate that."*
+- *"Thanks for sharing."*
+- *"Got it, thank you."*
+
+Shorter = safer. You're not cold—you're regulating attachment load. What's bothering you isn't gratitude; it's emotional overbinding.
+
+**Internal mantra:** *"Acknowledging is not agreeing. Gratitude is not a contract."*
+
 ---
 
 ## Appendix C: Case Vignettes
