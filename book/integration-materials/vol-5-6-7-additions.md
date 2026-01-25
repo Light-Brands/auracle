@@ -191,6 +191,55 @@ No ranking. No future promises. No hierarchy.
 
 ---
 
+## 3. EMOTIONAL COMPENSATION LOOP (Cross-Reference)
+**Target:** Chapter 3 (When Helping Is Hiding) — as the receiving-end mirror
+
+### Content:
+
+---
+
+#### When You're on the Receiving End of "Appreciation as Obligation"
+
+Chapter 3 addresses helpers who hide in helping. This section addresses the **reverse**: recognizing when you're receiving appreciation that binds rather than frees.
+
+**Pattern Name:** Emotional Compensation Loop (Gratitude-as-Glue)
+
+**The Signal:**
+- Warmth lands as weight, not nourishment
+- Praise creates pressure, not expansion
+- Leaving would make you "the bad one"
+- Appreciation arrives before structure (money, clarity, agreement)
+
+**What's Happening:**
+- Emotional affirmation substitutes for fair exchange
+- Connection language stabilizes their anxiety before you've chosen
+- Your body registers pressure while your mind receives praise
+- Good intent coexists with unclean impact
+
+**The Mirror to Chapter 3:**
+
+| When Helping Is Hiding | When Appreciation Is Compensation |
+|------------------------|-----------------------------------|
+| You give to avoid yourself | They give warmth to avoid structure |
+| Helping creates dependency | Appreciation creates obligation |
+| Your identity fuses with helper role | Their appreciation fuses you to their system |
+| Can't stop giving | Can't stop receiving without guilt |
+
+**Somatic Recognition:**
+- Irritation after receiving praise (boundary intelligence, not ingratitude)
+- Chest tightness when "thanked"
+- Urgency to stay despite misalignment
+
+**One-Line Decoder:** *"When appreciation replaces structure, the nervous system registers pressure—not love."*
+
+**Full Pattern Development:** See `vol-9-insight-control-additions.md` for complete content including vignette, response scripts, and diagnostic framework.
+
+**Cross-References:**
+- Vol 2, Chapter 25: Decoder Cards 26-27 (Premature Bonding, Emotional Compensation Loop)
+- Vol 9, Chapter 6: Emotional Compensation as companion to Financial Ambiguity
+
+---
+
 # VOLUME 7: THE RETURN
 
 ## 1. WORKPLACE DYNAMICS & FINANCIAL ABUSE PATTERNS
@@ -253,6 +302,7 @@ This is where rebuilding without repetition becomes possible.
 ### Volume 6
 - [ ] Add Spiritual Hierarchy decoder to Chapter 18 or 20
 - [ ] Add abbreviated organizational abuse patterns to Chapter 3 or 9
+- [ ] Add Emotional Compensation Loop cross-reference to Chapter 3 (receiving-end mirror)
 
 ### Volume 7
 - [ ] Add Financial Ambiguity patterns to workplace chapter
