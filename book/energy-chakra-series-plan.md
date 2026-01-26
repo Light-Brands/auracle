@@ -1,8 +1,8 @@
-# The Energy Series: A Comprehensive Plan
+# The Field Series: A Comprehensive Plan
 
 ## Series Vision
 
-**Working Title:** *The Energy Series* (or *The Field Series*)
+**Series Title:** *The Field Series*
 
 **Tagline:** *"You are not just in a body—you are a field. Learn to read it, clear it, and protect it."*
 
