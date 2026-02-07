@@ -19,6 +19,8 @@ The guilt is so strong it makes you question everything:
 
 This chapter explains where that guilt comes from—and how to hold a boundary without collapsing back into the system.
 
+> **The Bottom Line:** Guilt after setting a boundary is not proof you did something wrong—it's proof you were trained to abandon yourself.
+
 ---
 
 ## Field Note (Before): The Guilt That Won't Let Go
@@ -123,6 +125,14 @@ Over time, you learn: *Setting boundaries = causing pain = being bad.*
 The guilt becomes automatic.
 
 **You didn't choose this programming.** You developed it to survive in an environment where connection was conditional on compliance.
+
+> **Try This Now:** Think of a boundary you've set recently—or one you've been avoiding.
+>
+> - Notice what happens in your body as you think about it.
+> - What phrase automatically appears in your mind? ("I should..." / "But they..." / "I'm being...")
+> - Whose voice is that phrase in? Yours, or someone else's?
+>
+> If the voice isn't yours, you're hearing programming—not truth.
 
 ---
 
@@ -622,6 +632,37 @@ Feet on floor. Hands on surfaces. Look around the room. Name what you see.
 
 ---
 
+## Common Traps
+
+**Trap 1: Treating guilt as evidence**
+You feel guilty, so you conclude you must have done something wrong. Guilt becomes the jury and the verdict. But conditioned guilt fires regardless of whether harm occurred.
+
+**Trap 2: Analyzing the guilt away**
+You intellectualize: "I know this is conditioning, so I shouldn't feel it." But guilt isn't solved by logic. It lives in the body and needs to be felt through, not thought through.
+
+**Trap 3: Setting a timer on grief**
+You think you should be "over" the guilt by now. Healing has no deadline. Some guilt takes months to metabolize. Patience isn't weakness—it's realism.
+
+**Trap 4: Confusing temporary relief with real repair**
+You reach out to stop feeling bad, not because anything has changed. The relief lasts an hour. Then the old dynamic resurfaces.
+
+**Instead:** Let guilt exist without obeying it. Feel it, name it, ground through it. Give it time. Act only when the wave has passed.
+
+---
+
+## You'll Know It's Working When...
+
+- The guilt arrives, and you recognize it as old programming
+- You feel the urge to reach out and don't act on it immediately
+- The waves start shorter, less intense
+- You can hold both: "I feel guilty" and "I'm not doing anything wrong"
+- You stop needing others to validate that you're not cruel
+- The guilt no longer makes your decisions
+
+These shifts are gradual. Celebrate each wave you ride without collapsing.
+
+---
+
 ## Reader Reflection
 
 What does your guilt feel like in your body?
@@ -645,4 +686,17 @@ What would holding through this guilt teach your nervous system?
 ## One-Line Anchor
 
 *"I can feel guilty without being guilty."*
+
+---
+
+## Quick Reference: Guilt After Distance
+
+| Element | Key Point |
+|---------|-----------|
+| **Core Insight** | Guilt after boundaries is conditioning, not conscience |
+| **The Distinction** | Genuine guilt → you violated your values. Conditioning guilt → you disrupted a system. |
+| **Body Signal** | Heavy chest, pit in stomach, urge to reach out immediately |
+| **Power Move** | 24-hour rule—no decisions from guilt, no contact while activated |
+| **Grief vs. Guilt** | Sadness about loss ≠ proof you did wrong |
+| **Mantra** | "I can feel guilty without being guilty." |
 

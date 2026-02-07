@@ -23,6 +23,8 @@ Your body was reading the energetic signature of control. It was detecting somet
 
 This chapter is about learning to trust that signal.
 
+> **The Bottom Line:** Your body detects control before your mind can name it—and that signal is more reliable than any explanation they offer.
+
 ---
 
 > **FIRST AID: If This Chapter Activates You**
@@ -79,6 +81,15 @@ When neuroception detects danger, it triggers a cascade of physiological respons
 These responses evolved to save your life. But in the context of psychological manipulation, they can become confusing because the "danger" isn't physical. It's relational.
 
 Your body recognizes psychological threat even when your mind is still deciding whether to call it that.
+
+> **Try This Now:** Think of the last interaction that left you feeling "off."
+>
+> - Close your eyes and recall the moment. Don't analyze—just remember.
+> - Where do you feel it in your body right now?
+> - Is there tightness? Heaviness? A pulling sensation?
+> - What happens to your breath as you recall it?
+>
+> That response is real. It's not "in your head"—it's in your nervous system. File it away.
 
 ---
 
@@ -814,6 +825,37 @@ When in doubt, trust the organism.
 
 ---
 
+## Common Traps
+
+**Trap 1: Intellectualizing the body scan**
+You understand the concept but never actually pause to feel. You read about body signals but skip the practice because you "get it." Insight becomes a substitute for experience.
+
+**Trap 2: Pathologizing all discomfort**
+You start seeing manipulation everywhere. Every interaction becomes suspect. This isn't discernment—it's hypervigilance in a new costume.
+
+**Trap 3: Using awareness as confrontation**
+You name their tactics out loud: "That's gaslighting." This rarely creates safety—it usually escalates. The work is internal first.
+
+**Trap 4: Waiting for certainty before trusting yourself**
+You feel the signal but wait for "proof." By the time you have proof, you've often been hurt again. The body's early warning doesn't come with receipts.
+
+**Instead:** Practice quietly. Let the awareness build internally. Trust the accumulation of signals over time rather than waiting for one undeniable moment.
+
+---
+
+## You'll Know It's Working When...
+
+- You notice a body signal *during* an interaction, not just hours later
+- You think "something is off" and don't immediately talk yourself out of it
+- You leave an interaction and can name where you felt it in your body
+- The gap between feeling and trusting starts to close
+- You begin sorting people into "expansive" and "contractive" without trying
+- You spend less time analyzing whether you're being "fair" to them
+
+These shifts happen gradually. You may not notice until you look back.
+
+---
+
 ## Chapter Summary
 
 **Key Insights:**
@@ -831,6 +873,30 @@ After your next significant interaction, pause and notice: What does my body fee
 
 **Key Skill to Develop:**
 The ability to pause, scan your body, and name what you're feeling, before your mind creates a story that explains it away.
+
+---
+
+## Reflection Questions
+
+1. When did you last override a body signal because your mind told you it was "irrational"? What happened next?
+2. Who in your life consistently leaves you feeling smaller? Who leaves you feeling more yourself?
+3. What story have you told yourself to explain away your body's response to someone?
+4. If you trusted your body completely, what relationship would you handle differently?
+
+*You don't need to answer these now. Let them sit with you.*
+
+---
+
+## Quick Reference: The Energetic Signature
+
+| Element | Key Point |
+|---------|-----------|
+| **Core Insight** | Your body detects control before your mind names it |
+| **Body Signals** | Chest tension, hypervigilance, sudden shame, shrinking, fog, exhaustion |
+| **The Contrast** | Healthy = expansion, ease, clarity. Control = contraction, vigilance, confusion |
+| **Power Move** | Trust the body's signal before the mind's story |
+| **The Rule** | If your body contracted, pay attention—regardless of how "nice" they seemed |
+| **Mantra** | "My body tells its truth." |
 
 ---
 
