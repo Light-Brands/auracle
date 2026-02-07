@@ -22,7 +22,7 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She offers private sessions through LightBrands.ai and lightfield.institute as a Spiritual Alignment Specialist and Research Specialist.
+Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She offers private sessions through LightBrands.ai and lightfield.institute as a Master of Inner Technology and Research Specialist.
 
 ---
 
