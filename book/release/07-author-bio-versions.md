@@ -22,7 +22,7 @@ Each volume has a dedicated author bio that matches where the reader is:
 
 *For: Amazon KDP, podcast introductions, event programs*
 
-Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the books she needed but couldn't find. She lives in Costa Rica, where she offers healing sessions through Light Brands and Light Field Institute.
+Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the books she needed but couldn't find. She lives in Costa Rica, where she offers private sessions through LightBrands.ai and lightfield.institute as a Spiritual Alignment Specialist and Research Specialist.
 
 ---
 
@@ -34,7 +34,7 @@ Jennifer Brooke Lawless is a mental health counselor, writer, and survivor of na
 
 Her healing journey led her beyond traditional therapy—through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
-Today, Jennifer lives in Costa Rica surrounded by community, where she offers healing sessions and integration work through Light Brands and Light Field Institute. Her books—*The Narcissism Decoder*, *The Bridge*, and *Sovereignty*—were written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
+Today, Jennifer lives in Costa Rica surrounded by community, where she offers private sessions through LightBrands.ai and lightfield.institute as a Spiritual Alignment Specialist and Research Specialist. Her books—*The Narcissism Decoder*, *The Bridge*, and *Sovereignty*—were written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
 **Connect:** lightfield.institute | @jae.lawless | lightfieldlawless@gmail.com
 
