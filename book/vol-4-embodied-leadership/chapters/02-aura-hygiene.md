@@ -98,6 +98,105 @@ He noticed. At first, he resisted—her separateness felt like rejection. Then h
 
 ---
 
+## What Creates Field Contamination
+
+Before we explore hygiene practices, it helps to understand how your field gets cluttered in the first place. This isn't about blame—it's about awareness. Once you understand the mechanisms, you can catch contamination earlier.
+
+### The Physics of Proximity
+
+Your field extends several feet beyond your body. When you enter someone else's field space—or they enter yours—the fields interact. Information transfers. This is neutral physics, not spiritual weakness.
+
+**Close physical proximity creates the most exchange:**
+- Sitting next to someone on public transit
+- Sharing an office with a stressed colleague
+- Sleeping beside a partner in distress
+- Hugging, touching, intimate contact
+
+**But proximity isn't only physical:**
+- An intense phone call carries their field through the device
+- Video calls create field connection through screens
+- Even thinking intensely about someone activates the cord between you
+- Scrolling someone's social media can pull you into their field
+
+### Why Some People Affect You More Than Others
+
+Not everyone leaves the same residue. Some people you spend hours with and feel fine. Others drain you in minutes. Understanding why helps you prepare.
+
+**You absorb more from:**
+- People whose emotional patterns are familiar (they feel like family)
+- Those whose nervous system dysregulation activates your own
+- Anyone you're trying to help, fix, or rescue
+- People you have unresolved business with (resentment, guilt, desire)
+- Those whose pain resonates with your own wounds
+- Anyone you depend on for approval
+
+**You absorb less from:**
+- People who are well-regulated
+- Those you don't have emotional history with
+- Anyone whose patterns are unfamiliar to your system
+- People who maintain their own boundaries
+- Those who aren't leaking their field toward you
+
+**The paradox:** You often absorb most from the people you love most. Intimacy creates porosity. This isn't a problem to fix—it's a reality to work with through hygiene.
+
+### Environments That Contaminate
+
+It's not just people. Places hold energy too.
+
+**High-contamination environments:**
+- Hospitals (concentrated pain, fear, and death)
+- Courthouses (conflict, anxiety, judgment)
+- Airports (collective rushing, separation anxiety)
+- Crowded shopping centers (desire, frustration, overstimulation)
+- Homes where abuse occurred (imprinted trauma)
+- Offices with toxic culture (accumulated stress)
+
+**You're more vulnerable in environments where:**
+- You feel unsafe or hypervigilant
+- The space activates your own trauma
+- Many people are dysregulated simultaneously
+- You can't easily leave
+- You're already depleted
+
+### First Signs Your Field Needs Clearing
+
+Your body tells you when you've picked something up. Learn to recognize these signals:
+
+**Emotional signals:**
+- Sudden mood shift after contact with someone
+- Feeling irritable or sad with no clear cause
+- Anxiety that appeared after being in a certain place
+- Heaviness that doesn't lift with rest
+
+**Physical signals:**
+- Unexplained fatigue after social contact
+- Headache or pressure after certain interactions
+- Feeling "off" in your body
+- Digestive upset after being in heavy environments
+- Tension patterns that don't respond to stretching
+
+**Mental signals:**
+- Can't stop thinking about someone else's problems
+- Difficulty concentrating after certain encounters
+- Racing thoughts that aren't about your life
+- Playing scenes from others' lives in your mind
+
+**The key question:** "Was I feeling this before I encountered that person/place/content?"
+
+If no—it's likely contamination.
+
+### The Accumulation Problem
+
+Field contamination isn't usually dramatic. It's subtle and cumulative.
+
+One difficult conversation doesn't destroy you. But that conversation, plus the tense commute, plus the worried friend who called, plus scrolling news before bed—it adds up.
+
+Most people don't notice the accumulation until they're overwhelmed. They just feel increasingly heavy, increasingly reactive, increasingly exhausted—and they don't know why.
+
+**This is why hygiene is daily.** Not because each day is catastrophic, but because each day accumulates. Clear daily, and you start fresh. Skip clearing, and you carry forward.
+
+---
+
 ## Why Hygiene Matters More Than Protection
 
 Many people focus on "protection"—shields, barriers, walls.
