@@ -14,7 +14,7 @@ Jennifer Brooke Lawless is a healer, writer, and guide for emotionally sensitive
 
 Her journey to sovereignty began in the wreckage of narcissistic relationships. In *The Narcissism Decoder* (Volume 1), she named the patterns. In *The Bridge* (Volume 2), she crossed from insight to embodiment. This book is what she found on the other side.
 
-Today, Jennifer lives in Costa Rica surrounded by community—on a hill with lemon trees and howler monkeys—practicing what she teaches: sovereignty without force, leadership without performing, and care without carrying. She offers private sessions through LightBrands.ai and lightfield.institute as a Master of Inner Technology and Research Specialist.
+Today, Jennifer lives in Costa Rica surrounded by community—on a hill with lemon trees and howler monkeys—practicing what she teaches: sovereignty without force, leadership without performing, and care without carrying. She offers private sessions through LightBrands.ai and lightfield.institute as a Master of Inner Technology and Therapist.
 
 She no longer seeks permission to take up space. She no longer confuses intensity with connection. She chooses without urgency, desires without fear, and separates without guilt.
 
