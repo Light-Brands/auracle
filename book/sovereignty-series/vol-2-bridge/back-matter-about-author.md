@@ -26,7 +26,8 @@ She now lives in Costa Rica, where she offers healing sessions and integration w
 
 **Connect with Jennifer**
 
-- Website: lightfield.institute
+- Website: LightBrands.ai
+- Counseling & Research: LightField.Institute
 - Instagram: @jae.lawless
 - Email: lightfieldlawless@gmail.com
 

@@ -26,7 +26,8 @@ The answer is here. And so are you.
 
 **Connect with Jennifer**
 
-- Website: lightfield.institute
+- Website: LightBrands.ai
+- Counseling & Research: LightField.Institute
 - Instagram: @jae.lawless
 - Email: lightfieldlawless@gmail.com
 

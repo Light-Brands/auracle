@@ -125,6 +125,8 @@ This newsletter is a companion, not a replacement for care.
 
 - **Newsletter:** You're here! Subscribe if you haven't.
 - **Events:** I co-host transformative retreats through [Amate Events](https://instagram.com/amatesoulware)
+- **Website:** LightBrands.ai
+- **Counseling & Research:** LightField.Institute
 - **Sessions:** Book a healing session through Light Brands and Light Field Institute
 - **Email:** lightfieldpress@gmail.com
 
