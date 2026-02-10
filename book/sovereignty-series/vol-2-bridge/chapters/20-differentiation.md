@@ -227,6 +227,10 @@ Disconnection is protection without discrimination. Differentiation is presence 
 
 Differentiation is neither enmeshment nor disconnection. It's the ability to stay connected and separate at the same time.
 
+**The question underneath every relational struggle is this:** Does this relationship have space for two autonomous nervous systems?
+
+Not: "Do we agree?" Not: "Are we close enough?" But: "Can both of us exist here—fully, separately, without one collapsing to make room for the other?"
+
 **What differentiation looks like:**
 
 - "I can see you're upset, and I can stay calm."
@@ -552,6 +556,44 @@ When you differentiate, you may grieve:
 This grief is real. And it's part of the path.
 
 You're not losing love. You're making space for a different kind of love—one where you get to exist.
+
+---
+
+## Field Note (Before): The Recruited Self
+
+She notices the shift not when someone harms her, but when someone needs her too much.
+
+Gratitude feels heavy. Requests feel loaded. Every "thank you" carries a thread she's supposed to hold.
+
+She doesn't know why she's irritated. She only knows that saying yes costs something she can't name, and saying no echoes longer than saying yes ever did.
+
+So she says yes. Again. And again. And the irritation turns inward—becomes guilt for feeling it at all.
+
+She isn't angry at them. She's disappearing into them. And she can't find the edge where she ends and their need begins.
+
+---
+
+## Field Note (After): The Boundary That Stayed
+
+She notices the shift—the familiar weight of someone else's need pressing against her edges.
+
+Gratitude feels heavy. Requests feel loaded.
+
+But this time, she pauses.
+
+She isn't withdrawing from love. She's withdrawing from fusion.
+
+The guilt is old. The boundary is new.
+
+She stays with it. Doesn't explain. Doesn't soften. Doesn't reach for her phone to smooth it over.
+
+The irritation passes. What's underneath is quieter than she expected.
+
+Not anger. Not rejection.
+
+Space.
+
+This time, she stays.
 
 ---
 
