@@ -12,6 +12,10 @@
 | 2 | The Bridge | *Why did this shape me?* | Liberation |
 | 3 | Sovereignty | *Who am I when I stop shrinking?* | Empowerment |
 | 4 | Embodied Leadership | *How do I live from presence?* | Embodiment |
+| 5 | The Lineage | *What am I passing on?* | Conscious Parenting |
+| 6 | The Guide | *How do I serve without losing myself?* | Service |
+| 7 | The Return | *What does thriving actually look like?* | Thriving |
+| 8 | Quantum You | *Who was I before they told me who to be?* | Becoming |
 
 ---
 
@@ -33,6 +37,10 @@ This is not theory. Every page comes from both sides of the therapy room — the
 **Volume 2: The Bridge** — *Why did this shape me?* (Liberation)
 **Volume 3: Sovereignty** — *Who am I when I stop shrinking?* (Empowerment)
 **Volume 4: Embodied Leadership** — *How do I live from presence?* (Embodiment)
+**Volume 5: The Lineage** — *What am I passing on?* (Conscious Parenting)
+**Volume 6: The Guide** — *How do I serve without losing myself?* (Service)
+**Volume 7: The Return** — *What does thriving actually look like?* (Thriving)
+**Volume 8: Quantum You** — *Who was I before they told me who to be?* (Becoming)
 
 Each volume stands on its own. Together, they are a complete transformation.
 
