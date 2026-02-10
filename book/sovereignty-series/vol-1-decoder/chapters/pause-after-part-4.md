@@ -1,6 +1,6 @@
 # Pause and Integrate
 
-You've completed **Part IV: Decoder Tools** (Chapters 14–16)
+You've completed **Part IV: Decoder Tools** (Chapter 14)
 
 ---
 
@@ -40,7 +40,7 @@ You are equipped now in ways you weren't before. That's not nothing. That's actu
 
 ## When You're Ready
 
-**Part V: Recovery & Response** awaits (Chapters 17-19)—where we explore how to rewire your nervous system through energetic remapping, communicate with power through prepared scripts, and move forward into the life that's actually yours.
+**Part V: Recovery & Response** awaits (Chapters 15–17)—where we explore how to rewire your nervous system through energetic remapping, communicate with power through prepared scripts, and move forward into the life that's actually yours.
 
 You've recognized. You've understood. You've seen patterns in context. You have the tools.
 

@@ -106,6 +106,8 @@ Appendix D: Core Techniques Reference — Quick Access Guide for Grounding, Resp
 
 Appendix E: Index — Quick Reference to Key Concepts and Terms .................... [pg. XX]
 
+Appendix F: Substance-Related Patterns — Recognizing Narcissistic Dynamics in Addiction and Recovery .................... [pg. XX]
+
 ---
 
 ## Before We Begin

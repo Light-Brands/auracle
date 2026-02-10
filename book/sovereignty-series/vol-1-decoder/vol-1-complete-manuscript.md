@@ -1,6 +1,6 @@
 # You Are Not Crazy
 
-## The Narcissism Decoder
+## The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
 
 ---
 
@@ -105,6 +105,8 @@ Appendix C: Bibliography & Further Reading — Sources, Influences, and Recommen
 Appendix D: Core Techniques Reference — Quick Access Guide for Grounding, Response, and Protection .................... [pg. XX]
 
 Appendix E: Index — Quick Reference to Key Concepts and Terms .................... [pg. XX]
+
+Appendix F: Substance-Related Patterns — Recognizing Narcissistic Dynamics in Addiction and Recovery .................... [pg. XX]
 
 ---
 
@@ -10077,14 +10079,14 @@ You are equipped now in ways you weren't before. That's not nothing. That's actu
 ## Reflection Questions
 
 1. Which decoder card resonated most? Which pattern do you need to watch for most carefully?
-2. What grounding technique from Chapter 16 will you use when activated?
+2. What grounding technique from Chapter 15 will you use when activated?
 3. Which exposure questions do you want to ask—or wish you'd asked earlier?
 
 ---
 
 ## When You're Ready
 
-**Part IV: Decoder Tools** awaits (Chapters 14-16)—where you'll receive the Decoder Cards for real-time pattern recognition, and the Emergency Protocol for when you're activated.
+**Part IV: Decoder Tools** awaits (Chapter 14)—where you'll receive the Decoder Cards for real-time pattern recognition, and the Emergency Protocol for when you're activated.
 
 You've done the recognition. You've understood the origins. You've seen patterns in context.
 
@@ -10094,7 +10096,7 @@ Now comes the toolkit for freedom.
 
 *You're not just reading a book. You're rewriting a story—the one you'll live from now on.*
 
-# Chapter 16: Decoder Cards — Emergency Protocol
+# Chapter 14: Decoder Cards — Emergency Protocol
 
 ## When You Need Clarity Now
 
@@ -10506,7 +10508,7 @@ Now you have the decoder. Use it.
 
 # Pause and Integrate
 
-You've completed **Part IV: Decoder Tools** (Chapters 14–16)
+You've completed **Part IV: Decoder Tools** (Chapter 14)
 
 ---
 
@@ -10546,7 +10548,7 @@ You are equipped now in ways you weren't before. That's not nothing. That's actu
 
 ## When You're Ready
 
-**Part V: Recovery & Response** awaits (Chapters 17-19)—where we explore how to rewire your nervous system through energetic remapping, communicate with power through prepared scripts, and move forward into the life that's actually yours.
+**Part V: Recovery & Response** awaits (Chapters 15–17)—where we explore how to rewire your nervous system through energetic remapping, communicate with power through prepared scripts, and move forward into the life that's actually yours.
 
 You've recognized. You've understood. You've seen patterns in context. You have the tools.
 
