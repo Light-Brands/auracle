@@ -14289,13 +14289,16 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She maintains an active practice in Aura Reading—a psychic intuition technology. She is a Rose Meditation guide, offering counsel through her online private practice and self-study course for clients seeking integration and wholeness.
+Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She maintains an active practice in Aura Reading—a psychic intuition technology—and serves as a Rose Meditation guide, offering counsel through her online private practice and self-study course for clients seeking integration and wholeness.
+
+Through LightBrands.ai, she explores the intersection of inner technology and outer innovation—believing that a sound outer tech comes from a sound inner tech.
 
 ---
 
 **Connect with Jennifer**
 
-- Website: lightfield.institute
+- Website: lightbrands.ai
+- Practice: lightfield.institute
 - Instagram: @jae.lawless
 - Email: lightfieldlawless@gmail.com
 
