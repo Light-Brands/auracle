@@ -33,14 +33,14 @@ You are equipped now in ways you weren't before. That's not nothing. That's actu
 ## Reflection Questions
 
 1. Which decoder card resonated most? Which pattern do you need to watch for most carefully?
-2. What grounding technique from Chapter 16 will you use when activated?
+2. What grounding technique from Chapter 15 will you use when activated?
 3. Which exposure questions do you want to ask—or wish you'd asked earlier?
 
 ---
 
 ## When You're Ready
 
-**Part IV: Decoder Tools** awaits (Chapters 14-16)—where you'll receive the Decoder Cards for real-time pattern recognition, and the Emergency Protocol for when you're activated.
+**Part IV: Decoder Tools** awaits (Chapter 14)—where you'll receive the Decoder Cards for real-time pattern recognition, and the Emergency Protocol for when you're activated.
 
 You've done the recognition. You've understood the origins. You've seen patterns in context.
 

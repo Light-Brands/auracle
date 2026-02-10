@@ -1,4 +1,4 @@
-# Chapter 16: Decoder Cards — Emergency Protocol
+# Chapter 14: Decoder Cards — Emergency Protocol
 
 ## When You Need Clarity Now
 
