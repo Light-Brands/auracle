@@ -139,6 +139,10 @@ These clauses run automatically. They don't require conscious agreement. They ju
 
 ## Why Guilt Appears When You Separate
 
+> *When safety was conditional, attunement became survival.*
+> *When attunement became survival, boundaries felt like danger.*
+> *When boundaries felt like danger, guilt became the signal.*
+
 When you stop:
 - Soothing when you're not moved to soothe
 - Explaining when no explanation is owed
