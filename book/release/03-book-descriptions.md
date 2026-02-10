@@ -15,6 +15,31 @@
 
 ---
 
+## Amazon KDP Series Description
+
+**Series Title:** The Sovereignty Series
+
+**Series Description (for KDP series page):**
+
+You didn't lose yourself overnight. You won't find yourself in a single book.
+
+The Sovereignty Series is a guided journey from confusion to clarity, from survival to sovereignty, from healing to fully embodied living. Each volume answers the question you're ready for — and prepares you for the one that comes next.
+
+It begins with recognition: naming the 60 manipulation patterns that kept you doubting your own perception. It moves through the science of why you got hooked — and the nervous system training that gets you free. It installs the internal authority you were never taught you had. And it ends where real life begins: living from presence, not performance.
+
+This is not theory. Every page comes from both sides of the therapy room — the clinical training that gave the author language, and the lived experience that made her understand why that language matters.
+
+**Volume 1: You Are Not Crazy** — *What is happening to me?* (Recognition)
+**Volume 2: The Bridge** — *Why did this shape me?* (Liberation)
+**Volume 3: Sovereignty** — *Who am I when I stop shrinking?* (Empowerment)
+**Volume 4: Embodied Leadership** — *How do I live from presence?* (Embodiment)
+
+Each volume stands on its own. Together, they are a complete transformation.
+
+The confusion ends here. Your sovereignty begins.
+
+---
+
 ---
 
 ## Volume 1: You Are Not Crazy — The Narcissism Decoder
