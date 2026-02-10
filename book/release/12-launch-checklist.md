@@ -75,9 +75,12 @@ Week 29+:    Complete Series Marketing + Future Offerings
 
 **Copy**
 - [ ] Finalize book description (from `03-book-descriptions.md`)
-- [ ] Prepare 7 Amazon keywords
+- [ ] Prepare 7 Amazon keyword boxes (optimized strategy in `03-book-descriptions.md`)
 - [ ] Confirm category selections
 - [ ] Write review request for back of book
+- [ ] Verify series page in front matter lists all 8 volumes
+- [ ] Verify back matter includes "What's Coming in Volume 2" preview
+- [ ] Verify back matter includes CTA block (newsletter, free cards, bundles)
 
 ---
 
@@ -85,14 +88,36 @@ Week 29+:    Complete Series Marketing + Future Offerings
 
 ### Launch Day (Day 0)
 
-**Morning (Before 9 AM)**
-- [ ] Upload Volume 1 to Amazon KDP
-- [ ] Preview and verify formatting
-- [ ] Submit for publishing (24-72 hour review)
+**Morning (Before 9 AM) — Publish in This Order:**
+
+*Step 1: Paperback First*
+- [ ] Upload Vol 1 paperback interior PDF (6x9, black & white) to Amazon KDP
+- [ ] Upload full cover PDF with spine
+- [ ] Select "Get a free KDP ISBN"
+- [ ] Set series name: `The Sovereignty Series`, number: `1`
+- [ ] Set paperback price: $14.99
+- [ ] Preview in KDP Print Previewer
+- [ ] Submit paperback for publishing
+
+*Step 2: Kindle eBook (after paperback is submitted)*
+- [ ] Upload Vol 1 ebook (EPUB/DOCX) to Amazon KDP
+- [ ] Upload ebook cover (2560 x 1600)
+- [ ] Use same description, keywords, categories, series info
+- [ ] Set ebook price: $2.99–$4.99 (70% royalty — hooks readers into series)
+- [ ] Preview in Kindle Previewer
+- [ ] Submit ebook for publishing (Amazon auto-links both formats)
+
+*Step 3: Gumroad*
 - [ ] Upload Volume 1 to Gumroad
 - [ ] Set pricing ($9.99 with Decoder Cards)
 - [ ] Verify email collection is enabled
 - [ ] Test purchase flow
+
+*Step 4: Post-Launch (once both formats are live)*
+- [ ] Verify formats are linked on same Amazon product page
+- [ ] Enable Series page in KDP
+- [ ] Add A+ Content (enhanced product page)
+- [ ] Add editorial reviews if available
 
 **Midday**
 - [ ] Publish first social media post (Day 1 content from `05-content-calendar.md`)

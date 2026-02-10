@@ -117,15 +117,24 @@ This is Volume 1 of the 8-volume Sovereignty Series:
 
 ---
 
-### Amazon Keywords (7 maximum, crucial for discoverability)
+### Amazon Keywords (7 boxes, up to 50 characters each)
 
-1. narcissistic abuse recovery
-2. manipulation tactics relationships
-3. trauma bond healing
-4. gaslighting awareness
-5. emotional abuse recovery
-6. toxic relationship patterns
-7. narcissist playbook
+**Strategy:** Hybrid approach — 3 exact-match phrases for ranking + 4 broad keyword-packed boxes for indexing breadth. Words already in the title/subtitle are auto-indexed, so these focus on adjacent terms.
+
+| Box | Keywords | Chars |
+|-----|----------|-------|
+| 1 | `narcissistic abuse recovery self help book` | 44 |
+| 2 | `healing from emotional abuse gaslighting` | 41 |
+| 3 | `trauma bond breaking free toxic relationship` | 46 |
+| 4 | `covert narcissist tactics control disguised care` | 50 |
+| 5 | `codependency boundaries nervous system healing` | 48 |
+| 6 | `family triangulation mother wound father wound` | 48 |
+| 7 | `love bombing silent treatment DARVO recovery` | 46 |
+
+**Notes:**
+- Do NOT use quotation marks in keyword boxes (restricts combinatorial indexing)
+- Do NOT repeat words across boxes — Amazon recombines all words across all 7 boxes
+- Update keywords after launch based on performance data (unlimited changes allowed)
 
 ---
 
