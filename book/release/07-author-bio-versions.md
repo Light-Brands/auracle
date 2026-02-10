@@ -30,7 +30,7 @@ Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Ment
 
 *For: Gumroad, Substack, guest post bylines*
 
-Jennifer Brooke Lawless is a mental health counselor, writer, and survivor of narcissistic abuse. She holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University, with clinical experience spanning psychiatric care, family systems therapy, and couples work.
+Jennifer Brooke Lawless is a therapeut, writer, and survivor of narcissistic abuse. She holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University, with clinical experience spanning psychiatric care, family systems therapy, and couples work.
 
 Her healing journey led her beyond traditional therapy—through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 

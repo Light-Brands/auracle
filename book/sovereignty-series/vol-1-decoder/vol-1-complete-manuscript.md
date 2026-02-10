@@ -151,7 +151,7 @@ You're not crazy. You never were.
 
 The examples in this book come from real life.
 
-They're drawn from my years as a mental health counselor working across a variety of settings—locked psychiatric units, in-home family therapy, individual sessions, couples counseling—as well as from my own personal relationships and lived experiences.
+They're drawn from my years as a therapeut working across a variety of settings—locked psychiatric units, in-home family therapy, individual sessions, couples counseling—as well as from my own personal relationships and lived experiences.
 
 When you read a field note about a comment made at a gym, a look given across a dinner table, or the specific way someone's voice changed before an attack, these aren't hypotheticals. They happened. To my clients. To people I love. To me.
 
