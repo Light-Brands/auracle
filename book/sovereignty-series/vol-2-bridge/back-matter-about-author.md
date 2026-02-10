@@ -10,7 +10,7 @@
 
 ---
 
-Jennifer Brooke Lawless is a mental health counselor, writer, and survivor of narcissistic abuse. She holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University), with clinical experience spanning psychiatric units, family therapy, and couples counseling.
+Jennifer Brooke Lawless is a therapeut, writer, and survivor of narcissistic abuse. She holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University), with clinical experience spanning psychiatric units, family therapy, and couples counseling.
 
 In *The Narcissism Decoder* (Volume 1), she helped readers name the patterns. Now, in *The Bridge*, she guides you across the gap between insight and embodiment—because she had to cross it herself.
 
@@ -26,7 +26,8 @@ She now lives in Costa Rica, where she offers healing sessions and integration w
 
 **Connect with Jennifer**
 
-- Website: lightfield.institute
+- Website: LightBrands.ai
+- Counseling & Research: LightField.Institute
 - Instagram: @jae.lawless
 - Email: lightfieldlawless@gmail.com
 

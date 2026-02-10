@@ -36,10 +36,9 @@ What I learned: insight alone doesn't heal. You can understand everything and st
 
 So I went searching. Three years of travel. Spiritual community. Nervous system work. Shadow integration. The slow, body-level healing that actually changes how you move through the world.
 
-I wrote two books from that journey:
+I wrote a book from that journey:
 
 **The Narcissism Decoder** — Recognizing control disguised as care
-**The Bridge** — Moving from insight to embodiment
 
 This newsletter continues that work, one week at a time.
 
@@ -70,9 +69,9 @@ No overwhelm. No daily content. Just one meaningful email designed to help you f
 
 ---
 
-## The Books
+## The Book
 
-### Volume 1: The Narcissism Decoder
+### The Narcissism Decoder
 
 *Control Disguised as Care*
 
@@ -82,33 +81,15 @@ For anyone who has left a conversation feeling worse without understanding why. 
 
 ---
 
-### Volume 2: The Bridge
-
-*Learning Secure Attachment After Trauma*
-
-For anyone who understands the patterns but can't stop reacting. This book bridges insight and embodiment with a 12-week secure attachment training program, reparenting practices, and guidance for dating after trauma.
-
-**[Get it on Amazon →]** | **[Get it on Gumroad (with worksheets) →]**
-
----
-
-### The Bundle
-
-Both books together, plus all bonuses, at 15% off.
-
-**[Get the bundle on Gumroad →]**
-
----
-
 ## How to Use This Publication
 
 ### If You're New to This Work
 
-Start with the free Decoder Cards. They'll give you language for what you've been experiencing. Then read Volume 1 to understand the full playbook.
+Start with the free Decoder Cards. They'll give you language for what you've been experiencing. Then read The Narcissism Decoder to understand the full playbook.
 
 ### If You Understand But Still React
 
-That gap between knowing and being is exactly what Volume 2 addresses. Start there, or subscribe and let the weekly emails meet you where you are.
+That gap between knowing and being is real. Subscribe and let the weekly emails meet you where you are.
 
 ### If You're in Crisis
 
@@ -125,6 +106,8 @@ This newsletter is a companion, not a replacement for care.
 
 - **Newsletter:** You're here! Subscribe if you haven't.
 - **Events:** I co-host transformative retreats through [Amate Events](https://instagram.com/amatesoulware)
+- **Website:** LightBrands.ai
+- **Counseling & Research:** LightField.Institute
 - **Sessions:** Book a healing session through Light Brands and Light Field Institute
 - **Email:** lightfieldpress@gmail.com
 
