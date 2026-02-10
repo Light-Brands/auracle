@@ -52,24 +52,28 @@ The confusion ends here.
 **Use HTML formatting for Amazon:**
 
 ```html
-<b>You picked up this book because something felt off.</b>
+<b>The wolf never arrives wearing wolf skin.</b>
 
-Maybe it was a relationship that left you questioning your own sanity. A family dynamic that drained you no matter how much you gave. A friendship that felt more like a hostage situation than a connection.
+It wears concern, love, protection, honesty. You invite it closer because it looks like care. Only when it's close enough to consume does it show its teeth.
+
+You picked up this book because something felt off. A relationship that left you questioning your sanity. A family dynamic that drained you no matter how much you gave. A friendship that felt like a hostage situation. You couldn't name what was happening—and that was the point.
 
 <b>This book is your decoder ring.</b>
 
-The tactics described in these pages aren't random acts of cruelty—they're a systematic playbook used by people who prioritize control over connection, dominance over intimacy, and their own needs over yours. Once you can name these patterns, they lose their power over you.
+Written from both sides of the therapy room—by a trauma-trained therapist who also lived these patterns—<i>The Narcissism Decoder</i> names 60 tactics of control disguised as care and teaches you to recognize them in real-time, not days later.
 
-<b>What You'll Learn:</b>
+<b>Inside This Five-Part Guide:</b>
 
-• <b>60 manipulation patterns</b> fully decoded—from love-bombing to the silent treatment
-• <b>The Energetic Signature</b>—how to recognize control in your body before your mind catches up
-• <b>Trauma bond science</b>—why you got hooked and why leaving is so hard
-• <b>Narcissist archetypes</b>—the Performer, the Victim, the Intellectual, and more
-• <b>Family systems dynamics</b>—when manipulation is your origin story
-• <b>Decoder Cards</b>—quick-reference guides for real-time recognition
-• <b>Practical response scripts</b>—what to actually say and do
-• <b>Nervous system recovery tools</b>—rewiring for freedom
+• <b>The Energetic Signature</b>—how to detect control in your body before your mind catches up
+• <b>60 manipulation patterns fully decoded</b>—gaslighting, love-bombing, future faking, DARVO, triangulation, covert contracts, and more
+• <b>Trauma bond science</b>—why you got hooked, why leaving feels impossible, and the biology behind it
+• <b>Narcissist archetypes and 12 identity masks</b>—the Performer, the Victim, the Intellectual, and the roles they adopt for control
+• <b>Family systems and parental wounds</b>—when manipulation is your origin story
+• <b>Exposure questions</b>—questions that cause narcissists to reveal themselves
+• <b>60+ Decoder Cards</b>—quick-reference tools for real-time pattern recognition, including digital manipulation and professional boundary violations
+• <b>The 3-3-3 Rule</b>—a real-time framework: 3 seconds to pause, 3 breaths to regulate, 3 words to respond
+• <b>Practical response scripts</b>—what to actually say when you're in it
+• <b>Nervous system recovery tools</b>—grounding, remapping, and rewiring for freedom
 
 <b>The Promise:</b>
 
@@ -85,17 +89,19 @@ By the end of this book, you will:
 <b>Who This Book Is For:</b>
 
 • Anyone who has left an interaction feeling worse without understanding why
-• Those wondering if they're "too sensitive" or if something really is wrong
-• People actively healing from narcissistic abuse in any form
-• Those beginning to see family dynamics, friendships, or relationships with new eyes
+• Those told they're "too sensitive"—wondering if something really is wrong
+• People healing from narcissistic abuse in romantic, family, professional, or social contexts
+• Those beginning to see lifelong dynamics with new eyes
 • Anyone who wants to recognize these patterns before getting pulled in
 • Therapists, coaches, and friends who support survivors
+
+<b>Multiple Reading Paths:</b> Whether you're in crisis, still in the relationship, recently out, healing, or helping others—this book meets you where you are with a guided path for your situation.
 
 <b>A Note:</b>
 
 This book does not diagnose anyone. It describes behavioral patterns that cause real harm regardless of their clinical origin. You don't need a diagnosis to protect yourself. You don't need permission to set boundaries. You don't need a therapist to validate what your body already knows.
 
-<i>The confusion ends here.</i>
+<i>The confusion ends here. Your sovereignty begins.</i>
 
 <b>The Sovereignty Series:</b>
 
