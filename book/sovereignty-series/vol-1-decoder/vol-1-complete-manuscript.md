@@ -12737,7 +12737,7 @@ As you heal, consider:
 
 **Connect with Jae and The Auracle Community:**
 - Website: lightfield.institute
-- Aura readings and spiritual guidance sessions
+- Therapeut sessions and spiritual guidance
 - Rose Meditation courses
 - Community support
 
@@ -14289,7 +14289,7 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She maintains an active practice in Aura Reading—a psychic intuition technology—and serves as a Rose Meditation guide, offering counsel through her online private practice and self-study course for clients seeking integration and wholeness.
+Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She maintains an active therapeut practice and serves as a Rose Meditation guide, offering counsel through her online private practice and self-study course for clients seeking integration and wholeness.
 
 Through LightBrands.ai, she explores the intersection of inner technology and outer innovation—believing that a sound outer tech comes from a sound inner tech.
 

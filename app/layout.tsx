@@ -5,9 +5,9 @@ import Header from './components/Header'
 import { UserProvider } from './contexts/UserContext'
 
 export const metadata: Metadata = {
-  title: 'The Auracle - Aura Reading & Spiritual Guidance',
-  description: 'Awaken divine remembrance and energetic clarity through Rose Meditation, aura reading, and spiritual empowerment.',
-  keywords: 'aura reading, rose meditation, spiritual guidance, energy healing, meditation courses',
+  title: 'The Auracle - Therapeut & Spiritual Guidance',
+  description: 'Awaken divine remembrance and energetic clarity through Rose Meditation, therapeut sessions, and spiritual empowerment.',
+  keywords: 'therapeut, rose meditation, spiritual guidance, energy healing, meditation courses',
 }
 
 export default function RootLayout({

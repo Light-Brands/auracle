@@ -12,7 +12,7 @@ const JaeProfile = () => {
   ];
 
   const specialties = [
-    'Aura Sessions & Interpretation',
+    'Therapeut Sessions & Interpretation',
     'Rose Meditation Guidance',
     'Energy Field Assessment',
     'Spiritual Boundary Setting',
@@ -180,7 +180,7 @@ const JaeProfile = () => {
                 <div className="flex items-start">
                   <span className="w-2 h-2 bg-golden-light rounded-full mt-2 mr-3 flex-shrink-0" />
                   <div>
-                    <strong>Advanced Aura Session Certification</strong> - International
+                    <strong>Advanced Therapeut Certification</strong> - International
                     Institute of Energy Studies
                   </div>
                 </div>
@@ -225,7 +225,7 @@ const JaeProfile = () => {
           <div className="grid md:grid-cols-3 gap-6">
             {[
               {
-                text: "Jae saw things in my aura that completely shifted my understanding of myself. Her gentle guidance helped me heal patterns I didn't even know existed.",
+                text: "Jae saw things in my session that completely shifted my understanding of myself. Her gentle guidance helped me heal patterns I didn't even know existed.",
                 name: 'Sarah M.',
                 location: 'California',
               },

@@ -109,4 +109,4 @@ The full experience: Spirit messages + past life + current guidance + energy rea
 - [ ] Facebook testimonial guidelines:
   - Tag Jennifer in posts
   - Focus on benefits received  
-  - Refer to services as "sessions" (not aura readings)
+  - Refer to services as "therapeut sessions" (not aura readings)

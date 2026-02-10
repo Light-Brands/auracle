@@ -12,7 +12,7 @@ const CourseCatalog = () => {
       id: 'rose-meditation-1',
       title: 'Rose Meditation Level 1',
       subtitle: 'Mini Course - Your Gateway to Sacred Practice',
-      description: 'Begin your transformative journey with the foundational practices that will unlock your spiritual potential and set you on the path to becoming an Aura Reader.',
+      description: 'Begin your transformative journey with the foundational practices that will unlock your spiritual potential and set you on the path to becoming a Therapeut.',
       image: '🌹',
       price: 197,
       originalPrice: 297,
@@ -102,10 +102,10 @@ const CourseCatalog = () => {
       journeyStep: 3
     },
     {
-      id: 'aura-reader-certification',
-      title: 'Become an Aura Reader',
+      id: 'therapeut-certification',
+      title: 'Become a Therapeut',
       subtitle: 'Professional Certification Program',
-      description: 'Transform your spiritual practice into a professional skill. Complete certification program to guide others and offer professional readings.',
+      description: 'Transform your spiritual practice into a professional skill. Complete certification program to guide others and offer professional sessions.',
       image: '👁️✨',
       price: 1297,
       originalPrice: 1797,
@@ -122,7 +122,7 @@ const CourseCatalog = () => {
         'Business training'
       ],
       highlights: [
-        'Aura Reading Mastery',
+        'Therapeut Mastery',
         'Professional Ethics',
         'Client Session Skills',
         'Business Development'

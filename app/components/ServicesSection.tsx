@@ -8,7 +8,7 @@ const ServicesSection = () => {
   const services = [
     {
       icon: Calendar,
-      title: 'Personal Aura Readings',
+      title: 'Personal Therapeut Sessions',
       description:
         'Connect with your divine guides and receive profound spiritual insights in one-on-one sessions with Jennifer',
       features: [
@@ -18,7 +18,7 @@ const ServicesSection = () => {
         'Energy & chakra healing',
       ],
       pricing: 'Starting at $150',
-      cta: 'Book Your Reading',
+      cta: 'Book Your Session',
       href: '/schedule',
       gradient: 'from-golden-light to-earth-copper',
       highlight: 'Most Popular',
@@ -190,29 +190,29 @@ const ServicesSection = () => {
             <p className="text-gray-600 mb-6 leading-relaxed">
               &ldquo;Visualize your grounding cord now. Feel your presence
               deepen.&rdquo; Whether you seek immediate spiritual insights through a
-              personal aura reading or wish to master sacred practices through our Rose
+              personal therapeut session or wish to master sacred practices through our Rose
               Meditation journey, your path to self-sovereignty begins here.
             </p>
             <div className="grid sm:grid-cols-3 gap-4 mb-6">
               <div className="text-center p-4 bg-golden-light/5 rounded-lg">
                 <div className="text-2xl mb-2">🔮</div>
-                <div className="font-medium text-gray-800">30-Min Reading</div>
+                <div className="font-medium text-gray-800">30-Min Session</div>
                 <div className="text-sm text-gray-600">$150 • Focused guidance</div>
               </div>
               <div className="text-center p-4 bg-rose-pink/5 rounded-lg">
                 <div className="text-2xl mb-2">✨</div>
-                <div className="font-medium text-gray-800">60-Min Reading</div>
+                <div className="font-medium text-gray-800">60-Min Session</div>
                 <div className="text-sm text-gray-600">$200 • Deep exploration</div>
               </div>
               <div className="text-center p-4 bg-earth-copper/5 rounded-lg">
                 <div className="text-2xl mb-2">🌟</div>
-                <div className="font-medium text-gray-800">90-Min Reading</div>
+                <div className="font-medium text-gray-800">90-Min Session</div>
                 <div className="text-sm text-gray-600">$250 • Complete experience</div>
               </div>
             </div>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/schedule" className="btn-primary">
-                Book Your Aura Reading
+                Book Your Therapeut Session
               </Link>
               <Link href="/courses" className="btn-secondary">
                 Start Rose Meditation

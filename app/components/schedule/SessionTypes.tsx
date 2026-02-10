@@ -26,7 +26,7 @@ const SessionTypes = () => {
       popular: false,
       color: 'from-deep-purple to-vibrant-pink',
       examples: [
-        'General Aura Reading',
+        'General Therapeut Session',
         'Explore 1 Significant Past Life',
         'Get Guidance on 1 Focused Question',
         '1-2 Specific Chakras With Healing Insights',

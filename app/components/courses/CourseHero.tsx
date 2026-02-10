@@ -68,7 +68,7 @@ const CourseHero = () => {
             >
               Transform your spiritual journey through
               <span className="text-gradient-gold font-medium"> Rose Meditation</span>,
-              aura reading mastery, and deep energetic awareness practices.
+              therapeut mastery, and deep energetic awareness practices.
             </motion.p>
           </div>
 

@@ -89,7 +89,7 @@ Set up in this order (most important first):
 5. 📚 Both Books Bundle (Save 15%)
    → [Gumroad bundle link]
 
-6. 🔮 Book an Aura Reading
+6. 🔮 Book a Therapeut Session
    → calendly.com/lightfield
 
 7. 🌴 Amate Events (Retreats)

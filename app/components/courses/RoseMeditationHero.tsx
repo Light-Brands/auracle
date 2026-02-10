@@ -191,7 +191,7 @@ const RoseMeditationHero = () => {
                 practice. The Golden Sun technique alone changed my life!&rdquo;
               </p>
               <div className="text-xs text-gray-500">
-                - Sarah M., Certified Aura Reader
+                - Sarah M., Certified Therapeut
               </div>
             </motion.div>
           </motion.div>

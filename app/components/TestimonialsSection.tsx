@@ -8,7 +8,7 @@ const TestimonialsSection = () => {
     {
       name: 'Sarah M.',
       location: 'California',
-      text: "Jae's aura reading was transformative. She helped me understand my energy patterns and gave me practical tools for daily grounding. The Rose Meditation course has become an essential part of my spiritual practice.",
+      text: "Jae's therapeut session was transformative. She helped me understand my energy patterns and gave me practical tools for daily grounding. The Rose Meditation course has become an essential part of my spiritual practice.",
       rating: 5,
       image: '🌸',
     },
@@ -43,7 +43,7 @@ const TestimonialsSection = () => {
     {
       name: 'James W.',
       location: 'Berlin',
-      text: "My aura reading revealed patterns I never recognized before. Jennifer's compassionate approach and practical guidance have helped me cultivate deeper self-awareness and energetic boundaries.",
+      text: "My therapeut session revealed patterns I never recognized before. Jennifer's compassionate approach and practical guidance have helped me cultivate deeper self-awareness and energetic boundaries.",
       rating: 5,
       image: '🕊️',
     },
@@ -120,7 +120,7 @@ const TestimonialsSection = () => {
           viewport={{ once: true }}
         >
           {[
-            { number: '500+', label: 'Sacred Readings' },
+            { number: '500+', label: 'Sacred Sessions' },
             { number: '1200+', label: 'Course Students' },
             { number: '95%', label: 'Satisfaction Rate' },
             { number: '50+', label: 'Countries Reached' },

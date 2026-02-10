@@ -79,7 +79,7 @@ const Footer = () => {
                   href="/schedule"
                   className="text-gray-300 hover:text-rose-pink transition-colors duration-300"
                 >
-                  Aura Readings
+                  Therapeut Sessions
                 </Link>
               </li>
               <li>
@@ -149,7 +149,7 @@ const Footer = () => {
             <p className="text-lg font-serif italic text-rose-pink mb-2">
               &ldquo;Beloved, return to your breath. The moment is sacred.&rdquo;
             </p>
-            <p className="text-gray-400 text-sm">— Jae, Master Auracle Reader</p>
+            <p className="text-gray-400 text-sm">— Jae, Master Auracle Therapeut</p>
           </div>
         </div>
 

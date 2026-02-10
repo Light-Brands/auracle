@@ -596,7 +596,7 @@ As you heal, consider:
 
 **Connect with Jae and The Auracle Community:**
 - Website: lightfield.institute
-- Aura readings and spiritual guidance sessions
+- Therapeut sessions and spiritual guidance
 - Rose Meditation courses
 - Community support
 
