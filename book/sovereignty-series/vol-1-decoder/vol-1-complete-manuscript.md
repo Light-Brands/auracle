@@ -12,27 +12,14 @@ All rights reserved. No part of this book may be reproduced, distributed, or tra
 
 Published by KDP Amazon
 
-ISBN: Assigned by Amazon KDP (paperback)
-ASIN: Assigned by Amazon (ebook)
+ISBN 978-X-XXXX-XXXX-X (paperback)
+ISBN 978-X-XXXX-XXXX-X (ebook)
 
 First Edition
 
 **Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. It is sold with the understanding that the publisher and author are not engaged in rendering psychological, medical, or other professional services. If expert assistance or counseling is needed, the services of a competent professional should be sought. The author offers private counseling sessions online through Light Field Institute. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
 
-**Crisis Resources:** See Appendix A: Resources for 24/7 crisis hotlines, international resources, and specialized support services.
-
----
-
-## The Sovereignty Series
-
-**Volume 1: You Are Not Crazy — The Narcissism Decoder**
-Volume 2: The Bridge — Healing Through Secure Attachment
-Volume 3: Sovereignty — Internal Authority and Self-Trust
-Volume 4: Embodied Leadership — Living from Full Presence
-Volume 5: The Lineage — Conscious Parenting
-Volume 6: The Guide — Serving Others
-Volume 7: The Return — Thriving Beyond Survival
-Volume 8: Quantum You — Becoming Who You Always Were
+**Crisis Resources:** See [Appendix A: Resources](./appendices/appendix-a-resources.md) for 24/7 crisis hotlines, international resources, and specialized support services.
 
 ---
 
@@ -50,29 +37,46 @@ Volume 8: Quantum You — Becoming Who You Always Were
 
 **Part I: Recognition**
 
-Chapter 1: The Opening Manifesto — What This Book Is Really About
-Chapter 2: The Energetic Signature — How to Recognize Control Before Your Mind Catches Up
-Chapter 3: The Decoder Playbook — 60 Tactics of Control, Named and Decoded
-*Interlude: Pause and Integrate*
+Chapter 1: The Opening Manifesto — What This Book Is Really About .................... [pg. XX]
+
+Chapter 2: The Energetic Signature — How to Recognize Control Before Your Mind Catches Up .................... [pg. XX]
+
+Chapter 3: The Decoder Playbook — 60 Tactics of Control, Named and Decoded .................... [pg. XX]
+
+*Interlude: Pause and Integrate* .................... [pg. XX]
+
 **Part II: Understanding Origins**
 
-Chapter 4: The Psychology of Trauma Bonds — Why You Got Hooked, and Why Leaving Is So Hard
-Chapter 5: Understanding Narcissist Types — The Spectrum from Grandiose to Covert to Malignant
-Chapter 6: The Masks They Wear — 12 Identity Roles Narcissists Adopt for Control
-Chapter 7: Family Roles & Triangulation — When Manipulation Is Your Origin Story
-Chapter 8: Parental Wounds — The Mother Wound and Father Wound
-Chapter 9: Understanding Your Childhood Patterns — How Early Experiences Shape Adult Vulnerability
-Chapter 10: Breaking Free from Family Systems — Siblings, Shame, and Sovereignty
-*Interlude: Pause and Integrate*
+Chapter 4: The Psychology of Trauma Bonds — Why You Got Hooked, and Why Leaving Is So Hard .................... [pg. XX]
+
+Chapter 5: Understanding Narcissist Types — The Spectrum from Grandiose to Covert to Malignant .................... [pg. XX]
+
+Chapter 6: The Masks They Wear — 12 Identity Roles Narcissists Adopt for Control .................... [pg. XX]
+
+Chapter 7: Family Roles & Triangulation — When Manipulation Is Your Origin Story .................... [pg. XX]
+
+Chapter 8: Parental Wounds — The Mother Wound and Father Wound .................... [pg. XX]
+
+Chapter 9: Understanding Your Childhood Patterns — How Early Experiences Shape Adult Vulnerability .................... [pg. XX]
+
+Chapter 10: Breaking Free from Family Systems — Siblings, Shame, and Sovereignty .................... [pg. XX]
+
+*Interlude: Pause and Integrate* .................... [pg. XX]
+
 **Part III: Patterns in Context**
 
-Chapter 11: Romantic Manipulation — How Control Adapts to Intimacy
-Chapter 12: Manipulation Across Contexts — Beyond Romance: Recognizing Patterns Everywhere
-Chapter 13: The Exposure Questions — Questions That Make Narcissists Reveal Themselves
-*Interlude: Pause and Integrate*
+Chapter 11: Romantic Manipulation — How Control Adapts to Intimacy .................... [pg. XX]
+
+Chapter 12: Manipulation Across Contexts — Beyond Romance: Recognizing Patterns Everywhere .................... [pg. XX]
+
+Chapter 13: The Exposure Questions — Questions That Make Narcissists Reveal Themselves .................... [pg. XX]
+
+*Interlude: Pause and Integrate* .................... [pg. XX]
+
 **Part IV: Decoder Tools**
 
-Chapter 14: The Decoder Cards — Quick-Reference Guides for Real-Time Pattern Recognition- *Card 0: The Master Card (Wolf in Sheep's Clothing)*
+Chapter 14: The Decoder Cards — Quick-Reference Guides for Real-Time Pattern Recognition .................... [pg. XX]
+- *Card 0: The Master Card (Wolf in Sheep's Clothing)*
 - *Cards 1-27: Core Patterns*
 - *Cards 28-51: Advanced Patterns*
 - *Cards D-1 to D-4: Digital Manipulation Patterns*
@@ -80,20 +84,30 @@ Chapter 14: The Decoder Cards — Quick-Reference Guides for Real-Time Pattern R
 - *Cards S-1 to S-4: Substance-Related Patterns*
 - *Emergency Protocol: When You Need Clarity Now*
 
-*Interlude: Pause and Integrate*
+*Interlude: Pause and Integrate* .................... [pg. XX]
+
 **Part V: Recovery & Response**
 
-Chapter 15: Energetic Remapping — Recovery Tools — Rewiring Your Nervous System for Freedom
-Chapter 16: Practical Responses & Scripts — What to Actually Say and Do
-Chapter 17: Moving Forward — Closing Chapters and Beginning New Ones
+Chapter 15: Energetic Remapping — Recovery Tools — Rewiring Your Nervous System for Freedom .................... [pg. XX]
+
+Chapter 16: Practical Responses & Scripts — What to Actually Say and Do .................... [pg. XX]
+
+Chapter 17: Moving Forward — Closing Chapters and Beginning New Ones .................... [pg. XX]
+
 **Appendices**
 
-Appendix A: Resources — Support, Information, and Next Steps
-Appendix B: Glossary of Terms — Key Concepts and Definitions
-Appendix C: Bibliography & Further Reading — Sources, Influences, and Recommended Reading
-Appendix D: Core Techniques Reference — Quick Access Guide for Grounding, Response, and Protection
-Appendix E: Index — Quick Reference to Key Concepts and Terms
-Appendix F: Substance-Related Patterns — Recognizing Narcissistic Dynamics in Addiction and Recovery
+Appendix A: Resources — Support, Information, and Next Steps .................... [pg. XX]
+
+Appendix B: Glossary of Terms — Key Concepts and Definitions .................... [pg. XX]
+
+Appendix C: Bibliography & Further Reading — Sources, Influences, and Recommended Reading .................... [pg. XX]
+
+Appendix D: Core Techniques Reference — Quick Access Guide for Grounding, Response, and Protection .................... [pg. XX]
+
+Appendix E: Index — Quick Reference to Key Concepts and Terms .................... [pg. XX]
+
+Appendix F: Substance-Related Patterns — Recognizing Narcissistic Dynamics in Addiction and Recovery .................... [pg. XX]
+
 ---
 
 ## Before We Begin
@@ -195,7 +209,7 @@ You don't need to have a clinical diagnosis for someone in your life. You don't 
 
 ### Step 1: Emergency Resources (Save These NOW)
 
-**Turn to Appendix A: Resources immediately** and save those numbers before you need them. The appendix contains:
+**Turn to [Appendix A: Resources](./appendices/appendix-a-resources.md) immediately** and save those numbers before you need them. The appendix contains:
 - 24/7 crisis hotlines (domestic violence, suicide prevention, text lines)
 - LGBTQ+-specific resources
 - International resources by country
@@ -205,10 +219,10 @@ Create a safety plan with a trusted friend.
 
 ### Step 2: Crisis Reading Path
 If you're in danger, don't start at the beginning. Start here:
-1. **Chapter 16: Practical Responses** — Scripts for immediate use
-2. **Chapter 2: Energetic Signature** — Body-based recognition
-3. **Chapter 15: Energetic Remapping** — Nervous system grounding
-4. **Chapter 11: Romantic Manipulation—Exit Phase** — If you're planning to leave
+1. **[Chapter 16: Practical Responses](./chapters/16-practical-responses.md)** — Scripts for immediate use
+2. **[Chapter 2: Energetic Signature](./chapters/02-energetic-signature.md)** — Body-based recognition
+3. **[Chapter 15: Energetic Remapping](./chapters/15-energetic-remapping.md)** — Nervous system grounding
+4. **[Chapter 11: Romantic Manipulation—Exit Phase](./chapters/11-romantic-manipulation.md)** — If you're planning to leave
 
 ### Step 3: Quick Reference
 - **Decoder Cards 27 & 36** (Chapters 14-15) — Real-time pattern recognition
@@ -223,10 +237,10 @@ See the emergency resources above. Start with **Chapter 16: Practical Responses*
 
 ### If You're Still in the Relationship (Crisis Path)
 **Start here if you need practical help now:**
-1. **Chapter 16: Practical Responses** — Scripts for immediate use
-2. **Chapter 2: Energetic Signature** — Trust your body's signals
-3. **Chapter 11: Romantic Manipulation—Exit Phase** — If you're planning to leave
-4. **Decoder Cards, Chapter 14** — Real-time pattern recognition
+1. **[Chapter 16: Practical Responses](./chapters/16-practical-responses.md)** — Scripts for immediate use
+2. **[Chapter 2: Energetic Signature](./chapters/02-energetic-signature.md)** — Trust your body's signals
+3. **[Chapter 11: Romantic Manipulation—Exit Phase](./chapters/11-romantic-manipulation.md)** — If you're planning to leave
+4. **[Decoder Cards, Chapter 14](./chapters/14-decoder-protocol.md)** — Real-time pattern recognition
 
 *Skip ahead. Come back later. Your safety comes first.*
 
@@ -235,11 +249,11 @@ Read the book in order. The chapters build on each other, taking you from recogn
 
 ### If You're Healing
 **Recommended Healing Path:**
-1. **Chapter 15: Energetic Remapping** — Nervous system repair and grounding
-2. **Chapter 17: Moving Forward** — Roadmap for recovery
-3. **Chapter 9: Understanding Your Childhood Patterns** — Understanding vulnerability roots
-4. **Chapter 4: Trauma Bonds** — The biology of what happened
-5. **Volume 2: The Bridge** — Continue your healing journey with attachment repair
+1. **[Chapter 15: Energetic Remapping](./chapters/15-energetic-remapping.md)** — Nervous system repair and grounding
+2. **[Chapter 17: Moving Forward](./chapters/17-moving-forward.md)** — Roadmap for recovery
+3. **[Chapter 9: Understanding Your Childhood Patterns](./chapters/09-childhood-patterns.md)** — Understanding vulnerability roots
+4. **[Chapter 4: Trauma Bonds](./chapters/04-trauma-bonds.md)** — The biology of what happened
+5. **[Volume 2: The Bridge](../vol-2-bridge/README.md)** — Continue your healing journey with attachment repair
 
 ### If You're Helping Others
 The **Decoder Cards** in Chapter 14 are designed to be shared. Use them as conversation starters or teaching tools.
@@ -333,6 +347,11 @@ This book will teach you *what* to say. This rule teaches you *how* to buy time 
 ---
 
 *Let's begin.*
+
+
+
+---
+
 
 # Chapter 1: The Opening Manifesto
 
@@ -784,6 +803,11 @@ Let's begin.
 
 *"The truth will set you free, but first it will piss you off."*
 — Gloria Steinem
+
+
+
+---
+
 
 # Chapter 2: The Energetic Signature
 
@@ -1689,6 +1713,11 @@ The ability to pause, scan your body, and name what you're feeling, before your 
 
 *Your body tells its truth. Sometimes that's about now; sometimes it's about then. But it's always worth listening.*
 
+
+
+---
+
+
 # Chapter 3: The Decoder Playbook
 
 ## 60 Patterns of Manipulation, Named and Decoded
@@ -1753,13 +1782,13 @@ That's the only test you need.
 
 ---
 
-## PART 1: CORE PATTERNS (Cards 0-27)
+# PART 1: CORE PATTERNS (Cards 0-27)
 
 *These are the most common patterns you'll encounter first. Master these before moving to advanced patterns.*
 
 ---
 
-## Card 0: The Master Card
+# Card 0: The Master Card
 
 ## The Wolf in Sheep's Clothing
 
@@ -1815,7 +1844,7 @@ Once you see this meta-pattern, you'll recognize new wolves you've never encount
 
 ---
 
-## Category A: Control & Power-Shift Tactics
+# Category A: Control & Power-Shift Tactics
 
 🎯 **Recognition Focus:** These tactics establish dominance—who has power, who sets the agenda, who controls the space.
 
@@ -1971,7 +2000,7 @@ Your nervous system goes into freeze or fawn mode. You become very, very careful
 **Your Power Move:**
 **This is abuse.** Physical intimidation is domestic violence even without contact.
 
-Document everything: write down dates, what happened, what was said. Tell someone you trust. Create a safety plan. Know your exit routes. **See Appendix A for crisis resources.**
+Document everything: write down dates, what happened, what was said. Tell someone you trust. Create a safety plan. Know your exit routes. **See [Appendix A](../appendices/appendix-a-resources.md) for crisis resources.**
 
 This is not something you manage—this is something you get safe from.
 
@@ -2213,7 +2242,7 @@ You feel cruel ignoring emergencies. You drop your plans because what if this ti
 
 ---
 
-## Category B: Validation & Devaluation Tactics
+# Category B: Validation & Devaluation Tactics
 
 🎯 **Recognition Focus:** These tactics keep you seeking their approval, raising you up just enough to drop you again.
 
@@ -2422,7 +2451,7 @@ Notice when affection is conditional versus unconditional. Real love shows up ev
 
 ---
 
-## Category C: Psychological Manipulation
+# Category C: Psychological Manipulation
 
 🎯 **Recognition Focus:** These tactics target your mind, making you doubt your own perception and reality.
 
@@ -2659,7 +2688,7 @@ You laugh along to avoid being the buzzkill. You doubt whether you're being too 
 
 ---
 
-## Category D: Sexual & Emotional Control
+# Category D: Sexual & Emotional Control
 
 🎯 **Recognition Focus:** These tactics operate in the realm of intimacy, using closeness as a control mechanism.
 
@@ -2807,7 +2836,7 @@ You internalize their "preferences" as your inadequacies. You change your appear
 
 ---
 
-## Category E: Energetic & Spiritual Distortion
+# Category E: Energetic & Spiritual Distortion
 
 🎯 **Recognition Focus:** These tactics target your perception, intuition, and sense of meaning.
 
@@ -2900,7 +2929,7 @@ Protect your rest fiercely. Arguments that "have to happen tonight" almost never
 
 ---
 
-## PART 2: ADVANCED PATTERNS (Cards 28-51)
+# PART 2: ADVANCED PATTERNS (Cards 28-51)
 
 *These patterns are more sophisticated, often appearing during exit attempts or in specialized contexts. Read after mastering Core Patterns.*
 
@@ -2908,7 +2937,7 @@ Protect your rest fiercely. Arguments that "have to happen tonight" almost never
 
 ---
 
-## Category F: Complex Psychological Manipulation
+# Category F: Complex Psychological Manipulation
 
 💡 **Understanding Focus:** These tactics combine multiple dynamics for deeper manipulation.
 
@@ -2990,7 +3019,7 @@ You're terrified something will happen and it will be your fault. You stay to ke
 You are not responsible for another adult's choice to live or die. This is emotional hostage-taking, and it's a form of abuse.
 
 If they threaten suicide:
-- Call emergency services or a crisis line immediately (see Appendix A)
+- Call emergency services or a crisis line immediately (see [Appendix A](../appendices/appendix-a-resources.md))
 - Contact their family or friends
 - Do not try to manage this yourself
 - Then still leave if you need to leave
@@ -3073,7 +3102,7 @@ You start deferring to their interpretation of your experience. You trust their 
 
 ---
 
-## Category G: Post-Encounter Manipulation
+# Category G: Post-Encounter Manipulation
 
 🛡️ **Response Focus:** These tactics occur after conflict, separation, or during "reconciliation."
 
@@ -3304,11 +3333,11 @@ You feel touched that someone cares. Questioning their concern feels ungrateful.
 > **First Aid:** If this content activated crisis memories:
 > - You are safe right now
 > - These are words on a page about patterns—you are not in that situation right now
-> - If you need support, see Appendix A for crisis resources
+> - If you need support, see [Appendix A](../appendices/appendix-a-resources.md) for crisis resources
 
 ---
 
-## Category H: Relational Manipulation Tactics
+# Category H: Relational Manipulation Tactics
 
 💪 **Recovery Focus:** These final tactics often appear in ongoing or ending relationships.
 
@@ -3813,7 +3842,7 @@ Closure is something you give yourself. Their departure is information about the
 
 ---
 
-## PART 3: DIGITAL MANIPULATION PATTERNS (Cards D-1 to D-4)
+# PART 3: DIGITAL MANIPULATION PATTERNS (Cards D-1 to D-4)
 
 *Same patterns, different arena. The tactics that work in person adapt to digital spaces—often becoming harder to name because they leave no physical evidence.*
 
@@ -3941,7 +3970,7 @@ If their online behavior consistently creates insecurity and they dismiss your c
 
 ---
 
-## PART 4: PROFESSIONAL BOUNDARY PATTERNS (Cards P-1 to P-4)
+# PART 4: PROFESSIONAL BOUNDARY PATTERNS (Cards P-1 to P-4)
 
 *These patterns appear in professional contexts—business partnerships, workplaces, and collaborative relationships—but the underlying dynamic is the same: your autonomy is experienced as a threat.*
 
@@ -4140,7 +4169,7 @@ You start managing your reactions more than the actual problem. You question whe
 
 ---
 
-## PART 5: SUBSTANCE-RELATED PATTERNS (Cards S-1 to S-4)
+# PART 5: SUBSTANCE-RELATED PATTERNS (Cards S-1 to S-4)
 
 *These patterns use alcohol, drugs, or other substances as tools for control, excuse-making, or reality distortion.*
 
@@ -4302,7 +4331,7 @@ Later, when he brings up the thing she said no to before, she's clear.
 
 ---
 
-## Tactical Summary: Universal Counter-Moves
+# Tactical Summary: Universal Counter-Moves
 
 ## For Control Tactics (Cards 1-10):
 - State your intention once, briefly
@@ -4351,7 +4380,7 @@ Later, when he brings up the thing she said no to before, she's clear.
 
 ---
 
-## The 48-Hour Tactic Review
+# The 48-Hour Tactic Review
 
 After difficult interactions, wait 48 hours, then:
 
@@ -4376,7 +4405,7 @@ That's where we go next: the neuroscience of trauma bonds.
 
 ---
 
-## Quick Reference Card Index
+# Quick Reference Card Index
 
 ## Part 1: Core Patterns (Cards 0-27)
 | Card | Pattern | Category |
@@ -4449,7 +4478,12 @@ That's where we go next: the neuroscience of trauma bonds.
 ---
 
 *The Decoder Playbook — Vol. 1: The Narcissism Decoder*
-## Pause and Integrate
+
+
+---
+
+
+# Pause and Integrate
 
 You've completed **Part I: Recognition** (Chapters 1–3)
 
@@ -4496,6 +4530,11 @@ Take the time you need. The book will be here when you're ready.
 ---
 
 *You've already done something courageous by getting this far. That matters.*
+
+
+
+---
+
 
 # Chapter 4: The Psychology of Trauma Bonds
 
@@ -5030,6 +5069,11 @@ You now understand why leaving feels impossible—the biochemistry that kept you
 ---
 
 *You were hooked by biology. You can unhook through awareness, time, and consistent safety.*
+
+
+
+---
+
 
 # Chapter 5: Understanding Narcissist Types
 
@@ -6005,6 +6049,11 @@ Part II will show you where that system came from. And in seeing it clearly, you
 
 When you're ready, turn the page.
 
+
+
+---
+
+
 # Chapter 6: The Masks They Wear — 12 Identity Roles
 
 ## Understanding the Different Masks Narcissists Wear
@@ -6363,6 +6412,11 @@ When you're ready, turn the page.
 
 *The costume changes; the show stays the same. Learn to see the production underneath the performance.*
 
+
+
+---
+
+
 # Chapter 7: Family Roles & Triangulation
 
 ## When Manipulation Is Your Origin Story
@@ -6652,6 +6706,11 @@ Sometimes the third person isn't a messenger or a weapon—they're an *audience*
 ---
 
 *The roles were assigned. The triangles were constructed. None of it was about who you actually are.*
+
+
+
+---
+
 
 # Chapter 8: Parental Wounds
 
@@ -7333,6 +7392,11 @@ And in that acceptance, you finally become free.
 
 *The parent you needed isn't the parent you got. The grief is real. And so is your capacity to become what they couldn't be—for yourself.*
 
+
+
+---
+
+
 # Chapter 9: Understanding Your Childhood Patterns
 
 ## How Early Experiences Shape Adult Vulnerability
@@ -7689,7 +7753,7 @@ If these patterns feel familiar, know this: your body was adapting, not broken.
 
 What was learned in chaos can be unlearned in safety, slowly, gently, and without force.
 
-For deeper exploration of how sexuality heals and reorganizes, see **Volume 4: Embodied Leadership**, particularly Part III: Erotic Coherence.
+For deeper exploration of how sexuality heals and reorganizes, see **[Volume 4: Embodied Leadership](../../vol-4-embodied-leadership/README.md)**, particularly Part III: Erotic Coherence.
 
 ---
 
@@ -7780,6 +7844,11 @@ Small, consistent reparenting compounds. You're building the foundation you neve
 *The patterns were installed before you could choose. Now, as an adult, you get to choose what you keep and what you release.*
 
 *You are not defined by your programming. You are the one who can rewrite it.*
+
+
+
+---
+
 
 # Chapter 10: Breaking Free from Family Systems
 
@@ -8237,7 +8306,12 @@ You've now seen how narcissistic family systems operate—the roles, the wounds,
 
 *You didn't choose your family of origin. But you can choose your family of creation—including the family you become to yourself.*
 
-## Pause and Integrate
+
+
+---
+
+
+# Pause and Integrate
 
 You've completed **Part II: Understanding Origins** (Chapters 4–10)
 
@@ -8288,6 +8362,11 @@ Take the time you need. You've earned a pause.
 ---
 
 *Understanding where you came from changes what you walk toward. You're already different for having seen this clearly.*
+
+
+
+---
+
 
 # Chapter 11: Romantic Manipulation
 
@@ -8474,59 +8553,6 @@ Use these questions to assess early:
 
 ---
 
-### Magician Tactics: When Romance Is Performance
-
-Some manipulation goes beyond love-bombing into staged spectacle. These tactics borrow from the magician's playbook—misdirection, audience management, and reveal without consent.
-
-**Named Pattern: The False Reveal**
-
-A relational manipulation pattern in which intimacy or commitment is staged as a "reveal" rather than co-created, using misdirection, time compression, and social pressure to bypass consent.
-
-**The Key Distinction:** A magician wants your reaction. Integrity wants your yes.
-
-**Magician Tactics vs. Relational Integrity:**
-
-| Magician Dynamic | Relational Integrity |
-|------------------|---------------------|
-| Controls attention through spectacle | Invites presence through pacing |
-| Collapses time ("now or never") | Allows digestion and choice |
-| Frames meaning for you ("this is love") | Asks for your meaning |
-| Uses witnesses to secure compliance | Seeks privacy for consent |
-| Acts on your life (rearranging, deciding) | Asks permission before impact |
-| Escalates without checking your body | Tracks nervous system responses |
-| Reveals without humility | Lowers self to meet you |
-| Confusion interpreted as agreement | Clarity required before action |
-
-**The 6 Primary Magician Tactics:**
-
-**1. Misdirection** — While you're focused on one thing (grand gestures, emotional intensity, sudden intimacy), the real action happens elsewhere. You were watching the reveal. The power move happened offstage.
-
-**2. Forced Framing** — The magician tells you what just happened before you can interpret it yourself. "We're friends." "This is romantic." "This is destiny." Your body says *something's off*. Their words say *this is good*. That split creates confusion—which benefits the magician.
-
-**3. Time Compression** — Magicians collapse time so you can't check reality. Meeting family immediately. Proposals before integration. Your stunned feeling wasn't ambivalence—it was time deprivation.
-
-**4. Audience Recruitment** — Magicians rely on witnesses to lock in the illusion. Proposing in front of family. Public moments that discourage pause. You weren't just responding to them—you were managing the room.
-
-**5. Object Insertion** — The trick is often hidden in an object. A ring hidden in unexpected places. Your belongings being reorganized. These are symbolic claims, not gifts. They say: *"I am already arranging your world."*
-
-**6. Reveal Without Humility** — A true romantic lowers themselves—kneeling, slowing, checking your face. A manipulator never lowers themselves. The reveal happens *at* you, not *with* you.
-
-**Why This Is Not Romance:**
-
-Romance expands choice. Magician tactics constrict it.
-
-Romance asks: "How does this feel for you?" "Do you want this pace?" "What do you need?"
-
-Magician dynamics assume: Your reaction = agreement. Silence = consent. Confusion = opportunity.
-
-**The Nervous System Truth:**
-
-Your confusion, inability to eat, disorientation—those weren't weakness. They were your system saying: *"This is a trick, not a meeting."*
-
-> *You weren't fooled because you were naïve—you were targeted because you were perceptive, open, and slow enough to notice the dissonance.*
-
----
-
 ## A Note on Relationship Diversity
 
 While many examples in this chapter use heterosexual relationship dynamics, narcissistic abuse occurs in all relationship types. LGBTQ+ survivors face unique challenges:
@@ -8545,7 +8571,7 @@ While many examples in this chapter use heterosexual relationship dynamics, narc
 - Concerns about "making the community look bad"
 - Loss of chosen family who may side with the abuser
 
-**LGBTQ+-Specific Resources:** See Appendix A for LGBTQ+-specific crisis lines, partner abuse services, and transgender support resources.
+**LGBTQ+-Specific Resources:** See [Appendix A](../appendices/appendix-a-resources.md) for LGBTQ+-specific crisis lines, partner abuse services, and transgender support resources.
 
 If the dynamics in this chapter resonate but the specific examples don't match your experience, trust your perception. Abuse is abuse regardless of the genders involved.
 
@@ -8826,7 +8852,7 @@ You don't need their behavior to escalate for your unhappiness to be valid. Mid-
 > - Do you have a trusted person you can reach if this content activates you?
 > - Consider reading this section with support rather than alone.
 >
-> **Crisis Resources:** See Appendix A for 24/7 crisis hotlines.
+> **Crisis Resources:** See [Appendix A](../appendices/appendix-a-resources.md) for 24/7 crisis hotlines.
 >
 > When you're ready, continue.
 
@@ -8929,7 +8955,7 @@ If you're seeing these signs, you're in the danger zone:
 If you recognize exit-phase escalation, treat this as the dangerous situation it is:
 
 **1. Take the threats seriously**
-- Suicide threats: Call emergency services or a crisis line immediately (see Appendix A). You are not qualified to manage this.
+- Suicide threats: Call emergency services or a crisis line immediately (see [Appendix A](../appendices/appendix-a-resources.md)). You are not qualified to manage this.
 - Physical threats: Document everything. Tell someone you trust. Contact domestic violence resources.
 - Don't try to be the hero or therapist. Professional intervention is required.
 
@@ -8955,7 +8981,7 @@ If you recognize exit-phase escalation, treat this as the dangerous situation it
 - Quietly prepare, then exit when they're not present if possible
 
 **5. Get professional support**
-- Domestic violence advocate (see Appendix A for hotlines)
+- Domestic violence advocate (see [Appendix A](../appendices/appendix-a-resources.md) for hotlines)
 - Therapist who specializes in abuse recovery
 - Lawyer if needed for protection orders
 - Support group for survivors
@@ -9006,6 +9032,11 @@ The fact that you're reading this means part of you knows. Listen to that part. 
 ---
 
 *Love doesn't feel like a hostage situation. If it does, it isn't love.*
+
+
+
+---
+
 
 # Chapter 12: Manipulation Across Contexts
 
@@ -9662,6 +9693,11 @@ See Chapters 6-8 for detailed family navigation.
 
 *The pattern is portable. So is your ability to recognize it.*
 
+
+
+---
+
+
 > **⚠️ CRITICAL SAFETY WARNING — READ THIS FIRST**
 >
 > **Before using any questions in this chapter, assess your safety situation.** These questions can trigger narcissistic rage if the person feels exposed.
@@ -9677,7 +9713,7 @@ See Chapters 6-8 for detailed family navigation.
 > **If you are in RED:**
 > - Do NOT use these questions, they can trigger dangerous escalation
 > - Prioritize Chapter 16's exit planning and safety resources
-> - See Appendix A for 24/7 crisis hotlines
+> - See [Appendix A](../appendices/appendix-a-resources.md) for 24/7 crisis hotlines
 >
 > **If you are in YELLOW or GREEN:**
 > - These questions are for your own clarity, not as confrontation tools
@@ -10585,7 +10621,12 @@ A narcissist will struggle, deflect, reverse, or produce an example that reveals
 ---
 
 *"The question isn't whether they'll answer honestly. It's whether their answer, honest or not—reveals what you need to know."*
-## Pause and Integrate
+
+
+---
+
+
+# Pause and Integrate
 
 You've completed **Part III: Patterns in Context** (Chapters 11–13)
 
@@ -10636,6 +10677,11 @@ Now comes the toolkit for freedom.
 ---
 
 *You're not just reading a book. You're rewriting a story—the one you'll live from now on.*
+
+
+
+---
+
 
 # Chapter 14: Decoder Cards — Emergency Protocol
 
@@ -11047,7 +11093,12 @@ Now you have the decoder. Use it.
 
 *Welcome to clarity.*
 
-## Pause and Integrate
+
+
+---
+
+
+# Pause and Integrate
 
 You've completed **Part IV: Decoder Tools** (Chapter 14)
 
@@ -11098,6 +11149,11 @@ Now comes the practice of freedom.
 ---
 
 *You're not just reading a book. You're rewriting a story—the one you'll live from now on.*
+
+
+---
+
+
 # Chapter 15: Energetic Remapping — Recovery Tools
 
 ## Rewiring Your Nervous System for Freedom
@@ -11516,6 +11572,11 @@ Every time you complete a stress cycle, your nervous system recalibrates. Every 
 
 *Your nervous system learned these patterns to protect you. Now you're teaching it that protection looks different.*
 
+
+
+---
+
+
 # Chapter 16: Practical Responses & Scripts
 
 ## Planned Interaction Strategies
@@ -11874,7 +11935,7 @@ That's not betrayal. That's separation.
 
 **Your response:**
 
-1. **Call emergency services or a crisis line immediately** (see Appendix A). Say: "I'm calling for help because you're saying you want to hurt yourself."
+1. **Call emergency services or a crisis line immediately** (see [Appendix A](../appendices/appendix-a-resources.md)). Say: "I'm calling for help because you're saying you want to hurt yourself."
 2. **Contact their family, friends, or emergency contacts** if you have them.
 3. **Do not take responsibility for their life.** You are not a mental health professional. You cannot prevent someone else's suicide by staying in an abusive relationship.
 4. **Still leave if you need to leave.** Their threat does not obligate you to stay.
@@ -11892,7 +11953,7 @@ That's not betrayal. That's separation.
 - Don't keep it secret. Tell people. This is too big to carry alone.
 - Don't become their suicide prevention plan. That's not love—that's hostage-taking.
 
-*See Appendix A for crisis resources.*
+*See [Appendix A](../appendices/appendix-a-resources.md) for crisis resources.*
 
 (See Chapter 3, Tactic 29; Chapter 11, Exit Phase Escalation for more context)
 
@@ -12324,6 +12385,11 @@ These scripts aren't magic. They won't transform the narcissist. They won't guar
 
 *You don't have to be perfect at this. You just have to be conscious.*
 
+
+
+---
+
+
 # Chapter 17: Moving Forward
 
 ## Closing Chapters and Beginning New Ones
@@ -12679,6 +12745,11 @@ It's yours.
 ---
 
 *Welcome home.*
+
+
+
+---
+
 
 # Appendix A: Resources
 
@@ -13076,7 +13147,7 @@ If you are still in contact with an abusive person, create a safety plan:
    - Create new email accounts they don't know about
    - Be aware of location sharing settings
 
-**The National Domestic Violence Hotline** can help you create a detailed, personalized safety plan: **1-800-799-7233**
+### The National Domestic Violence Hotline can help you create a detailed, personalized safety plan: 1-800-799-7233
 
 ---
 
@@ -13287,6 +13358,11 @@ As you heal, consider:
 ---
 
 *Every resource you reach for is an act of self-love. Keep going.*
+
+
+---
+
+
 # Appendix B: Glossary of Terms
 
 ## Key Concepts and Definitions
@@ -13628,6 +13704,11 @@ Return to this glossary as needed. Each time you name what happened, you reclaim
 ---
 
 *"When you can name something, you can begin to take your power back."*
+
+
+---
+
+
 # Appendix C: Bibliography & Further Reading
 
 ## Sources, Influences, and Recommended Reading
@@ -13912,6 +13993,11 @@ These three books alone provide a foundation for understanding what happened, wh
 ---
 
 *Knowledge is power. Understanding is freedom. Keep learning.*
+
+
+---
+
+
 # Appendix D: Core Techniques Reference
 
 ## Quick Access Guide for Grounding, Response, and Protection
@@ -14371,6 +14457,11 @@ Be patient with yourself. This is learnable. You're getting stronger.
 *These techniques are tools, not armor. They won't prevent all pain, but they will help you navigate it with more clarity, strength, and self-protection.*
 
 *Return to this appendix as often as needed. It's here for you.*
+
+
+---
+
+
 # Appendix E: Index
 
 ## Quick Reference to Key Concepts and Terms
@@ -14383,175 +14474,423 @@ This index provides quick access to the major concepts, tactics, and tools discu
 
 ## A
 
-**60 Patterns of Manipulation**—See Chapter 3
-**Abuse Amnesia**  - Definition  - In trauma bonds
-**Ambient Abuse**  - Examples  - Recognition
-**Attachment Styles**  - Anxious-preoccupied  - Dismissive-avoidant  - Fearful-avoidant  - Secure
+**60 Patterns of Manipulation**—See Chapter 3 .................... [pg. XX]
+
+**Abuse Amnesia** .................... [pg. XX]
+  - Definition .................... [pg. XX]
+  - In trauma bonds .................... [pg. XX]
+
+**Ambient Abuse** .................... [pg. XX]
+  - Examples .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Attachment Styles** .................... [pg. XX]
+  - Anxious-preoccupied .................... [pg. XX]
+  - Dismissive-avoidant .................... [pg. XX]
+  - Fearful-avoidant .................... [pg. XX]
+  - Secure .................... [pg. XX]
+
 ---
 
 ## B
 
-**Baiting**  - Recognition  - Responses
-**Blame-Shifting**  - In family systems  - In romantic relationships
-**Boundaries**  - Setting boundaries  - Narcissistic reactions to  - Scripts for maintaining
-**Breadcrumbing**
+**Baiting** .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+  - Responses .................... [pg. XX]
+
+**Blame-Shifting** .................... [pg. XX]
+  - In family systems .................... [pg. XX]
+  - In romantic relationships .................... [pg. XX]
+
+**Boundaries** .................... [pg. XX]
+  - Setting boundaries .................... [pg. XX]
+  - Narcissistic reactions to .................... [pg. XX]
+  - Scripts for maintaining .................... [pg. XX]
+
+**Breadcrumbing** .................... [pg. XX]
+
 ---
 
 ## C
 
-**Circular Conversations**  - Breaking the pattern  - Recognition
-**Closure** (denial of)
-**Coercive Control**  - In family systems  - In romantic relationships
-**Cognitive Dissonance**  - In trauma bonds  - Resolution strategies
-**Complex PTSD (C-PTSD)**  - Recovery from  - Symptoms
-**Conditioning**  - Breaking patterns  - Childhood conditioning
-**Covert Narcissist**  - Characteristics  - Versus overt narcissist
+**Circular Conversations** .................... [pg. XX]
+  - Breaking the pattern .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Closure** (denial of) .................... [pg. XX]
+
+**Coercive Control** .................... [pg. XX]
+  - In family systems .................... [pg. XX]
+  - In romantic relationships .................... [pg. XX]
+
+**Cognitive Dissonance** .................... [pg. XX]
+  - In trauma bonds .................... [pg. XX]
+  - Resolution strategies .................... [pg. XX]
+
+**Complex PTSD (C-PTSD)** .................... [pg. XX]
+  - Recovery from .................... [pg. XX]
+  - Symptoms .................... [pg. XX]
+
+**Conditioning** .................... [pg. XX]
+  - Breaking patterns .................... [pg. XX]
+  - Childhood conditioning .................... [pg. XX]
+
+**Covert Narcissist** .................... [pg. XX]
+  - Characteristics .................... [pg. XX]
+  - Versus overt narcissist .................... [pg. XX]
+
 ---
 
 ## D
 
-**DARVO** (Deny, Attack, Reverse Victim and Offender)  - Recognition  - Responses
-**Decoder Cards**—See Chapter 3  - Core patterns (Cards 0-27)  - Advanced patterns (Cards 28-51)  - Digital patterns (Cards D-1 to D-4)  - Professional patterns (Cards P-1 to P-4)  - Substance patterns (Cards S-1 to S-4)  - Decoder Protocol (Chapter 14)  - How to use
-**Devalue** (phase)  - In abuse cycle  - Recognition
-**Discard** (phase)  - Coping with  - Pattern
-**Dissociation**  - Grounding techniques  - Recognition
-**Double Bind**  - Examples  - Escaping
+**DARVO** (Deny, Attack, Reverse Victim and Offender) .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+  - Responses .................... [pg. XX]
+
+**Decoder Cards**—See Chapter 3 .................... [pg. XX]
+  - Core patterns (Cards 0-27) .................... [pg. XX]
+  - Advanced patterns (Cards 28-51) .................... [pg. XX]
+  - Digital patterns (Cards D-1 to D-4) .................... [pg. XX]
+  - Professional patterns (Cards P-1 to P-4) .................... [pg. XX]
+  - Substance patterns (Cards S-1 to S-4) .................... [pg. XX]
+  - Decoder Protocol (Chapter 14) .................... [pg. XX]
+  - How to use .................... [pg. XX]
+
+**Devalue** (phase) .................... [pg. XX]
+  - In abuse cycle .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Discard** (phase) .................... [pg. XX]
+  - Coping with .................... [pg. XX]
+  - Pattern .................... [pg. XX]
+
+**Dissociation** .................... [pg. XX]
+  - Grounding techniques .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Double Bind** .................... [pg. XX]
+  - Examples .................... [pg. XX]
+  - Escaping .................... [pg. XX]
+
 ---
 
 ## E
 
-**Emotional Flashbacks**  - Coping strategies  - Versus memory flashbacks
-**Emotional Incest** (Covert Incest)  - In family systems  - Long-term effects
-**Empathy** (lack of)
-**Enabler**  - In family systems  - Recognition
-**Energetic Remapping**—See Chapter 17  - Exercises  - Nervous system tools
-**Energetic Signature**—See Chapter 2  - Body awareness  - Recognition before thought
-**Enmeshment**  - In family systems  - Recovery from
-**Exposure Questions**—See Chapter 13
+**Emotional Flashbacks** .................... [pg. XX]
+  - Coping strategies .................... [pg. XX]
+  - Versus memory flashbacks .................... [pg. XX]
+
+**Emotional Incest** (Covert Incest) .................... [pg. XX]
+  - In family systems .................... [pg. XX]
+  - Long-term effects .................... [pg. XX]
+
+**Empathy** (lack of) .................... [pg. XX]
+
+**Enabler** .................... [pg. XX]
+  - In family systems .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Energetic Remapping**—See Chapter 17 .................... [pg. XX]
+  - Exercises .................... [pg. XX]
+  - Nervous system tools .................... [pg. XX]
+
+**Energetic Signature**—See Chapter 2 .................... [pg. XX]
+  - Body awareness .................... [pg. XX]
+  - Recognition before thought .................... [pg. XX]
+
+**Enmeshment** .................... [pg. XX]
+  - In family systems .................... [pg. XX]
+  - Recovery from .................... [pg. XX]
+
+**Exposure Questions**—See Chapter 13 .................... [pg. XX]
+
 ---
 
 ## F
 
-**False Self**
-**Family Systems**  - Breaking free (Chapter 9)  - Roles and triangulation (Chapter 7)
-**Father Wound**—See Chapter 8
-**FLEAS** (maladaptive behaviors)
-**Flying Monkeys**  - Dealing with  - Recognition
-**FOG** (Fear, Obligation, Guilt)  - Breaking free from  - Recognition
-**Future Faking**  - During love-bombing  - Recognition
+**False Self** .................... [pg. XX]
+
+**Family Systems** .................... [pg. XX]
+  - Breaking free (Chapter 9) .................... [pg. XX]
+  - Roles and triangulation (Chapter 7) .................... [pg. XX]
+
+**Father Wound**—See Chapter 8 .................... [pg. XX]
+
+**FLEAS** (maladaptive behaviors) .................... [pg. XX]
+
+**Flying Monkeys** .................... [pg. XX]
+  - Dealing with .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**FOG** (Fear, Obligation, Guilt) .................... [pg. XX]
+  - Breaking free from .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Future Faking** .................... [pg. XX]
+  - During love-bombing .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
 ---
 
 ## G
 
-**Gaslighting**  - Counter-strategies  - Recognition  - Types
-**Golden Child**  - In family dynamics  - Long-term effects
-**Gray Rock Method**  - Implementation  - When to use
-**Grandiosity**
-**Grooming**  - Recognition  - Stages
+**Gaslighting** .................... [pg. XX]
+  - Counter-strategies .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+  - Types .................... [pg. XX]
+
+**Golden Child** .................... [pg. XX]
+  - In family dynamics .................... [pg. XX]
+  - Long-term effects .................... [pg. XX]
+
+**Gray Rock Method** .................... [pg. XX]
+  - Implementation .................... [pg. XX]
+  - When to use .................... [pg. XX]
+
+**Grandiosity** .................... [pg. XX]
+
+**Grooming** .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+  - Stages .................... [pg. XX]
+
 ---
 
 ## H
 
-**Hoovering**  - After discard  - Resistance strategies  - Types
-**Hypervigilance**  - In recovery  - Symptoms
+**Hoovering** .................... [pg. XX]
+  - After discard .................... [pg. XX]
+  - Resistance strategies .................... [pg. XX]
+  - Types .................... [pg. XX]
+
+**Hypervigilance** .................... [pg. XX]
+  - In recovery .................... [pg. XX]
+  - Symptoms .................... [pg. XX]
+
 ---
 
 ## I
 
-**Idealization** (phase)  - In abuse cycle  - Love-bombing
-**Identified Patient**
-**Intermittent Reinforcement**  - In trauma bonds  - Psychology of
-**Invalidation**  - Effects  - Recovery from
+**Idealization** (phase) .................... [pg. XX]
+  - In abuse cycle .................... [pg. XX]
+  - Love-bombing .................... [pg. XX]
+
+**Identified Patient** .................... [pg. XX]
+
+**Intermittent Reinforcement** .................... [pg. XX]
+  - In trauma bonds .................... [pg. XX]
+  - Psychology of .................... [pg. XX]
+
+**Invalidation** .................... [pg. XX]
+  - Effects .................... [pg. XX]
+  - Recovery from .................... [pg. XX]
+
 ---
 
 ## J
 
-**JADE** (Justify, Argue, Defend, Explain)  - Avoiding  - Why it doesn't work
+**JADE** (Justify, Argue, Defend, Explain) .................... [pg. XX]
+  - Avoiding .................... [pg. XX]
+  - Why it doesn't work .................... [pg. XX]
+
 ---
 
 ## L
 
-**Love-Bombing**  - During idealization  - Recognition  - Versus genuine affection
-**Low Contact**  - Implementation  - Versus no contact
+**Love-Bombing** .................... [pg. XX]
+  - During idealization .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+  - Versus genuine affection .................... [pg. XX]
+
+**Low Contact** .................... [pg. XX]
+  - Implementation .................... [pg. XX]
+  - Versus no contact .................... [pg. XX]
+
 ---
 
 ## M
 
-**Manipulation**  - Across contexts (Chapter 12)  - In romantic relationships (Chapter 11)  - Tactics (Chapter 3)
-**Masking**
-**Mirroring**  - During love-bombing  - Recognition
-**Mother Wound**—See Chapter 8
-**Moving Goalposts**
+**Manipulation** .................... [pg. XX]
+  - Across contexts (Chapter 12) .................... [pg. XX]
+  - In romantic relationships (Chapter 11) .................... [pg. XX]
+  - Tactics (Chapter 3) .................... [pg. XX]
+
+**Masking** .................... [pg. XX]
+
+**Mirroring** .................... [pg. XX]
+  - During love-bombing .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Mother Wound**—See Chapter 8 .................... [pg. XX]
+
+**Moving Goalposts** .................... [pg. XX]
+
 ---
 
 ## N
 
-**Narcissistic Archetypes**—See Chapter 5  - Communal narcissist  - Covert narcissist  - Grandiose narcissist  - Malignant narcissist  - Overt narcissist
-**Narcissistic Collapse**
-**Narcissistic Injury**  - Rage responses  - Triggers
-**Narcissistic Personality Disorder (NPD)**  - Versus narcissistic behavior
-**Narcissistic Rage**  - Explosive  - Passive-aggressive
-**Narcissistic Supply**  - Types  - Why it matters
-**Nervous System**  - Energetic remapping  - Regulation tools  - Trauma responses
-**No Contact**  - Implementation  - When not possible
+**Narcissistic Archetypes**—See Chapter 5 .................... [pg. XX]
+  - Communal narcissist .................... [pg. XX]
+  - Covert narcissist .................... [pg. XX]
+  - Grandiose narcissist .................... [pg. XX]
+  - Malignant narcissist .................... [pg. XX]
+  - Overt narcissist .................... [pg. XX]
+
+**Narcissistic Collapse** .................... [pg. XX]
+
+**Narcissistic Injury** .................... [pg. XX]
+  - Rage responses .................... [pg. XX]
+  - Triggers .................... [pg. XX]
+
+**Narcissistic Personality Disorder (NPD)** .................... [pg. XX]
+  - Versus narcissistic behavior .................... [pg. XX]
+
+**Narcissistic Rage** .................... [pg. XX]
+  - Explosive .................... [pg. XX]
+  - Passive-aggressive .................... [pg. XX]
+
+**Narcissistic Supply** .................... [pg. XX]
+  - Types .................... [pg. XX]
+  - Why it matters .................... [pg. XX]
+
+**Nervous System** .................... [pg. XX]
+  - Energetic remapping .................... [pg. XX]
+  - Regulation tools .................... [pg. XX]
+  - Trauma responses .................... [pg. XX]
+
+**No Contact** .................... [pg. XX]
+  - Implementation .................... [pg. XX]
+  - When not possible .................... [pg. XX]
+
 ---
 
 ## O
 
-**Object Constancy** (lack of)
-**Overt Narcissist**  - Characteristics  - Versus covert narcissist
+**Object Constancy** (lack of) .................... [pg. XX]
+
+**Overt Narcissist** .................... [pg. XX]
+  - Characteristics .................... [pg. XX]
+  - Versus covert narcissist .................... [pg. XX]
+
 ---
 
 ## P
 
-**Parentification**  - Effects  - In childhood
-**Parental Wounds**—See Chapter 8
-**Projection**  - Examples  - Recognition
-**Professional Boundary Patterns**—See Cards P-1 to P-4  - Territorial Hovering (P-1)  - Ownership Entitlement (P-2)  - Collaborative Threat Response (P-3)  - Reaction Flip / DARVO (P-4)
-**Protective Self**
-**Proxy Recruitment**  - See also Flying Monkeys
+**Parentification** .................... [pg. XX]
+  - Effects .................... [pg. XX]
+  - In childhood .................... [pg. XX]
+
+**Parental Wounds**—See Chapter 8 .................... [pg. XX]
+
+**Projection** .................... [pg. XX]
+  - Examples .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Professional Boundary Patterns**—See Cards P-1 to P-4 .................... [pg. XX]
+  - Territorial Hovering (P-1) .................... [pg. XX]
+  - Ownership Entitlement (P-2) .................... [pg. XX]
+  - Collaborative Threat Response (P-3) .................... [pg. XX]
+  - Reaction Flip / DARVO (P-4) .................... [pg. XX]
+
+**Protective Self** .................... [pg. XX]
+
+**Proxy Recruitment** .................... [pg. XX]
+  - See also Flying Monkeys
 
 ---
 
 ## R
 
-**Reactive Abuse**  - Prevention  - Recognition
-**Reality Testing**  - After gaslighting  - Methods
-**Recovery Tools**—See Chapter 15
-**Reparenting**
-**Responses, Practical**—See Chapter 16  - Scripts  - Strategies
-**Rumination**  - Breaking the cycle  - Post-abuse
+**Reactive Abuse** .................... [pg. XX]
+  - Prevention .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Reality Testing** .................... [pg. XX]
+  - After gaslighting .................... [pg. XX]
+  - Methods .................... [pg. XX]
+
+**Recovery Tools**—See Chapter 15 .................... [pg. XX]
+
+**Reparenting** .................... [pg. XX]
+
+**Responses, Practical**—See Chapter 16 .................... [pg. XX]
+  - Scripts .................... [pg. XX]
+  - Strategies .................... [pg. XX]
+
+**Rumination** .................... [pg. XX]
+  - Breaking the cycle .................... [pg. XX]
+  - Post-abuse .................... [pg. XX]
+
 ---
 
 ## S
 
-**Scapegoat**  - In family dynamics  - Long-term effects  - Recovery
-**Scripts**—See Chapter 16
-**Silent Treatment**  - Responses  - Why it's abuse
-**Smear Campaign**  - Coping with  - Recognition
-**Splitting**
-**Stonewalling**
+**Scapegoat** .................... [pg. XX]
+  - In family dynamics .................... [pg. XX]
+  - Long-term effects .................... [pg. XX]
+  - Recovery .................... [pg. XX]
+
+**Scripts**—See Chapter 16 .................... [pg. XX]
+
+**Silent Treatment** .................... [pg. XX]
+  - Responses .................... [pg. XX]
+  - Why it's abuse .................... [pg. XX]
+
+**Smear Campaign** .................... [pg. XX]
+  - Coping with .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Splitting** .................... [pg. XX]
+
+**Stonewalling** .................... [pg. XX]
+
 ---
 
 ## T
 
-**3-3-3 Rule**  - Application  - When to use
-**Toxic Shame**  - Healing from  - Versus healthy shame
-**Trauma Bonds**—See Chapter 4  - Breaking  - Formation  - Psychology of
-**Triangulation**  - In families  - In romantic relationships  - Recognition
-**Triggers**  - Identifying  - Managing
+**3-3-3 Rule** .................... [pg. XX]
+  - Application .................... [pg. XX]
+  - When to use .................... [pg. XX]
+
+**Toxic Shame** .................... [pg. XX]
+  - Healing from .................... [pg. XX]
+  - Versus healthy shame .................... [pg. XX]
+
+**Trauma Bonds**—See Chapter 4 .................... [pg. XX]
+  - Breaking .................... [pg. XX]
+  - Formation .................... [pg. XX]
+  - Psychology of .................... [pg. XX]
+
+**Triangulation** .................... [pg. XX]
+  - In families .................... [pg. XX]
+  - In romantic relationships .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Triggers** .................... [pg. XX]
+  - Identifying .................... [pg. XX]
+  - Managing .................... [pg. XX]
+
 ---
 
 ## V
 
-**Validation**  - Importance in recovery  - Self-validation
-**Victim Stance**  - DARVO  - Recognition
-**Vulnerability Hangover**
+**Validation** .................... [pg. XX]
+  - Importance in recovery .................... [pg. XX]
+  - Self-validation .................... [pg. XX]
+
+**Victim Stance** .................... [pg. XX]
+  - DARVO .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+
+**Vulnerability Hangover** .................... [pg. XX]
+
 ---
 
 ## W
 
-**Word Salad**  - Recognition  - Responses
+**Word Salad** .................... [pg. XX]
+  - Recognition .................... [pg. XX]
+  - Responses .................... [pg. XX]
+
 ---
 
 ## Using This Index
@@ -14569,78 +14908,13 @@ Page numbers will be added during final production. In the meantime, use the cha
 
 *"When you can name what's happening, you begin to take your power back."*
 
-# Continue Your Journey
 
 ---
 
-This book is the first step. The Sovereignty Series continues with three more volumes, each building on the last:
 
-**Volume 2: The Bridge** — From recognition to repair. Attachment healing, nervous system regulation, and the work of rebuilding after narcissistic entanglement.
-
-**Volume 3: Sovereignty** — Claiming your power. Identity reclamation, boundary mastery, and the integration of everything you've learned.
-
-**Volume 4: Embodied Leadership** — Living from presence. What becomes possible when you lead from wholeness rather than wounding.
-
----
-
-**Stay Connected**
-
-- **Newsletter:** Subscribe for recovery tools, new chapter previews, and community updates at lightfield.institute
-- **Direct Sales & Bundles:** Find volume bundles and bonus materials at our online store
-- **Free Resource:** Download the Decoder Cards — a quick-reference PDF of all 60 manipulation patterns — available free with email signup
-
----
-
-# A Request from the Author
-
----
-
-If this book helped you see something clearly — if it named what you couldn't name, or gave you permission to trust what you already knew — would you consider leaving a review?
-
-Reviews help other readers find this book. Many people searching for answers don't know what to look for. Your review might be the thing that helps someone else pick it up.
-
-A few sentences is plenty. What mattered to you. What shifted. What you'd want someone else to know before reading.
-
-Thank you for taking the time. It means more than you know.
-
----
-
-# About the Author
-
----
-
-## Jennifer Brooke Lawless
-
----
-
-Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
-
-But none of her training prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
-
-For years, she stayed in narcissistic relationships, mistaking intensity for intimacy and approval-seeking for connection. She was told she was "too sensitive"—when she was actually too perceptive. The confusion was real. The self-doubt was constant. She needed someone to explain what was happening.
-
-She couldn't find that book. So she wrote it.
-
-*The Narcissism Decoder* is the guide she wished she'd had—written for everyone still wondering if they're the problem.
-
-They're not. And neither are you.
-
-Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She offers healing sessions and integration work through Light Brands and Light Field Institute for clients seeking wholeness and sovereignty.
-
----
-
-**Connect with Jennifer**
-
-- Website: lightfield.institute
-- Instagram: @jae.lawless
-- Email: lightfieldlawless@gmail.com
-
----
-
-*Your sensitivity is not your weakness. It's your superpower.*
 # Appendix F: Substance-Related Patterns
 
-> **Note:** These decoder cards address manipulation tactics involving alcohol, drugs, or other substances. They also appear in Chapter 3's Decoder Playbook as part of the reading flow. They are repeated here as a standalone quick-reference for those who need them.
+> **Note:** These decoder cards address manipulation tactics involving alcohol, drugs, or other substances. They are placed in this appendix because they represent a specialized subset of patterns that may not apply to all readers but are critically important for those who encounter them.
 
 ---
 
@@ -14840,58 +15114,49 @@ If substance use (yours or theirs) is significantly impacting your relationship 
 
 *See also: Chapter 14 (Essential Patterns), Chapter 15 (Specialized Patterns), Chapter 16 (Emergency Protocol)*
 
----
-
-# What's Coming Next
-
-## The Bridge — Volume 2 of The Sovereignty Series
-
-You can name the tactics now. You see the patterns. You recognize the wolf, no matter what it's wearing.
-
-And yet your nervous system still reacts.
-
-You still feel guilt when you create distance. You still feel compelled to explain, repair, and smooth things over. You still confuse intensity with intimacy. You still find yourself bracing for impact in moments that should feel safe.
-
-This is not failure. This is the gap between insight and embodiment.
-
-*The Bridge* closes that gap.
-
-Volume 2 teaches you why awareness alone doesn't heal, how childhood roles shape adult attraction, and how to retrain your nervous system for secure attachment. It includes a 12-week secure attachment training program, role-based reparenting practices, and guidance for dating after trauma.
-
-You cannot think your way into secure attachment. You train it.
-
-**Stop surviving connection. Start feeling safe in it.**
 
 ---
 
-# Continue Your Journey
 
-**Newsletter**
-Weekly insights on recognizing manipulation, healing attachment wounds, and building sovereignty. Join at lightfield.institute
+# About the Author
 
-**Free Decoder Cards**
-Download the quick-reference Decoder Cards — a free companion guide for real-time pattern recognition. Available at lightfield.institute
+---
 
-**Series Bundles**
-Save 15–25% on multi-volume bundles of The Sovereignty Series, available at lightfield.institute
+<div align="center">
 
-**Work with Jennifer**
-Private healing sessions and integration work through Light Brands and Light Field Institute.
+## Jennifer Brooke Lawless
 
-- Website: lightfield.institute
+</div>
+
+---
+
+Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
+
+But none of her training prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
+
+For years, she stayed in narcissistic relationships, mistaking intensity for intimacy and approval-seeking for connection. She was told she was "too sensitive"—when she was actually too perceptive. The confusion was real. The self-doubt was constant. She needed someone to explain what was happening.
+
+She couldn't find that book. So she wrote it.
+
+*The Narcissism Decoder* is the guide she wished she'd had—written for everyone still wondering if they're the problem.
+
+They're not. And neither are you.
+
+Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She offers healing sessions and integration work through Light Brands and Light Field Institute for clients seeking wholeness and sovereignty.
+
+---
+
+**Connect with Jennifer**
+
+- Website: LightBrands.ai
+- Counseling & Research: LightField.Institute
 - Instagram: @jae.lawless
 - Email: lightfieldlawless@gmail.com
 
 ---
 
-# Did This Book Help?
+<div align="center">
 
-If this book gave you clarity, language, or courage, please consider leaving a review on Amazon.
+*Your sensitivity is not your weakness. It's your superpower.*
 
-Reviews help other readers find this book — and every review helps someone else realize they're not crazy either.
-
-You don't have to write much. Even a single sentence about what this book meant to you can make a difference for someone still searching.
-
-Thank you for reading. Thank you for trusting yourself enough to pick this up.
-
-*The confusion ends here. Your sovereignty begins.*
+</div>
