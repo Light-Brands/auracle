@@ -12,14 +12,27 @@ All rights reserved. No part of this book may be reproduced, distributed, or tra
 
 Published by KDP Amazon
 
-ISBN 978-X-XXXX-XXXX-X (paperback)
-ISBN 978-X-XXXX-XXXX-X (ebook)
+ISBN: Assigned by Amazon KDP (paperback)
+ASIN: Assigned by Amazon (ebook)
 
 First Edition
 
 **Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. It is sold with the understanding that the publisher and author are not engaged in rendering psychological, medical, or other professional services. If expert assistance or counseling is needed, the services of a competent professional should be sought. The author offers private counseling sessions online through Light Field Institute. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
 
 **Crisis Resources:** See Appendix A: Resources for 24/7 crisis hotlines, international resources, and specialized support services.
+
+---
+
+## The Sovereignty Series
+
+**Volume 1: You Are Not Crazy — The Narcissism Decoder**
+Volume 2: The Bridge — Healing Through Secure Attachment
+Volume 3: Sovereignty — Internal Authority and Self-Trust
+Volume 4: Embodied Leadership — Living from Full Presence
+Volume 5: The Lineage — Conscious Parenting
+Volume 6: The Guide — Serving Others
+Volume 7: The Return — Thriving Beyond Survival
+Volume 8: Quantum You — Becoming Who You Always Were
 
 ---
 
@@ -14826,3 +14839,59 @@ If substance use (yours or theirs) is significantly impacting your relationship 
 *Recognition is the first freedom. Response is the second. Walking away is the third.*
 
 *See also: Chapter 14 (Essential Patterns), Chapter 15 (Specialized Patterns), Chapter 16 (Emergency Protocol)*
+
+---
+
+# What's Coming Next
+
+## The Bridge — Volume 2 of The Sovereignty Series
+
+You can name the tactics now. You see the patterns. You recognize the wolf, no matter what it's wearing.
+
+And yet your nervous system still reacts.
+
+You still feel guilt when you create distance. You still feel compelled to explain, repair, and smooth things over. You still confuse intensity with intimacy. You still find yourself bracing for impact in moments that should feel safe.
+
+This is not failure. This is the gap between insight and embodiment.
+
+*The Bridge* closes that gap.
+
+Volume 2 teaches you why awareness alone doesn't heal, how childhood roles shape adult attraction, and how to retrain your nervous system for secure attachment. It includes a 12-week secure attachment training program, role-based reparenting practices, and guidance for dating after trauma.
+
+You cannot think your way into secure attachment. You train it.
+
+**Stop surviving connection. Start feeling safe in it.**
+
+---
+
+# Continue Your Journey
+
+**Newsletter**
+Weekly insights on recognizing manipulation, healing attachment wounds, and building sovereignty. Join at lightfield.institute
+
+**Free Decoder Cards**
+Download the quick-reference Decoder Cards — a free companion guide for real-time pattern recognition. Available at lightfield.institute
+
+**Series Bundles**
+Save 15–25% on multi-volume bundles of The Sovereignty Series, available at lightfield.institute
+
+**Work with Jennifer**
+Private healing sessions and integration work through Light Brands and Light Field Institute.
+
+- Website: lightfield.institute
+- Instagram: @jae.lawless
+- Email: lightfieldlawless@gmail.com
+
+---
+
+# Did This Book Help?
+
+If this book gave you clarity, language, or courage, please consider leaving a review on Amazon.
+
+Reviews help other readers find this book — and every review helps someone else realize they're not crazy either.
+
+You don't have to write much. Even a single sentence about what this book meant to you can make a difference for someone still searching.
+
+Thank you for reading. Thank you for trusting yourself enough to pick this up.
+
+*The confusion ends here. Your sovereignty begins.*

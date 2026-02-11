@@ -2,7 +2,94 @@
 
 ## Overview
 
-This guide walks you through setting up the three platforms for your digital book release. Total time: 2-3 hours.
+This guide walks you through setting up the three platforms for your book release. Total time: 2-3 hours.
+
+---
+
+## 0. Format & Series Strategy (Do This First)
+
+### Dual Format: Publish Both at Once
+
+Publish **Kindle eBook + Paperback** simultaneously for every volume:
+
+| Format | Purpose |
+|--------|---------|
+| **Kindle eBook** | Main discovery engine + reviews + Kindle Unlimited reads |
+| **Paperback** | Credibility + gifting + upsells + higher perceived value |
+| **Hardcover** | Can wait — add later if the series proves traction |
+
+### ISBN Strategy
+
+| Format | Approach |
+|--------|----------|
+| **Kindle eBook** | No ISBN needed (Amazon assigns ASIN automatically) |
+| **Paperback (Vol 1)** | Use Amazon's free ISBN — fast, free, zero downside at this stage |
+| **Paperback (Vol 2+)** | Buy your own ISBNs ($295 for 10 from Bowker) if you want imprint control, otherwise continue with Amazon's free option |
+
+Most nonfiction series never need purchased ISBNs. Re-issue earlier books later if imprint control matters.
+
+### Series Structure in KDP (Critical for Read-Through)
+
+When setting up each book in KDP, configure:
+
+- **Series Name:** `The Sovereignty Series`
+- **Series Number:** `1` (then `2`, `3`, etc.)
+- **Consistent subtitle format across all volumes:**
+
+| Volume | Title | Subtitle |
+|--------|-------|----------|
+| 1 | You Are Not Crazy | The Narcissism Decoder |
+| 2 | The Bridge | Healing Through Secure Attachment |
+| 3 | Sovereignty | Internal Authority and Self-Trust |
+| 4 | Embodied Leadership | Living from Full Presence |
+
+This consistency boosts read-through rate and series trust on Amazon.
+
+### Series Spine (How Amazon Rewards Structured Nonfiction)
+
+| Volume | Role in Series | Core Question |
+|--------|---------------|---------------|
+| 1 — The Narcissism Decoder | **Recognition / Foundations** | *What is happening to me?* |
+| 2 — The Bridge | **Framework / Healing** | *Why did this shape me?* |
+| 3 — Sovereignty | **Application / Standing** | *Who am I when I stop shrinking?* |
+| 4 — Embodied Leadership | **Embodiment / Living** | *How do I live from presence?* |
+
+Amazon's algorithm rewards structured nonfiction series — each volume clearly builds on the last.
+
+### Pricing Strategy (Updated for Series Hook)
+
+**Price Vol 1 slightly lower to hook readers into the series:**
+
+| Product | Amazon (eBook) | Gumroad | Notes |
+|---------|---------------|---------|-------|
+| Vol 1 | **$2.99–$4.99** | $9.99 (with Decoder Cards) | Lower price = 70% royalty + series hook |
+| Vol 2 | $6.99–$8.99 | $12.99 | Standard pricing |
+| Vol 3 | $7.99–$9.99 | $14.99 | Value increases with depth |
+| Vol 4 | $8.99–$10.99 | $16.99 | Premium for final volume |
+
+| Product | Amazon (Paperback) | Notes |
+|---------|-------------------|-------|
+| Vol 1 | **$14.99** | Hook price — lower than typical |
+| Vol 2 | $16.99 | Standard |
+| Vol 3 | $17.99 | Standard |
+| Vol 4 | $19.99 | Premium |
+
+| Bundles (Gumroad) | Price | Savings |
+|-------------------|-------|---------|
+| Vol 1+2 | $18.99 | 15% |
+| Vol 1+2+3 | $34.99 | 20% |
+| Complete Series | $44.99 | 25% |
+
+### Launch Order (Critical — Do This in Sequence)
+
+1. Upload ebook + paperback files
+2. **Publish paperback first**
+3. **Then publish ebook** (Amazon automatically links the formats)
+4. Enable Series page in KDP
+5. After launch:
+   - Add A+ Content (enhanced product page — free with Brand Registry or KDP)
+   - Add editorial reviews
+   - Update description once reader reviews start coming in
 
 ---
 
@@ -25,12 +112,20 @@ This guide walks you through setting up the three platforms for your digital boo
 
 ### What You'll Need
 
+**For Kindle eBook:**
 - [ ] Book manuscript (DOCX or EPUB format)
-- [ ] Book cover (2560 x 1600 pixels for ebook)
-- [ ] Book description (up to 4,000 characters)
-- [ ] Author bio
-- [ ] 7 keywords (crucial for discoverability)
+- [ ] Book cover (2560 x 1600 pixels)
+- [ ] Book description (up to 4,000 characters — see `03-book-descriptions.md`)
+- [ ] Author bio (see `07-author-bio-versions.md`)
+- [ ] 7 keyword boxes (see `03-book-descriptions.md` for optimized strategy)
 - [ ] Categories (choose 2)
+- [ ] Series name and number
+
+**For Paperback (publish this first):**
+- [ ] Print-ready PDF (6" x 9" interior, see `04-formatting-guide.md`)
+- [ ] Full cover with spine (use KDP Cover Calculator for spine width)
+- [ ] ISBN (use Amazon's free ISBN for Vol 1)
+- [ ] Same description, keywords, and categories as ebook
 
 ### Recommended Categories for Vol 1
 
@@ -77,9 +172,13 @@ This guide walks you through setting up the three platforms for your digital boo
 
 | Product | Price | Notes |
 |---------|-------|-------|
-| Vol 1 Ebook + Decoder Cards | $9.99 | Higher than Amazon, more value |
+| Vol 1 Ebook + Decoder Cards | $9.99 | Higher than Amazon — includes bonus content |
 | Vol 2 Ebook + Worksheets | $12.99 | Includes appendix worksheets |
-| Bundle: Both Volumes | $18.99 | 15% savings |
+| Vol 3 Ebook + Integration Guide | $14.99 | Includes sovereignty practices |
+| Vol 4 Ebook + Field Hygiene Menu | $16.99 | Includes consent ladder guide |
+| Bundle: Vol 1+2 | $18.99 | 15% savings |
+| Bundle: Vol 1+2+3 | $34.99 | 20% savings |
+| Bundle: Complete Series | $44.99 | 25% savings |
 | Decoder Cards Only (lead magnet) | $0 (email required) | List builder |
 
 ### URL Structure
