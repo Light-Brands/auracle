@@ -281,7 +281,8 @@ It is not intimacy. It is control wearing relational language.
 
 ## Integration Checklist for Volume 1
 
-- [x] Add Magician Tactics section to new chapter or Appendix → Integrated into Chapter 11 (Romantic Manipulation)
-- [x] Add Diagnostic Pattern Map as standalone decoder or Appendix → Integrated into Chapter 14 (Decoder Tools)
+- [x] Add Magician Tactics section → Integrated into Chapter 11 (Romantic Manipulation) as "The False Reveal: Magician Tactics in Romance"
+- [x] Add Diagnostic Pattern Map → Integrated into Chapter 14 (Decoder Protocol)
 - [x] Cross-reference with existing manipulation pattern chapters
+- [x] Rebuild complete manuscript with all integrations (2026-02-12)
 

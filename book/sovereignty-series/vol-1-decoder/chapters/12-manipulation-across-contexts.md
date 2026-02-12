@@ -645,6 +645,46 @@ Once you can see the pattern in one arena, you'll start seeing it everywhere—w
 4. Build alliances with colleagues who see clearly
 5. Have an exit strategy ready (updated resume, financial cushion)
 
+### Business & Professional Partnerships
+
+Narcissistic dynamics don't only appear in romantic or family relationships. They appear in business partnerships, creative collaborations, professional mentorships, and any arrangement where power, money, or identity are shared.
+
+When these relationships end, the patterns are familiar—but the terrain is different.
+
+**What Makes Professional Exits Distinct:**
+
+**Shared assets and documents.** There's paperwork. There may be contracts, shared accounts, intellectual property, client lists. The narcissist may use these as leverage—withholding, demanding, threatening—not because they care about the documents, but because the documents are access points.
+
+**Shared reputation.** In romantic exits, the smear campaign targets your character. In professional exits, it targets your credibility. They may contact clients, collaborators, or industry contacts with their version of events. They're not just protecting their image—they're preemptively damaging yours.
+
+**Financial entanglement.** Money becomes a weapon. Outstanding payments become leverage. Expenses become accusations. They may suddenly "discover" you owe them—or that they owe you nothing. The financial claims often have little legal merit but create maximum emotional pressure.
+
+**Professional identity threat.** If your work, your reputation, or your livelihood was tied to the partnership, leaving feels like losing yourself. They know this. They'll use it. "Without me, who are you?"
+
+**Common Post-Exit Escalation Patterns:**
+
+**The Extinction Burst.** When a control strategy stops working, escalation intensifies before it extinguishes: more messages, more accusations, more urgency, bigger threats. This is the nervous system of a controlling dynamic flailing: *"This can't be over—I need a response."*
+
+**The Legal Posture.** Threats of lawyers, demands for documentation, implications of lawsuits. Often this is inducing fear, inducing obligation, and forcing engagement. The goal is contact, not court. Real legal action arrives through proper channels. Threats that stay threats are leverage attempts.
+
+**Asset and Image Scrambling.** After the partnership collapses, they may scramble to secure documents, control messaging, intimidate into silence, and set up a defensive legal posture. Not because they're right—because they're scared.
+
+**The Practical Protocol:**
+
+**One clean response, then stop.** Example: "All requested materials were delivered on [date]. Future communication should be directed through counsel."
+
+**Document everything.** Save messages. Screenshot texts. Keep a timeline. Not because you're preparing to fight—because documentation is clarity.
+
+**Don't argue the feelings.** Don't re-explain. Don't get pulled into emotional court. Their feelings about the ending are not your responsibility.
+
+**Separate the noise from the signal.** Legal threats without action are noise. Actual legal documents through proper channels are signal. Respond to signal. Ignore noise.
+
+**Protect your reputation through action, not defense.** Trying to "correct the record" with mutual contacts usually backfires. Continue doing good work. The people who matter will notice.
+
+**The Reframe:** When they threaten after you leave, it's not closure—it's leverage. It's not truth—it's escalation. The answer is documentation + distance.
+
+*Mantra: "This is escalation, not truth."*
+
 ### Family
 
 See Chapters 6-8 for detailed family navigation.

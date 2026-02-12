@@ -233,15 +233,15 @@ For use as chapter openers, card headers, or standalone integration:
 
 ## Placement Summary
 
-| Content | Location | Notes |
-|---------|----------|-------|
-| Card 52: Narrative Reclamation | Vol 1 Ch 3, after Card 51 | New pattern card |
-| Card 53: Legal Threat as Leverage | Vol 1 Ch 3, after Card 52 | New pattern card |
-| "Wolf at the Door" story | Vol 1 Ch 3, between Cards 52-53 | Follows existing fairy tale format |
-| Business Partnership Exit section | Vol 1 Ch 12 | New section after "Workplace Dynamics" |
-| Post-Exit Escalation card | Vol 2 Ch 25 | Healing/reframe card |
-| "When You Call It Possession" card | Vol 2 Ch 25 | Healing/reframe card |
-| Epigraphs | Various | Use as chapter openers or standalone |
+| Content | Location | Notes | Status |
+|---------|----------|-------|--------|
+| Card 52: Narrative Reclamation | Vol 1 Ch 3, after Card 51 | New pattern card | **INTEGRATED** |
+| Card 53: Legal Threat as Leverage | Vol 1 Ch 3, after Card 52 | New pattern card | **INTEGRATED** |
+| "Wolf at the Door" story | Vol 1 Ch 3, between Cards 52-53 | Follows existing fairy tale format | **INTEGRATED** |
+| Business Partnership Exit section | Vol 1 Ch 12 | New section after "Work" exit strategies | **INTEGRATED** |
+| Post-Exit Escalation card | Vol 2 Ch 25 | Healing/reframe card | Pending |
+| "When You Call It Possession" card | Vol 2 Ch 25 | Healing/reframe card | Pending |
+| Epigraphs | Various | Use as chapter openers or standalone | Pending |
 
 ## Cross-References to Add
 

@@ -2122,6 +2122,70 @@ Closure is something you give yourself. Their departure is information about the
 
 ---
 
+## Card 52: Narrative Reclamation
+
+**The Pattern:** Rewriting history after you leave
+
+**What They Say/Do:**
+- "You abandoned me."
+- "You never gave me what I needed."
+- "You owe me."
+- "After everything I did for you."
+- They tell mutual contacts a version of events where they are the victim and you are the villain.
+- Details are changed, timelines are altered, your words are reframed.
+
+**What's Really Happening:**
+They cannot tolerate being the one who was left—or the one who failed. To protect their self-image, they rewrite the entire story. This isn't just projection in the moment; it's retroactive revision of the whole relationship. They need a narrative where they were wronged, because the alternative—accountability—is intolerable.
+
+**How It Hooks You:**
+You feel compelled to correct the record. You want to defend yourself. You reach out to mutual contacts to share "your side." You get pulled back into engagement—which is exactly the goal. The false narrative isn't really about truth; it's about contact.
+
+**Your Power Move:**
+You don't have to litigate history with someone rewriting it. The people who know you will see the pattern. The people who believe the false narrative were never safe allies. Your silence is not agreement—it's refusal to participate in their court.
+
+**The Decoder:** When they rewrite the story, they're not seeking truth—they're seeking supply.
+
+---
+
+### Once Upon a Time: The Wolf at the Door
+
+A traveler leaves an inn where they've stayed too long. The innkeeper blocks the door. "You owe me. You can't just leave. I'll have you arrested."
+
+The traveler owes nothing—the account was settled. But the innkeeper's voice is loud, the threats sound real, and the traveler hesitates. Maybe they did forget something. Maybe they should go back and check.
+
+That hesitation is the goal. The innkeeper doesn't have a claim. The innkeeper has volume. And volume, in that moment of departure, can feel like authority.
+
+This is how post-exit escalation works. The threats get louder as the door opens. The claims get bigger as you walk away. It's not evidence of what you owe—it's evidence of what they're losing.
+
+**The Decoder:** Control looks like urgency when it's losing.
+
+---
+
+## Card 53: Legal Threat as Leverage
+
+**The Pattern:** Using legal language to force contact
+
+**What They Say/Do:**
+- "You'll be hearing from my lawyer."
+- "I'm documenting everything."
+- "This will go to court."
+- Threatening lawsuits over vague claims
+- Demanding meetings or responses under threat of legal action
+- Using legal terminology to create urgency and fear
+
+**What's Really Happening:**
+In most cases, legal threats after a relationship ends are not about pursuing a case. They're about inducing fear, creating obligation, and forcing engagement. The threat of lawyers is emotional pressure disguised as legal reality. The goal isn't a courtroom—it's contact.
+
+**How It Hooks You:**
+Fear floods your system. You start defending yourself. You explain. You justify. You respond urgently because it feels like you have to. Every response gives them what they wanted: your attention.
+
+**Your Power Move:**
+One clean response, then silence: "All requested materials were delivered on [date]. Future communication should be directed through counsel." Then document everything. Real legal action will come through proper channels. Threats that stay threats are leverage attempts, not legal strategy.
+
+**The Decoder:** If it were really about the law, it wouldn't need your emotional response.
+
+---
+
 # PART 3: DIGITAL MANIPULATION PATTERNS (Cards D-1 to D-4)
 
 *Same patterns, different arena. The tactics that work in person adapt to digital spaces—often becoming harder to name because they leave no physical evidence.*
