@@ -2,6 +2,8 @@
 
 ## The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
 
+### Volume One | The Sovereignty Series
+
 ---
 
 ## Copyright
@@ -20,6 +22,23 @@ First Edition
 **Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. It is sold with the understanding that the publisher and author are not engaged in rendering psychological, medical, or other professional services. If expert assistance or counseling is needed, the services of a competent professional should be sought. The author offers private counseling sessions online through Light Field Institute. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
 
 **Crisis Resources:** See [Appendix A: Resources](./appendices/appendix-a-resources.md) for 24/7 crisis hotlines, international resources, and specialized support services.
+
+---
+
+## The Sovereignty Series
+
+*You Are Not Crazy* is **Volume One** of **The Sovereignty Series**—an eight-volume journey from recognition to reclamation. Each volume builds on the last, guiding you from naming what happened to embodying who you were always meant to be.
+
+1. **You Are Not Crazy** — The Narcissism Decoder *(you are here)*
+2. **The Bridge** — Learning Secure Attachment After Trauma
+3. **Sovereignty** — Living From Internal Authority
+4. **Embodied Leadership** — Aura, Erotic Coherence & Presence
+5. **The Lineage** — Breaking the Chain, Parenting After Trauma
+6. **The Guide** — Holding Others' Healing Without Losing Your Own
+7. **The Return** — Money, Work & Building a Life After Survival Mode
+8. **Quantum You** — Becoming the Version You Were Always Meant to Be
+
+*This book is complete on its own. And when you're ready, there is more.*
 
 ---
 
