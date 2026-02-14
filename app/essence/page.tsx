@@ -287,7 +287,8 @@ const EssencePage = () => {
               <p>
                 <strong>Energy healing</strong> occurs throughout as blockages are
                 identified and cleared, often bringing immediate feelings of relief,
-                clarity, or peace.
+                clarity, or peace. You&apos;ll have access to both live and recorded
+                content to support your continued healing journey.
               </p>
               <p>
                 <strong>Your session concludes</strong> with integration guidance on how
