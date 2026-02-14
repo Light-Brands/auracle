@@ -316,29 +316,101 @@ ________________________________
 While individual decoder cards help you recognize specific tactics, sometimes you need to assess a relationship as a whole. This diagnostic map helps you step back and see the larger pattern—especially useful in new relationships where control hasn't yet become obvious.
 
 **How to Use This Map:**
+
+Read vertically, not emotionally.
+
 If 3 or more patterns appear early (within weeks) or cluster together, pause. If your body reacts before your mind does, trust that signal.
 
-**Entry Patterns (How They Arrive):**
-- **Accelerated Intimacy**—Immediate closeness, rapid physical/emotional access
-- **Unasked Assistance**—Fixing, organizing without being asked
-- **Fast Social Integration**—Early introductions creating social cost for withdrawal
+This map is about structure, not intent.
 
-**Control Mechanisms (How It Operates):**
-- **Micro-Critique of Identity**—Comments on clothing, tone, choices; framed as "helpful"
-- **Narrative Reframing**—"We were friends," retroactive redefinition of events
-- **Boundary Ambiguity**—Assumptions instead of questions, offense when boundaries appear
+---
 
-**Psychological Hooks (Why It Works):**
-- **Conditional Safety**—Warmth when compliant, withdrawal when independent
-- **Moral Positioning**—"I'm just trying to protect you"
-- **Speed Over Choice**—Things happen faster than you can process
+**I. Entry Patterns (How They Arrive)**
 
-**Impact Indicators (How You Know):**
-- **Somatic Discrepancy**—Your body tightens while your mind explains
-- **Self-Minimization**—"It's not that bad," "Maybe I'm overreacting"
-- **Identity Compression**—Less spontaneity, more monitoring
+**1. Accelerated Intimacy**
+- *Looks like:* Immediate closeness, rapid physical/emotional access, "It just feels easy/intense/meant to be"
+- *Hidden Function:* Bypassing consent-building stages
+- *Body Signal:* Disorientation mixed with excitement
+- *Truth Check:* Healthy intimacy unfolds with pacing
 
-**Differentiation Matrix:**
+**2. Unasked Assistance**
+- *Looks like:* Fixing, organizing, improving without being asked, "I just wanted to help"
+- *Hidden Function:* Establishing authority inside your domain
+- *Body Signal:* Gratitude followed by subtle discomfort
+- *Truth Check:* Care asks first
+
+**3. Fast Social Integration**
+- *Looks like:* Early introductions to family, inner circle, or team; pressure to belong quickly
+- *Hidden Function:* Creating social cost for withdrawal
+- *Body Signal:* Flattery mixed with pressure
+- *Truth Check:* Belonging should feel optional, not binding
+
+---
+
+**II. Control Mechanisms (How It Operates)**
+
+**4. Micro-Critique of Identity**
+- *Looks like:* Comments on clothing, tone, energy, choices; framed as "helpful" or "protective"
+- *Hidden Function:* Gradual erosion of self-trust
+- *Body Signal:* Self-editing, hesitation
+- *Truth Check:* Support does not require correction
+
+**5. Narrative Reframing**
+- *Looks like:* "We were friends," "You misunderstood," retroactive redefinition of events
+- *Hidden Function:* Rewriting history to justify access
+- *Body Signal:* Confusion, self-doubt
+- *Truth Check:* Your memory does not require validation to be real
+
+**6. Boundary Ambiguity**
+- *Looks like:* Assumptions instead of questions, offense when boundaries appear
+- *Hidden Function:* Testing compliance
+- *Body Signal:* Guilt when asserting needs
+- *Truth Check:* Boundaries are neutral, not attacks
+
+---
+
+**III. Psychological Hooks (Why It Works)**
+
+**7. Conditional Safety**
+- *Looks like:* Warmth when compliant, withdrawal when independent
+- *Hidden Function:* Training through reward and removal
+- *Body Signal:* Hypervigilance
+- *Truth Check:* Safety that disappears is not safety
+
+**8. Moral or Emotional Positioning**
+- *Looks like:* "I'm just trying to protect you," "Others don't understand us"
+- *Hidden Function:* Elevating themselves above scrutiny
+- *Body Signal:* Isolation
+- *Truth Check:* Protection does not require secrecy
+
+**9. Speed Over Choice**
+- *Looks like:* Things happen faster than you can process, objection feels "too late"
+- *Hidden Function:* Reducing agency through momentum
+- *Body Signal:* Freeze response
+- *Truth Check:* Consent can be withdrawn at any time
+
+---
+
+**IV. Impact Indicators (How You Know)**
+
+**10. Somatic Discrepancy**
+- *Looks like:* Your body tightens while your mind explains, delayed recognition
+- *Meaning:* Your nervous system clocked the threat
+- *Truth Check:* The body detects violation before language exists
+
+**11. Self-Minimization**
+- *Looks like:* "It's not that bad," "Maybe I'm overreacting"
+- *Meaning:* Internalized override
+- *Truth Check:* Minimization is a survival adaptation
+
+**12. Identity Compression**
+- *Looks like:* Less spontaneity, less self-expression, more monitoring
+- *Meaning:* Autonomy loss
+- *Truth Check:* Love expands you
+
+---
+
+**V. Differentiation Matrix: Control vs Connection**
 
 | Connection | Control |
 |------------|---------|
@@ -348,7 +420,9 @@ If 3 or more patterns appear early (within weeks) or cluster together, pause. If
 | Responds to boundaries | Punishes boundaries |
 | Encourages autonomy | Requires compliance |
 
-**Your Power Move:**
+---
+
+**VI. Closing Diagnostic Statement**
 
 If a relationship:
 - Enters quickly

@@ -3842,6 +3842,70 @@ Closure is something you give yourself. Their departure is information about the
 
 ---
 
+## Card 52: Narrative Reclamation
+
+**The Pattern:** Rewriting history after you leave
+
+**What They Say/Do:**
+- "You abandoned me."
+- "You never gave me what I needed."
+- "You owe me."
+- "After everything I did for you."
+- They tell mutual contacts a version of events where they are the victim and you are the villain.
+- Details are changed, timelines are altered, your words are reframed.
+
+**What's Really Happening:**
+They cannot tolerate being the one who was left—or the one who failed. To protect their self-image, they rewrite the entire story. This isn't just projection in the moment; it's retroactive revision of the whole relationship. They need a narrative where they were wronged, because the alternative—accountability—is intolerable.
+
+**How It Hooks You:**
+You feel compelled to correct the record. You want to defend yourself. You reach out to mutual contacts to share "your side." You get pulled back into engagement—which is exactly the goal. The false narrative isn't really about truth; it's about contact.
+
+**Your Power Move:**
+You don't have to litigate history with someone rewriting it. The people who know you will see the pattern. The people who believe the false narrative were never safe allies. Your silence is not agreement—it's refusal to participate in their court.
+
+**The Decoder:** When they rewrite the story, they're not seeking truth—they're seeking supply.
+
+---
+
+### Once Upon a Time: The Wolf at the Door
+
+A traveler leaves an inn where they've stayed too long. The innkeeper blocks the door. "You owe me. You can't just leave. I'll have you arrested."
+
+The traveler owes nothing—the account was settled. But the innkeeper's voice is loud, the threats sound real, and the traveler hesitates. Maybe they did forget something. Maybe they should go back and check.
+
+That hesitation is the goal. The innkeeper doesn't have a claim. The innkeeper has volume. And volume, in that moment of departure, can feel like authority.
+
+This is how post-exit escalation works. The threats get louder as the door opens. The claims get bigger as you walk away. It's not evidence of what you owe—it's evidence of what they're losing.
+
+**The Decoder:** Control looks like urgency when it's losing.
+
+---
+
+## Card 53: Legal Threat as Leverage
+
+**The Pattern:** Using legal language to force contact
+
+**What They Say/Do:**
+- "You'll be hearing from my lawyer."
+- "I'm documenting everything."
+- "This will go to court."
+- Threatening lawsuits over vague claims
+- Demanding meetings or responses under threat of legal action
+- Using legal terminology to create urgency and fear
+
+**What's Really Happening:**
+In most cases, legal threats after a relationship ends are not about pursuing a case. They're about inducing fear, creating obligation, and forcing engagement. The threat of lawyers is emotional pressure disguised as legal reality. The goal isn't a courtroom—it's contact.
+
+**How It Hooks You:**
+Fear floods your system. You start defending yourself. You explain. You justify. You respond urgently because it feels like you have to. Every response gives them what they wanted: your attention.
+
+**Your Power Move:**
+One clean response, then silence: "All requested materials were delivered on [date]. Future communication should be directed through counsel." Then document everything. Real legal action will come through proper channels. Threats that stay threats are leverage attempts, not legal strategy.
+
+**The Decoder:** If it were really about the law, it wouldn't need your emotional response.
+
+---
+
 # PART 3: DIGITAL MANIPULATION PATTERNS (Cards D-1 to D-4)
 
 *Same patterns, different arena. The tactics that work in person adapt to digital spaces—often becoming harder to name because they leave no physical evidence.*
@@ -4321,7 +4385,7 @@ Later, when he brings up the thing she said no to before, she's clear.
 
 > **⏸️ END OF PLAYBOOK**
 >
-> You've now covered 60 patterns of manipulation (Cards 0-51 plus D-1 to D-4 and S-1 to S-4).
+> You've now covered 60 patterns of manipulation (Cards 0-53 plus D-1 to D-4 and S-1 to S-4).
 >
 > **Integration:**
 > - Keep your most-triggered cards accessible
@@ -4369,6 +4433,12 @@ Later, when he brings up the thing she said no to before, she's clear.
 - Confusion as a tactic deserves no explanation
 - Minimal contact after repair reveals capacity, not worth
 - Gestures are not growth
+
+## For Post-Exit Tactics (Cards 52-53):
+- Their rewritten narrative is about supply, not truth
+- Legal threats that stay threats are leverage, not law
+- Silence is not agreement—it's refusal to participate
+- Respond to signal (actual legal action), ignore noise (threats)
 
 ## For Substance-Related Tactics (Cards S-1 to S-4):
 - Intoxication explains behavior; it doesn't excuse it
@@ -4466,6 +4536,8 @@ That's where we go next: the neuroscience of trauma bonds.
 | 49 | The Grand Gesture | Relational |
 | 50 | Identity Erosion | Relational |
 | 51 | The Final Discard | Relational |
+| 52 | Narrative Reclamation | Post-Exit |
+| 53 | Legal Threat as Leverage | Post-Exit |
 
 ## Part 3: Substance-Related Patterns (Cards S-1 to S-4)
 | Card | Pattern | Category |
@@ -9019,6 +9091,146 @@ The fact that you're reading this means part of you knows. Listen to that part. 
 
 ---
 
+## The Magician Tactics Decoder
+
+### Named Pattern: The False Reveal
+
+**Definition:** A relational manipulation pattern in which intimacy or commitment is staged as a "reveal" rather than co-created, using misdirection, time compression, and social pressure to bypass consent.
+
+---
+
+### Magician Tactics vs. Relational Integrity
+
+| Magician Dynamic | Relational Integrity |
+|------------------|---------------------|
+| Controls attention through spectacle | Invites presence through pacing |
+| Collapses time ("now or never") | Allows digestion and choice |
+| Frames meaning for you ("this is love") | Asks for your meaning |
+| Uses witnesses to secure compliance | Seeks privacy for consent |
+| Acts on your life (rearranging, deciding) | Asks permission before impact |
+| Escalates without checking your body | Tracks nervous system responses |
+| Reveals without humility | Lowers self to meet you |
+| Confusion interpreted as agreement | Clarity required before action |
+
+> **Key Distinction:** A magician wants your reaction. Integrity wants your yes.
+
+---
+
+### The 6 Primary Magician Tactics (Relational Version)
+
+**1. Misdirection**
+
+While you're focused on one thing, the real action happens elsewhere.
+
+*Examples:*
+- Grand gestures (sex, gifts, introductions, proposals)
+- Emotional intensity ("We're so connected")
+- Sudden intimacy
+
+*What you're not looking at:*
+- Lack of consent
+- Lack of mutual pacing
+- Lack of curiosity about you
+
+You were watching the reveal.
+The power move happened offstage.
+
+**2. Forced Framing**
+
+The magician tells you what just happened before you can interpret it yourself.
+
+*Examples:*
+- "We're friends."
+- "This is romantic."
+- "This is destiny."
+- "Everyone is happy for us."
+
+This bypasses your meaning-making system.
+
+Your body says: *something's off*
+Their words say: *this is good*
+
+That split creates confusion—which benefits the magician.
+
+**3. Time Compression**
+
+Magicians collapse time so you can't check reality.
+
+*Examples:*
+- Meeting family immediately
+- Proposals before integration
+- Rapid escalation without digestion
+
+*Why it works:*
+- The nervous system needs time to orient
+- Without time, consent becomes performative
+
+Your stunned feeling wasn't ambivalence—it was time deprivation.
+
+**4. Audience Recruitment**
+
+Magicians rely on witnesses to lock in the illusion.
+
+*Examples:*
+- Proposing in front of family
+- Public moments that discourage pause
+- Creating a "scene" where saying no feels disruptive
+
+This converts a private choice into a social compliance test.
+
+You weren't just responding to them—you were managing the room.
+
+**5. Object Insertion**
+
+The trick is often hidden in an object.
+
+*Examples:*
+- A ring hidden in bowls
+- Jewelry rearranged
+- Your paintings being hung
+
+These are symbolic claims, not gifts. They say: *"I am already arranging your world."*
+
+Before permission is granted.
+
+**6. Reveal Without Humility**
+
+A true magician bows after the trick. A manipulator never lowers themselves.
+
+- No kneeling
+- No slowing
+- No checking your face
+
+The reveal happens *at* you, not *with* you.
+
+---
+
+**Why This Is Not "Romance"**
+
+Romance expands choice. Magician tactics constrict it.
+
+Romance asks:
+- "How does this feel for you?"
+- "Do you want this pace?"
+- "What do you need?"
+
+Magician dynamics assume:
+- Your reaction = agreement
+- Silence = consent
+- Confusion = opportunity
+
+---
+
+**The Nervous System Truth**
+
+Your confusion, inability to eat, disorientation—those weren't weakness.
+
+They were your system saying: *"This is a trick, not a meeting."*
+
+> You weren't fooled because you were naïve—you were targeted because you were perceptive, open, and slow enough to notice the dissonance.
+
+---
+
 > **PAUSE AND GROUND**
 >
 > You just read intense material. Before continuing:
@@ -9640,6 +9852,80 @@ Recognition works the same way everywhere:
 4. Trust the exhaustion, confusion, or contraction you feel
 
 Once you can see the pattern in one arena, you'll start seeing it everywhere, which is both overwhelming and liberating.
+
+---
+
+## Business & Professional Partnership Exits
+
+### When the Relationship Was Professional
+
+Narcissistic dynamics don't only appear in romantic or family relationships. They appear in business partnerships, creative collaborations, professional mentorships, and any arrangement where power, money, or identity are shared.
+
+When these relationships end, the patterns are familiar—but the terrain is different.
+
+### What Makes Professional Exits Distinct
+
+**Shared assets and documents.** There's paperwork. There may be contracts, shared accounts, intellectual property, client lists. The narcissist may use these as leverage—withholding, demanding, threatening—not because they care about the documents, but because the documents are access points.
+
+**Shared reputation.** In romantic exits, the smear campaign targets your character. In professional exits, it targets your credibility. They may contact clients, collaborators, or industry contacts with their version of events. They're not just protecting their image—they're preemptively damaging yours.
+
+**Financial entanglement.** Money becomes a weapon. Outstanding payments become leverage. Expenses become accusations. They may suddenly "discover" you owe them—or that they owe you nothing. The financial claims often have little legal merit but create maximum emotional pressure.
+
+**Professional identity threat.** If your work, your reputation, or your livelihood was tied to the partnership, leaving feels like losing yourself. They know this. They'll use it. "Without me, who are you?"
+
+### Common Post-Exit Escalation Patterns
+
+**The Extinction Burst**
+
+When a control strategy stops working, escalation intensifies before it extinguishes:
+- More messages
+- More accusations
+- More urgency
+- Bigger threats
+
+This is the nervous system of a controlling dynamic flailing: *"This can't be over—I need a response."*
+
+**The Legal Posture**
+
+Threats of lawyers, demands for documentation, implications of lawsuits. Often this is:
+- Inducing fear
+- Inducing obligation
+- Forcing engagement
+
+The goal is contact, not court. Real legal action arrives through proper channels. Threats that stay threats are leverage attempts.
+
+**Asset and Image Scrambling**
+
+After the partnership collapses, they may scramble to:
+- Secure documents
+- Control messaging
+- Intimidate into silence
+- Set up a defensive legal posture
+
+Not because they're right—because they're scared.
+
+### The Practical Protocol
+
+**One clean response, then stop.**
+
+Example: "All requested materials were delivered on [date]. Future communication should be directed through counsel."
+
+**Document everything.** Save messages. Screenshot texts. Keep a timeline. Not because you're preparing to fight—because documentation is clarity.
+
+**Don't argue the feelings.** Don't re-explain. Don't get pulled into emotional court. Their feelings about the ending are not your responsibility.
+
+**Separate the noise from the signal.** Legal threats without action are noise. Actual legal documents through proper channels are signal. Respond to signal. Ignore noise.
+
+**Protect your reputation through action, not defense.** Trying to "correct the record" with mutual contacts usually backfires. Continue doing good work. The people who matter will notice.
+
+### The Reframe
+
+When they threaten after you leave:
+- It's not closure—it's leverage
+- It's not truth—it's escalation
+- The answer is documentation + distance
+
+**Mantra:** *"This is escalation, not truth."*
 
 ---
 
@@ -11001,29 +11287,101 @@ ________________________________
 While individual decoder cards help you recognize specific tactics, sometimes you need to assess a relationship as a whole. This diagnostic map helps you step back and see the larger pattern—especially useful in new relationships where control hasn't yet become obvious.
 
 **How to Use This Map:**
+
+Read vertically, not emotionally.
+
 If 3 or more patterns appear early (within weeks) or cluster together, pause. If your body reacts before your mind does, trust that signal.
 
-**Entry Patterns (How They Arrive):**
-- **Accelerated Intimacy**: Immediate closeness, rapid physical/emotional access
-- **Unasked Assistance**: Fixing, organizing without being asked
-- **Fast Social Integration**: Early introductions creating social cost for withdrawal
+This map is about structure, not intent.
 
-**Control Mechanisms (How It Operates):**
-- **Micro-Critique of Identity**: Comments on clothing, tone, choices; framed as "helpful"
-- **Narrative Reframing**: "We were friends," retroactive redefinition of events
-- **Boundary Ambiguity**: Assumptions instead of questions, offense when boundaries appear
+---
 
-**Psychological Hooks (Why It Works):**
-- **Conditional Safety**: Warmth when compliant, withdrawal when independent
-- **Moral Positioning**: "I'm just trying to protect you"
-- **Speed Over Choice**: Things happen faster than you can process
+**I. Entry Patterns (How They Arrive)**
 
-**Impact Indicators (How You Know):**
-- **Somatic Discrepancy**: Your body tightens while your mind explains
-- **Self-Minimization**: "It's not that bad," "Maybe I'm overreacting"
-- **Identity Compression**: Less spontaneity, more monitoring
+**1. Accelerated Intimacy**
+- *Looks like:* Immediate closeness, rapid physical/emotional access, "It just feels easy/intense/meant to be"
+- *Hidden Function:* Bypassing consent-building stages
+- *Body Signal:* Disorientation mixed with excitement
+- *Truth Check:* Healthy intimacy unfolds with pacing
 
-**Differentiation Matrix:**
+**2. Unasked Assistance**
+- *Looks like:* Fixing, organizing, improving without being asked, "I just wanted to help"
+- *Hidden Function:* Establishing authority inside your domain
+- *Body Signal:* Gratitude followed by subtle discomfort
+- *Truth Check:* Care asks first
+
+**3. Fast Social Integration**
+- *Looks like:* Early introductions to family, inner circle, or team; pressure to belong quickly
+- *Hidden Function:* Creating social cost for withdrawal
+- *Body Signal:* Flattery mixed with pressure
+- *Truth Check:* Belonging should feel optional, not binding
+
+---
+
+**II. Control Mechanisms (How It Operates)**
+
+**4. Micro-Critique of Identity**
+- *Looks like:* Comments on clothing, tone, energy, choices; framed as "helpful" or "protective"
+- *Hidden Function:* Gradual erosion of self-trust
+- *Body Signal:* Self-editing, hesitation
+- *Truth Check:* Support does not require correction
+
+**5. Narrative Reframing**
+- *Looks like:* "We were friends," "You misunderstood," retroactive redefinition of events
+- *Hidden Function:* Rewriting history to justify access
+- *Body Signal:* Confusion, self-doubt
+- *Truth Check:* Your memory does not require validation to be real
+
+**6. Boundary Ambiguity**
+- *Looks like:* Assumptions instead of questions, offense when boundaries appear
+- *Hidden Function:* Testing compliance
+- *Body Signal:* Guilt when asserting needs
+- *Truth Check:* Boundaries are neutral, not attacks
+
+---
+
+**III. Psychological Hooks (Why It Works)**
+
+**7. Conditional Safety**
+- *Looks like:* Warmth when compliant, withdrawal when independent
+- *Hidden Function:* Training through reward and removal
+- *Body Signal:* Hypervigilance
+- *Truth Check:* Safety that disappears is not safety
+
+**8. Moral or Emotional Positioning**
+- *Looks like:* "I'm just trying to protect you," "Others don't understand us"
+- *Hidden Function:* Elevating themselves above scrutiny
+- *Body Signal:* Isolation
+- *Truth Check:* Protection does not require secrecy
+
+**9. Speed Over Choice**
+- *Looks like:* Things happen faster than you can process, objection feels "too late"
+- *Hidden Function:* Reducing agency through momentum
+- *Body Signal:* Freeze response
+- *Truth Check:* Consent can be withdrawn at any time
+
+---
+
+**IV. Impact Indicators (How You Know)**
+
+**10. Somatic Discrepancy**
+- *Looks like:* Your body tightens while your mind explains, delayed recognition
+- *Meaning:* Your nervous system clocked the threat
+- *Truth Check:* The body detects violation before language exists
+
+**11. Self-Minimization**
+- *Looks like:* "It's not that bad," "Maybe I'm overreacting"
+- *Meaning:* Internalized override
+- *Truth Check:* Minimization is a survival adaptation
+
+**12. Identity Compression**
+- *Looks like:* Less spontaneity, less self-expression, more monitoring
+- *Meaning:* Autonomy loss
+- *Truth Check:* Love expands you
+
+---
+
+**V. Differentiation Matrix: Control vs Connection**
 
 | Connection | Control |
 |------------|---------|
@@ -11033,7 +11391,9 @@ If 3 or more patterns appear early (within weeks) or cluster together, pause. If
 | Responds to boundaries | Punishes boundaries |
 | Encourages autonomy | Requires compliance |
 
-**Your Power Move:**
+---
+
+**VI. Closing Diagnostic Statement**
 
 If a relationship:
 - Enters quickly
