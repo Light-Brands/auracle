@@ -27,16 +27,16 @@ First Edition
 
 ## The Sovereignty Series
 
-*You Are Not Crazy* is **Volume One** of **The Sovereignty Series**—an eight-volume journey from recognition to reclamation. Each volume builds on the last, guiding you from naming what happened to embodying who you were always meant to be.
+*You Are Not Crazy* is **Volume One** of **The Sovereignty Series**—an eight-volume journey from recognition to reclamation. Each volume carries a single word. Yours is **SEE**.
 
-1. **You Are Not Crazy** — The Narcissism Decoder *(you are here)*
-2. **The Bridge** — Learning Secure Attachment After Trauma
-3. **Sovereignty** — Living From Internal Authority
-4. **Embodied Leadership** — Aura, Erotic Coherence & Presence
-5. **The Lineage** — Breaking the Chain, Parenting After Trauma
-6. **The Guide** — Holding Others' Healing Without Losing Your Own
-7. **The Return** — Money, Work & Building a Life After Survival Mode
-8. **Quantum You** — Becoming the Version You Were Always Meant to Be
+1. **SEE** — *You Are Not Crazy:* The Narcissism Decoder *(you are here)*
+2. **HEAL** — *The Bridge:* Learning Secure Attachment After Trauma
+3. **STAND** — *Sovereignty:* Living From Internal Authority
+4. **LIVE** — *Embodied Leadership:* Aura, Erotic Coherence & Presence
+5. **GIVE** — *The Lineage:* Breaking the Chain, Parenting After Trauma
+6. **SERVE** — *The Guide:* Holding Others' Healing Without Losing Your Own
+7. **THRIVE** — *The Return:* Money, Work & Building a Life After Survival Mode
+8. *Quantum You* — Becoming the Version You Were Always Meant to Be
 
 *This book is complete on its own. And when you're ready, there is more.*
 
