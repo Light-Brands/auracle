@@ -119,8 +119,8 @@ const PaymentModal = ({
     setIsProcessing(false)
   }
 
-  const handleMembershipUpsellContinue = (withMembership: boolean) => {
-    setIncludeMembership(withMembership)
+  const handleMembershipUpsellContinue = () => {
+    setIncludeMembership(true)
     setShowMembershipUpsell(false)
     // Continue with payment processing
     handleSubmit(new Event('submit') as any)
