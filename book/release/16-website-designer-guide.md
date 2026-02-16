@@ -424,6 +424,63 @@ The palette moves between these poles: **deep indigo** grounds the site, **elect
 | `--accent-red-soft` | `#E0522D15` | Red at 8% opacity — subtle warmth, badges |
 | `--accent-orange` | `#FB9543` | Warm midtone — between the red and cream, highlights and accents |
 
+#### Alternative Palette — Current Live Site (Teal & Blue)
+
+The live site at lightfield.institute currently uses a teal-and-blue palette that works well and could be retained or adapted. This palette is presented as an equally valid option alongside the kingfisher colors above. The designer may choose either palette, blend elements from both, or propose a third direction informed by both.
+
+**Current Live Site Reference Colors**
+
+| Role | Color | Hex | Notes |
+|------|-------|-----|-------|
+| Primary | Teal | `#14b8a6` | Warm, grounded — sits between green and blue |
+| Primary Light | Light Teal | `#5eead4` | Hover states, highlights, soft accents |
+| Primary Dark | Dark Teal | `#0d9488` | Active states, depth |
+| Secondary | Blue | `#3b82f6` | Clean, modern — used for interactive elements |
+| Accent Coral | Red | `#ef4444` | CTAs, urgency, warmth |
+| Accent Gold | Yellow-Gold | `#eab308` | Badges, warnings, warm highlights |
+| Background (dark) | Near Black | `#0a0f0f` | Current site default background |
+| Background (light) | Cool White | `#fafcfc` | Light mode variant |
+| Foreground (dark) | Off White | `#f0f5f5` | Primary text on dark backgrounds |
+| Foreground (light) | Near Black | `#1a1f1f` | Primary text on light backgrounds |
+
+**Current Live Site Neutrals**
+
+| Token | Hex | Usage |
+|-------|-----|-------|
+| `neutral-50` | `#fafafa` | Lightest surface |
+| `neutral-100` | `#f5f5f5` | Elevated surfaces |
+| `neutral-200` | `#e5e5e5` | Borders on light backgrounds |
+| `neutral-700` | `#404040` | Secondary text (dark mode) |
+| `neutral-800` | `#262626` | Card backgrounds (dark mode) |
+| `neutral-900` | `#171717` | Deep background |
+
+**Current Live Site Gradients**
+
+```css
+/* Primary gradient — teal to blue flash */
+--gradient-primary: linear-gradient(135deg, #14b8a6, #3b82f6);
+
+/* Spiritual gradient — teal through purple to gold */
+--gradient-spiritual: linear-gradient(135deg, #14b8a6, #a855f7, #f59e0b);
+
+/* Text gradient — teal to blue */
+--gradient-text: linear-gradient(to right, #14b8a6, #3b82f6);
+```
+
+**Comparison: Kingfisher vs. Live Site**
+
+| Aspect | Kingfisher Palette | Live Site Palette |
+|--------|-------------------|-------------------|
+| **Primary hue** | Electric blue (`#0EA5C3`, ~190°) | Teal (`#14b8a6`, ~170°) — warmer, more green |
+| **Secondary** | Dark indigo (`#13417C`) — deep, moody | Blue (`#3b82f6`) — brighter, more accessible |
+| **CTA color** | Orange-red (`#E0522D`) — burnt, earthy | Coral red (`#ef4444`) — brighter, punchier |
+| **Warm accent** | Orange (`#FB9543`) | Gold (`#eab308`) — more yellow |
+| **Background** | Cream-first (`#F5F0E1`) | Dark-first (`#0a0f0f`) |
+| **Mood** | Editorial, nature-inspired, light-mode sanctuary | Modern, tech-forward, dark-mode immersive |
+| **Metaphor** | Kingfisher emerging from water into light | Deep water — luminous elements in darkness |
+
+Either palette supports the brand. The kingfisher palette leads with warmth and breathing room (cream), while the live site palette leads with depth and immersion (dark). A hybrid approach — using the live site's teal-blue tones with the kingfisher's cream background philosophy — is also worth exploring.
+
 #### Series-Specific Accent Colors
 
 Each series uses a color drawn from the kingfisher palette. This prevents visual monotony as the site grows.
