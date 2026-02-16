@@ -72,17 +72,17 @@ Sovereignty is not hardening. It is steadiness.
 
 ---
 
-### The Trilogy
+### The Sovereignty Series
 
-This book is Volume 3 of a three-part series:
+This book is Volume 3 of an eight-volume series:
 
 | Volume | Title | Core Question |
 |--------|-------|---------------|
-| **1** | The Narcissism Decoder | *What is happening to me?* |
-| **2** | The Bridge | *Why did this shape me — and how do I cross out of it?* |
-| **3** | Aura, Sovereignty & Embodied Leadership | *Who am I when I stop shrinking?* |
+| **1** | See — The Truth That Was Hidden in Plain Sight | *What is happening to me?* |
+| **2** | Heal — The Body That Remembers the Way Home | *Why did this shape me — and how do I cross out of it?* |
+| **3** | Stand — The Ground That Was Always Yours | *Who am I when I stop shrinking?* |
 
-Each volume builds on the previous. You can read this book alone, but you will go deeper if you've crossed The Bridge first.
+Each volume builds on the previous. You can read this book alone, but you will go deeper if you've completed Volume 2 first.
 
 ---
 

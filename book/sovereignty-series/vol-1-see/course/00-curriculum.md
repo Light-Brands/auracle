@@ -1,6 +1,6 @@
 # Course 1: You Were Never Crazy
 
-## The Narcissism Decoder — A Course in Pattern Recognition
+## See: The Truth That Was Hidden in Plain Sight — A Course in Pattern Recognition
 
 ---
 
@@ -143,7 +143,7 @@ You've come so far. Now let's go deeper. Master advanced patterns, complex dynam
 - Module Reflection Journals
 
 ### Recommended Companions
-- Physical copy of *The Narcissism Decoder* (Volume 1)
+- Physical copy of *See* (Volume 1)
 - Personal journal for integration exercises
 
 ---
@@ -175,7 +175,7 @@ This material may activate memories and emotions. This is normal and part of the
 
 After completing Course 1, you are ready for:
 
-**Course 2: The Bridge** — Learn to retrain your nervous system for secure attachment. Understand why insight alone isn't enough. Build the bridge from trauma to trust.
+**Course 2: Heal** — Learn to retrain your nervous system for secure attachment. Understand why insight alone isn't enough. Build the bridge from trauma to trust.
 
 ---
 

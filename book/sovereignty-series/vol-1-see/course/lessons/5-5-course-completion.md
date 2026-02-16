@@ -18,7 +18,7 @@
 
 You've come so far.
 
-This is the end of Course 1: The Narcissism Decoder. Take a moment to acknowledge what you've accomplished.
+This is the end of Course 1: See. Take a moment to acknowledge what you've accomplished.
 
 When you started this course, you may have felt confused, doubting yourself, wondering if you were crazy.
 
@@ -87,7 +87,7 @@ The full journey from survival to sovereignty includes more stages:
 - **THRIVE** — Building material prosperity
 - **BECOME** — Stepping into your full expression
 
-If you're ready to continue, Course 2: The Bridge picks up where this course ends—retraining your nervous system for secure attachment, understanding why insight alone isn't enough, and building the bridge from trauma to trust.
+If you're ready to continue, Course 2: Heal picks up where this course ends—retraining your nervous system for secure attachment, understanding why insight alone isn't enough, and building the bridge from trauma to trust.
 
 **Closing**
 
@@ -196,7 +196,7 @@ Write a short letter to your future self—to read when you're doubting, foggy, 
 
 ## What's Next
 
-**Course 2: The Bridge**
+**Course 2: Heal**
 Stage: HEAL
 Duration: ~12 hours
 

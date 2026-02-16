@@ -16,7 +16,7 @@
 
 ### Script
 
-Welcome to The Narcissism Decoder course.
+Welcome to the See course.
 
 If you're here, something felt off.
 

@@ -153,7 +153,7 @@ If you found value in this book:
 - Consider revisiting the Secure Attachment Training Arc (Chapter 20) as a structured practice
 - Join communities of others doing this work—healing happens in connection
 
-And if you read Volume 1 (*The Narcissism Decoder*), you now have both pieces: the recognition and the replacement.
+And if you read Volume 1 (*See*), you now have both pieces: the recognition and the replacement.
 
 **The language to name what happened. And the practice to build what comes next.**
 
@@ -161,7 +161,7 @@ And if you read Volume 1 (*The Narcissism Decoder*), you now have both pieces: t
 
 ## The Next Volume
 
-When you are ready—not rushed, but ready—**Volume 3: Aura, Sovereignty & Embodied Leadership** awaits.
+When you are ready—not rushed, but ready—**Volume 3: Stand — The Ground That Was Always Yours** awaits.
 
 That book is for those who have crossed the bridge and are asking:
 

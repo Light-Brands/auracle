@@ -12,7 +12,7 @@
 
 Jennifer Brooke Lawless is a healer, writer, and guide for emotionally sensitive adults learning to lead from a regulated nervous system. She holds degrees in Psychology and Mental Health Counseling, with clinical experience spanning psychiatric care, family systems, and couples work.
 
-Her journey to sovereignty began in the wreckage of narcissistic relationships. In *The Narcissism Decoder* (Volume 1), she named the patterns. In *The Bridge* (Volume 2), she crossed from insight to embodiment. This book is what she found on the other side.
+Her journey to sovereignty began in the wreckage of narcissistic relationships. In *See* (Volume 1), she named the patterns. In *Heal* (Volume 2), she crossed from insight to embodiment. This book is what she found on the other side.
 
 Today, Jennifer lives in Costa Rica surrounded by community—on a hill with lemon trees and howler monkeys—practicing what she teaches: sovereignty without force, leadership without performing, and care without carrying.
 
