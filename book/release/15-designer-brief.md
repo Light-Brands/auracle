@@ -184,7 +184,7 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 **Barcode area:** Reserve a 2" x 1.2" white rectangle in the lower-right corner, at least 0.25" from the spine and 0.25" from the trim edge. Amazon auto-places the ISBN barcode if one is not supplied.
 
-**Author photo:** Include a professional headshot (designer will receive the photo separately). Industry standard for nonfiction — builds trust and credibility. Use the same photo across all 8 volumes for series consistency.
+**Author photo:** AI-enhanced professional headshot generated from a real photo (see `public/author-headshot.jpg`). Industry standard for nonfiction — builds trust and credibility. Use the same photo across all 8 volumes for series consistency.
 
 **Safety margins:** Keep all text at least 0.25" from trim edges (0.5" recommended for important content).
 
@@ -461,18 +461,9 @@ vol2-heal-source.[psd/ai]
 ## What the Designer Will Receive
 
 1. This brief (complete specifications)
-2. Author headshot photo (for back cover)
+2. Author headshot photo — AI-enhanced professional headshot generated from a real photo (located at `public/author-headshot.jpg`)
 3. Access to the [KDP Cover Calculator](https://kdp.amazon.com/en_US/cover-calculator) for final spine width confirmation
 4. Final page counts once manuscripts are formatted (estimates provided above)
-
----
-
-## Timeline Expectations
-
-- **Phase 1:** Design Vol 1 (SEE) as the template — establish the visual system
-- **Phase 2:** Apply system to Vols 2-8 with appropriate color/mood variations
-- **Phase 3:** Create mockups and social media cards
-- **Phase 4:** Final revisions after author review
 
 ---
 
@@ -481,7 +472,7 @@ vol2-heal-source.[psd/ai]
 - Spine widths are estimates based on word count. Final widths must be confirmed with the KDP Cover Calculator after manuscript formatting. The designer should build templates that accommodate easy spine width adjustment.
 - The ebook cover and the front panel of the paperback wrap should be identical designs (just different file formats and color modes: RGB for ebook, CMYK for print).
 - Amazon auto-places a barcode on the back cover if one is not supplied. Leave a clean 2" x 1.2" white space in the lower-right corner.
-- Author photo will be supplied separately. Reserve space per the back cover layout.
+- Author photo is an AI-enhanced professional headshot generated from a real photo, located at `public/author-headshot.jpg`. Use the same photo across all 8 volumes for series consistency.
 - The series may eventually include hardcover editions. The same front cover design would apply; hardcover wraps have additional fold-over area that would need to be added later.
 
 ---
