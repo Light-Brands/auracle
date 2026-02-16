@@ -107,7 +107,7 @@ This book does not diagnose anyone. It describes behavioral patterns that cause 
 
 This is Volume 1 of the 8-volume Sovereignty Series:
 • <i>Heal</i> (Volume 2) — Healing through secure attachment
-• <i>Sovereignty</i> (Volume 3) — Internal authority and self-trust
+• <i>Stand</i> (Volume 3) — Internal authority and self-trust
 • <i>Live</i> (Volume 4) — Living from full presence
 • <i>Give</i> (Volume 5) — Conscious parenting
 • <i>Serve</i> (Volume 6) — Serving others
@@ -236,7 +236,7 @@ You cannot think your way into secure attachment. You train it.
 
 This is Volume 2 of the 8-volume Sovereignty Series:
 • <i>See</i> (Volume 1) teaches pattern recognition
-• <i>Sovereignty</i> (Volume 3) installs internal authority
+• <i>Stand</i> (Volume 3) installs internal authority
 • <i>Live</i> (Volume 4) guides living from full presence
 
 <i>Stop surviving connection. Start feeling safe in it.</i>
@@ -477,7 +477,7 @@ The field around you is an extension of your nervous system state. When you regu
 This is Volume 4 of the 8-volume Sovereignty Series:
 • <i>See</i> (Volume 1): Recognition
 • <i>Heal</i> (Volume 2): Liberation
-• <i>Sovereignty</i> (Volume 3): Empowerment
+• <i>Stand</i> (Volume 3): Empowerment
 • <i>Live</i> (Volume 4): Embodiment
 • <i>Give</i> (Volume 5): Parenting
 • <i>Serve</i> (Volume 6): Serving

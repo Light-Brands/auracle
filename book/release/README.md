@@ -64,7 +64,7 @@ Each volume builds on the previous, creating a natural staggered release strateg
 |------|---------|
 | `01-platform-setup-guide.md` | Step-by-step setup for Amazon KDP, Gumroad, Substack |
 | `02-decoder-cards-lead-magnet.md` | Ready-to-convert PDF lead magnet (12 cards) |
-| `03-book-descriptions.md` | Optimized descriptions, keywords, categories for ALL 4 volumes |
+| `03-book-descriptions.md` | Optimized descriptions, keywords, categories for Volumes 1-4 |
 | `04-formatting-guide.md` | Manuscript formatting, conversion tools, upload checklist |
 | `05-content-calendar.md` | Extended content calendar spanning all 4 releases |
 | `06-volume-launch-campaigns.md` | Email sequences for Vol 2, 3, and 4 launches |
@@ -72,8 +72,11 @@ Each volume builds on the previous, creating a natural staggered release strateg
 | `08-substack-welcome-email.md` | Automated welcome email for new subscribers |
 | `09-substack-start-here-post.md` | Pinned "Start Here" post template |
 | `10-social-media-templates.md` | Bio variations, Linktree structure, ready-to-post captions |
-| `11-cover-specifications.md` | Cover requirements for all platforms + all 4 volumes |
+| `11-cover-specifications.md` | Cover requirements for all platforms + design recommendations |
 | `12-launch-checklist.md` | Complete timeline with milestone triggers for 4 volumes |
+| `13-astrological-release-strategy-2026.md` | Astrological timing for 2026 releases |
+| `14-designer-naming-spec.md` | Cover text hierarchy and naming for all 8 volumes |
+| `15-designer-brief.md` | **Complete designer brief — all 8 covers, specs, back cover layout** |
 
 ---
 
