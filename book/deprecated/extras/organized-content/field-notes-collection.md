@@ -14,7 +14,7 @@ Field notes are short, embodied moments that illustrate patterns in action. They
 
 ---
 
-## Volume 2: You Are Not Stuck — Field Notes
+## Volume 2: Heal — Field Notes
 
 ### Field Note: The Almost (Failed Repair)
 
@@ -203,7 +203,7 @@ The session went differently. More space. Less performance.
 
 ---
 
-## Volume 5: You Are Not Repeating — Field Notes
+## Volume 5: Give — Field Notes
 
 ### Field Note: The Mediator Childhood
 
@@ -318,7 +318,7 @@ And later, when someone says *"I'm just trying to keep you safe"*—her body wil
 
 ---
 
-## Volume 7: You Are Not Behind — Field Notes
+## Volume 7: Thrive — Field Notes
 
 ### Field Note: The Business Partner Who Couldn't Leave
 

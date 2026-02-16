@@ -1,6 +1,6 @@
 # Astrological Release Strategy 2026
 
-## You Are Not Smallty Series: Eight Volumes Aligned with Celestial Events
+## The Sovereignty Series: Eight Volumes Aligned with Celestial Events
 
 2026 is one of the most astrologically significant years in over 2,000 years. The Saturn-Neptune conjunction at 0° Aries hasn't occurred since approximately 4361 BC. This year offers a once-in-multiple-lifetimes opportunity to align the eight-volume Sovereignty Series with celestial events that mirror each book's transformational theme.
 
@@ -51,7 +51,7 @@ This conjunction sits between Vol 1 and Vol 2 launches, energizing the entire "A
 
 ## Volume-by-Volume Release Strategy
 
-### Volume 1: You Are Not Crazy — You Are Not Crazy
+### Volume 1: See — See
 
 **Launch Date:** February 17, 2026
 **Astrological Event:** Annular Solar Eclipse in Aquarius
@@ -89,11 +89,11 @@ This conjunction sits between Vol 1 and Vol 2 launches, energizing the entire "A
 
 #### Transition Tease to Volume 2
 
-"Now you see it. But seeing isn't the same as healing. In two weeks, as the blood moon rises, we cross The Bridge."
+"Now you see it. But seeing isn't the same as healing. In two weeks, as the blood moon rises, we begin to Heal."
 
 ---
 
-### Volume 2: You Are Not Stuck
+### Volume 2: Heal
 
 **Launch Date:** March 3, 2026
 **Astrological Event:** Total Lunar Eclipse (Blood Moon) in Virgo
@@ -113,7 +113,7 @@ This conjunction sits between Vol 1 and Vol 2 launches, energizing the entire "A
 **Campaign Copy:**
 - "You saw the patterns. Now your body needs to understand why it held on."
 - "The blood moon rises March 3. Some crossings require darkness."
-- "Trauma lives in the nervous system. Healing happens in the body. The Bridge shows you how."
+- "Trauma lives in the nervous system. Healing happens in the body. Heal shows you how."
 
 **Visual Theme:** Blood moon, bridges, crossing water, shadows transforming
 
@@ -144,7 +144,7 @@ This 14-day period between Vol 1 and Vol 2 is intentional:
 
 ---
 
-### Volume 3: You Are Not Small
+### Volume 3: Stand
 
 **Launch Date:** May 6, 2026
 **Astrological Event:** Pluto Retrograde Station at 5° Aquarius
@@ -182,11 +182,11 @@ This 14-day period between Vol 1 and Vol 2 is intentional:
 
 #### Transition Tease to Volume 4
 
-"You've installed internal authority. But sovereignty isn't meant to stay hidden. In eight weeks, as Jupiter ignites Leo, we step into You Are Not Gone."
+"You've installed internal authority. But sovereignty isn't meant to stay hidden. In eight weeks, as Jupiter ignites Leo, we step into Live."
 
 ---
 
-### Volume 4: You Are Not Gone
+### Volume 4: Live
 
 **Launch Date:** June 29, 2026
 **Astrological Event:** Jupiter Enters Leo
@@ -231,11 +231,11 @@ Volume 4 includes Part III: Erotic Coherence—content addressing sexuality afte
 
 #### Transition Tease to Volume 5
 
-"You've stepped into presence. Your leadership is embodied. But what happens when the smallest eyes watch how you move through the world? In August, under the Pisces moon, we address The Lineage."
+"You've stepped into presence. Your leadership is embodied. But what happens when the smallest eyes watch how you move through the world? In August, under the Pisces moon, we learn to Give."
 
 ---
 
-### Volume 5: You Are Not Repeating
+### Volume 5: Give
 
 **Launch Date:** August 28, 2026
 **Astrological Event:** Partial Lunar Eclipse (Pisces Full Moon)
@@ -278,15 +278,15 @@ August 2026 features two eclipses:
 - August 12: Total Solar Eclipse (leadership energy, amplifies Vol 4)
 - August 28: Partial Lunar Eclipse (lineage energy, launches Vol 5)
 
-**Bundle Opportunity:** "You Are Not Gone & Legacy Bundle" — Vol 4 + Vol 5 at 20% off during August eclipse season
+**Bundle Opportunity:** "Live & Legacy Bundle" — Vol 4 + Vol 5 at 20% off during August eclipse season
 
 #### Transition Tease to Volume 6
 
-"You're breaking the chain for those who watch you. But what about those beyond your family who are drawn to your healing? In October, as Mercury descends into Scorpio, we examine The Guide."
+"You're breaking the chain for those who watch you. But what about those beyond your family who are drawn to your healing? In October, as Mercury descends into Scorpio, we learn to Serve."
 
 ---
 
-### Volume 6: You Are Not Too Much
+### Volume 6: Serve
 
 **Launch Date:** October 24, 2026
 **Astrological Event:** Mercury Retrograde in Scorpio begins
@@ -305,7 +305,7 @@ August 2026 features two eclipses:
 
 **Campaign Copy:**
 - "Mercury stations retrograde in Scorpio on October 24. Time to examine why you became a helper."
-- "Is your helping a gift or a hiding place? The Guide helps you know the difference."
+- "Is your helping a gift or a hiding place? Serve helps you know the difference."
 - "Your healing is your credential. Your boundaries are your offering."
 
 **Visual Theme:** Deep water, lanterns in darkness, guiding light, boundaried containers
@@ -334,11 +334,11 @@ This creates a potent window for deep relational reassessment—exactly what Vol
 
 #### Transition Tease to Volume 7
 
-"You've discovered how to serve without losing yourself. But what happens when you're finally allowed to receive? In December, as the karmic axis shifts, we complete the journey with The Return."
+"You've discovered how to serve without losing yourself. But what happens when you're finally allowed to receive? In December, as the karmic axis shifts, we learn to Thrive."
 
 ---
 
-### Volume 7: You Are Not Behind
+### Volume 7: Thrive
 
 **Launch Date:** December 5, 2026
 **Astrological Event:** Lunar Nodes Shift (Rahu enters Capricorn, Ketu enters Cancer)
@@ -359,7 +359,7 @@ This creates a potent window for deep relational reassessment—exactly what Vol
 **Campaign Copy:**
 - "On December 5, the nodes shift. Your karmic contract with scarcity is complete."
 - "You survived. You healed. You stood. You led. You gave. You served. Now you thrive."
-- "The Return isn't just financial. It's permission to build a life, not just survive it."
+- "Thriving isn't just financial. It's permission to build a life, not just survive it."
 
 **Visual Theme:** Abundance, building, receiving, completion, new dawn
 
@@ -401,15 +401,15 @@ December 5:   THRIVE  (Lunar Nodes Shift)
 
 | Date | Event | Volume | Astrological Alignment |
 |------|-------|--------|----------------------|
-| Feb 17 | Launch | Vol 1: You Are Not Crazy | Annular Solar Eclipse |
+| Feb 17 | Launch | Vol 1: See | Annular Solar Eclipse |
 | Feb 20 | Cosmic Peak | — | Saturn-Neptune at 0° Aries |
-| Mar 3 | Launch | Vol 2: The Bridge | Total Lunar Eclipse |
-| May 6 | Launch | Vol 3: You Are Not Small | Pluto Retrograde Station |
-| Jun 29 | Launch | Vol 4: You Are Not Gone | Jupiter Enters Leo |
+| Mar 3 | Launch | Vol 2: Heal | Total Lunar Eclipse |
+| May 6 | Launch | Vol 3: Stand | Pluto Retrograde Station |
+| Jun 29 | Launch | Vol 4: Live | Jupiter Enters Leo |
 | Aug 12 | Amplification | — | Total Solar Eclipse |
-| Aug 28 | Launch | Vol 5: The Lineage | Partial Lunar Eclipse (Pisces) |
-| Oct 24 | Launch | Vol 6: You Are Not Too Much | Mercury Rx in Scorpio |
-| Dec 5 | Launch | Vol 7: The Return | Lunar Nodes Shift |
+| Aug 28 | Launch | Vol 5: Give | Partial Lunar Eclipse (Pisces) |
+| Oct 24 | Launch | Vol 6: Serve | Mercury Rx in Scorpio |
+| Dec 5 | Launch | Vol 7: Thrive | Lunar Nodes Shift |
 
 ### Gap Analysis
 
@@ -431,7 +431,7 @@ December 5:   THRIVE  (Lunar Nodes Shift)
 Each volume explicitly teases the next:
 
 **Vol 1 → Vol 2:**
-- "Now you see it. But seeing isn't healing. The Bridge shows how to cross out of survival."
+- "Now you see it. But seeing isn't healing. Heal shows how to cross out of survival."
 - Newsletter segment: "What the blood moon brings"
 - Pre-order opens eclipse night (Feb 17)
 

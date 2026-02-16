@@ -1,4 +1,4 @@
-# Volume 4: You Are Not Gone — Content Additions
+# Volume 4: Live — Content Additions
 
 ## Integration Priority: HIGH
 

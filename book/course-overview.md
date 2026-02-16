@@ -16,7 +16,7 @@ This comprehensive course bundle transforms the 8-volume Sovereignty Series into
 
 ## The Eight Courses
 
-### Course 1. You Are Not Crazy
+### Course 1. See
 **Stage:** SEE | **Duration:** ~10 hours | **Lessons:** 24
 > *"This wasn't love—this was conditioning."*
 
@@ -26,7 +26,7 @@ Learn to recognize and name manipulation patterns. Decode 60 patterns of control
 
 ---
 
-### Course 2. You Are Not Stuck
+### Course 2. Heal
 **Stage:** HEAL | **Duration:** ~12 hours | **Lessons:** 28
 > *"Leaving hurts because your body learned danger as connection."*
 
@@ -36,7 +36,7 @@ Retrain your nervous system for secure attachment. Understand why insight alone 
 
 ---
 
-### Course 3. You Are Not Small
+### Course 3. Stand
 **Stage:** STAND | **Duration:** ~10 hours | **Lessons:** 23
 > *"You are safe to choose without urgency."*
 
@@ -46,7 +46,7 @@ Install internal authority. Own your emotional field. Lead from presence rather 
 
 ---
 
-### Course 4. You Are Not Gone
+### Course 4. Live
 **Stage:** LIVE | **Duration:** ~9 hours | **Lessons:** 22
 > *"Your presence is erotic when it belongs to you."*
 
@@ -56,7 +56,7 @@ Inhabit your body fully. Master energy hygiene. Lead with magnetism that doesn't
 
 ---
 
-### Course 5. You Are Not Repeating
+### Course 5. Give
 **Stage:** GIVE | **Duration:** ~11 hours | **Lessons:** 24
 > *"You don't have to be healed to be a good parent. You have to be healing."*
 
@@ -66,7 +66,7 @@ Break generational cycles. Parent through your triggers. Raise emotionally liter
 
 ---
 
-### Course 6. You Are Not Too Much
+### Course 6. Serve
 **Stage:** SERVE | **Duration:** ~12 hours | **Lessons:** 26
 > *"Your healing is your credential. Your boundaries are your offering."*
 
@@ -76,7 +76,7 @@ Hold others' healing without losing your own. Navigate the ethics of lived exper
 
 ---
 
-### Course 7. You Are Not Behind
+### Course 7. Thrive
 **Stage:** THRIVE | **Duration:** ~11 hours | **Lessons:** 24
 > *"You are allowed to thrive, not just survive."*
 
@@ -86,7 +86,7 @@ Rebuild financial sovereignty. Navigate workplace dynamics. Build a life that ho
 
 ---
 
-### Course 8. You Were Never Broken
+### Course 8. Become
 **Stage:** BECOME | **Duration:** ~10 hours | **Lessons:** 24
 > *"You were never becoming—you were always unveiling."*
 
@@ -103,7 +103,7 @@ Embody your infinite self. Live from quantum consciousness. Complete the integra
 - Best for: Focused transformation in one area
 
 ### Core Bundle (Courses 1-3)
-- The Narcissism Decoder + The Bridge + Sovereignty
+- See + Heal + Stand
 - Best for: Foundation journey from recognition to standing
 
 ### Complete Bundle (All 8 Courses)
@@ -190,14 +190,14 @@ COURSE 8: BECOME    → Quantum consciousness, full expression
 
 | Course | Folder | Curriculum |
 |--------|--------|------------|
-| 1. You Are Not Crazy | `vol-1-not-crazy/course/` | [View Curriculum](./vol-1-not-crazy/course/00-curriculum.md) |
-| 2. You Are Not Stuck | `vol-2-not-stuck/course/` | [View Curriculum](./vol-2-not-stuck/course/00-curriculum.md) |
-| 3. You Are Not Small | `vol-3-not-small/course/` | [View Curriculum](./vol-3-not-small/course/00-curriculum.md) |
-| 4. You Are Not Gone | `vol-4-not-gone/course/` | [View Curriculum](./vol-4-not-gone/course/00-curriculum.md) |
-| 5. You Are Not Repeating | `vol-5-not-repeating/course/` | [View Curriculum](./vol-5-not-repeating/course/00-curriculum.md) |
-| 6. You Are Not Too Much | `vol-6-not-too-much/course/` | [View Curriculum](./vol-6-not-too-much/course/00-curriculum.md) |
-| 7. You Are Not Behind | `vol-7-not-behind/course/` | [View Curriculum](./vol-7-not-behind/course/00-curriculum.md) |
-| 8. You Were Never Broken | `vol-8-never-broken/course/` | [View Curriculum](./vol-8-never-broken/course/00-curriculum.md) |
+| 1. See | `vol-1-see/course/` | [View Curriculum](./vol-1-see/course/00-curriculum.md) |
+| 2. Heal | `vol-2-heal/course/` | [View Curriculum](./vol-2-heal/course/00-curriculum.md) |
+| 3. Stand | `vol-3-stand/course/` | [View Curriculum](./vol-3-stand/course/00-curriculum.md) |
+| 4. Live | `vol-4-live/course/` | [View Curriculum](./vol-4-live/course/00-curriculum.md) |
+| 5. Give | `vol-5-give/course/` | [View Curriculum](./vol-5-give/course/00-curriculum.md) |
+| 6. Serve | `vol-6-serve/course/` | [View Curriculum](./vol-6-serve/course/00-curriculum.md) |
+| 7. Thrive | `vol-7-thrive/course/` | [View Curriculum](./vol-7-thrive/course/00-curriculum.md) |
+| 8. Become | `vol-8-become/course/` | [View Curriculum](./vol-8-become/course/00-curriculum.md) |
 
 ---
 

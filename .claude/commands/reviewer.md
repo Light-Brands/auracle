@@ -13,7 +13,7 @@ When invoked, you orchestrate the entire review workflow:
 ## First Actions
 
 1. Read the review state file to understand current progress:
-   - File location: `book/{volume}/review-state.json` (e.g., `book/vol-1-not-crazy/review-state.json`)
+   - File location: `book/{volume}/review-state.json` (e.g., `book/vol-1-see/review-state.json`)
    - If no state file exists, offer to initialize a new review round
 
 2. Display current status to the user in a clear format
@@ -25,7 +25,7 @@ When invoked, you orchestrate the entire review workflow:
 The review state file tracks:
 ```json
 {
-  "volume": "vol-1-not-crazy",
+  "volume": "vol-1-see",
   "reviewRound": 4,
   "currentPhase": 1,
   "startedAt": "2026-01-06T00:00:00Z",

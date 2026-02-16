@@ -38,7 +38,7 @@ So I went searching. Three years of travel. Spiritual community. Nervous system 
 
 I wrote a book from that journey:
 
-**You Are Not Crazy** — Recognizing control disguised as care
+**See** — Recognizing control disguised as care
 
 This newsletter continues that work, one week at a time.
 
@@ -58,7 +58,7 @@ No overwhelm. No daily content. Just one meaningful email designed to help you f
 
 ## Free Resources
 
-### You Are Not Crazy Cards (Free PDF)
+### See Cards (Free PDF)
 
 12 manipulation patterns, named and decoded. Each card includes:
 - What they say
@@ -71,7 +71,7 @@ No overwhelm. No daily content. Just one meaningful email designed to help you f
 
 ## The Book
 
-### You Are Not Crazy
+### See
 
 *Control Disguised as Care*
 
@@ -85,7 +85,7 @@ For anyone who has left a conversation feeling worse without understanding why. 
 
 ### If You're New to This Work
 
-Start with the free Decoder Cards. They'll give you language for what you've been experiencing. Then read You Are Not Crazy to understand the full playbook.
+Start with the free Decoder Cards. They'll give you language for what you've been experiencing. Then read See to understand the full playbook.
 
 ### If You Understand But Still React
 

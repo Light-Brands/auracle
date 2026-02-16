@@ -33,7 +33,7 @@ You feel compelled to correct the record. You want to defend yourself. You reach
 **Your Power Move:**
 You don't have to litigate history with someone rewriting it. The people who know you will see the pattern. The people who believe the false narrative were never safe allies. Your silence is not agreement—it's refusal to participate in their court.
 
-**You Are Not Crazy:** When they rewrite the story, they're not seeking truth—they're seeking supply.
+**See:** When they rewrite the story, they're not seeking truth—they're seeking supply.
 
 ---
 
@@ -58,7 +58,7 @@ Fear floods your system. You start defending yourself. You explain. You justify.
 **Your Power Move:**
 One clean response, then silence: "All requested materials were delivered on [date]. Future communication should be directed through counsel." Then document everything. Real legal action will come through proper channels. Threats that stay threats are leverage attempts, not legal strategy.
 
-**You Are Not Crazy:** If it were really about the law, it wouldn't need your emotional response.
+**See:** If it were really about the law, it wouldn't need your emotional response.
 
 ---
 
@@ -72,7 +72,7 @@ That hesitation is the goal. The innkeeper doesn't have a claim. The innkeeper h
 
 This is how post-exit escalation works. The threats get louder as the door opens. The claims get bigger as you walk away. It's not evidence of what you owe—it's evidence of what they're losing.
 
-**You Are Not Crazy:** Control looks like urgency when it's losing.
+**See:** Control looks like urgency when it's losing.
 
 ---
 
@@ -247,5 +247,5 @@ For use as chapter openers, card headers, or standalone integration:
 
 - Vol 1 Card 52 → Vol 2 Ch 12 (Minimal Contact protocols)
 - Vol 1 Card 53 → Vol 3 Ch 4 (Completing Without Convincing)
-- Vol 1 Ch 12 Business section → Vol 7 (The Return) for financial recovery
+- Vol 1 Ch 12 Business section → Vol 7 (Thrive) for financial recovery
 - Vol 2 "Possession" card → Energy Series Vol 1 for energetic lens

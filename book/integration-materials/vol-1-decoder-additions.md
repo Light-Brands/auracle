@@ -1,4 +1,4 @@
-# Volume 1: You Are Not Crazy — Content Additions
+# Volume 1: See — Content Additions
 
 ## Integration Priority: MEDIUM
 

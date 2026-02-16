@@ -1,5 +1,5 @@
-# You Are Not Crazy
-## The Narcissism Decoder — Quick Reference Guide
+# See
+## See — Quick Reference Guide
 
 **Volume 1 of The Sovereignty Series**
 
@@ -194,7 +194,7 @@ Early warning signs to watch for:
 
 ## Next Step
 
-When you're ready to move from recognition to healing, **Volume 2: You Are Not Stuck** teaches nervous system repair and secure attachment.
+When you're ready to move from recognition to healing, **Volume 2: Heal** teaches nervous system repair and secure attachment.
 
 ---
 
@@ -205,4 +205,4 @@ When you're ready to move from recognition to healing, **Volume 2: You Are Not S
 
 **This is Volume 1 of The Sovereignty Series**
 
-For the complete book with all 60 patterns, decoder cards, and exercises, get *You Are Not Crazy: The Narcissism Decoder*
+For the complete book with all 60 patterns, decoder cards, and exercises, get *See: The Truth That Was Hidden in Plain Sight*

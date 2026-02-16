@@ -21,13 +21,13 @@ These quick reference guides distill the essential teachings from each volume in
 
 | Guide | Volume | Core Teaching | Best For |
 |-------|--------|---------------|----------|
-| [Vol 1](./vol-1-quick-reference.md) | **The Narcissism Decoder** | *"This wasn't love—this was conditioning"* | Recognizing manipulation patterns |
-| [Vol 2](./vol-2-quick-reference.md) | **The Bridge** | *"Leaving hurts because your body learned danger as connection"* | Attachment healing, nervous system repair |
+| [Vol 1](./vol-1-quick-reference.md) | **See** | *"This wasn't love—this was conditioning"* | Recognizing manipulation patterns |
+| [Vol 2](./vol-2-quick-reference.md) | **Heal** | *"Leaving hurts because your body learned danger as connection"* | Attachment healing, nervous system repair |
 | [Vol 3](./vol-3-quick-reference.md) | **Sovereignty** | *"You are safe to choose without urgency"* | Installing internal authority |
 | [Vol 4](./vol-4-quick-reference.md) | **Embodied Leadership** | *"Your presence is erotic when it belongs to you"* | Field coherence, boundaries, intimacy |
-| [Vol 5](./vol-5-quick-reference.md) | **The Lineage** | *"You don't have to be healed to be a good parent"* | Conscious parenting after trauma |
-| [Vol 6](./vol-6-quick-reference.md) | **The Guide** | *"Your healing is your credential"* | Sustainable helping, burnout prevention |
-| [Vol 7](./vol-7-quick-reference.md) | **The Return** | *"You are allowed to thrive, not just survive"* | Financial recovery, prosperity |
+| [Vol 5](./vol-5-quick-reference.md) | **Give** | *"You don't have to be healed to be a good parent"* | Conscious parenting after trauma |
+| [Vol 6](./vol-6-quick-reference.md) | **Serve** | *"Your healing is your credential"* | Sustainable helping, burnout prevention |
+| [Vol 7](./vol-7-quick-reference.md) | **Thrive** | *"You are allowed to thrive, not just survive"* | Financial recovery, prosperity |
 | [Vol 8](./vol-8-quick-reference.md) | **Quantum You** | *"You were never becoming—you were always unveiling"* | Final integration, quantum consciousness |
 
 ---
@@ -77,7 +77,7 @@ BECOME  (Vol 8) → Embody the infinite self
 → **[Volume 7 Guide](./vol-7-quick-reference.md)**: Scarcity Nervous System, Financial Sovereignty, Wealth Without Guilt
 
 ### If You're Ready for Full Integration
-→ **[Volume 8 Guide](./vol-8-quick-reference.md)**: Trust vs Management, The Whisper Beneath Thought, The Unveiling
+→ **[Volume 8 Guide](./vol-8-quick-reference.md)**: Trust vs Management, The Whisper Beneath Thought, The Self That Was Never Lost
 
 ---
 
@@ -138,13 +138,13 @@ Share individual guides with others who might benefit. These summaries stand alo
 
 These guides are companions to the complete books. For the full teachings, stories, exercises, and deep dives:
 
-- **Volume 1:** *You Are Not Crazy: The Narcissism Decoder*
-- **Volume 2:** *The Bridge: Learning Secure Attachment After Trauma*
+- **Volume 1:** *See: The Truth That Was Hidden in Plain Sight*
+- **Volume 2:** *Heal: The Body That Remembers the Way Home*
 - **Volume 3:** *Sovereignty: Living From Internal Authority*
 - **Volume 4:** *Embodied Leadership: Aura, Erotic Coherence & Living From Presence*
-- **Volume 5:** *The Lineage: Breaking the Chain — Parenting After Trauma*
-- **Volume 6:** *The Guide: Holding Others' Healing Without Losing Your Own*
-- **Volume 7:** *The Return: Money, Work & Building a Life After Survival Mode*
+- **Volume 5:** *Give: The Chain That Ends With You*
+- **Volume 6:** *Serve: The Light That Doesn't Consume*
+- **Volume 7:** *Thrive: The Life You Were Told You Couldn't Have*
 - **Volume 8:** *Quantum You: Becoming the Version You Were Always Meant to Be*
 
 ---

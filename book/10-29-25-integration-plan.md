@@ -10,14 +10,14 @@ The `10-29-25.md` file (~19,300 lines) contains extraordinarily rich conversatio
 
 | Volume | New Material Category | Priority |
 |--------|----------------------|----------|
-| Vol 1 (You Are Not Crazy) | Red flags, manipulation patterns, "magician tactics" | Medium |
-| Vol 2 (You Are Not Stuck) | Repair dynamics, dating red flags, family conditioning, gift-giving as regulation | **High** |
-| Vol 3 (You Are Not Small) | Reflexive counterbalancing, internal authority, replacement identity | **High** |
-| Vol 4 (You Are Not Gone) | Polarity/desire, "Myth of Balance" chapter, erotic sovereignty | **High** |
-| Vol 5 (You Are Not Repeating) | Family roles, sibling dynamics, maternal patterns | Medium |
-| Vol 6 (You Are Not Too Much) | "When Insight Becomes Control" - potential standalone section | **High** |
-| Vol 7 (You Are Not Behind) | Workplace dynamics, organizational abuse patterns | Medium |
-| Vol 8 (You Were Never Broken) | Integration statements, completion markers | Low |
+| Vol 1 (See) | Red flags, manipulation patterns, "magician tactics" | Medium |
+| Vol 2 (Heal) | Repair dynamics, dating red flags, family conditioning, gift-giving as regulation | **High** |
+| Vol 3 (Stand) | Reflexive counterbalancing, internal authority, replacement identity | **High** |
+| Vol 4 (Live) | Polarity/desire, "Myth of Balance" chapter, erotic sovereignty | **High** |
+| Vol 5 (Give) | Family roles, sibling dynamics, maternal patterns | Medium |
+| Vol 6 (Serve) | "When Insight Becomes Control" - potential standalone section | **High** |
+| Vol 7 (Thrive) | Workplace dynamics, organizational abuse patterns | Medium |
+| Vol 8 (Become) | Integration statements, completion markers | Low |
 | **New Volume?** | "When Insight Becomes Control" - full organizational/spiritual abuse framework | **Consider** |
 
 ---
@@ -312,7 +312,7 @@ The material contains substantial chapter-ready content for a book specifically 
 - Distinct audience (those who've already healed basics)
 
 **Arguments AGAINST:**
-- May duplicate themes from Volume 6 (The Guide)
+- May duplicate themes from Volume 6 (Serve)
 - Could be integrated as enhanced chapters
 - Series is already 8 volumes + Quantum
 

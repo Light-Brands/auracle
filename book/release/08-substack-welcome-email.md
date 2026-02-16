@@ -64,7 +64,7 @@ This is the foundation. More tools are coming.
 
 ### Want to Go Deeper?
 
-I've created a free quick-reference guide: **You Are Not Crazy Cards**
+I've created a free quick-reference guide: **See Cards**
 
 12 manipulation patterns, named and decoded. Each card tells you:
 - What they say
@@ -77,9 +77,9 @@ I've created a free quick-reference guide: **You Are Not Crazy Cards**
 
 ### If You're Ready for the Full Journey
 
-**You Are Not Crazy** teaches you to recognize control disguised as care.
+**See** teaches you to recognize control disguised as care.
 
-**The Bridge** teaches you to heal at the nervous system level—moving from insight to embodiment.
+**Heal** teaches you to heal at the nervous system level—moving from insight to embodiment.
 
 Both are available now:
 - [Amazon link]

@@ -1,4 +1,4 @@
-# Volume 3: You Are Not Small — Content Additions
+# Volume 3: Stand — Content Additions
 
 ## Integration Priority: HIGH
 

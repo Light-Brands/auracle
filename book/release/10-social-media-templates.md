@@ -11,7 +11,7 @@ Choose one and customize:
 ### Option 1: Author-Focused
 ```
 Jennifer Brooke Lawless
-Author: You Are Not Crazy | The Bridge
+Author: See | Heal
 Helping you recognize control & build secure attachment
 BS Psychology, MS Mental Health Counseling | Costa Rica 🌴
 👇 Free Decoder Cards + Newsletter
@@ -56,7 +56,7 @@ Free resources 👇
 *Shorter format, 80 characters max*
 
 ```
-You Are Not Crazy 📖 | You're not too sensitive
+See 📖 | You're not too sensitive
 Free tools in bio 👇
 ```
 
@@ -80,10 +80,10 @@ Set up in this order (most important first):
 2. 📰 Weekly Newsletter (Substack)
    → [Substack subscribe link]
 
-3. 📕 You Are Not Crazy (Book 1)
+3. 📕 See (Book 1)
    → [Amazon or Gumroad link]
 
-4. 📘 The Bridge (Book 2)
+4. 📘 Heal (Book 2)
    → [Amazon or Gumroad link]
 
 5. 📚 Both Books Bundle (Save 15%)
@@ -191,7 +191,7 @@ Your nervous system seeks what it recognizes, not what it needs.
 
 That's why "spark" and "red flag" feel so similar at first.
 
-**CTA:** This is from The Bridge—link in bio.
+**CTA:** This is from Heal—link in bio.
 
 ---
 
@@ -211,7 +211,7 @@ That's not failure. That's the gap between insight and embodiment.
 Awareness is not regulation.
 You train it.
 
-**CTA:** The Bridge is the training. Link in bio.
+**CTA:** Heal is the training. Link in bio.
 
 ---
 
@@ -248,7 +248,7 @@ But it also means you learned to regulate others before you learned to regulate 
 
 The work now is learning that you're allowed to exist without managing everyone else's experience of you.
 
-**CTA:** More in The Bridge. Link in bio.
+**CTA:** More in Heal. Link in bio.
 
 ---
 
@@ -265,7 +265,7 @@ You don't need a therapist to validate what your body already knows.
 
 If behavior causes harm, you have the right to name it, address it, and remove yourself from it.
 
-**CTA:** You Are Not Crazy is in bio.
+**CTA:** See is in bio.
 
 ---
 

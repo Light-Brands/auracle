@@ -1,4 +1,4 @@
-# The Return
+# Thrive
 ## Quick Reference Guide
 
 **Volume 7: Money, Work & Building a Life After Survival Mode**
@@ -274,7 +274,7 @@ When good things happen, watch for:
 
 ---
 
-## The Return Mantra
+## Thrive Mantra
 
 > *"My prosperity is not betrayal of my past. It is fruit of my healing."*
 
@@ -303,4 +303,4 @@ You've traveled from recognition to thriving:
 
 **This is Volume 7 of The Sovereignty Series**
 
-For the complete book with all chapters, financial recovery checklists, and workplace boundary scripts, get *The Return: Money, Work & Building a Life After Survival Mode*
+For the complete book with all chapters, financial recovery checklists, and workplace boundary scripts, get *Thrive: Money, Work & Building a Life After Survival Mode*
