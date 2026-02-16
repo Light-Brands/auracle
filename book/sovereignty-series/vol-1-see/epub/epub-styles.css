@@ -1,0 +1,179 @@
+/* See - EPUB Stylesheet */
+
+/* ============ Base Typography ============ */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  margin: 1em;
+  color: #1a1a1a;
+}
+
+/* ============ Headings ============ */
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  page-break-before: always;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+}
+
+h2 {
+  font-size: 1.4em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.3em;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 1.1em;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* ============ Paragraphs ============ */
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-align: justify;
+  orphans: 2;
+  widows: 2;
+}
+
+/* ============ Emphasis & Bold ============ */
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+/* ============ Block Quotes ============ */
+blockquote {
+  margin: 1em 1.5em;
+  padding: 0.5em 1em;
+  border-left: 3px solid #666;
+  font-style: italic;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+blockquote p {
+  text-align: left;
+}
+
+/* ============ Lists ============ */
+ul, ol {
+  margin: 0.5em 0 0.5em 1.5em;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.3em;
+}
+
+/* ============ Horizontal Rules (Section Breaks) ============ */
+hr {
+  border: none;
+  border-top: 1px solid #999;
+  margin: 1.5em auto;
+  width: 40%;
+}
+
+/* ============ Tables ============ */
+table {
+  border-collapse: collapse;
+  margin: 1em auto;
+  font-size: 0.9em;
+  width: 100%;
+}
+
+th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+td {
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  vertical-align: top;
+}
+
+/* ============ Decoder Cards ============ */
+h3[id*="card"], h3[id*="decoder"] {
+  border-left: 4px solid #b33;
+  padding-left: 0.5em;
+  margin-top: 1.5em;
+}
+
+/* ============ Crisis/Emergency Sections ============ */
+h2[id*="crisis"], h2[id*="danger"], h2[id*="emergency"] {
+  color: #b33;
+  border-bottom-color: #b33;
+}
+
+/* ============ Interlude Pages ============ */
+.interlude {
+  text-align: center;
+  margin: 2em 1em;
+  font-style: italic;
+}
+
+/* ============ Title Page Styling ============ */
+.title-page {
+  text-align: center;
+  margin-top: 30%;
+}
+
+/* ============ Code blocks (for any structured content) ============ */
+code {
+  font-family: monospace;
+  font-size: 0.9em;
+  background-color: #f5f5f5;
+  padding: 0.1em 0.3em;
+}
+
+pre {
+  background-color: #f5f5f5;
+  padding: 1em;
+  overflow-x: auto;
+  font-size: 0.85em;
+  border: 1px solid #ddd;
+}
+
+/* ============ Links ============ */
+a {
+  color: #1a5276;
+  text-decoration: underline;
+}
+
+/* ============ Images ============ */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ============ Page Breaks ============ */
+.page-break {
+  page-break-after: always;
+}
+
+div[align="center"] {
+  text-align: center;
+}

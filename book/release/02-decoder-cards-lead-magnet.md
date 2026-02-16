@@ -1,8 +1,8 @@
-# The Decoder Cards
+# See Cards
 
 ## 12 Essential Patterns of Manipulation—Named and Decoded
 
-**A Free Quick-Reference Guide from *You Are Not Crazy: The Narcissism Decoder***
+**A Free Quick-Reference Guide from *See: See***
 
 ---
 
@@ -252,7 +252,7 @@ When activated and confused:
 
 ## Want the Full Playbook?
 
-These 12 cards are excerpted from **You Are Not Crazy: The Narcissism Decoder**, which includes:
+These 12 cards are excerpted from **See: See**, which includes:
 
 - **60 manipulation patterns** fully decoded
 - The psychology of trauma bonds
@@ -267,7 +267,7 @@ These 12 cards are excerpted from **You Are Not Crazy: The Narcissism Decoder**,
 
 ## Continue Your Healing
 
-When you're ready to move from recognition to secure attachment, **The Bridge: Learning Secure Attachment After Trauma** continues the journey with:
+When you're ready to move from recognition to secure attachment, **Heal: The Body That Remembers the Way Home** continues the journey with:
 
 - Why insight alone doesn't heal
 - A 12-week secure attachment training program

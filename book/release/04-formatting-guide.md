@@ -14,10 +14,10 @@ This guide covers formatting your markdown manuscripts for:
 
 ## File Structure
 
-### Volume 1: The Narcissism Decoder
+### Volume 1: See
 
 ```
-vol-1-decoder/
+vol-1-see/
 ├── 00-front-matter.md
 ├── chapters/
 │   ├── 01-opening-manifesto.md
@@ -36,10 +36,10 @@ vol-1-decoder/
     └── appendix-b-childhood-patterns.md
 ```
 
-### Volume 2: The Bridge
+### Volume 2: Heal
 
 ```
-vol-2-bridge/
+vol-2-heal/
 ├── 00-front-matter.md
 ├── chapters/
 │   ├── 01-opening-manifesto.md
@@ -135,13 +135,13 @@ pandoc input.md -o output.epub --toc --toc-depth=2
 
 # Multiple files (Vol 1)
 pandoc \
-  vol-1-decoder/00-front-matter.md \
-  vol-1-decoder/chapters/*.md \
-  vol-1-decoder/appendices/*.md \
+  vol-1-see/00-front-matter.md \
+  vol-1-see/chapters/*.md \
+  vol-1-see/appendices/*.md \
   -o narcissism-decoder.epub \
   --toc \
   --toc-depth=2 \
-  --metadata title="The Narcissism Decoder" \
+  --metadata title="See" \
   --metadata author="Jennifer Brooke Lawless" \
   --epub-cover-image=cover.jpg
 ```
@@ -223,14 +223,14 @@ pandoc input.md -o output.pdf --pdf-engine=wkhtmltopdf
    ```
    THE SOVEREIGNTY SERIES
 
-   Volume 1: You Are Not Crazy — The Narcissism Decoder
-   Volume 2: The Bridge — Healing Through Secure Attachment
-   Volume 3: Sovereignty — Internal Authority and Self-Trust
-   Volume 4: Embodied Leadership — Living from Full Presence
-   Volume 5: The Lineage — Conscious Parenting
-   Volume 6: The Guide — Serving Others
-   Volume 7: The Return — Thriving Beyond Survival
-   Volume 8: Quantum You — Becoming Who You Always Were
+   Volume 1: See — See
+   Volume 2: Heal — Healing Through Secure Attachment
+   Volume 3: Stand — Internal Authority and Self-Trust
+   Volume 4: Live — Living from Full Presence
+   Volume 5: Give — Conscious Parenting
+   Volume 6: Serve — Serving Others
+   Volume 7: Thrive — Thriving Beyond Survival
+   Volume 8: Become — Becoming Who You Always Were
    ```
 
 4. **Dedication** (optional)
@@ -248,7 +248,7 @@ pandoc input.md -o output.pdf --pdf-engine=wkhtmltopdf
    You can name the tactics. You see the patterns. And yet your
    nervous system still reacts.
 
-   The Bridge closes the gap between insight and embodiment.
+   Heal closes the gap between insight and embodiment.
    Learn why awareness alone doesn't heal, how childhood roles
    shape adult attraction, and how to retrain your nervous system
    for secure attachment. Includes a 12-week training program.
@@ -510,15 +510,15 @@ Use the [KDP Margin Calculator](https://kdp.amazon.com/en_US/help/topic/G2018341
 
 ```bash
 # Volume 1
-cat vol-1-decoder/00-front-matter.md \
-    vol-1-decoder/chapters/*.md \
-    vol-1-decoder/appendices/*.md \
+cat vol-1-see/00-front-matter.md \
+    vol-1-see/chapters/*.md \
+    vol-1-see/appendices/*.md \
     > narcissism-decoder-complete.md
 
 # Volume 2
-cat vol-2-bridge/00-front-matter.md \
-    vol-2-bridge/chapters/*.md \
-    vol-2-bridge/appendices/*.md \
+cat vol-2-heal/00-front-matter.md \
+    vol-2-heal/chapters/*.md \
+    vol-2-heal/appendices/*.md \
     > the-bridge-complete.md
 ```
 
@@ -529,7 +529,7 @@ cat vol-2-bridge/00-front-matter.md \
 pandoc narcissism-decoder-complete.md \
   -o narcissism-decoder.epub \
   --toc \
-  --metadata title="The Narcissism Decoder" \
+  --metadata title="See" \
   --metadata subtitle="Control Disguised as Care" \
   --metadata author="Jennifer Brooke Lawless" \
   --epub-cover-image=cover-vol1.jpg
@@ -538,7 +538,7 @@ pandoc narcissism-decoder-complete.md \
 pandoc narcissism-decoder-complete.md \
   -o narcissism-decoder.pdf \
   --pdf-engine=wkhtmltopdf \
-  --metadata title="The Narcissism Decoder"
+  --metadata title="See"
 ```
 
 ---

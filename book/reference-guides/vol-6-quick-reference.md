@@ -1,4 +1,4 @@
-# The Guide
+# Serve
 ## Quick Reference Guide
 
 **Volume 6: Holding Others' Healing Without Losing Your Own**
@@ -259,7 +259,7 @@ Even if you're not a licensed professional:
 
 ---
 
-## The Guide's Mantra
+## Serve Mantra
 
 > *"My boundaries are not walls. They are the container that makes my offering possible."*
 
@@ -267,7 +267,7 @@ Even if you're not a licensed professional:
 
 ## Next Step
 
-When you're ready to rebuild your material foundation, **Volume 7: The Return** teaches prosperity after survival mode.
+When you're ready to rebuild your material foundation, **Volume 7: Thrive** teaches prosperity after survival mode.
 
 ---
 
@@ -277,4 +277,4 @@ When you're ready to rebuild your material foundation, **Volume 7: The Return** 
 
 **This is Volume 6 of The Sovereignty Series**
 
-For the complete book with all chapters, session hygiene protocols, and self-assessment tools, get *The Guide: Holding Others' Healing Without Losing Your Own*
+For the complete book with all chapters, session hygiene protocols, and self-assessment tools, get *Serve: Holding Others' Healing Without Losing Your Own*

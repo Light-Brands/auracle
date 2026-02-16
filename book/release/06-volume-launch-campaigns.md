@@ -32,7 +32,7 @@ Each subsequent volume launches 6-8 weeks after the previous to build momentum a
 
 ---
 
-# Volume 2 Launch Campaign: The Bridge
+# Volume 2 Launch Campaign: Heal
 
 ## Email Sequence
 
@@ -42,7 +42,7 @@ Each subsequent volume launches 6-8 weeks after the previous to build momentum a
 
 **Body:**
 
-When I released The Narcissism Decoder, I heard the same question over and over:
+When I released See, I heard the same question over and over:
 
 *"I can name the patterns now. But why can't I stop reacting?"*
 
@@ -54,7 +54,7 @@ That gap—between insight and embodiment—is where the real work lives.
 
 It's why I wrote the second book.
 
-**The Bridge: Learning Secure Attachment After Trauma** picks up where recognition ends. It's about healing at the nervous system level. About retraining your attachment patterns. About building relationships that regulate rather than activate.
+**Heal: The Body That Remembers the Way Home** picks up where recognition ends. It's about healing at the nervous system level. About retraining your attachment patterns. About building relationships that regulate rather than activate.
 
 It's coming soon.
 
@@ -73,7 +73,7 @@ P.S. — In the meantime, here's a preview of what we'll cover: [Link to teaser 
 
 **Body:**
 
-One of the most important chapters in The Bridge is about slow burns vs. fast burns.
+One of the most important chapters in Heal is about slow burns vs. fast burns.
 
 Here's a preview:
 
@@ -103,7 +103,7 @@ The full chapter includes:
 - How to distinguish real slow burns from avoidant distance
 - Why your nervous system mistakes activation for attraction
 
-The Bridge releases in [X] weeks.
+Heal releases in [X] weeks.
 
 Reply if you have questions about what's covered—I read every response.
 
@@ -117,12 +117,12 @@ Reply if you have questions about what's covered—I read every response.
 
 **Body:**
 
-Two weeks from today, The Bridge goes live.
+Two weeks from today, Heal goes live.
 
 If you pre-order (or join the waitlist), here's what you get:
 
 **Early Access Bundle:**
-- Volume 2: The Bridge (ebook)
+- Volume 2: Heal (ebook)
 - Bonus: Self-Assessment Worksheets
 - Bonus: The 12-Week Training Program summary guide
 - 15% off bundle pricing with Volume 1
@@ -147,13 +147,13 @@ Two weeks.
 
 ### Email 4: Launch Day
 
-**Subject:** The Bridge is here
+**Subject:** Heal is here
 
 **Body:**
 
 It's live.
 
-**The Bridge: Learning Secure Attachment After Trauma** is now available.
+**Heal: The Body That Remembers the Way Home** is now available.
 
 → [Get it on Gumroad] (includes bonus worksheets)
 → [Get it on Amazon Kindle]
@@ -341,7 +341,7 @@ P.S. — Volume 4 is coming. But first, stand.
 
 ---
 
-# Volume 4 Launch Campaign: Embodied Leadership
+# Volume 4 Launch Campaign: Live
 
 ## Email Sequence
 
@@ -355,7 +355,7 @@ This is it.
 
 The fourth and final book in the Sovereignty Series.
 
-**Embodied Leadership** is for those who have done the work:
+**Live** is for those who have done the work:
 - Named the patterns (Volume 1)
 - Healed the wounds (Volume 2)
 - Installed sovereignty (Volume 3)
@@ -418,7 +418,7 @@ The full chapter includes:
 - How to clear what isn't yours
 - The nervous system as the aura's engine
 
-Embodied Leadership releases in [X] weeks.
+Live releases in [X] weeks.
 
 [Your name]
 
@@ -430,7 +430,7 @@ Embodied Leadership releases in [X] weeks.
 
 **Body:**
 
-Embodied Leadership launches next week.
+Live launches next week.
 
 Before it does, I want to share something important.
 
@@ -464,7 +464,7 @@ P.S. — Appendix E includes a Reader Self-Check for sexuality, safety, and the 
 
 It's live.
 
-**Embodied Leadership: Aura, Erotic Coherence & Living From Presence** is now available.
+**Live: Aura, Erotic Coherence & Living From Presence** is now available.
 
 → [Get it on Gumroad] (includes Field Hygiene Menu + Consent Ladder)
 → [Get it on Amazon Kindle]

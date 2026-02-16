@@ -91,7 +91,7 @@
 
 Each volume should have its own identity while maintaining series cohesion through consistent accent colors and typography.
 
-**Volume 1: You Are Not Crazy — The Narcissism Decoder** — Recognition
+**Volume 1: See** — Recognition
 
 Consider darker, more intense tones that suggest "decoding" and revelation:
 
@@ -100,7 +100,7 @@ Consider darker, more intense tones that suggest "decoding" and revelation:
 - Text: White or cream for contrast
 - Mood: Dark to light, breaking through confusion
 
-**Volume 2: The Bridge** — Liberation
+**Volume 2: Heal** — Liberation
 
 Consider warmer, softer tones that suggest healing and transition:
 
@@ -109,7 +109,7 @@ Consider warmer, softer tones that suggest healing and transition:
 - Text: Cream or warm white
 - Mood: Crossing over, movement, hope
 
-**Volume 3: Sovereignty** — Empowerment
+**Volume 3: Stand** — Empowerment
 
 Consider grounded, authoritative tones that suggest standing firm:
 
@@ -119,7 +119,7 @@ Consider grounded, authoritative tones that suggest standing firm:
 - Text: White or silver
 - Mood: Stillness, authority, groundedness
 
-**Volume 4: Embodied Leadership** — Embodiment
+**Volume 4: Live** — Embodiment
 
 Consider radiant, coherent tones that suggest presence and integration:
 
@@ -130,11 +130,12 @@ Consider radiant, coherent tones that suggest presence and integration:
 - Mood: Radiance, coherence, full expression
 
 **Series Cohesion:**
-- Use the same font family across all four covers
+- Use the same font family across all eight covers
 - Keep gold accent color consistent (appears on all volumes)
 - Similar layout structure (title position, author name placement)
-- "The Sovereignty Series" subtitle on each (optional)
-- Consider numbering: "Volume 1" etc. in small text
+- "The Sovereignty Series" subtitle on each
+- Single-word title dominates each cover — this is the brand
+- Volume number in consistent position
 
 ---
 
@@ -229,34 +230,58 @@ Create mockups for Gumroad, social media, and website using:
 
 ```
 # Volume 1
-vol1-narcissism-decoder-cover-kdp-ebook-2560x1600.jpg
-vol1-narcissism-decoder-cover-kdp-print-6x9.pdf
-vol1-narcissism-decoder-cover-gumroad-1600x900.jpg
-vol1-narcissism-decoder-mockup-3d.png
+vol1-see-cover-kdp-ebook-2560x1600.jpg
+vol1-see-cover-kdp-print-6x9.pdf
+vol1-see-cover-gumroad-1600x900.jpg
+vol1-see-mockup-3d.png
 
 # Volume 2
-vol2-the-bridge-cover-kdp-ebook-2560x1600.jpg
-vol2-the-bridge-cover-kdp-print-6x9.pdf
-vol2-the-bridge-cover-gumroad-1600x900.jpg
-vol2-the-bridge-mockup-3d.png
+vol2-heal-cover-kdp-ebook-2560x1600.jpg
+vol2-heal-cover-kdp-print-6x9.pdf
+vol2-heal-cover-gumroad-1600x900.jpg
+vol2-heal-mockup-3d.png
 
 # Volume 3
-vol3-sovereignty-cover-kdp-ebook-2560x1600.jpg
-vol3-sovereignty-cover-kdp-print-6x9.pdf
-vol3-sovereignty-cover-gumroad-1600x900.jpg
-vol3-sovereignty-mockup-3d.png
+vol3-stand-cover-kdp-ebook-2560x1600.jpg
+vol3-stand-cover-kdp-print-6x9.pdf
+vol3-stand-cover-gumroad-1600x900.jpg
+vol3-stand-mockup-3d.png
 
 # Volume 4
-vol4-embodied-leadership-cover-kdp-ebook-2560x1600.jpg
-vol4-embodied-leadership-cover-kdp-print-6x9.pdf
-vol4-embodied-leadership-cover-gumroad-1600x900.jpg
-vol4-embodied-leadership-mockup-3d.png
+vol4-live-cover-kdp-ebook-2560x1600.jpg
+vol4-live-cover-kdp-print-6x9.pdf
+vol4-live-cover-gumroad-1600x900.jpg
+vol4-live-mockup-3d.png
+
+# Volume 5
+vol5-give-cover-kdp-ebook-2560x1600.jpg
+vol5-give-cover-kdp-print-6x9.pdf
+vol5-give-cover-gumroad-1600x900.jpg
+vol5-give-mockup-3d.png
+
+# Volume 6
+vol6-serve-cover-kdp-ebook-2560x1600.jpg
+vol6-serve-cover-kdp-print-6x9.pdf
+vol6-serve-cover-gumroad-1600x900.jpg
+vol6-serve-mockup-3d.png
+
+# Volume 7
+vol7-thrive-cover-kdp-ebook-2560x1600.jpg
+vol7-thrive-cover-kdp-print-6x9.pdf
+vol7-thrive-cover-gumroad-1600x900.jpg
+vol7-thrive-mockup-3d.png
+
+# Volume 8
+vol8-become-cover-kdp-ebook-2560x1600.jpg
+vol8-become-cover-kdp-print-6x9.pdf
+vol8-become-cover-gumroad-1600x900.jpg
+vol8-become-mockup-3d.png
 
 # Bundles
 bundle-mockup-vol1-vol2.png
 bundle-mockup-vol1-vol2-vol3.png
 bundle-mockup-complete-series.png
-series-mockup-all-four.png
+series-mockup-all-eight.png
 ```
 
 ---
@@ -287,35 +312,67 @@ series-mockup-all-four.png
 
 ### Volume 1
 
-**Title:** You Are Not Crazy
-**Subtitle:** The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
-**Series:** The Sovereignty Series • Volume 1
+**Title:** SEE
+**Subtitle:** The Truth That Was Hidden in Plain Sight
+**Series:** The Sovereignty Series — Volume 1
 **Author:** Jennifer Brooke Lawless
 **Tagline:** "Every pattern you can name is a pattern that loses power over you."
 
 ### Volume 2
 
-**Title:** The Bridge
-**Subtitle:** Learning Secure Attachment After Trauma
-**Series:** The Sovereignty Series
-**Author:** [Author Name]
-**Tagline (optional, for back cover):** "Secure attachment is not found—it is practiced."
+**Title:** HEAL
+**Subtitle:** The Body That Remembers the Way Home
+**Series:** The Sovereignty Series — Volume 2
+**Author:** Jennifer Brooke Lawless
+**Tagline (back cover):** "Secure attachment is not found—it is practiced."
 
 ### Volume 3
 
-**Title:** Sovereignty
-**Subtitle:** Living From Internal Authority
-**Series:** The Sovereignty Series
-**Author:** [Author Name]
-**Tagline (optional, for back cover):** "I am not small. I am learning to stand without fear."
+**Title:** STAND
+**Subtitle:** The Ground That Was Always Yours
+**Series:** The Sovereignty Series — Volume 3
+**Author:** Jennifer Brooke Lawless
+**Tagline (back cover):** "I am not small. I am learning to stand without fear."
 
 ### Volume 4
 
-**Title:** Embodied Leadership
-**Subtitle:** Aura, Erotic Coherence & Living From Presence
-**Series:** The Sovereignty Series
-**Author:** [Author Name]
-**Tagline (optional, for back cover):** "My presence is erotic when it belongs to me."
+**Title:** LIVE
+**Subtitle:** The Presence That Changes Everything
+**Series:** The Sovereignty Series — Volume 4
+**Author:** Jennifer Brooke Lawless
+**Tagline (back cover):** "My presence is erotic when it belongs to me."
+
+### Volume 5
+
+**Title:** GIVE
+**Subtitle:** The Chain That Ends With You
+**Series:** The Sovereignty Series — Volume 5
+**Author:** Jennifer Brooke Lawless
+**Tagline (back cover):** "The chain breaks with you. Not because you're perfect, but because you're aware."
+
+### Volume 6
+
+**Title:** SERVE
+**Subtitle:** The Light That Doesn't Consume
+**Series:** The Sovereignty Series — Volume 6
+**Author:** Jennifer Brooke Lawless
+**Tagline (back cover):** "Your healing is your credential. Your boundaries are your offering."
+
+### Volume 7
+
+**Title:** THRIVE
+**Subtitle:** The Life You Were Told You Couldn't Have
+**Series:** The Sovereignty Series — Volume 7
+**Author:** Jennifer Brooke Lawless
+**Tagline (back cover):** "Your prosperity is not a betrayal of your healing. It is a fruit of it."
+
+### Volume 8
+
+**Title:** BECOME
+**Subtitle:** The Self That Was Never Lost
+**Series:** The Sovereignty Series — Volume 8
+**Author:** Jennifer Brooke Lawless
+**Tagline (back cover):** "You were never becoming someone new. You were always unveiling who you'd been all along."
 
 ---
 
@@ -328,8 +385,8 @@ series-mockup-all-four.png
 
 **Bundles:**
 - Two-book stack (Vol 1+2)
-- Three-book fan display (Vol 1+2+3)
-- Four-book complete series display
+- Four-book fan display (Vol 1–4)
+- Eight-book complete series display
 - Box set mockup (for complete series)
 
 **Marketing:**
@@ -345,6 +402,6 @@ series-mockup-all-four.png
 - Cover is the #1 marketing asset—worth investing in quality
 - Test at thumbnail size—most browsing happens on mobile
 - Amazon allows cover updates after publishing (if needed)
-- Consider getting all 4 covers designed together for consistency
+- Consider getting all 8 covers designed together for consistency
 - Volume pricing tip: Design Vol 1 first, use as template for others
 

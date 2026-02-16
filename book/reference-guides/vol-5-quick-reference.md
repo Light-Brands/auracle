@@ -1,4 +1,4 @@
-# The Lineage
+# Give
 ## Quick Reference Guide
 
 **Volume 5: Breaking the Chain — Parenting After Trauma**
@@ -224,7 +224,7 @@ If you need to apologize for past behavior:
 
 ---
 
-## The Lineage Mantra
+## Give Mantra
 
 > *"The chain breaks with me. Not because I'm perfect, but because I'm aware."*
 
@@ -243,4 +243,4 @@ If you need to apologize for past behavior:
 
 **This is Volume 5 of The Sovereignty Series**
 
-For the complete book with all chapters, age-specific scripts, and repair templates, get *The Lineage: Breaking the Chain — Parenting After Trauma*
+For the complete book with all chapters, age-specific scripts, and repair templates, get *Give: Breaking the Chain — Parenting After Trauma*

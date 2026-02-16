@@ -1,4 +1,4 @@
-# Volume 4: Embodied Leadership — Content Additions
+# Volume 4: Live — Content Additions
 
 ## Integration Priority: HIGH
 

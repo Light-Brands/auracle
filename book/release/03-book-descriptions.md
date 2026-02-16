@@ -8,16 +8,16 @@
 
 | Volume | Title | Core Question | Launch Theme |
 |--------|-------|---------------|--------------|
-| 1 | You Are Not Crazy: The Narcissism Decoder | *What is happening to me?* | Recognition |
-| 2 | The Bridge | *Why did this shape me?* | Liberation |
-| 3 | Sovereignty | *Who am I when I stop shrinking?* | Empowerment |
-| 4 | Embodied Leadership | *How do I live from presence?* | Embodiment |
+| 1 | See: See | *What is happening to me?* | Recognition |
+| 2 | Heal | *Why did this shape me?* | Liberation |
+| 3 | Stand | *Who am I when I stop shrinking?* | Empowerment |
+| 4 | Live | *How do I live from presence?* | Embodiment |
 
 ---
 
 ---
 
-## Volume 1: You Are Not Crazy — The Narcissism Decoder
+## Volume 1: See — See
 
 ### Short Description (for ads, social, quick reference)
 
@@ -34,14 +34,14 @@ The wolf wears care, concern, and protection. Learn to see through the clothing.
 **500 characters:**
 You left the conversation feeling worse about yourself—but you can't explain why.
 
-The Narcissism Decoder names the 60 patterns of control disguised as care. Learn to recognize gaslighting, love-bombing, triangulation, and trauma bonds before they hook your nervous system. Includes decoder cards for real-time recognition and practical scripts for responding from power instead of reaction.
+See names the 60 patterns of control disguised as care. Learn to recognize gaslighting, love-bombing, triangulation, and trauma bonds before they hook your nervous system. Includes decoder cards for real-time recognition and practical scripts for responding from power instead of reaction.
 
 The confusion ends here. Your sovereignty begins.
 
 **500 characters (wolf variant):**
 The wolf doesn't arrive wearing wolf skin. It wears care, concern, protection, honesty. You invite it closer because it looks like love. Only when it's close enough to consume does it show its teeth.
 
-The Narcissism Decoder teaches you to see the wolf—60 manipulation patterns, all disguised as virtue, all decoded. Stop looking at the clothing. Start noticing the impact.
+See teaches you to see the wolf—60 manipulation patterns, all disguised as virtue, all decoded. Stop looking at the clothing. Start noticing the impact.
 
 The confusion ends here.
 
@@ -60,7 +60,7 @@ You picked up this book because something felt off. A relationship that left you
 
 <b>This book is your decoder ring.</b>
 
-Written from both sides of the therapy room—by a trauma-trained therapist who also lived these patterns—<i>The Narcissism Decoder</i> names 60 tactics of control disguised as care and teaches you to recognize them in real-time, not days later.
+Written from both sides of the therapy room—by a trauma-trained therapist who also lived these patterns—<i>See</i> names 60 tactics of control disguised as care and teaches you to recognize them in real-time, not days later.
 
 <b>Inside This Five-Part Guide:</b>
 
@@ -106,13 +106,13 @@ This book does not diagnose anyone. It describes behavioral patterns that cause 
 <b>The Sovereignty Series:</b>
 
 This is Volume 1 of the 8-volume Sovereignty Series:
-• <i>The Bridge</i> (Volume 2) — Healing through secure attachment
+• <i>Heal</i> (Volume 2) — Healing through secure attachment
 • <i>Sovereignty</i> (Volume 3) — Internal authority and self-trust
-• <i>Embodied Leadership</i> (Volume 4) — Living from full presence
-• <i>The Lineage</i> (Volume 5) — Conscious parenting
-• <i>The Guide</i> (Volume 6) — Serving others
-• <i>The Return</i> (Volume 7) — Thriving beyond survival
-• <i>Quantum You</i> (Volume 8) — Becoming who you always were
+• <i>Live</i> (Volume 4) — Living from full presence
+• <i>Give</i> (Volume 5) — Conscious parenting
+• <i>Serve</i> (Volume 6) — Serving others
+• <i>Thrive</i> (Volume 7) — Thriving beyond survival
+• <i>Become</i> (Volume 8) — Becoming who you always were
 ```
 
 ---
@@ -151,7 +151,7 @@ This is Volume 1 of the 8-volume Sovereignty Series:
 
 ---
 
-## Volume 2: The Bridge
+## Volume 2: Heal
 
 ### Short Description (for ads, social, quick reference)
 
@@ -165,7 +165,7 @@ You understand narcissism—but your body still reacts. This book bridges insigh
 **500 characters:**
 You can name the tactics. You see the patterns. And yet your nervous system still reacts.
 
-The Bridge closes the gap between insight and embodiment. Learn why awareness alone doesn't heal, how childhood roles shape adult attraction, and how to retrain your nervous system for secure attachment. Includes a 12-week training program, reparenting practices, and guidance for dating after trauma.
+Heal closes the gap between insight and embodiment. Learn why awareness alone doesn't heal, how childhood roles shape adult attraction, and how to retrain your nervous system for secure attachment. Includes a 12-week training program, reparenting practices, and guidance for dating after trauma.
 
 Stop surviving connection. Start feeling safe in it.
 
@@ -186,7 +186,7 @@ You still feel guilt when you create distance. You still feel compelled to expla
 
 <b>This is not failure. This is the gap between insight and embodiment.</b>
 
-<i>The Bridge</i> closes that gap.
+<i>Heal</i> closes that gap.
 
 <b>What You'll Learn:</b>
 
@@ -235,9 +235,9 @@ You cannot think your way into secure attachment. You train it.
 <b>The Sovereignty Series:</b>
 
 This is Volume 2 of the 8-volume Sovereignty Series:
-• <i>The Narcissism Decoder</i> (Volume 1) teaches pattern recognition
+• <i>See</i> (Volume 1) teaches pattern recognition
 • <i>Sovereignty</i> (Volume 3) installs internal authority
-• <i>Embodied Leadership</i> (Volume 4) guides living from full presence
+• <i>Live</i> (Volume 4) guides living from full presence
 
 <i>Stop surviving connection. Start feeling safe in it.</i>
 ```
@@ -269,7 +269,7 @@ This is Volume 2 of the 8-volume Sovereignty Series:
 
 ---
 
-## Volume 3: Sovereignty
+## Volume 3: Stand
 
 ### Short Description (for ads, social, quick reference)
 
@@ -355,9 +355,9 @@ Each chapter includes a "Neuroscience Lens" section explaining why old patterns 
 <b>The Sovereignty Series:</b>
 
 This is Volume 3 of the 8-volume Sovereignty Series:
-• <i>The Narcissism Decoder</i> (Volume 1) teaches pattern recognition
-• <i>The Bridge</i> (Volume 2) guides attachment healing
-• <i>Embodied Leadership</i> (Volume 4) explores living from full presence
+• <i>See</i> (Volume 1) teaches pattern recognition
+• <i>Heal</i> (Volume 2) guides attachment healing
+• <i>Live</i> (Volume 4) explores living from full presence
 
 <i>I am not small. I am learning to stand without fear.</i>
 ```
@@ -389,7 +389,7 @@ This is Volume 3 of the 8-volume Sovereignty Series:
 
 ---
 
-## Volume 4: Embodied Leadership
+## Volume 4: Live
 
 ### Short Description (for ads, social, quick reference)
 
@@ -403,7 +403,7 @@ Your sovereignty is installed. Now learn to live from it. Aura, erotic coherence
 **500 characters:**
 You've installed sovereignty. Now something new becomes possible: your energy can be coherent, not defensive. Your presence can lead, not perform. Your intimacy can deepen, not deplete.
 
-Embodied Leadership explores the physiological reality of your energy field, reclaiming sexuality after trauma, and leading through coherence rather than tactics. Includes daily aura hygiene practices and the consent ladder.
+Live explores the physiological reality of your energy field, reclaiming sexuality after trauma, and leading through coherence rather than tactics. Includes daily aura hygiene practices and the consent ladder.
 
 Your presence is already powerful. This book makes it coherent.
 
@@ -420,7 +420,7 @@ You've named the patterns. You've crossed the bridge. You've installed sovereign
 
 And now a final question emerges: How do I live from this place?
 
-<b>Embodied Leadership</b> is not about adding more practices. It is about allowing what you've already built to express itself.
+<b>Live</b> is not about adding more practices. It is about allowing what you've already built to express itself.
 
 Your presence is already powerful. Your energy already affects the room. The question is whether that power is coherent—or leaking, defending, performing.
 
@@ -475,14 +475,14 @@ The field around you is an extension of your nervous system state. When you regu
 <b>The Sovereignty Series:</b>
 
 This is Volume 4 of the 8-volume Sovereignty Series:
-• <i>The Narcissism Decoder</i> (Volume 1): Recognition
-• <i>The Bridge</i> (Volume 2): Liberation
+• <i>See</i> (Volume 1): Recognition
+• <i>Heal</i> (Volume 2): Liberation
 • <i>Sovereignty</i> (Volume 3): Empowerment
-• <i>Embodied Leadership</i> (Volume 4): Embodiment
-• <i>The Lineage</i> (Volume 5): Parenting
-• <i>The Guide</i> (Volume 6): Serving
-• <i>The Return</i> (Volume 7): Thriving
-• <i>Quantum You</i> (Volume 8): Becoming
+• <i>Live</i> (Volume 4): Embodiment
+• <i>Give</i> (Volume 5): Parenting
+• <i>Serve</i> (Volume 6): Serving
+• <i>Thrive</i> (Volume 7): Thriving
+• <i>Become</i> (Volume 8): Becoming
 
 <i>My presence is erotic when it belongs to me.</i>
 ```
@@ -518,15 +518,15 @@ This is Volume 4 of the 8-volume Sovereignty Series:
 
 ### Volume 1+2 Bundle: Recognition & Liberation
 
-**Title:** The Narcissism Decoder + The Bridge: The Healing Foundation
+**Title:** See + Heal: The Healing Foundation
 
 **Description:**
 
 From confusion to clarity. From survival to regulation.
 
-**Volume 1: You Are Not Crazy** teaches you to recognize manipulation in real-time. Name the 60 patterns. Understand trauma bonds. Respond from power.
+**Volume 1: See** teaches you to recognize manipulation in real-time. Name the 60 patterns. Understand trauma bonds. Respond from power.
 
-**Volume 2: The Bridge** teaches you to heal at the nervous system level. Retrain your attachment patterns. Date safely after trauma. Build relationships that regulate.
+**Volume 2: Heal** teaches you to heal at the nervous system level. Retrain your attachment patterns. Date safely after trauma. Build relationships that regulate.
 
 **This bundle includes:**
 - Both complete ebooks
@@ -548,11 +548,11 @@ From confusion to clarity. From survival to regulation.
 
 From confusion to sovereignty in three volumes.
 
-**Volume 1: You Are Not Crazy** — Name the patterns. See what's happening.
+**Volume 1: See** — Name the patterns. See what's happening.
 
-**Volume 2: The Bridge** — Heal your nervous system. Cross into safety.
+**Volume 2: Heal** — Heal your nervous system. Cross into safety.
 
-**Volume 3: Sovereignty** — Install internal authority. Stand without shrinking.
+**Volume 3: Stand** — Install internal authority. Stand without shrinking.
 
 **This bundle includes:**
 - Three complete ebooks
@@ -575,16 +575,16 @@ From confusion to sovereignty in three volumes.
 
 The complete journey from recognition to embodiment.
 
-**Volume 1: You Are Not Crazy** — Recognition
+**Volume 1: See** — Recognition
 *What is happening to me?*
 
-**Volume 2: The Bridge** — Liberation
+**Volume 2: Heal** — Liberation
 *Why did this shape me—and how do I cross out of it?*
 
-**Volume 3: Sovereignty** — Empowerment
+**Volume 3: Stand** — Empowerment
 *Who am I when I stop shrinking?*
 
-**Volume 4: Embodied Leadership** — Embodiment
+**Volume 4: Live** — Embodiment
 *How do I live from my full presence?*
 
 **This bundle includes:**

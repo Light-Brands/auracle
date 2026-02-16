@@ -154,7 +154,7 @@ The difference? Caring people trust your ability to manage yourself. Controlling
 
 **Power Move:** "I'm fine—I'll reach out if I need anything."
 
-**CTA:** 60 patterns in The Narcissism Decoder
+**CTA:** 60 patterns in See
 
 ---
 
@@ -357,7 +357,7 @@ This isn't a confession—it's a deflection. You shift from confronting to caret
 - The gap between knowing and changing
 - Fast burn vs slow burn explanation
 - Why your nervous system seeks familiarity
-- Teaser for Volume 2: The Bridge
+- Teaser for Volume 2: Heal
 - CTA: Pre-order/waitlist for Vol 2
 
 ---
@@ -489,14 +489,14 @@ You don't need their agreement for your experience to be valid.
 
 **Platform:** Social (Quote Card)
 
-**Hook:** The Bridge
+**Hook:** Heal
 
 **Content:**
 > Secure attachment is not found—it is practiced.
 
 Your nervous system learned safety through vigilance and anticipation. Healing requires new experiences, not more understanding.
 
-Coming soon: The Bridge
+Coming soon: Heal
 
 ---
 
@@ -511,7 +511,7 @@ Volume 1 helped you NAME the patterns.
 
 Volume 2 helps you HEAL from them.
 
-The Bridge includes:
+Heal includes:
 - 12-week secure attachment training
 - Role-based reparenting practices
 - Dating after trauma
@@ -664,7 +664,7 @@ Use these themes for Weeks 19-26 (after Volume 3 launch).
 
 ---
 
-## Volume 4 Content Themes: Embodied Leadership
+## Volume 4 Content Themes: Live
 
 Use these themes for Weeks 27-34 (after Volume 4 launch).
 

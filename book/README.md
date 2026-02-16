@@ -23,8 +23,8 @@ Volume 8: BECOME  →  "You were never becoming—you were always unveiling."
 
 ## The Books
 
-### [Volume 1: You Are Not Crazy](./vol-1-decoder/README.md)
-**The Narcissism Decoder** | 66,025 words | ~240 pages | 17 chapters
+### [Volume 1: See](./vol-1-see/README.md)
+*The Truth That Was Hidden in Plain Sight* | 66,025 words | ~240 pages | 17 chapters
 
 *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
 
@@ -43,8 +43,8 @@ This book helps you:
 
 ---
 
-### [Volume 2: The Bridge](./vol-2-bridge/README.md)
-**Learning Secure Attachment After Trauma** | 99,108 words | ~360 pages | 26 chapters
+### [Volume 2: Heal](./vol-2-heal/README.md)
+*The Body That Remembers the Way Home* | 99,108 words | ~360 pages | 26 chapters
 
 *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection*
 
@@ -63,8 +63,8 @@ This book helps you:
 
 ---
 
-### [Volume 3: Sovereignty](./vol-3-sovereignty/README.md)
-**Living From Internal Authority** | 69,048 words | ~251 pages | 21 chapters
+### [Volume 3: Stand](./vol-3-stand/README.md)
+*The Ground That Was Always Yours* | 69,048 words | ~251 pages | 21 chapters
 
 *A Guide for Those Ready to Stop Shrinking and Start Standing*
 
@@ -83,8 +83,8 @@ This book helps you:
 
 ---
 
-### [Volume 4: Embodied Leadership](./vol-4-embodied-leadership/README.md)
-**Aura, Erotic Coherence & Living From Presence** | 65,433 words | ~238 pages | 14 chapters
+### [Volume 4: Live](./vol-4-live/README.md)
+*The Presence That Changes Everything* | 65,433 words | ~238 pages | 14 chapters
 
 *A Guide for Those Ready to Inhabit Their Full Power*
 
@@ -103,8 +103,8 @@ This book helps you:
 
 ---
 
-### [Volume 5: The Lineage](./vol-5-lineage/README.md)
-**Breaking the Chain — Parenting After Trauma** | 84,162 words | ~306 pages | 21 chapters
+### [Volume 5: Give](./vol-5-give/README.md)
+*The Chain That Ends With You* | 84,162 words | ~306 pages | 21 chapters
 
 *A Guide for Those Ready to Give Their Children What They Never Received*
 
@@ -123,8 +123,8 @@ This book helps you:
 
 ---
 
-### [Volume 6: The Guide](./vol-6-guide/README.md)
-**Holding Others' Healing Without Losing Your Own** | 89,711 words | ~326 pages | 23 chapters
+### [Volume 6: Serve](./vol-6-serve/README.md)
+*The Light That Doesn't Consume* | 89,711 words | ~326 pages | 23 chapters
 
 *A Guide for Those Called to Help Others on This Path*
 
@@ -143,8 +143,8 @@ This book helps you:
 
 ---
 
-### [Volume 7: The Return](./vol-7-return/README.md)
-**Money, Work & Building a Life After Survival Mode** | 82,348 words | ~299 pages | 22 chapters
+### [Volume 7: Thrive](./vol-7-thrive/README.md)
+*The Life You Were Told You Couldn't Have* | 82,348 words | ~299 pages | 22 chapters
 
 *A Guide for Those Ready to Thrive, Not Just Survive*
 
@@ -163,8 +163,8 @@ This book helps you:
 
 ---
 
-### [Volume 8: Quantum You](./vol-8-quantum/README.md)
-**Becoming the Version You Were Always Meant to Be** | ~60,000 words | ~218 pages | 18 chapters
+### [Volume 8: Become](./vol-8-become/README.md)
+*The Self That Was Never Lost* | ~60,000 words | ~218 pages | 18 chapters
 
 *A Guide for Those Ready to Unveil Their Infinite Self*
 
@@ -227,17 +227,17 @@ Read all eight, in order:
 
 ## Series Statistics
 
-| Volume | Title | Words | Pages | Chapters | Appendices |
-|:------:|-------|------:|------:|:--------:|:----------:|
-| 1 | The Narcissism Decoder | 66,025 | ~240 | 16 | 5 |
-| 2 | The Bridge | 99,108 | ~360 | 26 | 3 |
-| 3 | Sovereignty | 69,048 | ~251 | 21 | 5 |
-| 4 | Embodied Leadership | 65,433 | ~238 | 14 | 5 |
-| 5 | The Lineage | 84,162 | ~306 | 21 | 5 |
-| 6 | The Guide | 89,711 | ~326 | 23 | 5 |
-| 7 | The Return | 82,348 | ~299 | 22 | 5 |
-| 8 | Quantum You | ~60,000 | ~218 | 18 | 4 |
-| **Total** | | **~615,835** | **~2,239** | **161** | **37** |
+| Volume | Title | Subtitle | Words | Pages | Chapters | Appendices |
+|:------:|:-----:|----------|------:|------:|:--------:|:----------:|
+| 1 | See | The Truth That Was Hidden in Plain Sight | 66,025 | ~240 | 16 | 5 |
+| 2 | Heal | The Body That Remembers the Way Home | 99,108 | ~360 | 26 | 3 |
+| 3 | Stand | The Ground That Was Always Yours | 69,048 | ~251 | 21 | 5 |
+| 4 | Live | The Presence That Changes Everything | 65,433 | ~238 | 14 | 5 |
+| 5 | Give | The Chain That Ends With You | 84,162 | ~306 | 21 | 5 |
+| 6 | Serve | The Light That Doesn't Consume | 89,711 | ~326 | 23 | 5 |
+| 7 | Thrive | The Life You Were Told You Couldn't Have | 82,348 | ~299 | 22 | 5 |
+| 8 | Become | The Self That Was Never Lost | ~60,000 | ~218 | 18 | 4 |
+| **Total** | | | **~615,835** | **~2,239** | **161** | **37** |
 
 *Page estimates based on 275 words/page (standard trade paperback)*
 
@@ -247,16 +247,16 @@ Read all eight, in order:
 
 ```
 /book/
-├── vol-1-decoder/              # The Narcissism Decoder ✅
-├── vol-2-bridge/               # The Bridge ✅
-├── vol-3-sovereignty/          # Sovereignty ✅
-├── vol-4-embodied-leadership/  # Embodied Leadership ✅
-├── vol-5-lineage/              # The Lineage ✅
-├── vol-6-guide/                # The Guide ✅
-├── vol-7-return/               # The Return ✅
-├── vol-8-quantum/              # Quantum You ✅
-├── extras/                     # Source materials and notes
-└── release/                    # Marketing and launch materials
+├── vol-1-see/              # See — The Truth That Was Hidden in Plain Sight ✅
+├── vol-2-heal/             # Heal — The Body That Remembers the Way Home ✅
+├── vol-3-stand/            # Stand — The Ground That Was Always Yours ✅
+├── vol-4-live/             # Live — The Presence That Changes Everything ✅
+├── vol-5-give/             # Give — The Chain That Ends With You ✅
+├── vol-6-serve/            # Serve — The Light That Doesn't Consume ✅
+├── vol-7-thrive/           # Thrive — The Life You Were Told You Couldn't Have ✅
+├── vol-8-become/           # Become — The Self That Was Never Lost ✅
+├── extras/                 # Source materials and notes
+└── release/                # Marketing and launch materials
 ```
 
 ---

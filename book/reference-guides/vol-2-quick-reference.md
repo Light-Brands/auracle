@@ -1,4 +1,4 @@
-# The Bridge
+# Heal
 ## Quick Reference Guide
 
 **Volume 2: Learning Secure Attachment After Trauma**
@@ -22,7 +22,7 @@ Understanding the patterns doesn't break them. Your nervous system was programme
 | "That behavior was wrong" | "But my body craves it" |
 | "I should leave" | "But leaving feels like dying" |
 
-**The Bridge:** New experiences of safety, not more understanding.
+**Heal:** New experiences of safety, not more understanding.
 
 ---
 
@@ -214,7 +214,7 @@ You're grieving:
 
 ---
 
-## The Bridge Mantra
+## Heal Mantra
 
 > *"I am learning to feel safe—not because danger has passed, but because I am building safety within."*
 
@@ -232,4 +232,4 @@ When you're ready to move from healing to standing, **Volume 3: Sovereignty** te
 
 **This is Volume 2 of The Sovereignty Series**
 
-For the complete book with all chapters, attachment assessments, and the full 12-week training protocol, get *The Bridge: Learning Secure Attachment After Trauma*
+For the complete book with all chapters, attachment assessments, and the full 12-week training protocol, get *Heal: Learning Secure Attachment After Trauma*

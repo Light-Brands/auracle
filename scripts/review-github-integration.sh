@@ -251,7 +251,7 @@ usage() {
     echo "  GITHUB_REPO     Repository (default: danlawless/auracle)"
     echo ""
     echo "Examples:"
-    echo "  $0 post-issue vol-1-decoder 2 bailey ./issue.md \"[Review] Bailey\" \"review-round-4,phase-2-content\""
+    echo "  $0 post-issue vol-1-see 2 bailey ./issue.md \"[Review] Bailey\" \"review-round-4,phase-2-content\""
     echo "  $0 check-issue 260"
     echo "  $0 list-issues 4"
 }

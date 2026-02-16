@@ -10,21 +10,21 @@ The `10-29-25.md` file (~19,300 lines) contains extraordinarily rich conversatio
 
 | Volume | New Material Category | Priority |
 |--------|----------------------|----------|
-| Vol 1 (Decoder) | Red flags, manipulation patterns, "magician tactics" | Medium |
-| Vol 2 (Bridge) | Repair dynamics, dating red flags, family conditioning, gift-giving as regulation | **High** |
-| Vol 3 (Sovereignty) | Reflexive counterbalancing, internal authority, replacement identity | **High** |
-| Vol 4 (Embodied Leadership) | Polarity/desire, "Myth of Balance" chapter, erotic sovereignty | **High** |
-| Vol 5 (Lineage) | Family roles, sibling dynamics, maternal patterns | Medium |
-| Vol 6 (Guide) | "When Insight Becomes Control" - potential standalone section | **High** |
-| Vol 7 (Return) | Workplace dynamics, organizational abuse patterns | Medium |
-| Vol 8 (Quantum) | Integration statements, completion markers | Low |
+| Vol 1 (See) | Red flags, manipulation patterns, "magician tactics" | Medium |
+| Vol 2 (Heal) | Repair dynamics, dating red flags, family conditioning, gift-giving as regulation | **High** |
+| Vol 3 (Stand) | Reflexive counterbalancing, internal authority, replacement identity | **High** |
+| Vol 4 (Live) | Polarity/desire, "Myth of Balance" chapter, erotic sovereignty | **High** |
+| Vol 5 (Give) | Family roles, sibling dynamics, maternal patterns | Medium |
+| Vol 6 (Serve) | "When Insight Becomes Control" - potential standalone section | **High** |
+| Vol 7 (Thrive) | Workplace dynamics, organizational abuse patterns | Medium |
+| Vol 8 (Become) | Integration statements, completion markers | Low |
 | **New Volume?** | "When Insight Becomes Control" - full organizational/spiritual abuse framework | **Consider** |
 
 ---
 
 ## Detailed Integration Map
 
-### VOLUME 1: THE NARCISSISM DECODER
+### VOLUME 1: YOU ARE NOT CRAZY
 **Theme:** Recognition, naming patterns, understanding manipulation
 
 #### Content to Integrate:
@@ -109,7 +109,7 @@ This volume receives the **LARGEST** amount of new material.
 
 ---
 
-### VOLUME 3: SOVEREIGNTY
+### VOLUME 3: YOU ARE NOT SMALL
 **Theme:** Installing internal authority, holding your field, sovereign choice
 
 #### Content to Integrate:
@@ -154,7 +154,7 @@ This volume receives the **LARGEST** amount of new material.
 
 ---
 
-### VOLUME 4: EMBODIED LEADERSHIP
+### VOLUME 4: YOU ARE NOT GONE
 **Theme:** Field coherence, sexuality as life force, magnetism, embodied leadership
 
 #### Content to Integrate:
@@ -217,7 +217,7 @@ This volume receives the **LARGEST** amount of new material.
 
 ---
 
-### VOLUME 6: THE GUIDE
+### VOLUME 6: YOU ARE NOT TOO MUCH
 **Theme:** Sustainable helping, shadow of the healer, boundaried presence
 
 #### Content to Integrate:
@@ -273,7 +273,7 @@ This volume receives the **LARGEST** amount of new material.
 
 ---
 
-### VOLUME 8: QUANTUM YOU
+### VOLUME 8: YOU WERE NEVER BROKEN
 **Theme:** Embodying infinite self, quantum consciousness
 
 #### Content to Integrate:
@@ -312,7 +312,7 @@ The material contains substantial chapter-ready content for a book specifically 
 - Distinct audience (those who've already healed basics)
 
 **Arguments AGAINST:**
-- May duplicate themes from Volume 6 (The Guide)
+- May duplicate themes from Volume 6 (Serve)
 - Could be integrated as enhanced chapters
 - Series is already 8 volumes + Quantum
 

@@ -1,4 +1,4 @@
-# Volume 2: The Bridge — Content Additions
+# Volume 2: Heal — Content Additions
 
 ## Integration Priority: HIGH
 
