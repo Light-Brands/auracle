@@ -1,6 +1,6 @@
 # Chapter 1: The Opening Manifesto
 
-## Aura, Sovereignty & Embodied Leadership
+## The Ground That Was Always Yours
 
 ---
 

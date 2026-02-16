@@ -30,8 +30,8 @@ By completing this course, you will:
 
 ## Prerequisites
 
-- Course 1: The Narcissism Decoder (Recognition)
-- Course 2: The Bridge (Healing foundations)
+- Course 1: See (Recognition)
+- Course 2: Heal (Healing foundations)
 
 ---
 
@@ -153,7 +153,7 @@ Teaching, community, and living the sovereign life.
 
 After completing Course 3, you are ready for:
 
-**Course 4: Embodied Leadership** — Inhabit your body fully. Master energy hygiene. Lead with magnetism that doesn't manipulate.
+**Course 4: Live** — Inhabit your body fully. Master energy hygiene. Lead with magnetism that doesn't manipulate.
 
 ---
 

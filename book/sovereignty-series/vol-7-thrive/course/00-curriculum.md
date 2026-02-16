@@ -156,7 +156,7 @@ For those building businesses:
 
 After completing Course 7, you are ready for:
 
-**Course 8: Quantum You** — The final course. Embody your infinite self. Live from quantum consciousness.
+**Course 8: Become** — The final course. Embody your infinite self. Live from quantum consciousness.
 
 ---
 

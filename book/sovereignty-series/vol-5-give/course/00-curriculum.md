@@ -1,6 +1,6 @@
-# Course 5: The Lineage
+# Course 5: Give
 
-## Breaking the Chain — Parenting After Trauma
+## The Chain That Ends With You — Parenting After Trauma
 
 ---
 

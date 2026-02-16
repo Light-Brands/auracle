@@ -1,6 +1,6 @@
-# Course 2: The Bridge
+# Course 2: Heal
 
-## Learning Secure Attachment After Trauma
+## The Body That Remembers the Way Home — Learning Secure Attachment After Trauma
 
 ---
 
@@ -30,7 +30,7 @@ By completing this course, you will:
 
 ## Prerequisites
 
-This course builds on Course 1: The Narcissism Decoder. You should have:
+This course builds on Course 1: See. You should have:
 - Basic understanding of manipulation patterns
 - Familiarity with trauma bonds
 - Awareness of the 3-3-3 Rule and body-based recognition
@@ -48,7 +48,7 @@ Why knowing isn't changing. The difference between cognitive understanding and n
 
 | Lesson | Title | Duration | Script |
 |--------|-------|----------|--------|
-| 1.1 | Welcome to The Bridge | 15 min | [View Script](./lessons/1-1-welcome.md) |
+| 1.1 | Welcome to Heal | 15 min | [View Script](./lessons/1-1-welcome.md) |
 | 1.2 | Why Insight Isn't Enough | 25 min | [View Script](./lessons/1-2-insight-not-enough.md) |
 | 1.3 | The Body Keeps the Score | 25 min | [View Script](./lessons/1-3-body-keeps-score.md) |
 | 1.4 | Attachment as Survival Strategy | 25 min | [View Script](./lessons/1-4-attachment-survival.md) |
@@ -141,7 +141,7 @@ Integration. Living from sovereignty. What changes when you change.
 - Module Reflection Journals
 
 ### Recommended Companions
-- Physical copy of *The Bridge* (Volume 2)
+- Physical copy of *Heal* (Volume 2)
 - Personal journal for integration
 - Access to a therapist or support group (recommended)
 

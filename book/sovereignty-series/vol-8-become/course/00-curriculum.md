@@ -1,6 +1,6 @@
-# Course 8: Quantum You
+# Course 8: Become
 
-## Becoming the Version You Were Always Meant to Be
+## The Self That Was Never Lost — Becoming the Version You Were Always Meant to Be
 
 ---
 
@@ -141,7 +141,7 @@ The life you came here to live. The series complete.
 ## Course Materials
 
 ### Included Downloads
-- Quantum You Workbook
+- Become Workbook
 - The Seven Stages Integration Guide
 - Desire Mapping Exercise
 - Quantum Self Meditation (Audio)
@@ -154,21 +154,21 @@ The life you came here to live. The series complete.
 ## The Complete Sovereignty Arc
 
 ```
-Course 1: SEE       → The Narcissism Decoder
+Course 1: SEE       → See: The Truth That Was Hidden in Plain Sight
          ↓
-Course 2: HEAL      → The Bridge
+Course 2: HEAL      → Heal: The Body That Remembers the Way Home
          ↓
-Course 3: STAND     → Sovereignty
+Course 3: STAND     → Stand: The Ground That Was Always Yours
          ↓
-Course 4: LIVE      → Embodied Leadership
+Course 4: LIVE      → Live: The Presence That Changes Everything
          ↓
-Course 5: GIVE      → The Lineage
+Course 5: GIVE      → Give: The Chain That Ends With You
          ↓
-Course 6: SERVE     → The Guide
+Course 6: SERVE     → Serve: The Light That Doesn't Consume
          ↓
-Course 7: THRIVE    → The Return
+Course 7: THRIVE    → Thrive: The Life You Were Told You Couldn't Have
          ↓
-Course 8: BECOME    → Quantum You
+Course 8: BECOME    → Become: The Self That Was Never Lost
 
 Total: ~80 hours | 195 lessons | 8 transformational courses
 ```

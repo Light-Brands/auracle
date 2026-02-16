@@ -1,4 +1,4 @@
-# Lesson 1.1: Welcome to The Bridge
+# Lesson 1.1: Welcome to Heal
 
 ## Video Script
 
@@ -16,7 +16,7 @@
 
 ### Script
 
-Welcome to The Bridge.
+Welcome to Heal.
 
 You've done important work already. In Course 1, you learned to recognize manipulation patterns. You can name the tactics. You understand the playbook. You have tools for protection.
 

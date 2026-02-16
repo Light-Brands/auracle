@@ -18,7 +18,7 @@ For years, she stayed in narcissistic relationships, mistaking intensity for int
 
 She couldn't find that book. So she wrote it.
 
-*The Narcissism Decoder* is the guide she wished she'd had—written for everyone still wondering if they're the problem.
+*See* is the guide she wished she'd had—written for everyone still wondering if they're the problem.
 
 They're not. And neither are you.
 

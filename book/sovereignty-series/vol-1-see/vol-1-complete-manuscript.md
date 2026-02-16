@@ -1,6 +1,6 @@
 # See
 
-## The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
+## The Truth That Was Hidden in Plain Sight
 
 ### Volume One | The Sovereignty Series
 
@@ -8,7 +8,7 @@
 
 ## Copyright
 
-Copyright © 2025 by Jennifer Brooke Lawless
+Copyright © 2026 by Jennifer Brooke Lawless
 
 All rights reserved. No part of this book may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
@@ -29,14 +29,14 @@ First Edition
 
 *See* is **Volume One** of **The Sovereignty Series**—an eight-volume journey from recognition to reclamation. Each volume carries a single word. Yours is **SEE**.
 
-1. **SEE** — *See:* The Narcissism Decoder *(you are here)*
-2. **HEAL** — *The Bridge:* Learning Secure Attachment After Trauma
-3. **STAND** — *Sovereignty:* Living From Internal Authority
-4. **LIVE** — *Embodied Leadership:* Aura, Erotic Coherence & Presence
-5. **GIVE** — *The Lineage:* Breaking the Chain, Parenting After Trauma
-6. **SERVE** — *The Guide:* Holding Others' Healing Without Losing Your Own
-7. **THRIVE** — *The Return:* Money, Work & Building a Life After Survival Mode
-8. *Quantum You* — Becoming the Version You Were Always Meant to Be
+1. **SEE** — *See: The Truth That Was Hidden in Plain Sight* *(you are here)*
+2. **HEAL** — *Heal: The Body That Remembers the Way Home*
+3. **STAND** — *Stand: The Ground That Was Always Yours*
+4. **LIVE** — *Live: The Presence That Changes Everything*
+5. **GIVE** — *Give: The Chain That Ends With You*
+6. **SERVE** — *Serve: The Light That Doesn't Consume*
+7. **THRIVE** — *Thrive: The Life You Were Told You Couldn't Have*
+8. **BECOME** — *Become: The Self That Was Never Lost*
 
 *This book is complete on its own. And when you're ready, there is more.*
 
@@ -4562,7 +4562,7 @@ That's where we go next: the neuroscience of trauma bonds.
 
 ---
 
-*The Decoder Playbook — Vol. 1: The Narcissism Decoder*
+*The Decoder Playbook — Vol. 1: See — The Truth That Was Hidden in Plain Sight*
 
 ---
 
@@ -15461,7 +15461,7 @@ For years, she stayed in narcissistic relationships, mistaking intensity for int
 
 She couldn't find that book. So she wrote it.
 
-*The Narcissism Decoder* is the guide she wished she'd had—written for everyone still wondering if they're the problem.
+*See* is the guide she wished she'd had—written for everyone still wondering if they're the problem.
 
 They're not. And neither are you.
 

@@ -1,6 +1,6 @@
-# Course 4: Embodied Leadership
+# Course 4: Live
 
-## Aura, Erotic Coherence & Living From Presence
+## The Presence That Changes Everything — Aura, Erotic Coherence & Living From Presence
 
 ---
 
@@ -139,7 +139,7 @@ Shadow work, identity, and living embodied leadership.
 
 After completing Course 4, you are ready for:
 
-**Course 5: The Lineage** — Break generational patterns. Parent consciously through your triggers. Raise emotionally literate humans.
+**Course 5: Give** — Break generational patterns. Parent consciously through your triggers. Raise emotionally literate humans.
 
 ---
 

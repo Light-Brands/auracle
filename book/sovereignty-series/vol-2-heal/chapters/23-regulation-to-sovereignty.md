@@ -609,7 +609,7 @@ If you have:
 
 ...then you are ready for what comes next.
 
-**Volume 3: Aura, Sovereignty & Embodied Leadership** continues this journey with:
+**Volume 3: Stand — The Ground That Was Always Yours** continues this journey with:
 - Installing internal authority fully
 - Aura boundaries and field regulation
 - Desire without urgency
