@@ -354,7 +354,7 @@ These five colors together carry the full arc of the series — from crisis (bla
 
 ### Another Inspiration: lightfield.institute
 
-The website [lightfield.institute](https://lightfield.institute) has a color palette worth exploring for mood and tone. Their approach uses deep charcoal/near-black backgrounds with warm peachy-gold gradient accents and soft neutral grays for text — pairing Cormorant Garamond (serif) with Inter (sans-serif). The overall effect is contemplative, luminous, and grounded without being clinical. It carries a sense of quiet authority and inner radiance that aligns well with the themes of this series. Not a directive — just a reference point the designer might find useful for feel and atmosphere.
+The website [lightfield.institute](https://lightfield.institute) has a color palette worth exploring for mood and tone. Their palette centers on teal (#14b8a6) and blue (#3b82f6), with a primary gradient that sweeps from teal to blue at 135 degrees. They also use a "spiritual gradient" that moves from teal through purple (#a855f7) to amber (#f59e0b). The backgrounds are deep near-black (#0a0f0f in dark mode) with soft neutral grays for text, pairing Cormorant Garamond (serif) with Inter (sans-serif). The overall effect is contemplative, luminous, and grounded without being clinical. It carries a sense of quiet authority and inner radiance that aligns well with the themes of this series. Not a directive — just a reference point the designer might find useful for feel and atmosphere.
 
 ---
 
