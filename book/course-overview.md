@@ -16,7 +16,7 @@ This comprehensive course bundle transforms the 8-volume Sovereignty Series into
 
 ## The Eight Courses
 
-### Course 1: The Narcissism Decoder
+### Course 1. The Decoder
 **Stage:** SEE | **Duration:** ~10 hours | **Lessons:** 24
 > *"This wasn't love—this was conditioning."*
 
@@ -36,7 +36,7 @@ Retrain your nervous system for secure attachment. Understand why insight alone 
 
 ---
 
-### Course 3: Sovereignty
+### Course 3. The Sovereign
 **Stage:** STAND | **Duration:** ~10 hours | **Lessons:** 23
 > *"You are safe to choose without urgency."*
 
@@ -46,7 +46,7 @@ Install internal authority. Own your emotional field. Lead from presence rather 
 
 ---
 
-### Course 4: Embodied Leadership
+### Course 4. The Presence
 **Stage:** LIVE | **Duration:** ~9 hours | **Lessons:** 22
 > *"Your presence is erotic when it belongs to you."*
 
@@ -66,7 +66,7 @@ Break generational cycles. Parent through your triggers. Raise emotionally liter
 
 ---
 
-### Course 6: The Guide
+### Course 6. The Offering
 **Stage:** SERVE | **Duration:** ~12 hours | **Lessons:** 26
 > *"Your healing is your credential. Your boundaries are your offering."*
 
@@ -86,7 +86,7 @@ Rebuild financial sovereignty. Navigate workplace dynamics. Build a life that ho
 
 ---
 
-### Course 8: Quantum You
+### Course 8. The Unveiling
 **Stage:** BECOME | **Duration:** ~10 hours | **Lessons:** 24
 > *"You were never becoming—you were always unveiling."*
 
@@ -190,14 +190,14 @@ COURSE 8: BECOME    → Quantum consciousness, full expression
 
 | Course | Folder | Curriculum |
 |--------|--------|------------|
-| 1. The Narcissism Decoder | `vol-1-decoder/course/` | [View Curriculum](./vol-1-decoder/course/00-curriculum.md) |
-| 2. The Bridge | `vol-2-bridge/course/` | [View Curriculum](./vol-2-bridge/course/00-curriculum.md) |
-| 3. Sovereignty | `vol-3-sovereignty/course/` | [View Curriculum](./vol-3-sovereignty/course/00-curriculum.md) |
-| 4. Embodied Leadership | `vol-4-embodied-leadership/course/` | [View Curriculum](./vol-4-embodied-leadership/course/00-curriculum.md) |
-| 5. The Lineage | `vol-5-lineage/course/` | [View Curriculum](./vol-5-lineage/course/00-curriculum.md) |
-| 6. The Guide | `vol-6-guide/course/` | [View Curriculum](./vol-6-guide/course/00-curriculum.md) |
-| 7. The Return | `vol-7-return/course/` | [View Curriculum](./vol-7-return/course/00-curriculum.md) |
-| 8. Quantum You | `vol-8-quantum/course/` | [View Curriculum](./vol-8-quantum/course/00-curriculum.md) |
+| 1. The Decoder | `vol-1-the-decoder/course/` | [View Curriculum](./vol-1-the-decoder/course/00-curriculum.md) |
+| 2. The Bridge | `vol-2-the-bridge/course/` | [View Curriculum](./vol-2-the-bridge/course/00-curriculum.md) |
+| 3. The Sovereign | `vol-3-the-sovereign/course/` | [View Curriculum](./vol-3-the-sovereign/course/00-curriculum.md) |
+| 4. The Presence | `vol-4-the-presence/course/` | [View Curriculum](./vol-4-the-presence/course/00-curriculum.md) |
+| 5. The Lineage | `vol-5-the-lineage/course/` | [View Curriculum](./vol-5-the-lineage/course/00-curriculum.md) |
+| 6. The Offering | `vol-6-the-offering/course/` | [View Curriculum](./vol-6-the-offering/course/00-curriculum.md) |
+| 7. The Return | `vol-7-the-return/course/` | [View Curriculum](./vol-7-the-return/course/00-curriculum.md) |
+| 8. The Unveiling | `vol-8-the-unveiling/course/` | [View Curriculum](./vol-8-the-unveiling/course/00-curriculum.md) |
 
 ---
 

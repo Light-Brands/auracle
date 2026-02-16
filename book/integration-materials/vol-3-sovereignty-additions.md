@@ -1,4 +1,4 @@
-# Volume 3: Sovereignty — Content Additions
+# Volume 3: The Sovereign — Content Additions
 
 ## Integration Priority: HIGH
 

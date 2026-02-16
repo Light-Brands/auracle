@@ -1,4 +1,4 @@
-# Volume 1: The Narcissism Decoder — Content Additions
+# Volume 1: The Decoder — Content Additions
 
 ## Integration Priority: MEDIUM
 

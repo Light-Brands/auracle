@@ -91,7 +91,7 @@
 
 Each volume should have its own identity while maintaining series cohesion through consistent accent colors and typography.
 
-**Volume 1: You Are Not Crazy — The Narcissism Decoder** — Recognition
+**Volume 1: You Are Not Crazy — The Decoder** — Recognition
 
 Consider darker, more intense tones that suggest "decoding" and revelation:
 
@@ -109,7 +109,7 @@ Consider warmer, softer tones that suggest healing and transition:
 - Text: Cream or warm white
 - Mood: Crossing over, movement, hope
 
-**Volume 3: Sovereignty** — Empowerment
+**Volume 3: The Sovereign** — Empowerment
 
 Consider grounded, authoritative tones that suggest standing firm:
 
@@ -119,7 +119,7 @@ Consider grounded, authoritative tones that suggest standing firm:
 - Text: White or silver
 - Mood: Stillness, authority, groundedness
 
-**Volume 4: Embodied Leadership** — Embodiment
+**Volume 4: The Presence** — Embodiment
 
 Consider radiant, coherent tones that suggest presence and integration:
 
@@ -288,7 +288,7 @@ series-mockup-all-four.png
 ### Volume 1
 
 **Title:** You Are Not Crazy
-**Subtitle:** The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
+**Subtitle:** The Decoder: 60 Manipulation Patterns They Used Against You
 **Series:** The Sovereignty Series • Volume 1
 **Author:** Jennifer Brooke Lawless
 **Tagline:** "Every pattern you can name is a pattern that loses power over you."
@@ -311,7 +311,7 @@ series-mockup-all-four.png
 
 ### Volume 4
 
-**Title:** Embodied Leadership
+**Title:** The Presence
 **Subtitle:** Aura, Erotic Coherence & Living From Presence
 **Series:** The Sovereignty Series
 **Author:** [Author Name]

@@ -38,7 +38,7 @@ So I went searching. Three years of travel. Spiritual community. Nervous system 
 
 I wrote a book from that journey:
 
-**The Narcissism Decoder** — Recognizing control disguised as care
+**The Decoder** — Recognizing control disguised as care
 
 This newsletter continues that work, one week at a time.
 
@@ -71,7 +71,7 @@ No overwhelm. No daily content. Just one meaningful email designed to help you f
 
 ## The Book
 
-### The Narcissism Decoder
+### The Decoder
 
 *Control Disguised as Care*
 
@@ -85,7 +85,7 @@ For anyone who has left a conversation feeling worse without understanding why. 
 
 ### If You're New to This Work
 
-Start with the free Decoder Cards. They'll give you language for what you've been experiencing. Then read The Narcissism Decoder to understand the full playbook.
+Start with the free Decoder Cards. They'll give you language for what you've been experiencing. Then read The Decoder to understand the full playbook.
 
 ### If You Understand But Still React
 

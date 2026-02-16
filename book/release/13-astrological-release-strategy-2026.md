@@ -51,7 +51,7 @@ This conjunction sits between Vol 1 and Vol 2 launches, energizing the entire "A
 
 ## Volume-by-Volume Release Strategy
 
-### Volume 1: You Are Not Crazy — The Narcissism Decoder
+### Volume 1: You Are Not Crazy — The Decoder
 
 **Launch Date:** February 17, 2026
 **Astrological Event:** Annular Solar Eclipse in Aquarius
@@ -144,7 +144,7 @@ This 14-day period between Vol 1 and Vol 2 is intentional:
 
 ---
 
-### Volume 3: Sovereignty
+### Volume 3: The Sovereign
 
 **Launch Date:** May 6, 2026
 **Astrological Event:** Pluto Retrograde Station at 5° Aquarius
@@ -182,11 +182,11 @@ This 14-day period between Vol 1 and Vol 2 is intentional:
 
 #### Transition Tease to Volume 4
 
-"You've installed internal authority. But sovereignty isn't meant to stay hidden. In eight weeks, as Jupiter ignites Leo, we step into Embodied Leadership."
+"You've installed internal authority. But sovereignty isn't meant to stay hidden. In eight weeks, as Jupiter ignites Leo, we step into The Presence."
 
 ---
 
-### Volume 4: Embodied Leadership
+### Volume 4: The Presence
 
 **Launch Date:** June 29, 2026
 **Astrological Event:** Jupiter Enters Leo
@@ -286,7 +286,7 @@ August 2026 features two eclipses:
 
 ---
 
-### Volume 6: The Guide
+### Volume 6: The Offering
 
 **Launch Date:** October 24, 2026
 **Astrological Event:** Mercury Retrograde in Scorpio begins
@@ -404,11 +404,11 @@ December 5:   THRIVE  (Lunar Nodes Shift)
 | Feb 17 | Launch | Vol 1: You Are Not Crazy | Annular Solar Eclipse |
 | Feb 20 | Cosmic Peak | — | Saturn-Neptune at 0° Aries |
 | Mar 3 | Launch | Vol 2: The Bridge | Total Lunar Eclipse |
-| May 6 | Launch | Vol 3: Sovereignty | Pluto Retrograde Station |
-| Jun 29 | Launch | Vol 4: Embodied Leadership | Jupiter Enters Leo |
+| May 6 | Launch | Vol 3: The Sovereign | Pluto Retrograde Station |
+| Jun 29 | Launch | Vol 4: The Presence | Jupiter Enters Leo |
 | Aug 12 | Amplification | — | Total Solar Eclipse |
 | Aug 28 | Launch | Vol 5: The Lineage | Partial Lunar Eclipse (Pisces) |
-| Oct 24 | Launch | Vol 6: The Guide | Mercury Rx in Scorpio |
+| Oct 24 | Launch | Vol 6: The Offering | Mercury Rx in Scorpio |
 | Dec 5 | Launch | Vol 7: The Return | Lunar Nodes Shift |
 
 ### Gap Analysis

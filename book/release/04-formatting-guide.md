@@ -14,10 +14,10 @@ This guide covers formatting your markdown manuscripts for:
 
 ## File Structure
 
-### Volume 1: The Narcissism Decoder
+### Volume 1: The Decoder
 
 ```
-vol-1-decoder/
+vol-1-the-decoder/
 ├── 00-front-matter.md
 ├── chapters/
 │   ├── 01-opening-manifesto.md
@@ -39,7 +39,7 @@ vol-1-decoder/
 ### Volume 2: The Bridge
 
 ```
-vol-2-bridge/
+vol-2-the-bridge/
 ├── 00-front-matter.md
 ├── chapters/
 │   ├── 01-opening-manifesto.md
@@ -135,13 +135,13 @@ pandoc input.md -o output.epub --toc --toc-depth=2
 
 # Multiple files (Vol 1)
 pandoc \
-  vol-1-decoder/00-front-matter.md \
-  vol-1-decoder/chapters/*.md \
-  vol-1-decoder/appendices/*.md \
+  vol-1-the-decoder/00-front-matter.md \
+  vol-1-the-decoder/chapters/*.md \
+  vol-1-the-decoder/appendices/*.md \
   -o narcissism-decoder.epub \
   --toc \
   --toc-depth=2 \
-  --metadata title="The Narcissism Decoder" \
+  --metadata title="The Decoder" \
   --metadata author="Jennifer Brooke Lawless" \
   --epub-cover-image=cover.jpg
 ```
@@ -223,14 +223,14 @@ pandoc input.md -o output.pdf --pdf-engine=wkhtmltopdf
    ```
    THE SOVEREIGNTY SERIES
 
-   Volume 1: You Are Not Crazy — The Narcissism Decoder
+   Volume 1: You Are Not Crazy — The Decoder
    Volume 2: The Bridge — Healing Through Secure Attachment
-   Volume 3: Sovereignty — Internal Authority and Self-Trust
-   Volume 4: Embodied Leadership — Living from Full Presence
+   Volume 3: The Sovereign — Internal Authority and Self-Trust
+   Volume 4: The Presence — Living from Full Presence
    Volume 5: The Lineage — Conscious Parenting
-   Volume 6: The Guide — Serving Others
+   Volume 6: The Offering — Serving Others
    Volume 7: The Return — Thriving Beyond Survival
-   Volume 8: Quantum You — Becoming Who You Always Were
+   Volume 8: The Unveiling — Becoming Who You Always Were
    ```
 
 4. **Dedication** (optional)
@@ -510,15 +510,15 @@ Use the [KDP Margin Calculator](https://kdp.amazon.com/en_US/help/topic/G2018341
 
 ```bash
 # Volume 1
-cat vol-1-decoder/00-front-matter.md \
-    vol-1-decoder/chapters/*.md \
-    vol-1-decoder/appendices/*.md \
+cat vol-1-the-decoder/00-front-matter.md \
+    vol-1-the-decoder/chapters/*.md \
+    vol-1-the-decoder/appendices/*.md \
     > narcissism-decoder-complete.md
 
 # Volume 2
-cat vol-2-bridge/00-front-matter.md \
-    vol-2-bridge/chapters/*.md \
-    vol-2-bridge/appendices/*.md \
+cat vol-2-the-bridge/00-front-matter.md \
+    vol-2-the-bridge/chapters/*.md \
+    vol-2-the-bridge/appendices/*.md \
     > the-bridge-complete.md
 ```
 
@@ -529,7 +529,7 @@ cat vol-2-bridge/00-front-matter.md \
 pandoc narcissism-decoder-complete.md \
   -o narcissism-decoder.epub \
   --toc \
-  --metadata title="The Narcissism Decoder" \
+  --metadata title="The Decoder" \
   --metadata subtitle="Control Disguised as Care" \
   --metadata author="Jennifer Brooke Lawless" \
   --epub-cover-image=cover-vol1.jpg
@@ -538,7 +538,7 @@ pandoc narcissism-decoder-complete.md \
 pandoc narcissism-decoder-complete.md \
   -o narcissism-decoder.pdf \
   --pdf-engine=wkhtmltopdf \
-  --metadata title="The Narcissism Decoder"
+  --metadata title="The Decoder"
 ```
 
 ---

@@ -38,10 +38,10 @@ When setting up each book in KDP, configure:
 
 | Volume | Title | Subtitle |
 |--------|-------|----------|
-| 1 | You Are Not Crazy | The Narcissism Decoder |
+| 1 | You Are Not Crazy | The Decoder |
 | 2 | The Bridge | Healing Through Secure Attachment |
 | 3 | Sovereignty | Internal Authority and Self-Trust |
-| 4 | Embodied Leadership | Living from Full Presence |
+| 4 | The Presence | Living from Full Presence |
 
 This consistency boosts read-through rate and series trust on Amazon.
 
@@ -49,10 +49,10 @@ This consistency boosts read-through rate and series trust on Amazon.
 
 | Volume | Role in Series | Core Question |
 |--------|---------------|---------------|
-| 1 — The Narcissism Decoder | **Recognition / Foundations** | *What is happening to me?* |
+| 1 — The Decoder | **Recognition / Foundations** | *What is happening to me?* |
 | 2 — The Bridge | **Framework / Healing** | *Why did this shape me?* |
 | 3 — Sovereignty | **Application / Standing** | *Who am I when I stop shrinking?* |
-| 4 — Embodied Leadership | **Embodiment / Living** | *How do I live from presence?* |
+| 4 — The Presence | **Embodiment / Living** | *How do I live from presence?* |
 
 Amazon's algorithm rewards structured nonfiction series — each volume clearly builds on the last.
 
@@ -248,7 +248,7 @@ Start with **free only** to build audience. Add paid tier later when you have:
 **Bio Template:**
 ```
 [Your Name]
-Author: The Narcissism Decoder | The Bridge
+Author: The Decoder | The Bridge
 Helping you recognize control & build secure attachment
 👇 Free Decoder Cards + Newsletter
 [link]

@@ -10,21 +10,21 @@ The `10-29-25.md` file (~19,300 lines) contains extraordinarily rich conversatio
 
 | Volume | New Material Category | Priority |
 |--------|----------------------|----------|
-| Vol 1 (Decoder) | Red flags, manipulation patterns, "magician tactics" | Medium |
-| Vol 2 (Bridge) | Repair dynamics, dating red flags, family conditioning, gift-giving as regulation | **High** |
-| Vol 3 (Sovereignty) | Reflexive counterbalancing, internal authority, replacement identity | **High** |
-| Vol 4 (Embodied Leadership) | Polarity/desire, "Myth of Balance" chapter, erotic sovereignty | **High** |
-| Vol 5 (Lineage) | Family roles, sibling dynamics, maternal patterns | Medium |
-| Vol 6 (Guide) | "When Insight Becomes Control" - potential standalone section | **High** |
-| Vol 7 (Return) | Workplace dynamics, organizational abuse patterns | Medium |
-| Vol 8 (Quantum) | Integration statements, completion markers | Low |
+| Vol 1 (The Decoder) | Red flags, manipulation patterns, "magician tactics" | Medium |
+| Vol 2 (The Bridge) | Repair dynamics, dating red flags, family conditioning, gift-giving as regulation | **High** |
+| Vol 3 (The Sovereign) | Reflexive counterbalancing, internal authority, replacement identity | **High** |
+| Vol 4 (The Presence) | Polarity/desire, "Myth of Balance" chapter, erotic sovereignty | **High** |
+| Vol 5 (The Lineage) | Family roles, sibling dynamics, maternal patterns | Medium |
+| Vol 6 (The Offering) | "When Insight Becomes Control" - potential standalone section | **High** |
+| Vol 7 (The Return) | Workplace dynamics, organizational abuse patterns | Medium |
+| Vol 8 (The Unveiling) | Integration statements, completion markers | Low |
 | **New Volume?** | "When Insight Becomes Control" - full organizational/spiritual abuse framework | **Consider** |
 
 ---
 
 ## Detailed Integration Map
 
-### VOLUME 1: THE NARCISSISM DECODER
+### VOLUME 1: THE DECODER
 **Theme:** Recognition, naming patterns, understanding manipulation
 
 #### Content to Integrate:
@@ -109,7 +109,7 @@ This volume receives the **LARGEST** amount of new material.
 
 ---
 
-### VOLUME 3: SOVEREIGNTY
+### VOLUME 3: THE SOVEREIGN
 **Theme:** Installing internal authority, holding your field, sovereign choice
 
 #### Content to Integrate:
@@ -154,7 +154,7 @@ This volume receives the **LARGEST** amount of new material.
 
 ---
 
-### VOLUME 4: EMBODIED LEADERSHIP
+### VOLUME 4: THE PRESENCE
 **Theme:** Field coherence, sexuality as life force, magnetism, embodied leadership
 
 #### Content to Integrate:
@@ -217,7 +217,7 @@ This volume receives the **LARGEST** amount of new material.
 
 ---
 
-### VOLUME 6: THE GUIDE
+### VOLUME 6: THE OFFERING
 **Theme:** Sustainable helping, shadow of the healer, boundaried presence
 
 #### Content to Integrate:
@@ -273,7 +273,7 @@ This volume receives the **LARGEST** amount of new material.
 
 ---
 
-### VOLUME 8: QUANTUM YOU
+### VOLUME 8: THE UNVEILING
 **Theme:** Embodying infinite self, quantum consciousness
 
 #### Content to Integrate:

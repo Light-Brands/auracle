@@ -11,7 +11,7 @@ Choose one and customize:
 ### Option 1: Author-Focused
 ```
 Jennifer Brooke Lawless
-Author: The Narcissism Decoder | The Bridge
+Author: The Decoder | The Bridge
 Helping you recognize control & build secure attachment
 BS Psychology, MS Mental Health Counseling | Costa Rica 🌴
 👇 Free Decoder Cards + Newsletter
@@ -56,7 +56,7 @@ Free resources 👇
 *Shorter format, 80 characters max*
 
 ```
-The Narcissism Decoder 📖 | You're not too sensitive
+The Decoder 📖 | You're not too sensitive
 Free tools in bio 👇
 ```
 
@@ -80,7 +80,7 @@ Set up in this order (most important first):
 2. 📰 Weekly Newsletter (Substack)
    → [Substack subscribe link]
 
-3. 📕 The Narcissism Decoder (Book 1)
+3. 📕 The Decoder (Book 1)
    → [Amazon or Gumroad link]
 
 4. 📘 The Bridge (Book 2)
@@ -265,7 +265,7 @@ You don't need a therapist to validate what your body already knows.
 
 If behavior causes harm, you have the right to name it, address it, and remove yourself from it.
 
-**CTA:** The Narcissism Decoder is in bio.
+**CTA:** The Decoder is in bio.
 
 ---
 

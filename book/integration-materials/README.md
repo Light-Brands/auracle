@@ -9,10 +9,10 @@
 
 | File | Target Volume | Priority | Status |
 |------|---------------|----------|--------|
-| `vol-2-bridge-additions.md` | Volume 2: The Bridge | **HIGH** | Ready |
-| `vol-3-sovereignty-additions.md` | Volume 3: Sovereignty | **HIGH** | Ready |
-| `vol-4-embodied-leadership-additions.md` | Volume 4: Embodied Leadership | **HIGH** | Ready |
-| `vol-1-decoder-additions.md` | Volume 1: The Narcissism Decoder | Medium | Ready |
+| `vol-2-the-bridge-additions.md` | Volume 2: The Bridge | **HIGH** | Ready |
+| `vol-3-the-sovereign-additions.md` | Volume 3: The Sovereign | **HIGH** | Ready |
+| `vol-4-the-presence-additions.md` | Volume 4: The Presence | **HIGH** | Ready |
+| `vol-1-the-decoder-additions.md` | Volume 1: The Decoder | Medium | Ready |
 | `vol-5-6-7-additions.md` | Volumes 5, 6, 7 | Medium | Ready |
 
 ---
@@ -58,7 +58,7 @@
 - 🎁 Gift-Giving as Regulation
 - 📖 Rapid Enmeshment Case Vignettes
 
-### Volume 3: Sovereignty (High Priority)
+### Volume 3: The Sovereign (High Priority)
 - 🔄 Reflexive Counterbalancing Pattern
 - 💬 Scripts for Staying Landed
 - 🏋️ Practice: Building Ideas Without Self-Erasure
@@ -66,7 +66,7 @@
 - ⚖️ Allowing Imbalance (Tolerating Asymmetry)
 - 🏠 Spatial/Territory Sovereignty
 
-### Volume 4: Embodied Leadership (High Priority)
+### Volume 4: The Presence (High Priority)
 - 📚 Chapter 21 Enhancement (The Myth of Balance)
   - The Child's Contract
   - False Balance vs Living Order
@@ -77,7 +77,7 @@
 - 👔 Leadership Language
 - 🌿 Somatic Discharge Practice
 
-### Volume 1: The Narcissism Decoder
+### Volume 1: The Decoder
 - 🎭 Magician Tactics Decoder
 - 📊 Diagnostic Pattern Map
 

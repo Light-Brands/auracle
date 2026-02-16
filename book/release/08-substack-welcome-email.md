@@ -77,7 +77,7 @@ I've created a free quick-reference guide: **The Decoder Cards**
 
 ### If You're Ready for the Full Journey
 
-**The Narcissism Decoder** teaches you to recognize control disguised as care.
+**The Decoder** teaches you to recognize control disguised as care.
 
 **The Bridge** teaches you to heal at the nervous system level—moving from insight to embodiment.
 

@@ -154,7 +154,7 @@ The difference? Caring people trust your ability to manage yourself. Controlling
 
 **Power Move:** "I'm fine—I'll reach out if I need anything."
 
-**CTA:** 60 patterns in The Narcissism Decoder
+**CTA:** 60 patterns in The Decoder
 
 ---
 
@@ -664,7 +664,7 @@ Use these themes for Weeks 19-26 (after Volume 3 launch).
 
 ---
 
-## Volume 4 Content Themes: Embodied Leadership
+## Volume 4 Content Themes: The Presence
 
 Use these themes for Weeks 27-34 (after Volume 4 launch).
 

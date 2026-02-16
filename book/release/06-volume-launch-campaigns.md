@@ -42,7 +42,7 @@ Each subsequent volume launches 6-8 weeks after the previous to build momentum a
 
 **Body:**
 
-When I released The Narcissism Decoder, I heard the same question over and over:
+When I released The Decoder, I heard the same question over and over:
 
 *"I can name the patterns now. But why can't I stop reacting?"*
 
@@ -341,7 +341,7 @@ P.S. — Volume 4 is coming. But first, stand.
 
 ---
 
-# Volume 4 Launch Campaign: Embodied Leadership
+# Volume 4 Launch Campaign: The Presence
 
 ## Email Sequence
 
@@ -355,7 +355,7 @@ This is it.
 
 The fourth and final book in the Sovereignty Series.
 
-**Embodied Leadership** is for those who have done the work:
+**The Presence** is for those who have done the work:
 - Named the patterns (Volume 1)
 - Healed the wounds (Volume 2)
 - Installed sovereignty (Volume 3)
@@ -418,7 +418,7 @@ The full chapter includes:
 - How to clear what isn't yours
 - The nervous system as the aura's engine
 
-Embodied Leadership releases in [X] weeks.
+The Presence releases in [X] weeks.
 
 [Your name]
 
@@ -430,7 +430,7 @@ Embodied Leadership releases in [X] weeks.
 
 **Body:**
 
-Embodied Leadership launches next week.
+The Presence launches next week.
 
 Before it does, I want to share something important.
 
@@ -464,7 +464,7 @@ P.S. — Appendix E includes a Reader Self-Check for sexuality, safety, and the 
 
 It's live.
 
-**Embodied Leadership: Aura, Erotic Coherence & Living From Presence** is now available.
+**The Presence: Aura, Erotic Coherence & Living From Presence** is now available.
 
 → [Get it on Gumroad] (includes Field Hygiene Menu + Consent Ladder)
 → [Get it on Amazon Kindle]

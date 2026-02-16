@@ -14,7 +14,7 @@ Week 11-12:  Volume 2 Launch (The Bridge)
 Week 13-18:  Deepening Engagement
 Week 19-20:  Volume 3 Launch (Sovereignty)
 Week 21-26:  Authority Building
-Week 27-28:  Volume 4 Launch (Embodied Leadership)
+Week 27-28:  Volume 4 Launch (The Presence)
 Week 29+:    Complete Series Marketing + Future Offerings
 ```
 
@@ -84,7 +84,7 @@ Week 29+:    Complete Series Marketing + Future Offerings
 
 ---
 
-## Phase 2: Volume 1 Launch (You Are Not Crazy: The Narcissism Decoder)
+## Phase 2: Volume 1 Launch (You Are Not Crazy: The Decoder)
 
 ### Launch Day (Day 0)
 
@@ -329,7 +329,7 @@ Week 29+:    Complete Series Marketing + Future Offerings
 
 ---
 
-## Phase 8: Volume 4 Launch (Embodied Leadership) - Weeks 27-28
+## Phase 8: Volume 4 Launch (The Presence) - Weeks 27-28
 
 ### Week 27: Pre-Launch
 
