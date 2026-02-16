@@ -338,6 +338,22 @@ The series moves from dark (crisis/recognition) through grounded tones (healing)
 | 7 | THRIVE | Abundant — rich green, gold | Prosperity, joy, expansion |
 | 8 | BECOME | Transcendent — white, iridescent, light gold | Integration, wholeness, arrival |
 
+### Alternative Palette Idea: Kingfisher Colors
+
+As an additional source of inspiration, consider the colors of the kingfisher bird. The kingfisher's plumage offers a striking, nature-derived palette that could work beautifully across the series — moving from the darker, grounded tones to the more electric, transcendent ones:
+
+| Color | Hex (Approx.) | Character |
+|-------|---------------|-----------|
+| **Cream** | #F5F0E1 | Soft, warm, grounding — subtitles, backgrounds, breathing room |
+| **Black** | #1A1A1A | Depth, authority, contrast — strong anchoring for early volumes |
+| **Indigo** | #2E0854 | Mystery, sovereignty, inner knowing — rich and regal |
+| **Electric light blue** | #00BFFF | Clarity, breakthrough, illumination — vivid and alive |
+| **Orangey-red** | #E25822 | Fire, transformation, life force — warmth with intensity |
+
+These five colors together carry the full arc of the series — from crisis (black) through deep inner work (indigo) to clarity (electric blue) and embodied vitality (orangey-red), with cream holding the space throughout. The designer could use them as a unified palette across all eight volumes or draw selectively from them to complement the per-volume progression suggested above.
+
+---
+
 ### Required Series Cohesion
 
 These elements must be consistent across all 8 covers:
