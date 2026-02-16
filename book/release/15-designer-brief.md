@@ -338,6 +338,26 @@ The series moves from dark (crisis/recognition) through grounded tones (healing)
 | 7 | THRIVE | Abundant — rich green, gold | Prosperity, joy, expansion |
 | 8 | BECOME | Transcendent — white, iridescent, light gold | Integration, wholeness, arrival |
 
+### Alternative Palette Idea: Kingfisher Colors
+
+As an additional source of inspiration, consider the colors of the kingfisher bird. The kingfisher's plumage offers a striking, nature-derived palette that could work beautifully across the series — moving from the darker, grounded tones to the more electric, transcendent ones:
+
+| Color | Hex (Approx.) | Character |
+|-------|---------------|-----------|
+| **Cream** | #F5F0E1 | Soft, warm, grounding — subtitles, backgrounds, breathing room |
+| **Black** | #1A1A1A | Depth, authority, contrast — strong anchoring for early volumes |
+| **Indigo** | #2E0854 | Mystery, sovereignty, inner knowing — rich and regal |
+| **Electric light blue** | #00BFFF | Clarity, breakthrough, illumination — vivid and alive |
+| **Orangey-red** | #E25822 | Fire, transformation, life force — warmth with intensity |
+
+These five colors together carry the full arc of the series — from crisis (black) through deep inner work (indigo) to clarity (electric blue) and embodied vitality (orangey-red), with cream holding the space throughout. The designer could use them as a unified palette across all eight volumes or draw selectively from them to complement the per-volume progression suggested above.
+
+### Another Inspiration: lightfield.institute
+
+The website [lightfield.institute](https://lightfield.institute) has a color palette worth exploring for mood and tone. Their palette centers on teal (#14b8a6) and blue (#3b82f6), with a primary gradient that sweeps from teal to blue at 135 degrees. They also use a "spiritual gradient" that moves from teal through purple (#a855f7) to amber (#f59e0b). The backgrounds are deep near-black (#0a0f0f in dark mode) with soft neutral grays for text, pairing Cormorant Garamond (serif) with Inter (sans-serif). The overall effect is contemplative, luminous, and grounded without being clinical. It carries a sense of quiet authority and inner radiance that aligns well with the themes of this series. Not a directive — just a reference point the designer might find useful for feel and atmosphere.
+
+---
+
 ### Required Series Cohesion
 
 These elements must be consistent across all 8 covers:
