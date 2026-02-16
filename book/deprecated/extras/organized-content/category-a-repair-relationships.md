@@ -1,6 +1,6 @@
 # Category A: Repair & Relationship Dynamics
 
-> Extracted and organized content for integration into Volume 2: The Bridge
+> Extracted and organized content for integration into Volume 2: You Are Not Stuck
 
 ---
 

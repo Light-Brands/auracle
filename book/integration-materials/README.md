@@ -9,10 +9,10 @@
 
 | File | Target Volume | Priority | Status |
 |------|---------------|----------|--------|
-| `vol-2-the-bridge-additions.md` | Volume 2: The Bridge | **HIGH** | Ready |
-| `vol-3-the-sovereign-additions.md` | Volume 3: The Sovereign | **HIGH** | Ready |
-| `vol-4-the-presence-additions.md` | Volume 4: The Presence | **HIGH** | Ready |
-| `vol-1-the-decoder-additions.md` | Volume 1: The Decoder | Medium | Ready |
+| `vol-2-not-stuck-additions.md` | Volume 2: You Are Not Stuck | **HIGH** | Ready |
+| `vol-3-not-small-additions.md` | Volume 3: You Are Not Small | **HIGH** | Ready |
+| `vol-4-not-gone-additions.md` | Volume 4: You Are Not Gone | **HIGH** | Ready |
+| `vol-1-not-crazy-additions.md` | Volume 1: You Are Not Crazy | Medium | Ready |
 | `vol-5-6-7-additions.md` | Volumes 5, 6, 7 | Medium | Ready |
 
 ---
@@ -48,7 +48,7 @@
 
 ## Content Highlights by Volume
 
-### Volume 2: The Bridge (Highest Priority)
+### Volume 2: You Are Not Stuck (Highest Priority)
 - 🧠 Neuroscience Sidebar: Why Repair Works
 - ⚖️ False Repair vs Real Repair comparison
 - 📝 Field Note: "The Almost" (failed repair vignette)
@@ -58,7 +58,7 @@
 - 🎁 Gift-Giving as Regulation
 - 📖 Rapid Enmeshment Case Vignettes
 
-### Volume 3: The Sovereign (High Priority)
+### Volume 3: You Are Not Small (High Priority)
 - 🔄 Reflexive Counterbalancing Pattern
 - 💬 Scripts for Staying Landed
 - 🏋️ Practice: Building Ideas Without Self-Erasure
@@ -66,7 +66,7 @@
 - ⚖️ Allowing Imbalance (Tolerating Asymmetry)
 - 🏠 Spatial/Territory Sovereignty
 
-### Volume 4: The Presence (High Priority)
+### Volume 4: You Are Not Gone (High Priority)
 - 📚 Chapter 21 Enhancement (The Myth of Balance)
   - The Child's Contract
   - False Balance vs Living Order
@@ -77,7 +77,7 @@
 - 👔 Leadership Language
 - 🌿 Somatic Discharge Practice
 
-### Volume 1: The Decoder
+### Volume 1: You Are Not Crazy
 - 🎭 Magician Tactics Decoder
 - 📊 Diagnostic Pattern Map
 

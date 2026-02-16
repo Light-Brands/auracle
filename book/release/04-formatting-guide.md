@@ -14,10 +14,10 @@ This guide covers formatting your markdown manuscripts for:
 
 ## File Structure
 
-### Volume 1: The Decoder
+### Volume 1: You Are Not Crazy
 
 ```
-vol-1-the-decoder/
+vol-1-not-crazy/
 ├── 00-front-matter.md
 ├── chapters/
 │   ├── 01-opening-manifesto.md
@@ -36,10 +36,10 @@ vol-1-the-decoder/
     └── appendix-b-childhood-patterns.md
 ```
 
-### Volume 2: The Bridge
+### Volume 2: You Are Not Stuck
 
 ```
-vol-2-the-bridge/
+vol-2-not-stuck/
 ├── 00-front-matter.md
 ├── chapters/
 │   ├── 01-opening-manifesto.md
@@ -135,13 +135,13 @@ pandoc input.md -o output.epub --toc --toc-depth=2
 
 # Multiple files (Vol 1)
 pandoc \
-  vol-1-the-decoder/00-front-matter.md \
-  vol-1-the-decoder/chapters/*.md \
-  vol-1-the-decoder/appendices/*.md \
+  vol-1-not-crazy/00-front-matter.md \
+  vol-1-not-crazy/chapters/*.md \
+  vol-1-not-crazy/appendices/*.md \
   -o narcissism-decoder.epub \
   --toc \
   --toc-depth=2 \
-  --metadata title="The Decoder" \
+  --metadata title="You Are Not Crazy" \
   --metadata author="Jennifer Brooke Lawless" \
   --epub-cover-image=cover.jpg
 ```
@@ -223,14 +223,14 @@ pandoc input.md -o output.pdf --pdf-engine=wkhtmltopdf
    ```
    THE SOVEREIGNTY SERIES
 
-   Volume 1: You Are Not Crazy — The Decoder
-   Volume 2: The Bridge — Healing Through Secure Attachment
-   Volume 3: The Sovereign — Internal Authority and Self-Trust
-   Volume 4: The Presence — Living from Full Presence
-   Volume 5: The Lineage — Conscious Parenting
-   Volume 6: The Offering — Serving Others
-   Volume 7: The Return — Thriving Beyond Survival
-   Volume 8: The Unveiling — Becoming Who You Always Were
+   Volume 1: You Are Not Crazy — You Are Not Crazy
+   Volume 2: You Are Not Stuck — Healing Through Secure Attachment
+   Volume 3: You Are Not Small — Internal Authority and Self-Trust
+   Volume 4: You Are Not Gone — Living from Full Presence
+   Volume 5: You Are Not Repeating — Conscious Parenting
+   Volume 6: You Are Not Too Much — Serving Others
+   Volume 7: You Are Not Behind — Thriving Beyond Survival
+   Volume 8: You Were Never Broken — Becoming Who You Always Were
    ```
 
 4. **Dedication** (optional)
@@ -407,7 +407,7 @@ Use the [KDP Margin Calculator](https://kdp.amazon.com/en_US/help/topic/G2018341
 2. [ ] Click "Create New Title" → **"Paperback"**
 3. [ ] Enter book details:
    - [ ] Title and subtitle (consistent format — see `01-platform-setup-guide.md`)
-   - [ ] Series name: `The Sovereignty Series` + volume number
+   - [ ] Series name: `You Are Not Smallty Series` + volume number
    - [ ] Author name
    - [ ] Description (from `03-book-descriptions.md`)
    - [ ] Keywords (7 boxes — see optimized strategy in `03-book-descriptions.md`)
@@ -510,15 +510,15 @@ Use the [KDP Margin Calculator](https://kdp.amazon.com/en_US/help/topic/G2018341
 
 ```bash
 # Volume 1
-cat vol-1-the-decoder/00-front-matter.md \
-    vol-1-the-decoder/chapters/*.md \
-    vol-1-the-decoder/appendices/*.md \
+cat vol-1-not-crazy/00-front-matter.md \
+    vol-1-not-crazy/chapters/*.md \
+    vol-1-not-crazy/appendices/*.md \
     > narcissism-decoder-complete.md
 
 # Volume 2
-cat vol-2-the-bridge/00-front-matter.md \
-    vol-2-the-bridge/chapters/*.md \
-    vol-2-the-bridge/appendices/*.md \
+cat vol-2-not-stuck/00-front-matter.md \
+    vol-2-not-stuck/chapters/*.md \
+    vol-2-not-stuck/appendices/*.md \
     > the-bridge-complete.md
 ```
 
@@ -529,7 +529,7 @@ cat vol-2-the-bridge/00-front-matter.md \
 pandoc narcissism-decoder-complete.md \
   -o narcissism-decoder.epub \
   --toc \
-  --metadata title="The Decoder" \
+  --metadata title="You Are Not Crazy" \
   --metadata subtitle="Control Disguised as Care" \
   --metadata author="Jennifer Brooke Lawless" \
   --epub-cover-image=cover-vol1.jpg
@@ -538,7 +538,7 @@ pandoc narcissism-decoder-complete.md \
 pandoc narcissism-decoder-complete.md \
   -o narcissism-decoder.pdf \
   --pdf-engine=wkhtmltopdf \
-  --metadata title="The Decoder"
+  --metadata title="You Are Not Crazy"
 ```
 
 ---

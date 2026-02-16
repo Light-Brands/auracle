@@ -1,6 +1,6 @@
 # Astrological Release Strategy 2026
 
-## The Sovereignty Series: Eight Volumes Aligned with Celestial Events
+## You Are Not Smallty Series: Eight Volumes Aligned with Celestial Events
 
 2026 is one of the most astrologically significant years in over 2,000 years. The Saturn-Neptune conjunction at 0° Aries hasn't occurred since approximately 4361 BC. This year offers a once-in-multiple-lifetimes opportunity to align the eight-volume Sovereignty Series with celestial events that mirror each book's transformational theme.
 
@@ -51,7 +51,7 @@ This conjunction sits between Vol 1 and Vol 2 launches, energizing the entire "A
 
 ## Volume-by-Volume Release Strategy
 
-### Volume 1: You Are Not Crazy — The Decoder
+### Volume 1: You Are Not Crazy — You Are Not Crazy
 
 **Launch Date:** February 17, 2026
 **Astrological Event:** Annular Solar Eclipse in Aquarius
@@ -93,7 +93,7 @@ This conjunction sits between Vol 1 and Vol 2 launches, energizing the entire "A
 
 ---
 
-### Volume 2: The Bridge
+### Volume 2: You Are Not Stuck
 
 **Launch Date:** March 3, 2026
 **Astrological Event:** Total Lunar Eclipse (Blood Moon) in Virgo
@@ -144,7 +144,7 @@ This 14-day period between Vol 1 and Vol 2 is intentional:
 
 ---
 
-### Volume 3: The Sovereign
+### Volume 3: You Are Not Small
 
 **Launch Date:** May 6, 2026
 **Astrological Event:** Pluto Retrograde Station at 5° Aquarius
@@ -182,11 +182,11 @@ This 14-day period between Vol 1 and Vol 2 is intentional:
 
 #### Transition Tease to Volume 4
 
-"You've installed internal authority. But sovereignty isn't meant to stay hidden. In eight weeks, as Jupiter ignites Leo, we step into The Presence."
+"You've installed internal authority. But sovereignty isn't meant to stay hidden. In eight weeks, as Jupiter ignites Leo, we step into You Are Not Gone."
 
 ---
 
-### Volume 4: The Presence
+### Volume 4: You Are Not Gone
 
 **Launch Date:** June 29, 2026
 **Astrological Event:** Jupiter Enters Leo
@@ -235,7 +235,7 @@ Volume 4 includes Part III: Erotic Coherence—content addressing sexuality afte
 
 ---
 
-### Volume 5: The Lineage
+### Volume 5: You Are Not Repeating
 
 **Launch Date:** August 28, 2026
 **Astrological Event:** Partial Lunar Eclipse (Pisces Full Moon)
@@ -278,7 +278,7 @@ August 2026 features two eclipses:
 - August 12: Total Solar Eclipse (leadership energy, amplifies Vol 4)
 - August 28: Partial Lunar Eclipse (lineage energy, launches Vol 5)
 
-**Bundle Opportunity:** "The Presence & Legacy Bundle" — Vol 4 + Vol 5 at 20% off during August eclipse season
+**Bundle Opportunity:** "You Are Not Gone & Legacy Bundle" — Vol 4 + Vol 5 at 20% off during August eclipse season
 
 #### Transition Tease to Volume 6
 
@@ -286,7 +286,7 @@ August 2026 features two eclipses:
 
 ---
 
-### Volume 6: The Offering
+### Volume 6: You Are Not Too Much
 
 **Launch Date:** October 24, 2026
 **Astrological Event:** Mercury Retrograde in Scorpio begins
@@ -338,7 +338,7 @@ This creates a potent window for deep relational reassessment—exactly what Vol
 
 ---
 
-### Volume 7: The Return
+### Volume 7: You Are Not Behind
 
 **Launch Date:** December 5, 2026
 **Astrological Event:** Lunar Nodes Shift (Rahu enters Capricorn, Ketu enters Cancer)
@@ -404,11 +404,11 @@ December 5:   THRIVE  (Lunar Nodes Shift)
 | Feb 17 | Launch | Vol 1: You Are Not Crazy | Annular Solar Eclipse |
 | Feb 20 | Cosmic Peak | — | Saturn-Neptune at 0° Aries |
 | Mar 3 | Launch | Vol 2: The Bridge | Total Lunar Eclipse |
-| May 6 | Launch | Vol 3: The Sovereign | Pluto Retrograde Station |
-| Jun 29 | Launch | Vol 4: The Presence | Jupiter Enters Leo |
+| May 6 | Launch | Vol 3: You Are Not Small | Pluto Retrograde Station |
+| Jun 29 | Launch | Vol 4: You Are Not Gone | Jupiter Enters Leo |
 | Aug 12 | Amplification | — | Total Solar Eclipse |
 | Aug 28 | Launch | Vol 5: The Lineage | Partial Lunar Eclipse (Pisces) |
-| Oct 24 | Launch | Vol 6: The Offering | Mercury Rx in Scorpio |
+| Oct 24 | Launch | Vol 6: You Are Not Too Much | Mercury Rx in Scorpio |
 | Dec 5 | Launch | Vol 7: The Return | Lunar Nodes Shift |
 
 ### Gap Analysis

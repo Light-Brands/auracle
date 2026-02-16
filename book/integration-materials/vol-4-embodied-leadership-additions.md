@@ -1,4 +1,4 @@
-# Volume 4: The Presence — Content Additions
+# Volume 4: You Are Not Gone — Content Additions
 
 ## Integration Priority: HIGH
 

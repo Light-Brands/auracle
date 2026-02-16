@@ -1,6 +1,6 @@
 # Extended Content Calendar
 
-## Content Strategy for The Sovereignty Series (4 Volumes)
+## Content Strategy for You Are Not Smallty Series (4 Volumes)
 
 All content is extracted directly from the books. Post daily on your chosen social platform, weekly on Substack.
 
@@ -154,7 +154,7 @@ The difference? Caring people trust your ability to manage yourself. Controlling
 
 **Power Move:** "I'm fine—I'll reach out if I need anything."
 
-**CTA:** 60 patterns in The Decoder
+**CTA:** 60 patterns in You Are Not Crazy
 
 ---
 
@@ -357,7 +357,7 @@ This isn't a confession—it's a deflection. You shift from confronting to caret
 - The gap between knowing and changing
 - Fast burn vs slow burn explanation
 - Why your nervous system seeks familiarity
-- Teaser for Volume 2: The Bridge
+- Teaser for Volume 2: You Are Not Stuck
 - CTA: Pre-order/waitlist for Vol 2
 
 ---
@@ -664,7 +664,7 @@ Use these themes for Weeks 19-26 (after Volume 3 launch).
 
 ---
 
-## Volume 4 Content Themes: The Presence
+## Volume 4 Content Themes: You Are Not Gone
 
 Use these themes for Weeks 27-34 (after Volume 4 launch).
 

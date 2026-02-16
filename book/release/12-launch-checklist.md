@@ -1,6 +1,6 @@
 # Launch Checklist
 
-## Complete Timeline for The Sovereignty Series (4 Volumes)
+## Complete Timeline for You Are Not Smallty Series (4 Volumes)
 
 ---
 
@@ -14,7 +14,7 @@ Week 11-12:  Volume 2 Launch (The Bridge)
 Week 13-18:  Deepening Engagement
 Week 19-20:  Volume 3 Launch (Sovereignty)
 Week 21-26:  Authority Building
-Week 27-28:  Volume 4 Launch (The Presence)
+Week 27-28:  Volume 4 Launch (You Are Not Gone)
 Week 29+:    Complete Series Marketing + Future Offerings
 ```
 
@@ -84,7 +84,7 @@ Week 29+:    Complete Series Marketing + Future Offerings
 
 ---
 
-## Phase 2: Volume 1 Launch (You Are Not Crazy: The Decoder)
+## Phase 2: Volume 1 Launch (You Are Not Crazy: You Are Not Crazy)
 
 ### Launch Day (Day 0)
 
@@ -94,7 +94,7 @@ Week 29+:    Complete Series Marketing + Future Offerings
 - [ ] Upload Vol 1 paperback interior PDF (6x9, black & white) to Amazon KDP
 - [ ] Upload full cover PDF with spine
 - [ ] Select "Get a free KDP ISBN"
-- [ ] Set series name: `The Sovereignty Series`, number: `1`
+- [ ] Set series name: `You Are Not Smallty Series`, number: `1`
 - [ ] Set paperback price: $14.99
 - [ ] Preview in KDP Print Previewer
 - [ ] Submit paperback for publishing
@@ -329,7 +329,7 @@ Week 29+:    Complete Series Marketing + Future Offerings
 
 ---
 
-## Phase 8: Volume 4 Launch (The Presence) - Weeks 27-28
+## Phase 8: Volume 4 Launch (You Are Not Gone) - Weeks 27-28
 
 ### Week 27: Pre-Launch
 

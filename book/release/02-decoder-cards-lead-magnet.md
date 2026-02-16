@@ -1,8 +1,8 @@
-# The Decoder Cards
+# You Are Not Crazy Cards
 
 ## 12 Essential Patterns of Manipulation—Named and Decoded
 
-**A Free Quick-Reference Guide from *You Are Not Crazy: The Decoder***
+**A Free Quick-Reference Guide from *You Are Not Crazy: You Are Not Crazy***
 
 ---
 
@@ -252,7 +252,7 @@ When activated and confused:
 
 ## Want the Full Playbook?
 
-These 12 cards are excerpted from **You Are Not Crazy: The Decoder**, which includes:
+These 12 cards are excerpted from **You Are Not Crazy: You Are Not Crazy**, which includes:
 
 - **60 manipulation patterns** fully decoded
 - The psychology of trauma bonds

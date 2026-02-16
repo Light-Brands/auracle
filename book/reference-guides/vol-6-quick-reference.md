@@ -267,7 +267,7 @@ Even if you're not a licensed professional:
 
 ## Next Step
 
-When you're ready to rebuild your material foundation, **Volume 7: The Return** teaches prosperity after survival mode.
+When you're ready to rebuild your material foundation, **Volume 7: You Are Not Behind** teaches prosperity after survival mode.
 
 ---
 

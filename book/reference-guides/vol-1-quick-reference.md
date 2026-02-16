@@ -194,7 +194,7 @@ Early warning signs to watch for:
 
 ## Next Step
 
-When you're ready to move from recognition to healing, **Volume 2: The Bridge** teaches nervous system repair and secure attachment.
+When you're ready to move from recognition to healing, **Volume 2: You Are Not Stuck** teaches nervous system repair and secure attachment.
 
 ---
 

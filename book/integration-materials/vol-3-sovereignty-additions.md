@@ -1,4 +1,4 @@
-# Volume 3: The Sovereign — Content Additions
+# Volume 3: You Are Not Small — Content Additions
 
 ## Integration Priority: HIGH
 

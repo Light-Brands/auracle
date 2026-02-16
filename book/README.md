@@ -23,8 +23,8 @@ Volume 8: BECOME  →  "You were never becoming—you were always unveiling."
 
 ## The Books
 
-### [Volume 1: The Decoder](./vol-1-the-decoder/README.md)
-**The Decoder** | 66,025 words | ~240 pages | 17 chapters
+### [Volume 1: You Are Not Crazy](./vol-1-not-crazy/README.md)
+**SEE** | *See What Was Never Love* | 66,025 words | ~240 pages | 17 chapters
 
 *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
 
@@ -43,8 +43,8 @@ This book helps you:
 
 ---
 
-### [Volume 2: The Bridge](./vol-2-the-bridge/README.md)
-**Heal the Wiring That Mistook Danger for Love** | 99,108 words | ~360 pages | 26 chapters
+### [Volume 2: You Are Not Stuck](./vol-2-not-stuck/README.md)
+**HEAL** | *Heal the Body That Learned Danger as Home* | 99,108 words | ~360 pages | 26 chapters
 
 *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection*
 
@@ -63,8 +63,8 @@ This book helps you:
 
 ---
 
-### [Volume 3: The Sovereign](./vol-3-the-sovereign/README.md)
-**Stand in the Authority You Were Never Given** | 69,048 words | ~251 pages | 21 chapters
+### [Volume 3: You Are Not Small](./vol-3-not-small/README.md)
+**STAND** | *Stand in the Space You Were Afraid to Claim* | 69,048 words | ~251 pages | 21 chapters
 
 *A Guide for Those Ready to Stop Shrinking and Start Standing*
 
@@ -83,8 +83,8 @@ This book helps you:
 
 ---
 
-### [Volume 4: The Presence](./vol-4-the-presence/README.md)
-**Live Inside Your Own Skin Again** | 65,433 words | ~238 pages | 14 chapters
+### [Volume 4: You Are Not Gone](./vol-4-not-gone/README.md)
+**LIVE** | *Live in the Presence That Belongs to You* | 65,433 words | ~238 pages | 14 chapters
 
 *A Guide for Those Ready to Inhabit Their Full Power*
 
@@ -103,8 +103,8 @@ This book helps you:
 
 ---
 
-### [Volume 5: The Lineage](./vol-5-the-lineage/README.md)
-**Give Forward What You Never Received** | 84,162 words | ~306 pages | 21 chapters
+### [Volume 5: You Are Not Repeating](./vol-5-not-repeating/README.md)
+**GIVE** | *Give Your Children What No One Gave You* | 84,162 words | ~306 pages | 21 chapters
 
 *A Guide for Those Ready to Give Their Children What They Never Received*
 
@@ -123,8 +123,8 @@ This book helps you:
 
 ---
 
-### [Volume 6: The Offering](./vol-6-the-offering/README.md)
-**Serve From Your Scars Without Reopening Them** | 89,711 words | ~326 pages | 23 chapters
+### [Volume 6: You Are Not Too Much](./vol-6-not-too-much/README.md)
+**SERVE** | *Serve From Wholeness, Not From Wound* | 89,711 words | ~326 pages | 23 chapters
 
 *A Guide for Those Called to Help Others on This Path*
 
@@ -143,8 +143,8 @@ This book helps you:
 
 ---
 
-### [Volume 7: The Return](./vol-7-the-return/README.md)
-**Thrive Beyond What You Were Told You Deserved** | 82,348 words | ~299 pages | 22 chapters
+### [Volume 7: You Are Not Behind](./vol-7-not-behind/README.md)
+**THRIVE** | *Thrive in the Life You Were Always Allowed* | 82,348 words | ~299 pages | 22 chapters
 
 *A Guide for Those Ready to Thrive, Not Just Survive*
 
@@ -163,8 +163,8 @@ This book helps you:
 
 ---
 
-### [Volume 8: The Unveiling](./vol-8-the-unveiling/README.md)
-**Become Everything You Already Were** | ~60,000 words | ~218 pages | 18 chapters
+### [Volume 8: You Were Never Broken](./vol-8-never-broken/README.md)
+**BECOME** | *Become What You Were Always Unveiling* | ~60,000 words | ~218 pages | 18 chapters
 
 *A Guide for Those Ready to Unveil Their Infinite Self*
 
@@ -227,17 +227,17 @@ Read all eight, in order:
 
 ## Series Statistics
 
-| Volume | Title | Words | Pages | Chapters | Appendices |
-|:------:|-------|------:|------:|:--------:|:----------:|
-| 1 | The Decoder | 66,025 | ~240 | 16 | 5 |
-| 2 | The Bridge | 99,108 | ~360 | 26 | 3 |
-| 3 | The Sovereign | 69,048 | ~251 | 21 | 5 |
-| 4 | The Presence | 65,433 | ~238 | 14 | 5 |
-| 5 | The Lineage | 84,162 | ~306 | 21 | 5 |
-| 6 | The Offering | 89,711 | ~326 | 23 | 5 |
-| 7 | The Return | 82,348 | ~299 | 22 | 5 |
-| 8 | The Unveiling | ~60,000 | ~218 | 18 | 4 |
-| **Total** | | **~615,835** | **~2,239** | **161** | **37** |
+| Volume | Arc | Title | Words | Pages | Chapters | Appendices |
+|:------:|:---:|-------|------:|------:|:--------:|:----------:|
+| 1 | SEE | You Are Not Crazy | 66,025 | ~240 | 16 | 5 |
+| 2 | HEAL | You Are Not Stuck | 99,108 | ~360 | 26 | 3 |
+| 3 | STAND | You Are Not Small | 69,048 | ~251 | 21 | 5 |
+| 4 | LIVE | You Are Not Gone | 65,433 | ~238 | 14 | 5 |
+| 5 | GIVE | You Are Not Repeating | 84,162 | ~306 | 21 | 5 |
+| 6 | SERVE | You Are Not Too Much | 89,711 | ~326 | 23 | 5 |
+| 7 | THRIVE | You Are Not Behind | 82,348 | ~299 | 22 | 5 |
+| 8 | BECOME | You Were Never Broken | ~60,000 | ~218 | 18 | 4 |
+| **Total** | | | **~615,835** | **~2,239** | **161** | **37** |
 
 *Page estimates based on 275 words/page (standard trade paperback)*
 
@@ -247,14 +247,14 @@ Read all eight, in order:
 
 ```
 /book/
-├── vol-1-the-decoder/       # The Decoder ✅
-├── vol-2-the-bridge/        # The Bridge ✅
-├── vol-3-the-sovereign/     # The Sovereign ✅
-├── vol-4-the-presence/      # The Presence ✅
-├── vol-5-the-lineage/       # The Lineage ✅
-├── vol-6-the-offering/      # The Offering ✅
-├── vol-7-the-return/        # The Return ✅
-├── vol-8-the-unveiling/     # The Unveiling ✅
+├── vol-1-not-crazy/         # You Are Not Crazy (SEE) ✅
+├── vol-2-not-stuck/         # You Are Not Stuck (HEAL) ✅
+├── vol-3-not-small/         # You Are Not Small (STAND) ✅
+├── vol-4-not-gone/          # You Are Not Gone (LIVE) ✅
+├── vol-5-not-repeating/     # You Are Not Repeating (GIVE) ✅
+├── vol-6-not-too-much/      # You Are Not Too Much (SERVE) ✅
+├── vol-7-not-behind/        # You Are Not Behind (THRIVE) ✅
+├── vol-8-never-broken/      # You Were Never Broken (BECOME) ✅
 ├── extras/                  # Source materials and notes
 └── release/                 # Marketing and launch materials
 ```

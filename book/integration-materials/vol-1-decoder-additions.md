@@ -1,4 +1,4 @@
-# Volume 1: The Decoder — Content Additions
+# Volume 1: You Are Not Crazy — Content Additions
 
 ## Integration Priority: MEDIUM
 

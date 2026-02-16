@@ -123,7 +123,7 @@ book/release/
 └── 02-decoder-cards-lead-magnet.md    # Original content source
 ```
 
-## The Decoders Flywheel Strategy
+## You Are Not Crazys Flywheel Strategy
 
 This PDF is the entry point of the growth flywheel:
 

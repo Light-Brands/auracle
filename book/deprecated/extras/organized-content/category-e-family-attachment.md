@@ -1,6 +1,6 @@
 # Category E: Family & Attachment Dynamics
 
-> Extracted and organized content for integration into Volume 5: The Lineage
+> Extracted and organized content for integration into Volume 5: You Are Not Repeating
 
 ---
 

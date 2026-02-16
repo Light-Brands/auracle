@@ -11,7 +11,7 @@ Choose one and customize:
 ### Option 1: Author-Focused
 ```
 Jennifer Brooke Lawless
-Author: The Decoder | The Bridge
+Author: You Are Not Crazy | The Bridge
 Helping you recognize control & build secure attachment
 BS Psychology, MS Mental Health Counseling | Costa Rica 🌴
 👇 Free Decoder Cards + Newsletter
@@ -56,7 +56,7 @@ Free resources 👇
 *Shorter format, 80 characters max*
 
 ```
-The Decoder 📖 | You're not too sensitive
+You Are Not Crazy 📖 | You're not too sensitive
 Free tools in bio 👇
 ```
 
@@ -80,7 +80,7 @@ Set up in this order (most important first):
 2. 📰 Weekly Newsletter (Substack)
    → [Substack subscribe link]
 
-3. 📕 The Decoder (Book 1)
+3. 📕 You Are Not Crazy (Book 1)
    → [Amazon or Gumroad link]
 
 4. 📘 The Bridge (Book 2)
@@ -265,7 +265,7 @@ You don't need a therapist to validate what your body already knows.
 
 If behavior causes harm, you have the right to name it, address it, and remove yourself from it.
 
-**CTA:** The Decoder is in bio.
+**CTA:** You Are Not Crazy is in bio.
 
 ---
 

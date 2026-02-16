@@ -42,7 +42,7 @@ Each subsequent volume launches 6-8 weeks after the previous to build momentum a
 
 **Body:**
 
-When I released The Decoder, I heard the same question over and over:
+When I released You Are Not Crazy, I heard the same question over and over:
 
 *"I can name the patterns now. But why can't I stop reacting?"*
 
@@ -122,7 +122,7 @@ Two weeks from today, The Bridge goes live.
 If you pre-order (or join the waitlist), here's what you get:
 
 **Early Access Bundle:**
-- Volume 2: The Bridge (ebook)
+- Volume 2: You Are Not Stuck (ebook)
 - Bonus: Self-Assessment Worksheets
 - Bonus: The 12-Week Training Program summary guide
 - 15% off bundle pricing with Volume 1
@@ -341,7 +341,7 @@ P.S. — Volume 4 is coming. But first, stand.
 
 ---
 
-# Volume 4 Launch Campaign: The Presence
+# Volume 4 Launch Campaign: You Are Not Gone
 
 ## Email Sequence
 
@@ -355,7 +355,7 @@ This is it.
 
 The fourth and final book in the Sovereignty Series.
 
-**The Presence** is for those who have done the work:
+**You Are Not Gone** is for those who have done the work:
 - Named the patterns (Volume 1)
 - Healed the wounds (Volume 2)
 - Installed sovereignty (Volume 3)
@@ -418,7 +418,7 @@ The full chapter includes:
 - How to clear what isn't yours
 - The nervous system as the aura's engine
 
-The Presence releases in [X] weeks.
+You Are Not Gone releases in [X] weeks.
 
 [Your name]
 
@@ -430,7 +430,7 @@ The Presence releases in [X] weeks.
 
 **Body:**
 
-The Presence launches next week.
+You Are Not Gone launches next week.
 
 Before it does, I want to share something important.
 
@@ -464,7 +464,7 @@ P.S. — Appendix E includes a Reader Self-Check for sexuality, safety, and the 
 
 It's live.
 
-**The Presence: Aura, Erotic Coherence & Living From Presence** is now available.
+**You Are Not Gone: Aura, Erotic Coherence & Living From Presence** is now available.
 
 → [Get it on Gumroad] (includes Field Hygiene Menu + Consent Ladder)
 → [Get it on Amazon Kindle]
@@ -472,7 +472,7 @@ It's live.
 
 ---
 
-**The Sovereignty Series is complete.**
+**You Are Not Smallty Series is complete.**
 
 Volume 1: Recognition — *What is happening to me?*
 Volume 2: Liberation — *Why did this shape me?*

@@ -91,7 +91,7 @@
 
 Each volume should have its own identity while maintaining series cohesion through consistent accent colors and typography.
 
-**Volume 1: You Are Not Crazy — The Decoder** — Recognition
+**Volume 1: SEE — You Are Not Crazy** — Recognition
 
 Consider darker, more intense tones that suggest "decoding" and revelation:
 
@@ -100,7 +100,7 @@ Consider darker, more intense tones that suggest "decoding" and revelation:
 - Text: White or cream for contrast
 - Mood: Dark to light, breaking through confusion
 
-**Volume 2: The Bridge** — Liberation
+**Volume 2: You Are Not Stuck** — Liberation
 
 Consider warmer, softer tones that suggest healing and transition:
 
@@ -109,7 +109,7 @@ Consider warmer, softer tones that suggest healing and transition:
 - Text: Cream or warm white
 - Mood: Crossing over, movement, hope
 
-**Volume 3: The Sovereign** — Empowerment
+**Volume 3: You Are Not Small** — Empowerment
 
 Consider grounded, authoritative tones that suggest standing firm:
 
@@ -119,7 +119,7 @@ Consider grounded, authoritative tones that suggest standing firm:
 - Text: White or silver
 - Mood: Stillness, authority, groundedness
 
-**Volume 4: The Presence** — Embodiment
+**Volume 4: You Are Not Gone** — Embodiment
 
 Consider radiant, coherent tones that suggest presence and integration:
 
@@ -133,7 +133,7 @@ Consider radiant, coherent tones that suggest presence and integration:
 - Use the same font family across all four covers
 - Keep gold accent color consistent (appears on all volumes)
 - Similar layout structure (title position, author name placement)
-- "The Sovereignty Series" subtitle on each (optional)
+- "You Are Not Smallty Series" subtitle on each (optional)
 - Consider numbering: "Volume 1" etc. in small text
 
 ---
@@ -229,28 +229,28 @@ Create mockups for Gumroad, social media, and website using:
 
 ```
 # Volume 1
-vol1-narcissism-decoder-cover-kdp-ebook-2560x1600.jpg
-vol1-narcissism-decoder-cover-kdp-print-6x9.pdf
-vol1-narcissism-decoder-cover-gumroad-1600x900.jpg
-vol1-narcissism-decoder-mockup-3d.png
+vol1-you-are-not-crazy-cover-kdp-ebook-2560x1600.jpg
+vol1-you-are-not-crazy-cover-kdp-print-6x9.pdf
+vol1-you-are-not-crazy-cover-gumroad-1600x900.jpg
+vol1-you-are-not-crazy-mockup-3d.png
 
 # Volume 2
-vol2-the-bridge-cover-kdp-ebook-2560x1600.jpg
-vol2-the-bridge-cover-kdp-print-6x9.pdf
-vol2-the-bridge-cover-gumroad-1600x900.jpg
-vol2-the-bridge-mockup-3d.png
+vol2-you-are-not-stuck-cover-kdp-ebook-2560x1600.jpg
+vol2-you-are-not-stuck-cover-kdp-print-6x9.pdf
+vol2-you-are-not-stuck-cover-gumroad-1600x900.jpg
+vol2-you-are-not-stuck-mockup-3d.png
 
 # Volume 3
-vol3-sovereignty-cover-kdp-ebook-2560x1600.jpg
-vol3-sovereignty-cover-kdp-print-6x9.pdf
-vol3-sovereignty-cover-gumroad-1600x900.jpg
-vol3-sovereignty-mockup-3d.png
+vol3-you-are-not-small-cover-kdp-ebook-2560x1600.jpg
+vol3-you-are-not-small-cover-kdp-print-6x9.pdf
+vol3-you-are-not-small-cover-gumroad-1600x900.jpg
+vol3-you-are-not-small-mockup-3d.png
 
 # Volume 4
-vol4-embodied-leadership-cover-kdp-ebook-2560x1600.jpg
-vol4-embodied-leadership-cover-kdp-print-6x9.pdf
-vol4-embodied-leadership-cover-gumroad-1600x900.jpg
-vol4-embodied-leadership-mockup-3d.png
+vol4-you-are-not-gone-cover-kdp-ebook-2560x1600.jpg
+vol4-you-are-not-gone-cover-kdp-print-6x9.pdf
+vol4-you-are-not-gone-cover-gumroad-1600x900.jpg
+vol4-you-are-not-gone-mockup-3d.png
 
 # Bundles
 bundle-mockup-vol1-vol2.png
@@ -288,8 +288,8 @@ series-mockup-all-four.png
 ### Volume 1
 
 **Title:** You Are Not Crazy
-**Subtitle:** The Decoder: 60 Manipulation Patterns They Used Against You
-**Series:** The Sovereignty Series • Volume 1
+**Subtitle:** You Are Not Crazy: 60 Manipulation Patterns They Used Against You
+**Series:** You Are Not Smallty Series • Volume 1
 **Author:** Jennifer Brooke Lawless
 **Tagline:** "Every pattern you can name is a pattern that loses power over you."
 
@@ -297,7 +297,7 @@ series-mockup-all-four.png
 
 **Title:** The Bridge
 **Subtitle:** Learning Secure Attachment After Trauma
-**Series:** The Sovereignty Series
+**Series:** You Are Not Smallty Series
 **Author:** [Author Name]
 **Tagline (optional, for back cover):** "Secure attachment is not found—it is practiced."
 
@@ -305,15 +305,15 @@ series-mockup-all-four.png
 
 **Title:** Sovereignty
 **Subtitle:** Living From Internal Authority
-**Series:** The Sovereignty Series
+**Series:** You Are Not Smallty Series
 **Author:** [Author Name]
 **Tagline (optional, for back cover):** "I am not small. I am learning to stand without fear."
 
 ### Volume 4
 
-**Title:** The Presence
+**Title:** You Are Not Gone
 **Subtitle:** Aura, Erotic Coherence & Living From Presence
-**Series:** The Sovereignty Series
+**Series:** You Are Not Smallty Series
 **Author:** [Author Name]
 **Tagline (optional, for back cover):** "My presence is erotic when it belongs to me."
 

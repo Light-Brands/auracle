@@ -33,7 +33,7 @@ You feel compelled to correct the record. You want to defend yourself. You reach
 **Your Power Move:**
 You don't have to litigate history with someone rewriting it. The people who know you will see the pattern. The people who believe the false narrative were never safe allies. Your silence is not agreement—it's refusal to participate in their court.
 
-**The Decoder:** When they rewrite the story, they're not seeking truth—they're seeking supply.
+**You Are Not Crazy:** When they rewrite the story, they're not seeking truth—they're seeking supply.
 
 ---
 
@@ -58,7 +58,7 @@ Fear floods your system. You start defending yourself. You explain. You justify.
 **Your Power Move:**
 One clean response, then silence: "All requested materials were delivered on [date]. Future communication should be directed through counsel." Then document everything. Real legal action will come through proper channels. Threats that stay threats are leverage attempts, not legal strategy.
 
-**The Decoder:** If it were really about the law, it wouldn't need your emotional response.
+**You Are Not Crazy:** If it were really about the law, it wouldn't need your emotional response.
 
 ---
 
@@ -72,7 +72,7 @@ That hesitation is the goal. The innkeeper doesn't have a claim. The innkeeper h
 
 This is how post-exit escalation works. The threats get louder as the door opens. The claims get bigger as you walk away. It's not evidence of what you owe—it's evidence of what they're losing.
 
-**The Decoder:** Control looks like urgency when it's losing.
+**You Are Not Crazy:** Control looks like urgency when it's losing.
 
 ---
 

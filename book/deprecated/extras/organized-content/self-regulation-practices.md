@@ -14,7 +14,7 @@ These practices are designed to be:
 
 ---
 
-## Volume 2: The Bridge — Practices
+## Volume 2: You Are Not Stuck — Practices
 
 ### Practice: Real-Time Repair Litmus Test
 *(60–90 seconds, no analysis required)*

@@ -6,14 +6,14 @@ This folder contains everything you need to launch the **Sovereignty Series**—
 
 ---
 
-## The Sovereignty Series
+## You Are Not Smallty Series
 
 | Volume | Title | Core Question | Focus |
 |--------|-------|---------------|-------|
-| **1** | The Decoder | *What is happening to me?* | Pattern recognition, naming tactics |
+| **1** | You Are Not Crazy | *What is happening to me?* | Pattern recognition, naming tactics |
 | **2** | The Bridge | *Why did this shape me?* | Attachment healing, crossing out of survival |
 | **3** | Sovereignty | *Who am I when I stop shrinking?* | Internal authority, self-trust |
-| **4** | The Presence | *How do I live from presence?* | Aura, erotic coherence, full expression |
+| **4** | You Are Not Gone | *How do I live from presence?* | Aura, erotic coherence, full expression |
 
 Each volume builds on the previous, creating a natural staggered release strategy.
 
@@ -126,7 +126,7 @@ Week 11-12:  Volume 2 Launch (The Bridge)
 Week 13-18:  Content engine + deeper engagement
 Week 19-20:  Volume 3 Launch (Sovereignty)
 Week 21-26:  Content engine + authority building
-Week 27-28:  Volume 4 Launch (The Presence)
+Week 27-28:  Volume 4 Launch (You Are Not Gone)
 Week 29+:    Complete series marketing + future offerings
 ```
 

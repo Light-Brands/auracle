@@ -1,4 +1,4 @@
-# Volume 2: The Bridge — Content Additions
+# Volume 2: You Are Not Stuck — Content Additions
 
 ## Integration Priority: HIGH
 

@@ -64,7 +64,7 @@ This is the foundation. More tools are coming.
 
 ### Want to Go Deeper?
 
-I've created a free quick-reference guide: **The Decoder Cards**
+I've created a free quick-reference guide: **You Are Not Crazy Cards**
 
 12 manipulation patterns, named and decoded. Each card tells you:
 - What they say
@@ -77,7 +77,7 @@ I've created a free quick-reference guide: **The Decoder Cards**
 
 ### If You're Ready for the Full Journey
 
-**The Decoder** teaches you to recognize control disguised as care.
+**You Are Not Crazy** teaches you to recognize control disguised as care.
 
 **The Bridge** teaches you to heal at the nervous system level—moving from insight to embodiment.
 

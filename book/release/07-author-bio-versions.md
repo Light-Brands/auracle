@@ -12,9 +12,9 @@ Each volume has a dedicated author bio that matches where the reader is:
 
 | Volume | Theme | Bio Focus | Location |
 |--------|-------|-----------|----------|
-| **1** | Recognition | *Surviving & naming patterns* | `vol-1-the-decoder/back-matter-about-author.md` |
-| **2** | Healing | *Crossing from insight to embodiment* | `vol-2-the-bridge/back-matter-about-author.md` |
-| **3** | Sovereignty | *Living from embodied authority* | `vol-3-the-sovereign/back-matter-about-author.md` |
+| **1** | Recognition | *Surviving & naming patterns* | `vol-1-not-crazy/back-matter-about-author.md` |
+| **2** | Healing | *Crossing from insight to embodiment* | `vol-2-not-stuck/back-matter-about-author.md` |
+| **3** | Sovereignty | *Living from embodied authority* | `vol-3-not-small/back-matter-about-author.md` |
 
 ---
 
@@ -34,7 +34,7 @@ Jennifer Brooke Lawless is a therapeut, writer, and survivor of narcissistic abu
 
 Her healing journey led her beyond traditional therapy—through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
-Today, Jennifer lives in Costa Rica surrounded by community, where she offers healing sessions and integration work through Light Brands and Light Field Institute. Her book—*The Decoder*—was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
+Today, Jennifer lives in Costa Rica surrounded by community, where she offers healing sessions and integration work through Light Brands and Light Field Institute. Her book—*You Are Not Crazy*—was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
 **Connect:** LightBrands.ai | LightField.Institute (Counseling & Research) | @jae.lawless | lightfieldlawless@gmail.com
 
@@ -44,7 +44,7 @@ Today, Jennifer lives in Costa Rica surrounded by community, where she offers he
 
 *For: Social media bios, Twitter/X*
 
-Author of The Decoder | MS Mental Health Counseling | Helping sensitive adults recognize control & build secure attachment | Costa Rica
+Author of You Are Not Crazy | MS Mental Health Counseling | Helping sensitive adults recognize control & build secure attachment | Costa Rica
 
 ---
 
@@ -52,7 +52,7 @@ Author of The Decoder | MS Mental Health Counseling | Helping sensitive adults r
 
 *For: Quick podcast introductions*
 
-Jennifer Brooke Lawless is the author of *The Decoder*. With degrees in Psychology and Mental Health Counseling—and clinical experience from psychiatric wards to family therapy—she helps emotionally sensitive adults move from survival to sovereign connection. She lives in Costa Rica.
+Jennifer Brooke Lawless is the author of *You Are Not Crazy*. With degrees in Psychology and Mental Health Counseling—and clinical experience from psychiatric wards to family therapy—she helps emotionally sensitive adults move from survival to sovereign connection. She lives in Costa Rica.
 
 ---
 

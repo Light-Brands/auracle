@@ -4,20 +4,20 @@
 
 ---
 
-## The Sovereignty Series Overview
+## You Are Not Smallty Series Overview
 
 | Volume | Title | Core Question | Launch Theme |
 |--------|-------|---------------|--------------|
-| 1 | You Are Not Crazy: The Decoder | *What is happening to me?* | Recognition |
+| 1 | You Are Not Crazy: You Are Not Crazy | *What is happening to me?* | Recognition |
 | 2 | The Bridge | *Why did this shape me?* | Liberation |
 | 3 | Sovereignty | *Who am I when I stop shrinking?* | Empowerment |
-| 4 | The Presence | *How do I live from presence?* | Embodiment |
+| 4 | You Are Not Gone | *How do I live from presence?* | Embodiment |
 
 ---
 
 ---
 
-## Volume 1: You Are Not Crazy — The Decoder
+## Volume 1: You Are Not Crazy — You Are Not Crazy
 
 ### Short Description (for ads, social, quick reference)
 
@@ -34,14 +34,14 @@ The wolf wears care, concern, and protection. Learn to see through the clothing.
 **500 characters:**
 You left the conversation feeling worse about yourself—but you can't explain why.
 
-The Decoder names the 60 patterns of control disguised as care. Learn to recognize gaslighting, love-bombing, triangulation, and trauma bonds before they hook your nervous system. Includes decoder cards for real-time recognition and practical scripts for responding from power instead of reaction.
+You Are Not Crazy names the 60 patterns of control disguised as care. Learn to recognize gaslighting, love-bombing, triangulation, and trauma bonds before they hook your nervous system. Includes decoder cards for real-time recognition and practical scripts for responding from power instead of reaction.
 
 The confusion ends here. Your sovereignty begins.
 
 **500 characters (wolf variant):**
 The wolf doesn't arrive wearing wolf skin. It wears care, concern, protection, honesty. You invite it closer because it looks like love. Only when it's close enough to consume does it show its teeth.
 
-The Decoder teaches you to see the wolf—60 manipulation patterns, all disguised as virtue, all decoded. Stop looking at the clothing. Start noticing the impact.
+You Are Not Crazy teaches you to see the wolf—60 manipulation patterns, all disguised as virtue, all decoded. Stop looking at the clothing. Start noticing the impact.
 
 The confusion ends here.
 
@@ -60,7 +60,7 @@ You picked up this book because something felt off. A relationship that left you
 
 <b>This book is your decoder ring.</b>
 
-Written from both sides of the therapy room—by a trauma-trained therapist who also lived these patterns—<i>The Decoder</i> names 60 tactics of control disguised as care and teaches you to recognize them in real-time, not days later.
+Written from both sides of the therapy room—by a trauma-trained therapist who also lived these patterns—<i>You Are Not Crazy</i> names 60 tactics of control disguised as care and teaches you to recognize them in real-time, not days later.
 
 <b>Inside This Five-Part Guide:</b>
 
@@ -103,16 +103,16 @@ This book does not diagnose anyone. It describes behavioral patterns that cause 
 
 <i>The confusion ends here. Your sovereignty begins.</i>
 
-<b>The Sovereignty Series:</b>
+<b>You Are Not Smallty Series:</b>
 
 This is Volume 1 of the 8-volume Sovereignty Series:
 • <i>The Bridge</i> (Volume 2) — Healing through secure attachment
 • <i>Sovereignty</i> (Volume 3) — Internal authority and self-trust
-• <i>The Presence</i> (Volume 4) — Living from full presence
+• <i>You Are Not Gone</i> (Volume 4) — Living from full presence
 • <i>The Lineage</i> (Volume 5) — Conscious parenting
 • <i>The Guide</i> (Volume 6) — Serving others
 • <i>The Return</i> (Volume 7) — Thriving beyond survival
-• <i>The Unveiling</i> (Volume 8) — Becoming who you always were
+• <i>You Were Never Broken</i> (Volume 8) — Becoming who you always were
 ```
 
 ---
@@ -151,7 +151,7 @@ This is Volume 1 of the 8-volume Sovereignty Series:
 
 ---
 
-## Volume 2: The Bridge
+## Volume 2: You Are Not Stuck
 
 ### Short Description (for ads, social, quick reference)
 
@@ -232,12 +232,12 @@ What we call chemistry is often familiarity. What we call boredom is often safet
 
 You cannot think your way into secure attachment. You train it.
 
-<b>The Sovereignty Series:</b>
+<b>You Are Not Smallty Series:</b>
 
 This is Volume 2 of the 8-volume Sovereignty Series:
-• <i>The Decoder</i> (Volume 1) teaches pattern recognition
+• <i>You Are Not Crazy</i> (Volume 1) teaches pattern recognition
 • <i>Sovereignty</i> (Volume 3) installs internal authority
-• <i>The Presence</i> (Volume 4) guides living from full presence
+• <i>You Are Not Gone</i> (Volume 4) guides living from full presence
 
 <i>Stop surviving connection. Start feeling safe in it.</i>
 ```
@@ -269,7 +269,7 @@ This is Volume 2 of the 8-volume Sovereignty Series:
 
 ---
 
-## Volume 3: The Sovereign
+## Volume 3: You Are Not Small
 
 ### Short Description (for ads, social, quick reference)
 
@@ -352,12 +352,12 @@ Boundaries are not walls. They are the quiet confidence that says: What belongs 
 
 Each chapter includes a "Neuroscience Lens" section explaining why old patterns persist, what the brain is actually doing, and how sovereignty installs through repetition. Grounded in Polyvagal Theory, Interpersonal Neurobiology, and Attachment Research.
 
-<b>The Sovereignty Series:</b>
+<b>You Are Not Smallty Series:</b>
 
 This is Volume 3 of the 8-volume Sovereignty Series:
-• <i>The Decoder</i> (Volume 1) teaches pattern recognition
+• <i>You Are Not Crazy</i> (Volume 1) teaches pattern recognition
 • <i>The Bridge</i> (Volume 2) guides attachment healing
-• <i>The Presence</i> (Volume 4) explores living from full presence
+• <i>You Are Not Gone</i> (Volume 4) explores living from full presence
 
 <i>I am not small. I am learning to stand without fear.</i>
 ```
@@ -389,7 +389,7 @@ This is Volume 3 of the 8-volume Sovereignty Series:
 
 ---
 
-## Volume 4: The Presence
+## Volume 4: You Are Not Gone
 
 ### Short Description (for ads, social, quick reference)
 
@@ -403,7 +403,7 @@ Your sovereignty is installed. Now learn to live from it. Aura, erotic coherence
 **500 characters:**
 You've installed sovereignty. Now something new becomes possible: your energy can be coherent, not defensive. Your presence can lead, not perform. Your intimacy can deepen, not deplete.
 
-The Presence explores the physiological reality of your energy field, reclaiming sexuality after trauma, and leading through coherence rather than tactics. Includes daily aura hygiene practices and the consent ladder.
+You Are Not Gone explores the physiological reality of your energy field, reclaiming sexuality after trauma, and leading through coherence rather than tactics. Includes daily aura hygiene practices and the consent ladder.
 
 Your presence is already powerful. This book makes it coherent.
 
@@ -420,7 +420,7 @@ You've named the patterns. You've crossed the bridge. You've installed sovereign
 
 And now a final question emerges: How do I live from this place?
 
-<b>The Presence</b> is not about adding more practices. It is about allowing what you've already built to express itself.
+<b>You Are Not Gone</b> is not about adding more practices. It is about allowing what you've already built to express itself.
 
 Your presence is already powerful. Your energy already affects the room. The question is whether that power is coherent—or leaking, defending, performing.
 
@@ -472,17 +472,17 @@ The field around you is an extension of your nervous system state. When you regu
 
 <i>Sexuality heals when it no longer has to regulate fear.</i>
 
-<b>The Sovereignty Series:</b>
+<b>You Are Not Smallty Series:</b>
 
 This is Volume 4 of the 8-volume Sovereignty Series:
-• <i>The Decoder</i> (Volume 1): Recognition
+• <i>You Are Not Crazy</i> (Volume 1): Recognition
 • <i>The Bridge</i> (Volume 2): Liberation
 • <i>Sovereignty</i> (Volume 3): Empowerment
-• <i>The Presence</i> (Volume 4): Embodiment
+• <i>You Are Not Gone</i> (Volume 4): Embodiment
 • <i>The Lineage</i> (Volume 5): Parenting
 • <i>The Guide</i> (Volume 6): Serving
 • <i>The Return</i> (Volume 7): Thriving
-• <i>The Unveiling</i> (Volume 8): Becoming
+• <i>You Were Never Broken</i> (Volume 8): Becoming
 
 <i>My presence is erotic when it belongs to me.</i>
 ```
@@ -518,7 +518,7 @@ This is Volume 4 of the 8-volume Sovereignty Series:
 
 ### Volume 1+2 Bundle: Recognition & Liberation
 
-**Title:** The Decoder + The Bridge: The Healing Foundation
+**Title:** You Are Not Crazy + The Bridge: The Healing Foundation
 
 **Description:**
 
@@ -526,7 +526,7 @@ From confusion to clarity. From survival to regulation.
 
 **Volume 1: You Are Not Crazy** teaches you to recognize manipulation in real-time. Name the 60 patterns. Understand trauma bonds. Respond from power.
 
-**Volume 2: The Bridge** teaches you to heal at the nervous system level. Retrain your attachment patterns. Date safely after trauma. Build relationships that regulate.
+**Volume 2: You Are Not Stuck** teaches you to heal at the nervous system level. Retrain your attachment patterns. Date safely after trauma. Build relationships that regulate.
 
 **This bundle includes:**
 - Both complete ebooks
@@ -550,9 +550,9 @@ From confusion to sovereignty in three volumes.
 
 **Volume 1: You Are Not Crazy** — Name the patterns. See what's happening.
 
-**Volume 2: The Bridge** — Heal your nervous system. Cross into safety.
+**Volume 2: You Are Not Stuck** — Heal your nervous system. Cross into safety.
 
-**Volume 3: The Sovereign** — Install internal authority. Stand without shrinking.
+**Volume 3: You Are Not Small** — Install internal authority. Stand without shrinking.
 
 **This bundle includes:**
 - Three complete ebooks
@@ -569,7 +569,7 @@ From confusion to sovereignty in three volumes.
 
 ### Complete Series Bundle: The Full Journey
 
-**Title:** The Sovereignty Series: Complete Four-Volume Collection
+**Title:** You Are Not Smallty Series: Complete Four-Volume Collection
 
 **Description:**
 
@@ -578,13 +578,13 @@ The complete journey from recognition to embodiment.
 **Volume 1: You Are Not Crazy** — Recognition
 *What is happening to me?*
 
-**Volume 2: The Bridge** — Liberation
+**Volume 2: You Are Not Stuck** — Liberation
 *Why did this shape me—and how do I cross out of it?*
 
-**Volume 3: The Sovereign** — Empowerment
+**Volume 3: You Are Not Small** — Empowerment
 *Who am I when I stop shrinking?*
 
-**Volume 4: The Presence** — Embodiment
+**Volume 4: You Are Not Gone** — Embodiment
 *How do I live from my full presence?*
 
 **This bundle includes:**

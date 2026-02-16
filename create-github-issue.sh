@@ -7,7 +7,7 @@ if ! command -v gh &> /dev/null; then
     echo "Please install it following: https://github.com/cli/cli#installation"
     echo ""
     echo "Or create the issue manually at: https://github.com/danlawless/auracle/issues/new"
-    echo "Using the content from: /home/user/auracle/book/vol-1-the-decoder/review-03/github-issue-body.txt"
+    echo "Using the content from: /home/user/auracle/book/vol-1-not-crazy/review-03/github-issue-body.txt"
     echo ""
     echo "Title: [Review Round 3] Morgan (Managing Editor): Questions for Author - Vol. 1"
     exit 1
@@ -17,6 +17,6 @@ fi
 gh issue create \
   --repo danlawless/auracle \
   --title "[Review Round 3] Morgan (Managing Editor): Questions for Author - Vol. 1" \
-  --body-file /home/user/auracle/book/vol-1-the-decoder/review-03/github-issue-body.txt
+  --body-file /home/user/auracle/book/vol-1-not-crazy/review-03/github-issue-body.txt
 
 echo "GitHub issue created successfully!"
