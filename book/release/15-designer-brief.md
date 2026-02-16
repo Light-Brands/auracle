@@ -352,6 +352,10 @@ As an additional source of inspiration, consider the colors of the kingfisher bi
 
 These five colors together carry the full arc of the series — from crisis (black) through deep inner work (indigo) to clarity (electric blue) and embodied vitality (orangey-red), with cream holding the space throughout. The designer could use them as a unified palette across all eight volumes or draw selectively from them to complement the per-volume progression suggested above.
 
+### Another Inspiration: lightfield.institute
+
+The website [lightfield.institute](https://lightfield.institute) has a color palette worth exploring for mood and tone. Their approach uses deep charcoal/near-black backgrounds with warm peachy-gold gradient accents and soft neutral grays for text — pairing Cormorant Garamond (serif) with Inter (sans-serif). The overall effect is contemplative, luminous, and grounded without being clinical. It carries a sense of quiet authority and inner radiance that aligns well with the themes of this series. Not a directive — just a reference point the designer might find useful for feel and atmosphere.
+
 ---
 
 ### Required Series Cohesion
