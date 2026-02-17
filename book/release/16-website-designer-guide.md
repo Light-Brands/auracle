@@ -116,12 +116,11 @@ Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jenn
 │       └── /the-flow       Volume 8 detail page
 │
 ├── /the-auracle            The Auracle — all session types & booking
-│   ├── #aura-reading       General Aura Reading (anchor sections)
-│   ├── #themed-reading     Themed Question Reading
-│   ├── #chakra-journey     12-Session Chakra Journey
-│   ├── #integration        Integration & Counseling
+│   ├── #thematic           Thematic Reading (anchor sections)
 │   ├── #couples            Couples Reading
-│   └── #group              Group Reading Circle
+│   ├── #business           Business Reading
+│   ├── #group              Group Reading
+│   └── #chakra-journey     Chakra Journey (12-session package)
 │
 ├── /learn                  Courses and education (Coming Soon)
 │   ├── /aura-reading-1     Aura Reading Level 1 (Coming Soon)
@@ -196,12 +195,12 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  therapist, energy practitioner, and the person your    │
 │  friend told you to go see.                             │
 │                                                         │
-│  Session type cards (3-column grid):                    │
-│  - Aura Reading                                         │
-│  - Chakra Journey                                       │
-│  - Integration & Counseling                             │
+│  Session type cards:                                    │
+│  - Thematic Reading                                     │
 │  - Couples Reading                                      │
-│  - Group Circle                                         │
+│  - Business Reading                                     │
+│  - Group Reading                                        │
+│  - Chakra Journey (12-session signature package)        │
 │                                                         │
 │  [Meet The Auracle]  [Connect with Jennifer]            │
 │                                                         │
@@ -386,16 +385,17 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 │  - Brief description (what happens, who it's for)       │
 │  - [Connect to Book] → WhatsApp or email                │
 │                                                         │
-│  Types:                                                 │
-│  1. General Aura Reading (30-90 min)                    │
-│  2. Themed Question Reading (30-90 min)                 │
-│  3. Chakra Journey — 12 sessions, $2,100                │
+│  Individual Sessions — 60 min, $200 each:               │
+│  1. Thematic Reading                                    │
+│  2. Couples Reading                                     │
+│  3. Business Reading                                    │
+│  4. Group Reading                                       │
+│                                                         │
+│  Signature Package:                                     │
+│  5. Chakra Journey — 12 sessions, $2,100                │
 │     Flexible pacing: 1x/week over 3 months or           │
 │     1x/month over a year. This is the signature         │
 │     deep-work offering — give it visual prominence.     │
-│  4. Integration & Counseling Session                    │
-│  5. Couples Reading (60 min)                            │
-│  6. Group Reading Circle                                │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  HOW IT WORKS — 3-step visual                           │
@@ -682,11 +682,11 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 │  [Logo]                                                 │
 │                                                         │
 │  Books          The Auracle    Institute     Connect    │
-│  Sovereignty    Aura Reading   About         Instagram  │
-│  Energy         Chakra Journey Newsletter    YouTube    │
-│  Free Resources Integration   Research       Email     │
-│                 Couples        WhatsApp                  │
-│                 Group Circle                             │
+│  Sovereignty    Thematic       About         Instagram  │
+│  Energy         Couples        Newsletter    YouTube    │
+│  Free Resources Business       Research       Email     │
+│                 Group          WhatsApp                  │
+│                 Chakra Journey                           │
 │                                                         │
 │  ─────────────────────────────────────────────────────  │
 │                                                         │
