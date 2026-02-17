@@ -123,9 +123,9 @@ Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jenn
 │   ├── #couples            Couples Reading
 │   └── #group              Group Reading Circle
 │
-├── /learn                  Courses and education
-│   ├── /aura-reading-1     Aura Reading Level 1
-│   └── /rose-meditation    Rose Meditation Training
+├── /learn                  Courses and education (Coming Soon)
+│   ├── /aura-reading-1     Aura Reading Level 1 (Coming Soon)
+│   └── /rose-meditation    Rose Meditation Training (Coming Soon)
 │
 ├── /about                  Jennifer's story + credentials
 ├── /newsletter             Substack integration / signup
@@ -139,6 +139,12 @@ Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jenn
 - **Volume pages** use the arc word (short, memorable): `/books/sovereignty/see`, `/books/energy/the-field`
 - **No dates in URLs** — these are evergreen
 - **Lowercase, hyphenated** — standard web convention
+
+### What the Site Does NOT Include
+
+- **No built-in digital reader.** Books are purchased on Amazon (Kindle/paperback) and Gumroad (PDF/ebook). The site offers a chapter preview (Chapter 1 of each volume) as a lead magnet / taste, not a full reading experience. Chapter 1 can also be offered as a free download in exchange for an email address.
+- **No course enrollment at launch.** The course infrastructure (Rose Meditation Level 1 with 10 lessons, AI learning assistant) exists in the codebase and will launch in Phase 4. For now, courses show as "Coming Soon" with an email waitlist.
+- **No fabricated social proof.** No "500+ readings" or "1200+ students" counters. Real testimonials only — currently ~4 video and ~3 written. Design should accommodate a small but growing collection.
 
 ---
 
@@ -203,6 +209,30 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  FEATURED VOLUME — Spotlight on the latest release      │
 │                                                         │
 │  Large cover image + excerpt + buy links                │
+│  (Amazon, Gumroad) + "Read Chapter 1" preview           │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  TESTIMONIALS — Highlighted real testimonials            │
+│                                                         │
+│  Space for 2-3 featured testimonials (video embed       │
+│  or written quote with attribution). Only real           │
+│  testimonials — no fabricated stats. Currently ~4        │
+│  video and ~3 written testimonials available.            │
+│                                                         │
+│  Layout: Featured video testimonial (large) +           │
+│  2 written quotes beside or below. Rotates or           │
+│  curated selection.                                      │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  COURSES — Coming Soon teaser                           │
+│                                                         │
+│  "Learn the practices."                                 │
+│  Brief description of Rose Meditation and Aura          │
+│  Reading courses. Infrastructure exists — content is    │
+│  coming. Email capture: "Be the first to know when      │
+│  courses launch."                                       │
+│                                                         │
+│  [Join the Waitlist]                                    │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  NEWSLETTER SIGNUP — Substack integration               │
@@ -292,7 +322,12 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 │                                                         │
 │  [Cover image — large, high-quality]                    │
 │                                                         │
-│  [Buy on Amazon]  [Buy on Gumroad]  [Read Free Ch. 1]  │
+│  [Buy on Amazon]  [Buy on Gumroad]  [Read Chapter 1]   │
+│                                                         │
+│  Note: "Read Chapter 1" opens a chapter preview on-     │
+│  site (not a full reader). Books are purchased via       │
+│  Amazon (Kindle/paperback) or Gumroad (PDF/ebook).      │
+│  No built-in digital reader — external platforms only.   │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  BOOK DESCRIPTION — Back cover blurb (100-150 words)    │
@@ -303,7 +338,10 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 │  will learn)                                            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  READER PRAISE — Testimonials or reviews (when avail.)  │
+│  TESTIMONIALS — Real reader testimonials (when avail.)  │
+│  Space for video testimonials (embedded) and written     │
+│  quotes. Only show if real testimonials exist for this   │
+│  volume. No fabricated stats or placeholder reviews.     │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  NEXT IN THE SERIES — Card linking to Volume 2           │
@@ -311,7 +349,8 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 │  remembers → HEAL"                                      │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  FREE RESOURCE — Decoder Cards download (lead magnet)   │
+│  FREE RESOURCE — Chapter 1 download for email, or       │
+│  Decoder Cards download (lead magnet)                   │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -363,6 +402,17 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 │  2. Jennifer connects with you personally to            │
 │     understand what you need                            │
 │  3. She books your session and you meet                 │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  TESTIMONIALS — Real session testimonials                │
+│                                                         │
+│  Video testimonials (embedded, 1-2 featured) and/or     │
+│  written quotes with attribution. Only real — no         │
+│  fabricated numbers or inflated stats.                   │
+│                                                         │
+│  Currently available: ~4 video, ~3 written.             │
+│  Design should accommodate growing collection over      │
+│  time without looking empty at launch.                  │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  ABOUT JENNIFER — Brief practitioner bio                │
@@ -769,14 +819,17 @@ No structural redesign should be needed. The system is additive.
 ### Phase 1 — Launch (Sovereignty Series Vol 1-3)
 - Home page with series overview
 - Sovereignty Series landing + volume pages for published volumes
+- Volume detail pages with chapter preview, buy links (Amazon/Gumroad), and free Chapter 1 download for email
 - The Auracle page (sessions, migrated and rebranded from current site)
 - About page
 - Newsletter signup
 - Free Decoder Cards download
+- Real testimonials placed where available (~4 video, ~3 written)
+- Courses section as "Coming Soon" with email waitlist capture
 
 ### Phase 2 — Expansion (Sovereignty Series Vol 4-8)
 - Add volume pages as published
-- Add reader testimonials and reviews
+- Add testimonials and reviews as they come in
 - Add "Start Here" quiz ("Which volume should I read first?")
 - Blog/articles integration (optional — could link to Substack)
 
@@ -787,11 +840,12 @@ No structural redesign should be needed. The system is additive.
 - Updated home page with both series featured equally
 - Potential "Reading Path" feature — guided journey across both series
 
-### Phase 4 — Platform
-- Course enrollment and delivery
+### Phase 4 — Platform (Courses Go Live)
+- Course enrollment and delivery (Rose Meditation Level 1 first, infrastructure already built)
+- AI learning assistant integrated into course experience (already prototyped as "The Auracle AI")
 - Community features
 - Reading groups / circles
-- The Auracle page refinement (testimonials, session outcomes, connect-first flow optimization)
+- The Auracle page refinement (more testimonials, session outcomes, connect-first flow optimization)
 
 ---
 

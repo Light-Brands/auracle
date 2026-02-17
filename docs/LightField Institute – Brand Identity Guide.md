@@ -42,12 +42,25 @@ LightField Institute (umbrella brand)
 │   Integration & Counseling · Couples Reading · Group Circle
 │   Booking via personal connection (WhatsApp / email), not calendar widget
 │
-├── Courses (structured learning)
-│   Aura Reading Level 1 · Rose Meditation Training
+├── Courses (structured learning — Coming Soon, infrastructure built)
+│   Rose Meditation Level 1 (10 lessons, video/audio/guided practice)
+│   Aura Reading Level 1 · AI learning assistant integrated
+│   Email waitlist capture until launch
 │
 └── Community (newsletter, circles, resources)
     Substack · Decoder Cards · Free Resources
 ```
+
+### Book Distribution & Digital Presence
+
+Books are sold through external platforms — Amazon (Kindle and paperback) and Gumroad (PDF/ebook). The website is not a reading platform. Instead, each volume detail page offers:
+- Buy links (Amazon, Gumroad)
+- A Chapter 1 preview on-site (taste, not the full book)
+- A free Chapter 1 download in exchange for email (lead magnet alongside Decoder Cards)
+
+### Testimonials & Social Proof
+
+All testimonials must be real. Currently available: approximately 4 video testimonials and 3 written testimonials. No fabricated counters (no "500+ readings" or "1200+ students"). Design testimonial placements across the site to accommodate a small but growing collection — featured on the home page, The Auracle page, and volume detail pages where applicable.
 
 ### The Auracle — Brand Consolidation
 
