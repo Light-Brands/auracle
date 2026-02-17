@@ -31,7 +31,9 @@ LightField Institute (umbrella)
 ├── The Sovereignty Series (book series 1)
 ├── The Energy Series (book series 2)
 ├── Future Series (book series 3+)
-├── Sessions (1:1 and group healing work)
+├── The Auracle (sessions page — /the-auracle)
+│   Jennifer's practitioner identity; word-of-mouth booking destination
+│   Connect-first flow (WhatsApp / email), not calendar widget
 ├── Courses (structured learning)
 └── Community (newsletter, circles, resources)
 ```
@@ -57,7 +59,7 @@ If a fresh start feels right, these alternatives were evaluated:
 The current LightField.institute has a strong foundation. Preserve these elements:
 
 ### Keep
-- **Sessions section** — the core offering (aura readings, chakra journeys, integration sessions, couples readings, group circles)
+- **The Auracle page** — the core session offering (aura readings, chakra journeys, integration sessions, couples readings, group circles), rebranded from generic "Sessions" to leverage The Auracle's word-of-mouth recognition
 - **The "Where Seen and Unseen Meet" positioning** — this tagline is powerful and bridges the clinical and the spiritual
 - **Medical disclaimer** — sessions don't replace medical care; this stays in the footer
 - **The sparkle/star logo element** — refine, consider rendering in electric blue or indigo
@@ -82,10 +84,10 @@ The current LightField.institute has a strong foundation. Preserve these element
 ### Primary Navigation
 
 ```
-Logo (Home)  |  Books  |  Sessions  |  Learn  |  About  |  [Book a Session]
+Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jennifer]
 ```
 
-**Mobile:** Hamburger menu with the same items; "Book a Session" remains visible as a floating CTA.
+**Mobile:** Hamburger menu with the same items; "Connect with Jennifer" remains visible as a floating CTA.
 
 ### Sitemap
 
@@ -113,17 +115,16 @@ Logo (Home)  |  Books  |  Sessions  |  Learn  |  About  |  [Book a Session]
 │       ├── /the-space      Volume 7 detail page
 │       └── /the-flow       Volume 8 detail page
 │
-├── /sessions               All session types
-│   ├── /aura-reading       General Aura Reading
-│   ├── /themed-reading     Themed Question Reading
-│   ├── /chakra-journey     12-Session Chakra Journey
-│   ├── /integration        Integration & Counseling
-│   ├── /couples            Couples Reading
-│   └── /group              Group Reading Circle
+├── /the-auracle            The Auracle — all session types & booking
+│   ├── #thematic           Thematic Reading (anchor sections)
+│   ├── #couples            Couples Reading
+│   ├── #business           Business Reading
+│   ├── #group              Group Reading
+│   └── #chakra-journey     Chakra Journey (12-session package)
 │
-├── /learn                  Courses and education
-│   ├── /aura-reading-1     Aura Reading Level 1
-│   └── /rose-meditation    Rose Meditation Training
+├── /learn                  Courses and education (Coming Soon)
+│   ├── /aura-reading-1     Aura Reading Level 1 (Coming Soon)
+│   └── /rose-meditation    Rose Meditation Training (Coming Soon)
 │
 ├── /about                  Jennifer's story + credentials
 ├── /newsletter             Substack integration / signup
@@ -137,6 +138,12 @@ Logo (Home)  |  Books  |  Sessions  |  Learn  |  About  |  [Book a Session]
 - **Volume pages** use the arc word (short, memorable): `/books/sovereignty/see`, `/books/energy/the-field`
 - **No dates in URLs** — these are evergreen
 - **Lowercase, hyphenated** — standard web convention
+
+### What the Site Does NOT Include
+
+- **No built-in digital reader.** Books are purchased on Amazon (Kindle/paperback) and Gumroad (PDF/ebook). The site offers a chapter preview (Chapter 1 of each volume) as a lead magnet / taste, not a full reading experience. Chapter 1 can also be offered as a free download in exchange for an email address.
+- **No course enrollment at launch.** The course infrastructure (Rose Meditation Level 1 with 10 lessons, AI learning assistant) exists in the codebase and will launch in Phase 4. For now, courses show as "Coming Soon" with an email waitlist.
+- **No fabricated social proof.** No "500+ readings" or "1200+ students" counters. Real testimonials only — currently ~4 video and ~3 written. Design should accommodate a small but growing collection.
 
 ---
 
@@ -159,7 +166,7 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  patterns, heal their nervous systems, and reclaim      │
 │  their energy fields.                                   │
 │                                                         │
-│  [Explore the Books]  [Book a Session]                  │
+│  [Explore the Books]  [Meet The Auracle]                │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  THE BOOKS — Two series cards side by side              │
@@ -180,23 +187,51 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  └──────────────────┘  └──────────────────┘            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  SESSIONS — Overview of offerings                       │
+│  THE AURACLE — Sessions overview                        │
 │                                                         │
 │  "Your field speaks. I help you listen."                │
 │                                                         │
-│  Session type cards (3-column grid):                    │
-│  - Aura Reading                                         │
-│  - Chakra Journey                                       │
-│  - Integration & Counseling                             │
-│  - Couples Reading                                      │
-│  - Group Circle                                         │
+│  Brief intro: Jennifer Brooke Lawless, The Auracle —    │
+│  therapist, energy practitioner, and the person your    │
+│  friend told you to go see.                             │
 │                                                         │
-│  [View All Sessions]  [Book Now]                        │
+│  Session type cards:                                    │
+│  - Thematic Reading                                     │
+│  - Couples Reading                                      │
+│  - Business Reading                                     │
+│  - Group Reading                                        │
+│  - Chakra Journey (12-session signature package)        │
+│                                                         │
+│  [Meet The Auracle]  [Connect with Jennifer]            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  FEATURED VOLUME — Spotlight on the latest release      │
 │                                                         │
 │  Large cover image + excerpt + buy links                │
+│  (Amazon, Gumroad) + "Read Chapter 1" preview           │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  TESTIMONIALS — Highlighted real testimonials            │
+│                                                         │
+│  Space for 2-3 featured testimonials (video embed       │
+│  or written quote with attribution). Only real           │
+│  testimonials — no fabricated stats. Currently ~4        │
+│  video and ~3 written testimonials available.            │
+│                                                         │
+│  Layout: Featured video testimonial (large) +           │
+│  2 written quotes beside or below. Rotates or           │
+│  curated selection.                                      │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  COURSES — Coming Soon teaser                           │
+│                                                         │
+│  "Learn the practices."                                 │
+│  Brief description of Rose Meditation and Aura          │
+│  Reading courses. Infrastructure exists — content is    │
+│  coming. Email capture: "Be the first to know when      │
+│  courses launch."                                       │
+│                                                         │
+│  [Join the Waitlist]                                    │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  NEWSLETTER SIGNUP — Substack integration               │
@@ -286,7 +321,12 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 │                                                         │
 │  [Cover image — large, high-quality]                    │
 │                                                         │
-│  [Buy on Amazon]  [Buy on Gumroad]  [Read Free Ch. 1]  │
+│  [Buy on Amazon]  [Buy on Gumroad]  [Read Chapter 1]   │
+│                                                         │
+│  Note: "Read Chapter 1" opens a chapter preview on-     │
+│  site (not a full reader). Books are purchased via       │
+│  Amazon (Kindle/paperback) or Gumroad (PDF/ebook).      │
+│  No built-in digital reader — external platforms only.   │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  BOOK DESCRIPTION — Back cover blurb (100-150 words)    │
@@ -297,7 +337,10 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 │  will learn)                                            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  READER PRAISE — Testimonials or reviews (when avail.)  │
+│  TESTIMONIALS — Real reader testimonials (when avail.)  │
+│  Space for video testimonials (embedded) and written     │
+│  quotes. Only show if real testimonials exist for this   │
+│  volume. No fabricated stats or placeholder reviews.     │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  NEXT IN THE SERIES — Card linking to Volume 2           │
@@ -305,42 +348,86 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 │  remembers → HEAL"                                      │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  FREE RESOURCE — Decoder Cards download (lead magnet)   │
+│  FREE RESOURCE — Chapter 1 download for email, or       │
+│  Decoder Cards download (lead magnet)                   │
 └─────────────────────────────────────────────────────────┘
 ```
 
-### 4D. Sessions Page (`/sessions`)
+### 4D. The Auracle Page (`/the-auracle`)
 
-Preserves the existing session structure with refined presentation.
+The dedicated sessions page. This is where word-of-mouth traffic lands — when someone's friend says "go see The Auracle," this is the door they walk through. From here they discover LightField's entire ecosystem (books, courses, community).
+
+The page uses LightField's visual identity throughout — kingfisher palette, same typography, same component system. No separate branding.
+
+**Booking flow:** Connect-first, not transactional. No calendar widget. Visitors read about session types, then reach out via WhatsApp or email to connect with Jennifer personally before booking. This filters for readiness, builds the relationship before the session starts, and positions the work as premium and personal.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  SESSIONS HERO                                          │
+│  THE AURACLE — HERO                                     │
 │                                                         │
 │  "Your field speaks. I help you listen."                │
 │                                                         │
-│  Brief overview of what a session involves               │
+│  Jennifer Brooke Lawless, The Auracle                   │
+│                                                         │
+│  Brief intro (2-3 sentences): Who The Auracle is,       │
+│  what she does, who this is for. Direct, warm,          │
+│  grounded — not "gentle sacred" or rose-toned.          │
+│                                                         │
+│  [Connect with Jennifer]                                │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  SESSION TYPES — Card grid                              │
+│  SESSION TYPES — Card grid (anchor sections)            │
 │                                                         │
 │  Each card:                                             │
 │  - Session name                                         │
 │  - Duration                                             │
 │  - Price                                                │
 │  - Brief description (what happens, who it's for)       │
-│  - [Book Now] button                                    │
+│  - [Connect to Book] → WhatsApp or email                │
 │                                                         │
-│  Types:                                                 │
-│  1. General Aura Reading (30-90 min)                    │
-│  2. Themed Question Reading (30-90 min)                 │
-│  3. Chakra Journey (12-session package)                 │
-│  4. Integration & Counseling Session                    │
-│  5. Couples Reading (60 min)                            │
-│  6. Group Reading Circle                                │
+│  Individual Sessions — 60 min, $200 each:               │
+│  1. Thematic Reading                                    │
+│  2. Couples Reading                                     │
+│  3. Business Reading                                    │
+│  4. Group Reading                                       │
+│                                                         │
+│  Signature Package:                                     │
+│  5. Chakra Journey — 12 sessions, $2,100                │
+│     Flexible pacing: 1x/week over 3 months or           │
+│     1x/month over a year. This is the signature         │
+│     deep-work offering — give it visual prominence.     │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  HOW IT WORKS — 3-step visual (Book → Prepare → Meet)   │
+│  HOW IT WORKS — 3-step visual                           │
+│  (Reach Out → We Connect → We Meet)                     │
+│                                                         │
+│  1. Reach out via WhatsApp or email                     │
+│  2. Jennifer connects with you personally to            │
+│     understand what you need                            │
+│  3. She books your session and you meet                 │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  TESTIMONIALS — Real session testimonials                │
+│                                                         │
+│  Video testimonials (embedded, 1-2 featured) and/or     │
+│  written quotes with attribution. Only real — no         │
+│  fabricated numbers or inflated stats.                   │
+│                                                         │
+│  Currently available: ~4 video, ~3 written.             │
+│  Design should accommodate growing collection over      │
+│  time without looking empty at launch.                  │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  ABOUT JENNIFER — Brief practitioner bio                │
+│  BS Psychology (Boston University), MS Mental Health     │
+│  Counseling (Nova Southeastern). Clinical experience    │
+│  in psychiatric care, family systems, couples work.     │
+│  100+ readings completed. Not a flashy stat — a quiet   │
+│  credential in the bio, not a homepage banner.          │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  CONNECT — WhatsApp link + email                        │
+│  "Ready to start? Reach out and let's talk."            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  DISCLAIMER — Sessions are not a substitute for         │
@@ -553,7 +640,7 @@ The single-word titles (SEE, HEAL, STAND, etc.) are the brand. They receive spec
 
 | Type | Style | Use |
 |------|-------|-----|
-| **Primary** | Solid orange-red background (`#E0522D`), cream text (`#F5F0E1`) | "Book a Session", "Buy Now" |
+| **Primary** | Solid orange-red background (`#E0522D`), cream text (`#F5F0E1`) | "Connect with Jennifer", "Buy Now" |
 | **Secondary** | Electric blue border (`#0EA5C3`), transparent background, blue text | "Explore Series", "Learn More" |
 | **Dark Primary** | Solid orange-red on indigo sections, cream text | CTAs inside dark hero/footer sections |
 | **Ghost** | No border, electric blue text with subtle hover underline | "Read more", navigation links |
@@ -581,7 +668,7 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 #### Navigation Bar
 
 - Fixed to top, cream background (`#F5F0E1`) with subtle bottom border and backdrop-blur
-- Logo left (black text or mark), nav items center (black text), CTA button right (orange-red)
+- Logo left (black text or mark), nav items center (black text), CTA button right (orange-red, "Connect with Jennifer")
 - Mobile: hamburger menu, full-screen indigo overlay with cream text
 - Active page indicated by electric blue underline or text color
 - On scroll: slight shadow appears beneath nav bar
@@ -594,12 +681,12 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 │                                                         │
 │  [Logo]                                                 │
 │                                                         │
-│  Books          Sessions       Institute     Connect    │
-│  Sovereignty    Aura Reading   About         Instagram  │
-│  Energy         Chakra Journey Newsletter    YouTube    │
-│  Free Resources Integration   Research       Email     │
-│                 Couples                                  │
-│                 Group Circle                             │
+│  Books          The Auracle    Institute     Connect    │
+│  Sovereignty    Thematic       About         Instagram  │
+│  Energy         Couples        Newsletter    YouTube    │
+│  Free Resources Business       Research       Email     │
+│                 Group          WhatsApp                  │
+│                 Chakra Journey                           │
 │                                                         │
 │  ─────────────────────────────────────────────────────  │
 │                                                         │
@@ -737,14 +824,17 @@ No structural redesign should be needed. The system is additive.
 ### Phase 1 — Launch (Sovereignty Series Vol 1-3)
 - Home page with series overview
 - Sovereignty Series landing + volume pages for published volumes
-- Sessions page (migrated from current site)
+- Volume detail pages with chapter preview, buy links (Amazon/Gumroad), and free Chapter 1 download for email
+- The Auracle page (sessions, migrated and rebranded from current site)
 - About page
 - Newsletter signup
 - Free Decoder Cards download
+- Real testimonials placed where available (~4 video, ~3 written)
+- Courses section as "Coming Soon" with email waitlist capture
 
 ### Phase 2 — Expansion (Sovereignty Series Vol 4-8)
 - Add volume pages as published
-- Add reader testimonials and reviews
+- Add testimonials and reviews as they come in
 - Add "Start Here" quiz ("Which volume should I read first?")
 - Blog/articles integration (optional — could link to Substack)
 
@@ -755,11 +845,12 @@ No structural redesign should be needed. The system is additive.
 - Updated home page with both series featured equally
 - Potential "Reading Path" feature — guided journey across both series
 
-### Phase 4 — Platform
-- Course enrollment and delivery
+### Phase 4 — Platform (Courses Go Live)
+- Course enrollment and delivery (Rose Meditation Level 1 first, infrastructure already built)
+- AI learning assistant integrated into course experience (already prototyped as "The Auracle AI")
 - Community features
 - Reading groups / circles
-- Session booking integration (Calendly or custom)
+- The Auracle page refinement (more testimonials, session outcomes, connect-first flow optimization)
 
 ---
 
