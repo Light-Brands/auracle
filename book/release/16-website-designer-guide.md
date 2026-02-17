@@ -59,7 +59,7 @@ If a fresh start feels right, these alternatives were evaluated:
 The current LightField.institute has a strong foundation. Preserve these elements:
 
 ### Keep
-- **The Auracle page** — the core session offering (aura readings, chakra journeys, integration sessions, couples readings, group circles), rebranded from generic "Sessions" to leverage The Auracle's word-of-mouth recognition
+- **The Auracle page** — the core session offering (thematic, couples, business, and group readings + the Chakra Journey package), rebranded from generic "Sessions" to leverage The Auracle's word-of-mouth recognition
 - **The "Where Seen and Unseen Meet" positioning** — this tagline is powerful and bridges the clinical and the spiritual
 - **Medical disclaimer** — sessions don't replace medical care; this stays in the footer
 - **The sparkle/star logo element** — refine, consider rendering in electric blue or indigo
