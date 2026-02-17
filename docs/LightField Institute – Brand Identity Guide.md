@@ -38,8 +38,10 @@ LightField Institute (umbrella brand)
 │
 ├── The Auracle (sessions page — /the-auracle)
 │   Jennifer's practitioner identity and session booking destination
+│   100+ readings completed
 │   Aura Reading · Themed Reading · Chakra Journey
 │   Integration & Counseling · Couples Reading · Group Circle
+│   Chakra Journey: 12 sessions / $2,100 (1x/week over 3mo or 1x/month over 1yr)
 │   Booking via personal connection (WhatsApp / email), not calendar widget
 │
 ├── Courses (structured learning — Coming Soon, infrastructure built)
@@ -60,7 +62,7 @@ Books are sold through external platforms — Amazon (Kindle and paperback) and 
 
 ### Testimonials & Social Proof
 
-All testimonials must be real. Currently available: approximately 4 video testimonials and 3 written testimonials. No fabricated counters (no "500+ readings" or "1200+ students"). Design testimonial placements across the site to accommodate a small but growing collection — featured on the home page, The Auracle page, and volume detail pages where applicable.
+All testimonials must be real. Currently available: approximately 4 video testimonials and 3 written testimonials. No fabricated or inflated counters. The one real stat — 100+ readings — belongs as a quiet credential in Jennifer's practitioner bio on The Auracle page, not as a flashy homepage banner. Design testimonial placements across the site to accommodate a small but growing collection — featured on the home page, The Auracle page, and volume detail pages where applicable.
 
 ### The Auracle — Brand Consolidation
 

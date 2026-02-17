@@ -389,7 +389,10 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 │  Types:                                                 │
 │  1. General Aura Reading (30-90 min)                    │
 │  2. Themed Question Reading (30-90 min)                 │
-│  3. Chakra Journey (12-session package)                 │
+│  3. Chakra Journey — 12 sessions, $2,100                │
+│     Flexible pacing: 1x/week over 3 months or           │
+│     1x/month over a year. This is the signature         │
+│     deep-work offering — give it visual prominence.     │
 │  4. Integration & Counseling Session                    │
 │  5. Couples Reading (60 min)                            │
 │  6. Group Reading Circle                                │
@@ -419,6 +422,8 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 │  BS Psychology (Boston University), MS Mental Health     │
 │  Counseling (Nova Southeastern). Clinical experience    │
 │  in psychiatric care, family systems, couples work.     │
+│  100+ readings completed. Not a flashy stat — a quiet   │
+│  credential in the bio, not a homepage banner.          │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  CONNECT — WhatsApp link + email                        │
