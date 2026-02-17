@@ -31,7 +31,9 @@ LightField Institute (umbrella)
 ├── The Sovereignty Series (book series 1)
 ├── The Energy Series (book series 2)
 ├── Future Series (book series 3+)
-├── Sessions (1:1 and group healing work)
+├── The Auracle (sessions page — /the-auracle)
+│   Jennifer's practitioner identity; word-of-mouth booking destination
+│   Connect-first flow (WhatsApp / email), not calendar widget
 ├── Courses (structured learning)
 └── Community (newsletter, circles, resources)
 ```
@@ -57,7 +59,7 @@ If a fresh start feels right, these alternatives were evaluated:
 The current LightField.institute has a strong foundation. Preserve these elements:
 
 ### Keep
-- **Sessions section** — the core offering (aura readings, chakra journeys, integration sessions, couples readings, group circles)
+- **The Auracle page** — the core session offering (aura readings, chakra journeys, integration sessions, couples readings, group circles), rebranded from generic "Sessions" to leverage The Auracle's word-of-mouth recognition
 - **The "Where Seen and Unseen Meet" positioning** — this tagline is powerful and bridges the clinical and the spiritual
 - **Medical disclaimer** — sessions don't replace medical care; this stays in the footer
 - **The sparkle/star logo element** — refine, consider rendering in electric blue or indigo
@@ -82,10 +84,10 @@ The current LightField.institute has a strong foundation. Preserve these element
 ### Primary Navigation
 
 ```
-Logo (Home)  |  Books  |  Sessions  |  Learn  |  About  |  [Book a Session]
+Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jennifer]
 ```
 
-**Mobile:** Hamburger menu with the same items; "Book a Session" remains visible as a floating CTA.
+**Mobile:** Hamburger menu with the same items; "Connect with Jennifer" remains visible as a floating CTA.
 
 ### Sitemap
 
@@ -113,13 +115,13 @@ Logo (Home)  |  Books  |  Sessions  |  Learn  |  About  |  [Book a Session]
 │       ├── /the-space      Volume 7 detail page
 │       └── /the-flow       Volume 8 detail page
 │
-├── /sessions               All session types
-│   ├── /aura-reading       General Aura Reading
-│   ├── /themed-reading     Themed Question Reading
-│   ├── /chakra-journey     12-Session Chakra Journey
-│   ├── /integration        Integration & Counseling
-│   ├── /couples            Couples Reading
-│   └── /group              Group Reading Circle
+├── /the-auracle            The Auracle — all session types & booking
+│   ├── #aura-reading       General Aura Reading (anchor sections)
+│   ├── #themed-reading     Themed Question Reading
+│   ├── #chakra-journey     12-Session Chakra Journey
+│   ├── #integration        Integration & Counseling
+│   ├── #couples            Couples Reading
+│   └── #group              Group Reading Circle
 │
 ├── /learn                  Courses and education
 │   ├── /aura-reading-1     Aura Reading Level 1
@@ -159,7 +161,7 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  patterns, heal their nervous systems, and reclaim      │
 │  their energy fields.                                   │
 │                                                         │
-│  [Explore the Books]  [Book a Session]                  │
+│  [Explore the Books]  [Meet The Auracle]                │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  THE BOOKS — Two series cards side by side              │
@@ -180,9 +182,13 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  └──────────────────┘  └──────────────────┘            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  SESSIONS — Overview of offerings                       │
+│  THE AURACLE — Sessions overview                        │
 │                                                         │
 │  "Your field speaks. I help you listen."                │
+│                                                         │
+│  Brief intro: Jennifer Brooke Lawless, The Auracle —    │
+│  therapist, energy practitioner, and the person your    │
+│  friend told you to go see.                             │
 │                                                         │
 │  Session type cards (3-column grid):                    │
 │  - Aura Reading                                         │
@@ -191,7 +197,7 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  - Couples Reading                                      │
 │  - Group Circle                                         │
 │                                                         │
-│  [View All Sessions]  [Book Now]                        │
+│  [Meet The Auracle]  [Connect with Jennifer]            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  FEATURED VOLUME — Spotlight on the latest release      │
@@ -309,27 +315,37 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 └─────────────────────────────────────────────────────────┘
 ```
 
-### 4D. Sessions Page (`/sessions`)
+### 4D. The Auracle Page (`/the-auracle`)
 
-Preserves the existing session structure with refined presentation.
+The dedicated sessions page. This is where word-of-mouth traffic lands — when someone's friend says "go see The Auracle," this is the door they walk through. From here they discover LightField's entire ecosystem (books, courses, community).
+
+The page uses LightField's visual identity throughout — kingfisher palette, same typography, same component system. No separate branding.
+
+**Booking flow:** Connect-first, not transactional. No calendar widget. Visitors read about session types, then reach out via WhatsApp or email to connect with Jennifer personally before booking. This filters for readiness, builds the relationship before the session starts, and positions the work as premium and personal.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  SESSIONS HERO                                          │
+│  THE AURACLE — HERO                                     │
 │                                                         │
 │  "Your field speaks. I help you listen."                │
 │                                                         │
-│  Brief overview of what a session involves               │
+│  Jennifer Brooke Lawless, The Auracle                   │
+│                                                         │
+│  Brief intro (2-3 sentences): Who The Auracle is,       │
+│  what she does, who this is for. Direct, warm,          │
+│  grounded — not "gentle sacred" or rose-toned.          │
+│                                                         │
+│  [Connect with Jennifer]                                │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  SESSION TYPES — Card grid                              │
+│  SESSION TYPES — Card grid (anchor sections)            │
 │                                                         │
 │  Each card:                                             │
 │  - Session name                                         │
 │  - Duration                                             │
 │  - Price                                                │
 │  - Brief description (what happens, who it's for)       │
-│  - [Book Now] button                                    │
+│  - [Connect to Book] → WhatsApp or email                │
 │                                                         │
 │  Types:                                                 │
 │  1. General Aura Reading (30-90 min)                    │
@@ -340,7 +356,23 @@ Preserves the existing session structure with refined presentation.
 │  6. Group Reading Circle                                │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  HOW IT WORKS — 3-step visual (Book → Prepare → Meet)   │
+│  HOW IT WORKS — 3-step visual                           │
+│  (Reach Out → We Connect → We Meet)                     │
+│                                                         │
+│  1. Reach out via WhatsApp or email                     │
+│  2. Jennifer connects with you personally to            │
+│     understand what you need                            │
+│  3. She books your session and you meet                 │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  ABOUT JENNIFER — Brief practitioner bio                │
+│  BS Psychology (Boston University), MS Mental Health     │
+│  Counseling (Nova Southeastern). Clinical experience    │
+│  in psychiatric care, family systems, couples work.     │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  CONNECT — WhatsApp link + email                        │
+│  "Ready to start? Reach out and let's talk."            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  DISCLAIMER — Sessions are not a substitute for         │
@@ -553,7 +585,7 @@ The single-word titles (SEE, HEAL, STAND, etc.) are the brand. They receive spec
 
 | Type | Style | Use |
 |------|-------|-----|
-| **Primary** | Solid orange-red background (`#E0522D`), cream text (`#F5F0E1`) | "Book a Session", "Buy Now" |
+| **Primary** | Solid orange-red background (`#E0522D`), cream text (`#F5F0E1`) | "Connect with Jennifer", "Buy Now" |
 | **Secondary** | Electric blue border (`#0EA5C3`), transparent background, blue text | "Explore Series", "Learn More" |
 | **Dark Primary** | Solid orange-red on indigo sections, cream text | CTAs inside dark hero/footer sections |
 | **Ghost** | No border, electric blue text with subtle hover underline | "Read more", navigation links |
@@ -581,7 +613,7 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 #### Navigation Bar
 
 - Fixed to top, cream background (`#F5F0E1`) with subtle bottom border and backdrop-blur
-- Logo left (black text or mark), nav items center (black text), CTA button right (orange-red)
+- Logo left (black text or mark), nav items center (black text), CTA button right (orange-red, "Connect with Jennifer")
 - Mobile: hamburger menu, full-screen indigo overlay with cream text
 - Active page indicated by electric blue underline or text color
 - On scroll: slight shadow appears beneath nav bar
@@ -594,11 +626,11 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 │                                                         │
 │  [Logo]                                                 │
 │                                                         │
-│  Books          Sessions       Institute     Connect    │
+│  Books          The Auracle    Institute     Connect    │
 │  Sovereignty    Aura Reading   About         Instagram  │
 │  Energy         Chakra Journey Newsletter    YouTube    │
 │  Free Resources Integration   Research       Email     │
-│                 Couples                                  │
+│                 Couples        WhatsApp                  │
 │                 Group Circle                             │
 │                                                         │
 │  ─────────────────────────────────────────────────────  │
@@ -737,7 +769,7 @@ No structural redesign should be needed. The system is additive.
 ### Phase 1 — Launch (Sovereignty Series Vol 1-3)
 - Home page with series overview
 - Sovereignty Series landing + volume pages for published volumes
-- Sessions page (migrated from current site)
+- The Auracle page (sessions, migrated and rebranded from current site)
 - About page
 - Newsletter signup
 - Free Decoder Cards download
@@ -759,7 +791,7 @@ No structural redesign should be needed. The system is additive.
 - Course enrollment and delivery
 - Community features
 - Reading groups / circles
-- Session booking integration (Calendly or custom)
+- The Auracle page refinement (testimonials, session outcomes, connect-first flow optimization)
 
 ---
 

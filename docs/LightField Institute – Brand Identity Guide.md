@@ -36,9 +36,11 @@ LightField Institute (umbrella brand)
 │
 ├── Future Series (book series — TBD)
 │
-├── Sessions (1:1 and group healing work)
+├── The Auracle (sessions page — /the-auracle)
+│   Jennifer's practitioner identity and session booking destination
 │   Aura Reading · Themed Reading · Chakra Journey
 │   Integration & Counseling · Couples Reading · Group Circle
+│   Booking via personal connection (WhatsApp / email), not calendar widget
 │
 ├── Courses (structured learning)
 │   Aura Reading Level 1 · Rose Meditation Training
@@ -46,6 +48,26 @@ LightField Institute (umbrella brand)
 └── Community (newsletter, circles, resources)
     Substack · Decoder Cards · Free Resources
 ```
+
+### The Auracle — Brand Consolidation
+
+"The Auracle" is a memorable word-of-mouth name combining "oracle" and "aura." It carries real recognition — people already refer others to "The Auracle" by name. Rather than maintaining it as a separate brand with its own visual identity, The Auracle lives as a **dedicated page within LightField Institute** where all session bookings originate.
+
+**What The Auracle IS:**
+- A page at `lightfield.institute/the-auracle`
+- Jennifer's practitioner title — "Jennifer Brooke Lawless, The Auracle"
+- The destination people land on when friends say "go see The Auracle"
+- A customer acquisition channel powered by word-of-mouth
+
+**What The Auracle is NOT:**
+- A separate brand with its own logo, palette, or visual identity
+- A rose-pink, golden-sun, "gentle sacred" aesthetic (retired)
+- A standalone website or social media presence
+- A competing brand alongside LightField Institute
+
+**The Auracle page uses LightField's visual identity** — kingfisher palette, Cormorant Garamond + Inter typography, cream backgrounds, indigo immersive sections. No separate design system.
+
+**Booking flow:** Connect-first, not transactional. Visitors read about session types, then reach out via WhatsApp or email to connect with Jennifer personally before booking. This filters for readiness, builds relationship before the session, and positions the work as premium and personal — not commodity.
 
 ### Why "LightField Institute"
 
@@ -55,7 +77,7 @@ The name bridges every pillar of the platform:
 |--------|---------------------------|
 | **The Sovereignty Series** | Your field of personal power, agency, and self-authority |
 | **The Energy Series** | Your literal biofield — the human energy field you learn to read, clear, and protect |
-| **Sessions** | Aura reading and energy work — observing and healing the light field |
+| **The Auracle (Sessions)** | Aura reading and energy work — observing and healing the light field |
 | **Future work** | The "field" metaphor scales to any domain of consciousness |
 
 "Institute" conveys authority, research-backed credibility, and a container larger than any single book. It positions Jennifer not as an author selling books, but as the founder of a body of work.
@@ -238,7 +260,7 @@ If LightField Institute were a person, they would be:
 - An institute — a body of research, practice, and published work
 - A sanctuary — a warm, luminous space to explore difficult truths
 - A bookshelf — a growing library organized by series and journey
-- A practitioner's home — where you come to work with Jennifer directly
+- A practitioner's home — where you come to work with Jennifer directly, through The Auracle
 - A kingfisher — precise, vivid, alive. Dives deep, emerges with clarity
 
 ---
@@ -249,7 +271,7 @@ If LightField Institute were a person, they would be:
 
 Her healing journey led her beyond traditional therapy — through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
-Jennifer lives in Costa Rica, where she offers healing sessions and integration work through LightField Institute. The Sovereignty Series was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
+Jennifer lives in Costa Rica, where she offers healing sessions and integration work as The Auracle — her practitioner identity within LightField Institute. The Sovereignty Series was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
 **Connect:** LightField.institute | @jae.lawless | lightfieldlawless@gmail.com
 
