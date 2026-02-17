@@ -306,7 +306,7 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community, Numa and Roses OS. She offers sessions through Light Field Institute and is a cofounder of Light Brands.
+Today, Jennifer lives in Costa Rica with her cat Lumi and her community. She offers sessions through Light Field Institute and is a cofounder of Light Brands.
 
 *Your sensitivity is not your weakness. It's your superpower.*
 
