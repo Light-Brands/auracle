@@ -39,7 +39,7 @@ LightField Institute (umbrella brand)
 ├── The Auracle (sessions page — /the-auracle)
 │   Jennifer's practitioner identity and session booking destination
 │   100+ readings completed
-│   60-min readings, $200 each: Thematic · Couples · Business · Group
+│   60-min readings, $200 each: General Assessment · Love · Thematic · Couples · Business · Group
 │   Chakra Journey: 12 sessions / $2,100 (1x/week over 3mo or 1x/month over 1yr)
 │   Booking via personal connection (WhatsApp / email), not calendar widget
 │

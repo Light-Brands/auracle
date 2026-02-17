@@ -59,7 +59,7 @@ If a fresh start feels right, these alternatives were evaluated:
 The current LightField.institute has a strong foundation. Preserve these elements:
 
 ### Keep
-- **The Auracle page** — the core session offering (thematic, couples, business, and group readings + the Chakra Journey package), rebranded from generic "Sessions" to leverage The Auracle's word-of-mouth recognition
+- **The Auracle page** — the core session offering (general assessment, love, thematic, couples, business, and group readings + the Chakra Journey package), rebranded from generic "Sessions" to leverage The Auracle's word-of-mouth recognition
 - **The "Where Seen and Unseen Meet" positioning** — this tagline is powerful and bridges the clinical and the spiritual
 - **Medical disclaimer** — sessions don't replace medical care; this stays in the footer
 - **The sparkle/star logo element** — refine, consider rendering in electric blue or indigo
@@ -116,7 +116,9 @@ Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jenn
 │       └── /the-flow       Volume 8 detail page
 │
 ├── /the-auracle            The Auracle — all session types & booking
-│   ├── #thematic           Thematic Reading (anchor sections)
+│   ├── #general            General Assessment Reading (anchor sections)
+│   ├── #love               Love Reading
+│   ├── #thematic           Thematic Reading
 │   ├── #couples            Couples Reading
 │   ├── #business           Business Reading
 │   ├── #group              Group Reading
@@ -196,6 +198,8 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  friend told you to go see.                             │
 │                                                         │
 │  Session type cards:                                    │
+│  - General Assessment Reading                           │
+│  - Love Reading                                         │
 │  - Thematic Reading                                     │
 │  - Couples Reading                                      │
 │  - Business Reading                                     │
@@ -386,10 +390,12 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 │  - [Connect to Book] → WhatsApp or email                │
 │                                                         │
 │  Individual Sessions — 60 min, $200 each:               │
-│  1. Thematic Reading                                    │
-│  2. Couples Reading                                     │
-│  3. Business Reading                                    │
-│  4. Group Reading                                       │
+│  1. General Assessment Reading                          │
+│  2. Love Reading                                        │
+│  3. Thematic Reading                                    │
+│  4. Couples Reading                                     │
+│  5. Business Reading                                    │
+│  6. Group Reading                                       │
 │                                                         │
 │  Signature Package:                                     │
 │  5. Chakra Journey — 12 sessions, $2,100                │
@@ -682,10 +688,12 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 │  [Logo]                                                 │
 │                                                         │
 │  Books          The Auracle    Institute     Connect    │
-│  Sovereignty    Thematic       About         Instagram  │
-│  Energy         Couples        Newsletter    YouTube    │
-│  Free Resources Business       Research       Email     │
-│                 Group          WhatsApp                  │
+│  Sovereignty    General        About         Instagram  │
+│  Energy         Love           Newsletter    YouTube    │
+│  Free Resources Thematic       Research       Email     │
+│                 Couples        WhatsApp                  │
+│                 Business                                 │
+│                 Group                                    │
 │                 Chakra Journey                           │
 │                                                         │
 │  ─────────────────────────────────────────────────────  │
