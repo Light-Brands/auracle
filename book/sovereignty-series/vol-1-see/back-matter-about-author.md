@@ -31,7 +31,7 @@ Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and
 - Website: LightBrands.ai
 - Sessions & Books: LightField.Institute
 - Instagram: @jae.lawless
-- Email: lightfieldlawless@gmail.com
+- Email: lightfieldinstitute@gmail.com
 
 ---
 
