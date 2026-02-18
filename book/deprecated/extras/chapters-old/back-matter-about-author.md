@@ -60,7 +60,7 @@ Jennifer's journey with Escola da Aura has taken her deep into the practice of a
 - Reiki 1 deepening initiation in Brazil
 - Aura 4 techniques practice with teachers from across Brazil
 - Upcoming: Aura 2 and 3 (relationships) training
-- 2025: Founding member of the International School of Aura
+- 2025: Therapist and Guardian of the Hummingbird at ROSES OS
 
 **Daily Practices:**
 - Qi Gong & Tai Chi under the guidance of Deborah Rosene, Psy.D.

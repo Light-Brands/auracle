@@ -284,7 +284,7 @@ When you're ready to move from recognition to secure attachment, **Heal: The Bod
 - **Website:** LightBrands.ai
 - **Sessions & Books:** LightField.Institute
 - **Instagram:** @jae.lawless
-- **Email:** lightfieldlawless@gmail.com
+- **Email:** LightFieldInstitute@gmail.com
 
 ---
 

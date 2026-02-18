@@ -29,7 +29,7 @@ The answer is here. And so are you.
 - Website: LightBrands.ai
 - Counseling & Research: LightField.Institute
 - Instagram: @jae.lawless
-- Email: lightfieldlawless@gmail.com
+- Email: LightFieldInstitute@gmail.com
 
 ---
 

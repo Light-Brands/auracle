@@ -287,7 +287,7 @@ Her healing journey led her beyond traditional therapy — through shadow work, 
 
 Jennifer lives in Costa Rica, where she offers healing sessions and integration work as The Auracle — her practitioner identity within LightField Institute. The Sovereignty Series was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
-**Connect:** LightField.institute | @jae.lawless | lightfieldlawless@gmail.com
+**Connect:** LightField.institute | @jae.lawless | LightFieldInstitute@gmail.com
 
 ---
 
