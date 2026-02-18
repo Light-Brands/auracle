@@ -566,6 +566,14 @@ You dress for their approval. You monitor your weight because of their comments.
 
 Internal practice: Regularly affirm your own worth and aesthetic preferences without external validation.
 
+**When appearance control is culturally sanctioned:**
+
+In some cultural contexts, a partner having opinions about your hair, your clothes, your nails, your body isn't a red flag — it's expected. "He likes her to look a certain way." "She takes care of herself for him." The control is invisible because the culture agrees that your appearance belongs, at least partly, to the relationship.
+
+The decoder question stays the same: Does this make you feel *more* beautiful or *less* yourself? Do you dress the way you want, or the way that avoids a reaction? Is this collaboration or compliance?
+
+If you can't wear red nail polish without it becoming an argument, the issue was never the nail polish.
+
 > *"A hallmark of the Dominant Narcissist is the aesthetic seesaw: they'll praise your beauty, then downplay it, then compare you to others. The goal isn't truth; it's control of your self-image."*
 
 ---
@@ -1492,6 +1500,22 @@ You feel lucky to be tolerated rather than valued for who you are. You lower you
 
 **Your Power Move:**
 "I'm not in this relationship because I'm lucky. I'm in it because I choose to be—and I can choose differently."
+
+**When the Community Becomes the Chorus**
+
+In individualist contexts, this is one voice — the narcissist's. In collectivist systems, it becomes a chorus. The narcissist plants the seed. The community waters it:
+
+- The mother: "Ese hombre te quiere. No seas malagradecida." (That man loves you. Don't be ungrateful.)
+- The Jewish mother: "After everything we went through to give you this life? He's a good provider. He comes from a good family."
+- The pastor: "God blessed you with this marriage. Have you prayed about it?"
+- The friend: "Do you know how hard it is to find someone in this community? At your age?"
+- The tía: "¿Y quién te va a querer con dos hijos?" (And who's going to want you with two kids?)
+- The bubbe: "Your grandfather survived the camps. He would have given anything for a family. And you want to throw yours away?"
+- The culture: "She left a good man." "He broke up his family." "She's so dramatic."
+
+The cruelest part: the community often isn't wrong about the practical reality. In a small congregation, a tight queer scene, an immigrant community with limited social mobility — the options *are* fewer. The narcissist's lie ("no one else will want you") gets propped up by a structural truth ("the pool is small and leaving has real costs"). The manipulation and the math overlap just enough to trap you.
+
+**The decoder for the chorus:** When everyone around you says you can't do better, ask: who benefits from you believing that? Not you. Not them. The person who never has to change because the whole world tells you to stay.
 
 ---
 
@@ -2521,21 +2545,21 @@ You start managing your reactions more than the actual problem. You question whe
 
 ## Field Note: The Third Glass
 
-He refills her wine before she asks.
+She refills her wine before she asks.
 
 "You're so tense. Just relax."
 
-She wasn't tense until he said that. Now she feels like she's failing at something.
+She wasn't tense until her partner said that. Now she feels like she's failing at something.
 
 By the third glass, she's softer. Easier. The edges blur.
 
-That's when he brings up what he wants—something she said no to last week. Something that made her uncomfortable.
+That's when her partner brings up what she wants — something she said no to last week. Something that made her uncomfortable.
 
 She hears herself agreeing. Her voice sounds far away.
 
 The next morning, she doesn't remember exactly what she said yes to. But she remembers the feeling: cornered without walls.
 
-When she tries to revisit the conversation sober, he says: "You already agreed. Are you going back on your word?"
+When she tries to revisit the conversation sober, her partner says: "You already agreed. Are you going back on your word?"
 
 ---
 

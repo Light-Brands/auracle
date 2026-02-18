@@ -466,6 +466,12 @@ You lose your sense of self. Not dramatically, gradually. Like a photograph left
 
 Healing requires rebuilding your relationship with your own preferences, opinions, and desires. You have to learn to take up space again.
 
+**When the culture validates the type:**
+
+Some narcissistic presentations are culturally invisible because the behavior matches cultural expectations. The grandiose narcissist operating within machismo culture isn't seen as pathological — he's seen as masculine. The controlling patriarch in a conservative religious community isn't questioned — he's "leading his family." The charming, dominant woman in a marianismo framework isn't a narcissist — she's a strong matriarch. The Jewish mother whose enmeshment is celebrated as devotion isn't controlling — she's "just being a mother."
+
+When the narcissist's behavior aligns with cultural norms, the survivor faces a unique hell: *everyone around them sees normal where they see abuse*. The question isn't "Am I being manipulated?" The question becomes "Am I the only one who sees this?" And the answer, in a collectivist system, is often yes.
+
 ---
 
 ### 2. The Covert (Vulnerable) Narcissist
@@ -621,6 +627,25 @@ Your relationship to your own body becomes fraught. You're never attractive enou
 > **Field Note:** I dated a bodybuilder. We lifted together. One day at lunch, he looked at my plate and said, "That's a lot of tuna for a little girl." Seven words. Said casually, almost playfully. But the message landed: *I'm watching what you eat. I decide what's appropriate for your body. You're little—I'm the authority here.* I put down my fork. For months after, I felt his eyes on me whenever I ate. The comment wasn't about tuna. It was about control—wrapped in the language of health and fitness, delivered with a smile.
 
 **The specific wound:** Your body becomes an object rather than a home. Healing requires rebuilding a loving relationship with your physical self.
+
+### When Enmeshment Is Called Closeness
+
+In individualist cultures, enmeshment — the collapse of boundaries between family members — is recognized as dysfunction. In collectivist cultures, it's called *family*.
+
+The mother who tells her adult son what to wear. The son who has opinions about how his mother dresses. The husband who speaks about his wife as though she's an extension of himself — *his* woman, *his* family, *his* home. The parent who considers a child's boundaries a personal rejection. None of this registers as abnormal in systems where the individual is expected to dissolve into the family unit.
+
+**What culturally normalized enmeshment looks like:**
+
+- A man who dictates his partner's hair, clothes, nail polish — and frames it as standards, taste, or "wanting her to look her best." The culture reads this as a man who cares. The partner experiences it as ownership.
+- A mother-son bond where he manages her appearance and she manages his emotional world — and everyone calls it beautiful. "Such a good son." "So devoted."
+- A family where there is no private information. Your salary, your therapy, your marriage problems — all shared, all discussed, all adjudicated by the collective. Privacy isn't healthy — it's suspicious.
+- Language itself reinforcing ownership: "mi mujer" (my woman), "mi viejo" (my old man) — possessive framing so normal it's invisible.
+
+**Why this matters for the book's framework:**
+
+The decoder cards treat appearance control (Card 11: The Aesthetic Seesaw) and enmeshment as standalone manipulation patterns. But in collectivist cultures, these patterns are *baseline*. A reader from a machismo or traditional Jewish household may read Card 11 and think: "That's just how my husband is. That's just how our family works." The tactic doesn't register as a tactic because the culture already normalized it.
+
+The question that separates cultural closeness from narcissistic enmeshment is always the same: does this closeness make you more yourself, or less?
 
 ---
 

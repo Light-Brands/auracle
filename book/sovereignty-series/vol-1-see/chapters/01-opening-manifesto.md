@@ -24,6 +24,8 @@ This book is your way out.
 
 If you're reading this, something brought you here. Maybe it was a relationship that left you questioning your own sanity. Maybe it was a parent whose love always came with conditions you could never quite meet. Maybe it was a friend who seemed to take more than they gave, or a boss who made you feel both indispensable and worthless in the same conversation.
 
+Maybe it was a partner who accepted you when your family didn't — and then used that acceptance as a leash. Maybe it was a community that felt like home until you realized the price of belonging was silence. Maybe it was a family where love and control were spoken in the same language — and everyone around you insisted that was normal.
+
 Whatever brought you here, trust that instinct.
 
 The fact that you're seeking understanding is not a sign of weakness. It's a sign of intelligence. It takes a certain kind of courage to look directly at something that has been designed to keep you confused.
@@ -48,6 +50,10 @@ Control rarely announces itself. It doesn't walk into the room with a sign that 
 - **Vulnerability**: "I'm only like this because of my past."
 
 Each of these sounds reasonable. Each of these sounds like something a caring person might say. And that's exactly what makes them so effective—and so devastating.
+
+In some families, in some communities, the architecture isn't invisible at all — it's celebrated. When the whole culture says "family first, always, no matter what" and the narcissist *is* that family — the control isn't hidden. It's in the dichos at the dinner table. It's in the sermon on Sunday. It's in the way everyone nods when abuela says "aguanta." The architecture is everywhere. It's just dressed as love, duty, tradition, and faith.
+
+This doesn't mean your culture is the problem. It means the narcissist is hiding behind it. And that's harder to see — because fighting them feels like fighting everything you belong to.
 
 The difference between genuine care and control disguised as care isn't always in the words. It's in the **pattern**, in what happens to your body, your confidence, and your sense of reality over time.
 

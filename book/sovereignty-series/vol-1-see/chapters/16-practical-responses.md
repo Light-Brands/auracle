@@ -778,6 +778,93 @@ Preparation is protection. Going in blind is asking to be destabilized.
 
 ---
 
+## Scripts for Collectivist Contexts
+
+These scripts address the unique dynamics of narcissistic abuse within collectivist systems — Hispanic families, Jewish families, religious communities, immigrant networks — where the pressure to stay comes not just from one person but from everyone around you.
+
+### When Family Members Pressure You on the Narcissist's Behalf
+
+**When tía calls to say your mother is crying:**
+🟢 "I love Mami. I also have to take care of myself. Both can be true."
+
+**When abuela invokes generational debt:**
+"Después de todo lo que tu abuela sufrió..."
+🟢 "I honor her strength. And the strongest thing I can do is break the cycle she couldn't."
+
+**When a cousin brings it to social media:**
+🟢 Do not engage publicly. Screenshot for documentation. Text privately if necessary: "I'd appreciate you talking to me directly instead of posting about it."
+
+**When a parent says "Yo soy tu madre" to end the conversation:**
+🟢 "You are. And I'm your daughter. Both of us deserve respect in this conversation."
+
+**When your mother says "Así son los hombres":**
+🟢 "That's what we were taught. But I'm learning something different."
+
+**When the family says "No necesitas terapia, necesitas a Dios":**
+🟢 "I believe God gave us healers too. I'm using all the tools available to me."
+
+**When they say you've changed:**
+🟢 "I have. I'm becoming who I was before I learned to disappear."
+
+### When the Community Says You Can't Do Better
+
+**When your mother agrees with the narcissist:**
+"Ese hombre te quiere. ¿Qué más quieres?" (That man loves you. What more do you want?)
+🟢 "Quiero lo que merezco, Mami. No solo lo que puedo aguantar." (I want what I deserve, Mom. Not just what I can endure.)
+
+**When the Jewish family agrees with the narcissist:**
+"He comes from a good family. He provides. After everything we went through to give you this life?"
+🟢 "I'm grateful for everything. And I deserve to be treated with respect, not just provided for."
+
+**When the congregation agrees with the narcissist:**
+"God blessed you with this marriage. You need to honor your vow."
+🟢 "I'm honoring my life. I believe God wants that too."
+
+**When someone invokes historical survival:**
+"Your grandparents survived [the camps / the crossing / persecution] so you could have this life. And you're going to throw it away?"
+🟢 "They survived so I could be free. That includes free to choose safety."
+
+**When the community agrees with the narcissist:**
+"Do you know how hard it is to find someone in this community?"
+🟢 "I'd rather be alone and safe than partnered and disappearing."
+
+**When your own fear agrees with the narcissist:**
+*What if they're right? What if no one else will want me?*
+Hold this: "The voice that says I can't do better is the voice that needs me to stay small. It doesn't belong to me. It belongs to the system."
+
+### Scripts for Identity-Specific Dynamics
+
+**When they threaten to out you:**
+🟢 "My identity is mine. Using it as a threat tells me everything I need to know about this relationship."
+
+**When they weaponize their acceptance of you:**
+"I accepted you when no one else would. You owe me."
+🟢 "Acceptance with conditions isn't acceptance. It's a transaction."
+
+**When the pastor or rabbi reinforces the narcissist's position:**
+🟢 "I appreciate your concern. I'm seeking guidance from someone who understands my full situation." (You don't owe them the details.)
+
+**When someone says "men don't get abused":**
+🟢 "Manipulation targets nervous systems, not genders. Mine was targeted."
+
+**When "shalom bayit" is invoked to silence you:**
+🟢 "There's no peace in a home where one person is disappearing. True shalom bayit includes safety."
+
+**When the family invokes historical survival as debt:**
+🟢 "Our family's survival story is sacred to me. And it includes my right to survive this."
+
+### When the Environment Tells You It's Not Safe
+
+**When someone uses slurs casually and your family laughs:**
+
+You don't have to correct them. You don't have to come out. You don't have to educate. You can simply *note it*: this person just showed me who they are. This room just showed me what it does with people like me. I will act accordingly.
+
+The "action" might be silence. That's valid. The action might be leaving early. That's valid. The action might be filing this information away and never, ever handing these people the parts of yourself they'd use as a punchline.
+
+You are not obligated to be brave in hostile territory. You are obligated to survive.
+
+---
+
 ## Chapter Summary
 
 **Core Principles:**

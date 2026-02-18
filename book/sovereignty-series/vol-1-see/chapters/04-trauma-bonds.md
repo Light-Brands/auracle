@@ -152,6 +152,12 @@ This is why relief feels like love: your system floods with neurochemicals after
 
 In healthy relationships, love doesn't require pain as its predecessor. Connection doesn't depend on recovery from disconnection. Warmth isn't notable because it follows coldness.
 
+**When the bond is to the only person who accepted you:**
+
+The trauma bond deepens when this person was the first to accept something fundamental about you — your orientation, your identity, your truth, your past. If they were the first person who made you feel safe being who you are, leaving them feels like losing that safety forever. The trauma bond isn't just to the person. It's to the version of yourself they allowed you to be.
+
+This applies to the queer person whose partner was the first to know them fully. To the immigrant whose partner represented stability. To the survivor of a religious upbringing whose partner was the first to say "you don't have to perform." The first person who sees you has disproportionate power — and a narcissist knows exactly how to exploit that.
+
 If you can only feel close after conflict, you're in a relief cycle, not a love cycle.
 
 ---

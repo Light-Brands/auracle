@@ -380,6 +380,19 @@ Particular danger arises when the narcissist is a group leader—a teacher, mini
 
 If you recognize this pattern, consider whether this group is safe for you.
 
+### When the Community Is Small
+
+In tight-knit communities — queer spaces, immigrant networks, religious congregations, recovery groups, small towns, cultural enclaves — narcissistic dynamics are amplified because:
+
+- Everyone knows everyone
+- Reputation is currency
+- Leaving one relationship means navigating shared spaces indefinitely
+- The narcissist's version reaches everyone before yours does
+- "Taking sides" fractures the entire social fabric
+- There's nowhere to go that they aren't also present
+
+This is the collectivist trap in miniature. The community functions as an extended family — and the narcissist exploits that structure exactly the way a narcissistic parent exploits familismo: by positioning themselves as central, making you the problem, and leveraging the community's desire for harmony against your need for truth.
+
 ---
 
 ## Workplace Dynamics
@@ -432,9 +445,9 @@ It's 7 PM on Sunday. You're fine. You were fine all weekend.
 
 Then your stomach drops. Tomorrow exists.
 
-You run through the week ahead. The meeting where he'll interrupt your presentation. The email chain where your suggestion will be ignored, then rephrased by him and praised. The one-on-one where the goalposts will move again.
+You run through the week ahead. The meeting where she'll interrupt your presentation. The email chain where your suggestion will be ignored, then rephrased by her and praised. The one-on-one where the goalposts will move again.
 
-You did everything right last week. You still left Friday feeling like a failure. You can't explain it to your partner—"He didn't *do* anything specific"—but your body knows. Your body has been keeping score.
+You did everything right last week. You still left Friday feeling like a failure. You can't explain it to your partner — "She didn't *do* anything specific" — but your body knows. Your body has been keeping score.
 
 You open your laptop to get ahead. Maybe if you're more prepared. Maybe if you're better.
 
@@ -509,11 +522,11 @@ Twenty minutes later, the text arrives: "Nice view. Who were you with?"
 
 Your stomach flips. You weren't with anyone. But now you're explaining yourself—again—to someone who shouldn't need an explanation.
 
-Later, you notice he knows things. That you liked your coworker's photo. That you were active at 1 AM. That you haven't posted in three days. He doesn't say *how* he knows. He just knows.
+Later, you notice she knows things. That you liked your coworker's photo. That you were active at 1 AM. That you haven't posted in three days. She doesn't say *how* she knows. She just knows.
 
 You start to feel watched. Because you are.
 
-You think about changing your privacy settings, but he'll notice. He'll ask why. And then there'll be a conversation you don't have the energy for.
+You think about changing your privacy settings, but she'll notice. She'll ask why. And then there'll be a conversation you don't have the energy for.
 
 So you perform. You post things that won't trigger questions. You avoid liking certain accounts. You become a curated version of yourself, managed for an audience of one.
 
