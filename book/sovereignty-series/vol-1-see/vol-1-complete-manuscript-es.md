@@ -15500,7 +15500,7 @@ No pudo encontrar ese libro. Así que lo escribió.
 
 No lo son. Y tú tampoco.
 
-Hoy, Jennifer vive en Costa Rica con su pareja Daniel, su gata Lumi y su comunidad espiritual, Numa y ROSES OS. Ofrece sesiones a través de Light Field Institute y es cofundadora de Light Brands.
+Hoy, Jennifer vive en Costa Rica con su pareja Daniel, su gata Lumi y su comunidad espiritual, ROSES OS. Es la Guardiana del Colibrí en ROSES OS, donde enseña la práctica de meditación de la rosa y ofrece lecturas de aura gratuitas (sesiones colibrí los sábados). Ofrece sesiones a través de Light Field Institute y es cofundadora de Light Brands.
 
 ---
 
@@ -15509,7 +15509,7 @@ Hoy, Jennifer vive en Costa Rica con su pareja Daniel, su gata Lumi y su comunid
 - Sitio web: LightBrands.ai
 - Sesiones y Libros: LightField.Institute
 - Instagram: @jae.lawless
-- Correo electrónico: lightfieldlawless@gmail.com
+- Correo electrónico: LightFieldInstitute@gmail.com
 
 ---
 
