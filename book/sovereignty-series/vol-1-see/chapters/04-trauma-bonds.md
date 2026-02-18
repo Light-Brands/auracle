@@ -158,6 +158,20 @@ The trauma bond deepens when this person was the first to accept something funda
 
 This applies to the queer person whose partner was the first to know them fully. To the immigrant whose partner represented stability. To the survivor of a religious upbringing whose partner was the first to say "you don't have to perform." The first person who sees you has disproportionate power — and a narcissist knows exactly how to exploit that.
 
+### When You Can't Leave Yet
+
+If you're reading this while still in the relationship — while still in the family, still in the community, still living in the house — this section is for you.
+
+Much of the trauma bond literature assumes you will eventually leave. But leaving isn't always possible. Not today. Maybe not this year. Finances, children, immigration status, disability, religion, cultural exile — the reasons are real. They're not excuses. They're constraints that deserve respect, not judgment.
+
+Understanding the neuroscience of your bond doesn't require you to break it right now. It requires you to *see* it. To know that the love you feel after a fight is relief, not connection. To recognize the intermittent reinforcement cycle while it's happening. To feel the dopamine hit and name it: *this is the bond talking, not my heart.*
+
+That seeing is the beginning. It's not the whole journey — but it's the part that no one can take from you, even while you stay.
+
+A person whose body learned endurance from the very beginning — from watching their mother endure, from cultural training that said *aguanta*, from a first experience that taught compliance before choice — has a different relationship to leaving. The body learned, at the very beginning: staying is what you do. Leaving wasn't modeled. Compliance was. The trauma bond isn't just psychological — it's *somatic*. The body's first instruction was to stay and endure. Every narcissistic relationship after activated that same instruction.
+
+Chapter 10 introduces the full "Sovereignty Without Exit" framework — seven tools for reclaiming yourself without requiring yourself to leave. You don't have to wait until you leave to start healing. You can begin here, inside the bond, with your eyes open.
+
 If you can only feel close after conflict, you're in a relief cycle, not a love cycle.
 
 ---

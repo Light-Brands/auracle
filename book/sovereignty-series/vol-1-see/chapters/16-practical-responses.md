@@ -420,7 +420,9 @@ The most disorienting thing you can do to a narcissist isn't to beat them at the
 
 ## When You Must Coexist
 
-Sometimes you can't escape—co-parenting, work, family events, shared communities. Here's how to protect yourself:
+Sometimes you can't escape — co-parenting, work, family events, shared communities. For many readers, this isn't a temporary phase. It's the indefinite reality. If that's you, this section is the tactical arm of the "Sovereignty Without Exit" framework introduced in Chapter 10. Those seven principles — internal boundaries, selective authenticity, the "enough" threshold, nervous system management in real time, the witness position, private naming, and the long game — come to life here, in the scripts and protocols below.
+
+Here's how to protect yourself:
 
 ### The Neutral Presence Protocol
 
@@ -784,74 +786,170 @@ These scripts address the unique dynamics of narcissistic abuse within collectiv
 
 ### When Family Members Pressure You on the Narcissist's Behalf
 
+In individualist systems, flying monkeys are a tactic. In collectivist systems, they're the architecture. When you set a boundary with one person, the calls start within hours — not because anyone was instructed, but because the system self-corrects. Everyone has a role. Everyone enforces.
+
+These scripts use a three-tier system: 🟢 warm but closed (your opening move), 🟡 if they push (holding the line), 🔴 if they escalate (your exit). Choose the tier that matches the pressure you're facing.
+
 **When tía calls to say your mother is crying:**
+
 🟢 "I love Mami. I also have to take care of myself. Both can be true."
+🟡 *If she pushes:* "I understand you're worried. I'm not going to discuss the details, but I'm okay."
+🔴 *If she guilt-escalates:* "Tía, I love you. But this conversation isn't going to change anything. Take care." Then end the call — not rudely, just completely.
+
+*What's happening underneath:* Tía isn't the enemy. She's performing her role in the system — the go-between, the peacemaker. She may genuinely love you. She also may not understand that she's being used. Both things are true. You can honor her care without accepting her assignment.
+
+*What NOT to say:* Don't explain your side of the story. Once you start explaining, you've accepted the frame that you owe an explanation. The boundary was with your mother. The family tribunal wasn't invited.
 
 **When abuela invokes generational debt:**
-"Después de todo lo que tu abuela sufrió..."
+"Después de todo lo que esta familia ha sufrido..."
+
 🟢 "I honor her strength. And the strongest thing I can do is break the cycle she couldn't."
+🟡 *If she escalates to the sacrifice narrative:* "I'm grateful for everything they did. And gratitude doesn't obligate me to accept what isn't right."
+🔴 *If you're flooding and can't hold it:* "This hurts too much to talk about right now. I'll call you later." Then leave. Cry. Shake. Call your person. This one cuts deep. Let it.
+
+*What's happening underneath:* The immigrant sacrifice narrative is real. The suffering was real. The debt is not. Love is not a ledger. Your parents' sacrifice was so you could have a *better life* — and a better life includes the right to safety, even from them.
 
 **When a cousin brings it to social media:**
-🟢 Do not engage publicly. Screenshot for documentation. Text privately if necessary: "I'd appreciate you talking to me directly instead of posting about it."
+
+🟢 Strategic silence. Don't respond. Don't post a counter-quote. The post is designed to pull you back into the arena. Your silence is deafening.
+🟡 *If you must say something privately:* "Saw your post. Hope you're okay." — This disarms without engaging.
+🔴 *If multiple family members pile on:* Mute. Unfollow. Restrict. You don't have to unfriend or block — that creates its own drama in a collectivist system. Just remove yourself from the feed without announcing it. Digital distance without declaring war.
+
+*What's happening underneath:* *Qué dirán* — what will people say — is the governance system. The social media post is the modern version of the gossip network. It works by making your absence from the family narrative public. The move is to not play the game at all.
 
 **When a parent says "Yo soy tu madre" to end the conversation:**
-🟢 "You are. And I'm your daughter. Both of us deserve respect in this conversation."
+
+🟢 "You are. And I'm your child. Both of us deserve respect in this conversation."
+🟡 *If they escalate to "falta de respeto":* "I'm not disrespecting you. I'm telling you how I feel."
+🔴 *If the conversation becomes circular:* "I love you. We're not going to agree on this. I'm going to step out for a moment." Then leave the room — not the house, just the room. Get air. Return when your nervous system settles.
+
+*What's happening underneath:* The "yo soy tu madre" move isn't about respect. It's about rank. It says: *Your perception is subordinate to my authority. I don't have to address what you said because I outrank you.* You can separate *respeto* as a value from *respeto* as a control mechanism. Respectful doesn't mean silent.
 
 **When your mother says "Así son los hombres":**
+
 🟢 "That's what we were taught. But I'm learning something different."
+🟡 *If she frames leaving as weakness:* "Leaving isn't weakness. Staying knowing what I know — that would be betraying myself."
+🔴 *If she escalates to "you'll destroy the family":* "I'm not the one destroying it." Then silence. Let that land. Don't elaborate.
+
+*What's happening underneath:* She may never understand. Her framework doesn't have room for a woman who leaves and is *not* broken. The deeper grief: your mother's mourning at your freedom. You can break a generational chain without calling the chain wrong. Your grandmother may have had no options. Your mother may have had fewer. You have more. Using them isn't a betrayal of their sacrifice — it's the fulfillment of it.
 
 **When the family says "No necesitas terapia, necesitas a Dios":**
+
 🟢 "I believe God gave us healers too. I'm using all the tools available to me."
+🟡 *If they press:* "My faith is mine. My mental health is too."
+🔴 *If they frame therapy as airing dirty laundry:* "What I discuss with my therapist is confidential. It's not gossip. It's healing."
+
+*What NOT to say:* Don't argue against their faith. Don't frame it as either/or. In many families, spirituality is load-bearing — attacking it collapses trust completely. The narcissistic system wants you to believe therapy and faith are incompatible because therapy threatens the family secret. It doesn't threaten God. It threatens silence.
 
 **When they say you've changed:**
+
 🟢 "I have. I'm becoming who I was before I learned to disappear."
+🟡 *If they push:* "I'm still me. I just know myself better now."
+🔴 *If they pathologize your growth:* "I'm not broken. I'm waking up."
+
+*What's happening underneath:* In a family system, your healing looks like a problem — because the system was designed around your wound. When you stop performing, the system glitches. Their discomfort is not your emergency.
 
 ### When the Community Says You Can't Do Better
 
 **When your mother agrees with the narcissist:**
 "Ese hombre te quiere. ¿Qué más quieres?" (That man loves you. What more do you want?)
+
 🟢 "Quiero lo que merezco, Mami. No solo lo que puedo aguantar." (I want what I deserve, Mom. Not just what I can endure.)
+🟡 *If she frames leaving as weakness:* "Leaving isn't giving up. Staying in a situation where I'm shrinking — that's the real loss."
+🔴 *If she invokes marianismo:* "Abuela endured because she had no options. I have options. That's what her sacrifice gave me."
+
+*What's happening underneath:* She may be offering this as the best wisdom she has. She isn't dismissing you — she's inviting you into a generational agreement: *we endure.* You can honor her without accepting the contract.
 
 **When the Jewish family agrees with the narcissist:**
 "He comes from a good family. He provides. After everything we went through to give you this life?"
+
 🟢 "I'm grateful for everything. And I deserve to be treated with respect, not just provided for."
+🟡 *If they invoke the family name:* "Our family name will survive. My spirit might not if I stay."
 
 **When the congregation agrees with the narcissist:**
 "God blessed you with this marriage. You need to honor your vow."
+
 🟢 "I'm honoring my life. I believe God wants that too."
+🟡 *If the pastor or rabbi presses:* "I appreciate your concern. I'm seeking guidance from someone who understands my full situation." (You don't owe them the details.)
+🔴 *If they use scripture as a weapon:* "I've read those passages. I've also read the ones about love, kindness, and not provoking your family to despair. I'm choosing to honor all of it."
+
+*What NOT to say:* Don't debate theology. You won't win — not because you're wrong, but because the institution's investment is in the marriage surviving, not in you surviving the marriage.
 
 **When someone invokes historical survival:**
 "Your grandparents survived [the camps / the crossing / persecution] so you could have this life. And you're going to throw it away?"
+
 🟢 "They survived so I could be free. That includes free to choose safety."
+🟡 *If they press the debt narrative:* "Their story is sacred to me. And it includes my right to survive this."
 
 **When the community agrees with the narcissist:**
 "Do you know how hard it is to find someone in this community?"
+
 🟢 "I'd rather be alone and safe than partnered and disappearing."
+🟡 *If they frame singleness as failure:* "Being alone is a season. Losing myself is a catastrophe."
 
 **When your own fear agrees with the narcissist:**
 *What if they're right? What if no one else will want me?*
+
 Hold this: "The voice that says I can't do better is the voice that needs me to stay small. It doesn't belong to me. It belongs to the system."
+
+And this: The scarcity was manufactured. They convinced you the world outside them was empty. It isn't. But you have to step outside the system to see that — and that's exactly what they're preventing.
 
 ### Scripts for Identity-Specific Dynamics
 
 **When they threaten to out you:**
+
 🟢 "My identity is mine. Using it as a threat tells me everything I need to know about this relationship."
+🟡 *If they frame it as honesty:* "There's a difference between honesty and weaponizing someone's vulnerability. You know which this is."
+
+*What's happening underneath:* This is the most potent form of identity leverage. They're not holding a secret — they're holding *your safety.* Make a safety plan before confrontation. Know who you'd call if they followed through. Document the threat. This isn't drama — it's self-protection.
 
 **When they weaponize their acceptance of you:**
 "I accepted you when no one else would. You owe me."
-🟢 "Acceptance with conditions isn't acceptance. It's a transaction."
 
-**When the pastor or rabbi reinforces the narcissist's position:**
-🟢 "I appreciate your concern. I'm seeking guidance from someone who understands my full situation." (You don't owe them the details.)
+🟢 "Acceptance with conditions isn't acceptance. It's a transaction."
+🟡 *If they escalate:* "I'm grateful you were there. That doesn't mean I owe you my silence about how you treat me now."
 
 **When someone says "men don't get abused":**
+
 🟢 "Manipulation targets nervous systems, not genders. Mine was targeted."
+🟡 *If they mock or dismiss:* You don't have to convince them. Some people cannot hold the reality that men are vulnerable too — because it threatens their entire framework. Your job isn't to educate. Your job is to heal.
+
+**When "shalom bayit" is invoked to silence you:**
+
+🟢 "There's no peace in a home where one person is disappearing. True *shalom bayit* includes safety."
+🟡 *If they press:* "Peace at my expense isn't peace. It's a performance."
 
 **When "shalom bayit" is invoked to silence you:**
 🟢 "There's no peace in a home where one person is disappearing. True shalom bayit includes safety."
 
 **When the family invokes historical survival as debt:**
 🟢 "Our family's survival story is sacred to me. And it includes my right to survive this."
+
+### Mantras for Collectivist Recovery
+
+Hold these when the cultural guilt hits — when the entire weight of family loyalty, respect for elders, and *what will people say* presses down on your chest:
+
+**On loyalty:**
+- "Loyalty to my family does not require disloyalty to myself."
+- "I can honor where I come from without letting it destroy where I'm going."
+
+**On endurance:**
+- "*Aguantar* was survival. *Elegir* is sovereignty." (Enduring was survival. Choosing is sovereignty.)
+- "The chain didn't break because I was weak. It broke because I was the first one strong enough."
+
+**On guilt:**
+- "Guilt is the system's alarm that I've stepped outside the pattern. It means I'm moving."
+- "Their disappointment is not proof that I'm wrong. It's proof that I've changed."
+
+**On belonging:**
+- "I can belong to my culture without belonging to the dysfunction."
+- "I didn't leave my family. I left a role that was killing me."
+
+**On the ones who came before:**
+- "They endured because they had no choice. I honor them by using mine."
+- "They crossed the desert so I could be free. That includes free from this."
+
+---
 
 ### When the Environment Tells You It's Not Safe
 

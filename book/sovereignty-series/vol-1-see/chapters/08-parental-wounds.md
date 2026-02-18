@@ -320,6 +320,32 @@ Some narcissistic parents don't reject your identity outright. They do something
 
 The acceptance is real. And it's weaponized. You're expected to be grateful that they didn't reject you — which means you can never ask for more. You got tolerance. Asking for actual *embrace* is greedy.
 
+And then there's the version that never reaches disclosure at all. The environment pre-rejects you — through casual slurs, through laughter at people like you, through the joke that tells you everything you need to know about what would happen if you spoke. You walk in ready to share your truth. You hear what the room does with truths like yours. You walk out with it still locked inside. Not because anyone rejected you. Because the rejection happened before you opened your mouth.
+
+> **Field Note:** I'm bisexual. The day I went to tell my mother, her boyfriend was in the living room throwing around the word "Dyke" — talking about two women he'd seen together. My mother agreed. She laughed. The embarrassment flooded in and the words died before they reached my mouth. I walked out with the truth still locked inside.
+>
+> I still haven't told her. What's the point. Sharing leaves me vulnerable for ridicule. So I get quiet around certain people who dig for weaknesses to make fun of me about.
+>
+> The quiet isn't shame. It's intelligence. I read the room. I assessed the cost. And I decided my truth was worth more than their approval. I kept it for myself — not because I'm ashamed of it, but because I refuse to hand it to people who would use it as a punchline.
+
+### The Modeling Pattern
+
+Before she ever entered her own abusive relationship, she watched her mother model what a woman does when a man hurts her: you beg him to stay.
+
+Not one boyfriend — multiple. Not one instance — a pattern. The cheating was known. The abuse was known. And the response was to beg.
+
+What this taught her nervous system before she had words for it:
+
+- Men hurt you. That's what they do.
+- When they hurt you, you ask them not to leave. Not the other way around.
+- Your pain is not a reason for them to go. Your pain is a reason for *you* to try harder.
+- The woman's job is to hold the relationship together regardless of what the man does to it.
+- Leaving is not something women do. Women endure.
+
+This wasn't spoken as wisdom. It was demonstrated as survival. The mother didn't *tell* her to endure. She *showed* her. Over and over. And the daughter watched. And the daughter learned. And the daughter went on to stay too long in her own relationships — because staying was the only template she had.
+
+Three generations visible now. The grandmother endured. The mother begged. The daughter stayed. The question this book asks is: *how does it stop here?*
+
 ---
 
 ## The Father Wound: Parental Narcissism
@@ -486,6 +512,10 @@ The ADHD doesn't create the wound. But it makes the wound harder to outrun. The 
 **The truth:** Punctuality is not a moral virtue. Being five minutes late does not make you your father's disappointment or your mother's inconvenience. Your worth is not determined by a clock.
 
 **The work:** Separating time from shame. Learning that "running behind" is logistics, not identity. Teaching the nervous system that lateness is survivable—uncomfortable, maybe, but survivable.
+
+Years later, he told his father about the crash. About the ice and the panic and the way his body chose death over lateness. His father couldn't believe he was still upset about the two points. "That was years ago," he said. "You're still carrying that?"
+
+The original incident teaches: *you're not enough.* The dismissal years later teaches: *your memory of not being enough doesn't matter either.* The wound and the minimization of the wound are the same pattern. The near-death didn't register as evidence — because in the narcissistic parent's world, their impact on you is never as significant as you claim.
 
 He is not chasing two points anymore. He is not waiting in a hallway. He is an adult, and he gets to decide what lateness means.
 

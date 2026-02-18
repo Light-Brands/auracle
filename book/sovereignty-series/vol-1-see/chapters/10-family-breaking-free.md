@@ -378,13 +378,69 @@ For religious communities: leaving may mean not just social exile but *spiritual
 
 And when these layers compound — a Jewrican family where Cuban warmth and Jewish obligation intertwine, an immigrant family embedded in a religious congregation, a queer person whose only community is also deeply cultural — leaving doesn't just cost you one world. It costs you every world you belong to, all at once.
 
+### The Access Gate
+
+Sometimes the narcissist doesn't even have to be in the room. They just have to be *between* you and the person you love. They become the bottleneck. Every relationship in the family runs through them.
+
+> **Field Note:** Three women. Three bottlenecks. One system.
+>
+> I tolerate my mother's boyfriend — the one who laminated her photo and calls her "Employee of the Month" — to see my mother. I can see what he's doing. I can name it privately. But I can't confront him without risking access to her.
+>
+> My mother tolerates my sister's wrath to see her grandchildren. She endures the guilt trips, the accusations, the rage — because the alternative is not seeing the kids.
+>
+> And the cruelest layer: the grandchildren — the people my mother is enduring all this for — are being turned against her. My sister is poisoning them. So my mother is paying the toll and the bridge leads nowhere.
+>
+> Three women, each tolerating a narcissist to reach someone they love. None of us can confront the person in our way without losing the person on the other side. The narcissist doesn't have to control the relationship. They just have to control the *access*.
+
+**The pattern to recognize:** If you're tolerating someone not because you want to, but because they stand between you and someone you love — you're inside an access gate. The narcissist is the bottleneck. Your love for the person on the other side is the lock.
+
+### The Threat to Leave
+
+The threat to leave is the inverse of the narcissist who won't let *you* leave. Both are about control. Both say: *Your stability depends on my decision to stay. I could revoke it at any time. Be grateful. Behave.*
+
+When this happens in front of children, it weaponizes them — the kids become the audience, the stakes, and the emotional hostages. The parent who threatens to leave in front of children is teaching those children: love is conditional. People you depend on can disappear. Your behavior determines whether they stay.
+
 ---
 
-## Sovereignty Within Community
+## Sovereignty Without Exit
 
-For readers who can't or won't go no-contact because the cost is too high — this isn't failure. This is strategy for a different battlefield.
+For readers who can't or won't go no-contact because the cost is too high — this isn't failure. This is sovereignty on a different battlefield.
 
-**The Selective Sharing Protocol:**
+The book's thesis is sovereignty — your right to your own perception, your own body, your own life. But sovereignty has been implicitly defined as *leaving*. For readers who can't leave, sovereignty must be redefined:
+
+**Sovereignty is not requiring the other person to change — or requiring yourself to leave — in order to reclaim your own perception, your own body, and your own life.**
+
+This means:
+
+1. **Internal boundaries** when external ones aren't possible. You don't have to leave the room, but you can leave the conversation emotionally. You can be physically present and psychologically sovereign. The dinner is two hours. Your interior is yours for all of them.
+
+2. **Selective authenticity.** Deciding what is yours to share and what you protect. Not lying. Choosing what's sacred and what's strategic. You don't owe anyone your full truth. You owe yourself the right to keep it.
+
+3. **The "enough" threshold.** Identifying the minimum contact and engagement necessary — and not giving more. Not punitive withdrawal, but energy conservation. You show up for Sunday dinner. You don't show up for the three-hour phone call afterward. You send the birthday text. You don't send the emotional essay they'll weaponize.
+
+4. **Nervous system management in real time.** Not healing in retreat but healing in the field. Grounding during the dinner. Regulating during the phone call. The somatic tools from this book aren't for after — they're for *during*. Feet on the floor while she talks. Three breaths before you respond. The 3-3-3 rule at the table when his voice rises.
+
+5. **The witness position.** Learning to observe the narcissistic behavior as pattern rather than personal attack. "There it is again" instead of "Why does this keep happening to me?" When you see the pattern, you stop being inside it. You're watching it. That distance — even one inch of it — is sovereignty.
+
+6. **Private naming.** Even if you can never say it out loud, knowing *what this is* changes everything. This book is this tool. You may never confront your sister. But you know what she's doing now. You can see the triangulation while it's happening. You can feel the guilt trip land and name it before it hooks you. That knowledge is sovereignty — even if it's silent.
+
+7. **The long game.** Some people can't leave today. This book gives you tools for today AND plants seeds for later. The reader who can't leave this year may be able to in five years. The book doesn't expire. And neither does your right to freedom.
+
+### The Quiet Release
+
+There is a version of sovereignty that is not loud. Not dramatic. Not a confrontation or a letter or a slammed door.
+
+It looks like this: you simply stop being the one who tries.
+
+No announcement. No wrath to endure. Just... less. Fewer calls. Fewer attempts to bridge a gap they never meet you halfway across. The relationship doesn't end with a door slamming. It ends with a door quietly closing.
+
+And the result — for some people, for some relationships — is not pain. It's *relief*.
+
+> **Field Note:** I stopped making the effort with my sister. Not a dramatic break. Not a conversation. I just... stopped being the one who reached. The fifteen-minute phone calls that knocked me out for three hours — I stopped volunteering for them. The relationship still technically exists. I could still call. She could still call. But the energy I was spending — I just stopped offering it. And for me, it was really freeing.
+
+This is what many readers will actually do. Not the dramatic exit. Not the brave confrontation. The quiet withdrawal. The slow exhale. And this book names it as valid — not as cowardice, not as avoidance, but as a form of self-protection that doesn't require anyone else's permission or participation.
+
+### The Selective Sharing Protocol
 
 You remain in the system. You show up. You participate. But you control what parts of yourself are accessible:
 

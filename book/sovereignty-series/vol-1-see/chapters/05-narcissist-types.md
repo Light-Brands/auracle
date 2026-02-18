@@ -452,9 +452,11 @@ Then slowly, you realize there's no room for you. Conversations are monologues. 
 
 Your body knows before your mind does. You feel smaller around them. Your voice gets quieter. You start sentences and don't finish them. You look to them before forming opinions. You've become an audience member in your own relationship.
 
-> **Field Note:** My ex had this habit I couldn't name for years. He'd pat my head. Tousle my hair. Rest his hand on top of my head while we talked, like I was a golden retriever who'd done a good trick. In the moment, it felt almost affectionate—he was touching me, after all. But my body knew something my mind didn't. I'd feel myself shrink. My shoulders would curl inward. I was being positioned: he was literally above me, looking down, the adult in the room.
+> **Field Note:** A friend had this habit I couldn't name for years. He'd pat my head. Tousle my hair. Rest his hand on top of my head while we talked, like I was a golden retriever who'd done a good trick. In the moment, it felt almost affectionate — he was touching me, after all. But my body knew something my mind didn't. I'd feel myself shrink. My shoulders would curl inward. I was being positioned: he was literally above me, looking down, the adult in the room.
 >
-> It wasn't until much later that I understood what those gestures were doing. They established hierarchy through the body—no words needed. Every head pat said: *I'm the big one here. You're the little one.* My nervous system registered the power imbalance long before my conscious mind could name it. When I finally stopped letting him touch my head, he was furious. "It's just affection," he said. But we both knew it wasn't.
+> The same friend told me I shouldn't wear white at my own wedding — because I'm "so colorful." When I objected: "You're too sensitive." The head pat and the wedding dress were the same gesture — positioning me, controlling my presentation, dismissing my reaction. He wasn't a romantic partner. He was a friend. The playbook doesn't require a relationship. It just requires someone willing to shrink you.
+>
+> It wasn't until much later that I understood what those gestures were doing. They established hierarchy through the body — no words needed. Every head pat said: *I'm the big one here. You're the little one.* My nervous system registered the power imbalance long before my conscious mind could name it. When I finally stopped letting him touch my head, he was furious. "It's just affection," he said. But we both knew it wasn't.
 
 **The tell:** Their superiority is on display. They don't hide it, they advertise it. If you feel like you're constantly in the presence of someone who thinks they're better than everyone, trust that perception.
 
@@ -512,6 +514,16 @@ Your body starts to feel heavy around them. Tired. You dread their calls because
 You become a caretaker who forgot they have needs too. You learn that your job is to manage others' emotions. Your own feelings become inconvenient, there's no room for them. You feel selfish for wanting anything.
 
 Healing requires learning that you're allowed to have needs. That someone else's pain doesn't obligate you to abandon yourself. That you can have compassion without losing yourself in it.
+
+**When it hides inside humor:**
+
+Some covert narcissists operate through "playful" control — the joke that isn't a joke, the nickname that establishes hierarchy, the prop that turns a person into a display.
+
+> **Field Note:** My mother's boyfriend calls her "Employee of the Month." He laminated a photo of her and put it up in the kitchen — like a workplace award on the wall. Everyone laughs. It's "just a joke." But look at what the joke does: it turns her home into his workplace. She is the employee. He is the manager evaluating her performance. In the *kitchen* — the room that in our culture is the woman's domain, her territory, her place of authority. He colonized it. He mounted a trophy.
+>
+> You can't object without being too sensitive. You can't name it without being the one who ruined the joke. And the lamination is permanent — he didn't tape up a piece of paper. He invested effort into making his joke into a *fixture*.
+>
+> That's the covert playbook. The control is dressed as humor so you can't fight it without looking ridiculous. And everyone who sees it and laughs participates in the humiliation without knowing it.
 
 ---
 
@@ -624,7 +636,11 @@ You become hyper-aware of your body. You feel evaluated constantly. You notice t
 
 Your relationship to your own body becomes fraught. You're never attractive enough, fit enough, young enough. Your worth feels tied to how you look, not who you are.
 
-> **Field Note:** I dated a bodybuilder. We lifted together. One day at lunch, he looked at my plate and said, "That's a lot of tuna for a little girl." Seven words. Said casually, almost playfully. But the message landed: *I'm watching what you eat. I decide what's appropriate for your body. You're little—I'm the authority here.* I put down my fork. For months after, I felt his eyes on me whenever I ate. The comment wasn't about tuna. It was about control—wrapped in the language of health and fitness, delivered with a smile.
+> **Field Note:** I dated a bodybuilder. We lifted together. One day at lunch, he looked at my plate and said, "That's a lot of tuna for a little girl." Seven words. Said casually, almost playfully. But the message landed: *I'm watching what you eat. I decide what's appropriate for your body. You're little — I'm the authority here.* I put down my fork. For months after, I felt his eyes on me whenever I ate. The comment wasn't about tuna. It was about control — wrapped in the language of health and fitness, delivered with a smile.
+>
+> And when I wasn't with him — when the surveillance lifted — I'd binge. Five protein bars in one sitting. Not indulgence. Rebellion. My body screaming: *I exist, I'm hungry, you can't take this from me.* Then I'd come back and he'd notice the bloating, the weight. The surveillance extended past the shared meal. He controlled what I ate when he was present. My body's response when he was absent became evidence against me when I returned. Restriction doesn't create discipline. It creates its own opposite.
+
+In cultures where food is love, identity, and family ritual — and in both Hispanic and Jewish cultures, food is *all three* — controlling someone's eating is controlling their body, their autonomy, and their connection to their own heritage simultaneously. Having your nourishment weaponized means your comfort, your culture on a plate, all become contested territory.
 
 **The specific wound:** Your body becomes an object rather than a home. Healing requires rebuilding a loving relationship with your physical self.
 

@@ -325,6 +325,22 @@ This section names these patterns briefly. Deeper exploration and healing practi
 
 ---
 
+### The First Experience Sets the Template
+
+For some readers, the patterns in this section trace back to a single origin: the first sexual experience was not theirs to choose.
+
+Not awkward. Not clumsy. Coerced.
+
+The nervous system doesn't average your experiences. It *weights* the first one. The first sexual experience becomes the body's definition — its reference point for what sex means, what it feels like, what your role in it is. When that first experience is consensual, maybe awkward but *chosen*, the body's baseline is: *I am a participant. I have a say.* When the first experience is coerced, the body's baseline is: *I am acted upon. My willingness is not relevant.*
+
+Every subsequent encounter is measured against that template. A partner who asks "is this okay?" feels foreign — not comforting, but confusing. Because the body's first lesson was: nobody asks. A partner who pushes past hesitation feels *normal* — not because it's acceptable, but because it matches the template.
+
+The field notes that follow aren't describing a gradual erosion. They're describing a body living inside a pattern that was installed before it had any other reference point. The compliance, the freezing, the "okay" without meaning yes — this is a body following the instructions it received the very first time.
+
+If this resonates, know this: your first experience does not get the final word. Your body can learn a new definition. It already started — the moment you recognized the pattern.
+
+---
+
 ### Field Note: The Moment You Prioritized Their Comfort Over Yours
 
 You're young. Someone wants something you don't want to give.

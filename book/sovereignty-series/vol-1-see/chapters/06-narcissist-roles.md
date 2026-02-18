@@ -84,7 +84,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Bracing before you show them anything. Holding your breath waiting for the verdict. A constant low-level tension of being evaluated. Your inner critic sounds exactly like them.
 
-> **Field Note:** I stopped cooking when he was home. Every meal I made got the inspection: the seasoning was off, the vegetables overcooked, the presentation sloppy. "I'm just trying to help you improve." I'd been feeding myself for a decade before I met him. But slowly his voice replaced my own judgment. I'd season a dish and hear him before I tasted it. Years after leaving, I still flinch when someone watches me cook. His evaluation lives in my kitchen long after he left my life.
+> **Field Note:** I stopped cooking when he was home. Every meal I made got the inspection: the seasoning was off, the vegetables overcooked, the presentation sloppy. "I'm just trying to help you improve." I'd been feeding myself for a decade before I met him. But slowly his voice replaced my own judgment. I'd season a dish and hear him before I tasted it. Years after leaving, I still flinch when someone watches me cook. For years after, I was afraid and anxious to cook for a man — any man, not just him. The wound outlived the relationship. It followed me into every kitchen. His evaluation lives in my kitchen long after he left my life.
 
 **The liberation:** Their standards are arbitrary. You don't need to pass their tests. Your worth doesn't require their approval rating.
 
@@ -102,7 +102,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Exhaustion that never lifts. Resentment that you feel guilty about. The weight of carrying two lives on shoulders that were only built for one.
 
-> **Field Note:** He couldn't figure out the laundry. Couldn't remember to pay bills. Couldn't manage to buy groceries or schedule his own appointments. "I'm just not good at that stuff." But I'd seen his work presentations—meticulous, organized, impressive. He ran complex projects at the office. At home, he became helpless. I was doing everything for two adults while he played video games, because "domestic stuff just isn't my strength." His incompetence was selective. It only showed up when the task was something he didn't want to do.
+> **Field Note:** She couldn't figure out the laundry. Couldn't remember to pay bills. Couldn't manage to buy groceries or schedule her own appointments. "I'm just not good at that stuff." But I'd seen her work presentations—meticulous, organized, impressive. She ran complex projects at the office. At home, she became helpless. I was doing everything for two adults while she scrolled her phone, because "domestic stuff just isn't my strength." Her incompetence was selective. It only showed up when the task was something she didn't want to do.
 
 **The liberation:** They're not actually helpless; they're unwilling. There's a difference. You can stop compensating for someone who's capable but choosing not to try.
 
@@ -138,7 +138,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** A drug-like rush. Addictive excitement. Later, withdrawal symptoms when the intensity fades: anxiety, craving, desperation to get the feeling back.
 
-> **Field Note:** Three weeks in, he said I was his soulmate. He'd never felt this way. We were texting constantly—hundreds of messages a day. He remembered everything I mentioned and surprised me with gifts that showed he'd been listening. I felt *seen* in a way I'd never experienced. By month two, the texts slowed. By month three, he was distant, irritated by the same things he'd once found charming. I spent the next year trying to get back to those first three weeks. I didn't realize until later: those weeks weren't a preview of the relationship. They were the bait.
+> **Field Note:** Three weeks in, they said I was their soulmate. They'd never felt this way. We were texting constantly—hundreds of messages a day. They remembered everything I mentioned and surprised me with gifts that showed they'd been listening. I felt *seen* in a way I'd never experienced. By month two, the texts slowed. By month three, they were distant, irritated by the same things they'd once found charming. I spent the next year trying to get back to those first three weeks. I didn't realize until later: those weeks weren't a preview of the relationship. They were the bait.
 
 **The liberation:** Intensity is not intimacy. Real connection builds slowly. The rush you felt was manufactured, not matched.
 
@@ -156,7 +156,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Anxiety that won't resolve. A hole in your chest. Compulsive checking—for texts, for signs of warmth, for any indication you're back in favor. Your nervous system on high alert.
 
-> **Field Note:** I learned to read his silences like weather patterns. The short responses. The delayed texts. The way he'd look at his phone and not answer when I was right there. I never knew what triggered the withdrawals. Sometimes it was something I said. Sometimes it was nothing at all. I'd replay conversations, searching for my mistake. I'd apologize for things I hadn't done, just to end the ice age. When warmth finally returned, I was so relieved I'd forget to be angry. Until the next withdrawal. The cycle trained me to need his approval like oxygen.
+> **Field Note:** I learned to read her silences like weather patterns. The short responses. The delayed texts. The way she'd look at her phone and not answer when I was right there. I never knew what triggered the withdrawals. Sometimes it was something I said. Sometimes it was nothing at all. I'd replay conversations, searching for my mistake. I'd apologize for things I hadn't done, just to end the ice age. When warmth finally returned, I was so relieved I'd forget to be angry. Until the next withdrawal. The cycle trained me to need her approval like oxygen.
 
 **The liberation:** Their withdrawal is manipulation, not mystery. You don't have to solve for their silence. Let them sit in it while you go live your life.
 
