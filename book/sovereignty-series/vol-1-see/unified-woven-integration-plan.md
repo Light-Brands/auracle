@@ -59,6 +59,9 @@ These carry the author's name and voice. They are the anchor points that make ev
 | **"Your neck is so small I could snap it with one hand"** — threat disguised as observation | Ch 3: Threats/Intimidation decoder; Ch 11: Escalation | Personal. Violence wrapped in the language of intimacy. The threat that doesn't sound like a threat. |
 | **"You're too sensitive"** — the universal dismissal, culturally amplified | Ch 3: Gaslighting decoder (Card 1); Cultural amplifier sections | Personal. Double-weaponized: machismo says sensitivity is weakness + narcissist says your perception is wrong. |
 | **Food control and criticism** — what you eat, how much, when, whether it's acceptable | Ch 3: Decoder Card 9 expansion; Ch 5: Enmeshment section | Personal. In Jewrican context, food carries two cultures' emotional vocabularies — weaponizing it attacks body, autonomy, and heritage simultaneously. |
+| **The coming out that never happened** — bisexual, went to tell mom, boyfriend threw around "Dyke," mom laughed and agreed, got embarrassed, said nothing. Still hasn't told her. | Ch 7: LGBTQ+ field note (replaces/supplements "Open Secret" composite); Ch 8: "When Your Identity Becomes Their Wound"; Ch 9: "Acceptance Must Be Earned" | Personal. The most powerful LGBTQ+ material in the book because the coming out *didn't happen*. The silence is the story. Pre-rejection through casual cruelty. Strategic quiet as self-preservation. |
+| **The sexuality field notes** — "The Moment You Prioritized Their Comfort Over Yours" (agreeing without wanting to, body negotiable for peace), "The Story That Wasn't Yours" (private truth weaponized, desire guarded, silence safer than truth), "The Moment You Gave Up" (drinking, he says it's already happening, freeze, "okay" without meaning yes, something quiet breaks) | Ch 9: Childhood Patterns, lines 294-334 | Personal. All three confirmed. Written in second person for protective distance but lived in first person. These are the origin story for the pattern that runs through everything — vulnerability is dangerous, sharing gets weaponized, silence is safer. The body learned young that it was negotiable. The coming-out silence, the strategic quiet, the "getting quiet around certain people" — it all starts here. |
+| **The first sexual experience — coerced** — "Pretty rough." First introduction to sex was someone else's will overriding hers. The template the body built everything on. | Ch 9: Childhood Patterns (precedes the three sexuality field notes); Ch 4: Trauma Bonds; Ch 8: Parental Wounds (context — the home environment that preceded this) | Personal. The foundation under the field notes. Changes the reading of every sexuality passage: not gradual erosion but a body whose first definition of sex was coercion. The field notes describe a body following instructions it received the very first time. Handling note: follow the author's lead — "pretty rough" and "coerced," not graphic. The power is in naming without describing. |
 
 ### Anonymous Composites — Other Communities' Experiences
 
@@ -67,7 +70,7 @@ These protect sources and extend reach beyond the author's direct experience:
 | Example/Field Note | Location in Plan | Why Anonymous |
 |---|---|---|
 | **LGBTQ+ first love** — "She was the first person I ever loved as myself" | Ch 11: Romantic Manipulation | Not the author's lived experience. Composite protects queer survivors. |
-| **Gay child coming out** — outed by narcissistic parent as control | Ch 11: Identity as leverage | Community-sourced. Anonymize. |
+| **Gay child coming out** — outed by narcissistic parent as control | Ch 11: Identity as leverage | Community-sourced. Anonymize. **Note:** The "Open Secret" field note in Ch 7 (coming out at sixteen) remains a composite, but is now supplemented by the author's own bisexual coming-out story — the coming out that *never happened* because the environment pre-rejected her. The composite shows what happens when you come out. The author's story shows what happens when you *can't*. Both are needed. |
 | **Immigrant debt** — "He has papers. He has a job. ¿Qué más quieres?" | Ch 10: Immigrant Debt field note | Composite from multiple stories. |
 | **Male survivor** — "Men don't get abused" | Ch 11: Male survivor integration | Not the author's lived experience. |
 | **Religious community** — pastor as flying monkey | Ch 11: Religious marriage cage | Can draw on personal knowledge but frame as composite to protect specific congregations. |
@@ -88,10 +91,14 @@ These are real, not reconstructed. They carry the weight of specificity that com
 - **The nail polish** — a specific color becoming an argument
 - **The body scan before leaving the house** — the anticipatory inventory of what might trigger a scene
 - **The relief after a normal dinner** — shoulders dropping, breath releasing, the realization that relief after normalcy is itself a diagnostic
+- **The coming out that never happened** — bisexual, walked in ready to tell her mother, the boyfriend was throwing around "Dyke" talking about two women together, the mother agreeing and laughing, the embarrassment flooding in, the words dying before they reached her mouth, walking out with the truth still locked inside. And the aftermath: still hasn't told her. "What's the point. Sharing leaves me vulnerable for ridicule." The strategic quiet — getting silent around people who dig for weaknesses. The room that pre-rejected her before she spoke. The boyfriend who became a gatekeeper without knowing there was a gate. The mother's laughter that was the lock.
 - **Going back multiple times** — the specific number doesn't matter, but the pattern does: each attempt, bigger system response, each return a little more broken, until the cost equation finally flips
 - **"Your neck is so small and delicate... I could snap it"** — Both parts happened. First the marveling — repeated, almost admiring, turning the observation over like he was noticing something beautiful about how fragile you are. And then the explicit part too. The manuscript (Ch 11, line 505) has the second half ("I could snap it with one hand") but not the first. The real version is worse than either half alone because the admiration *preceded* the threat. He appreciated your fragility before he named what he could do with it. The tenderness and the violence were the same gesture. This needs both halves in the book — the marveling followed by the snap — because that's how it actually works: the compliment is the setup, the threat is the punchline, and afterward you can't separate the two. Every time someone admires something about your body, your neck remembers. It belongs in the decoder cards on threats/intimidation (Ch 3) and in the body-level responses section.
 - **"You're too sensitive"** — the universal dismissal, but in this context it does double work. In machismo culture, sensitivity is weakness. In the narcissistic system, your perception is always wrong. When the culture and the narcissist agree that your feelings are the problem, you have nowhere to stand. "Too sensitive" isn't feedback. It's a silencing tool. It teaches you to distrust every feeling until you can't feel anything at all. This belongs in the gaslighting decoder (Ch 3, Card 1) and in the cultural amplifier sections — because "too sensitive" in a culture that prizes strength/endurance isn't just one person's opinion. It's the whole system nodding along.
 - **Food control and criticism** — what you eat, how much, when, whether it's "good enough." In cultures where food is love, identity, and family ritual — and in both Hispanic and Jewish cultures, food is *all three* — controlling someone's eating is controlling their body, their autonomy, and their connection to their own heritage simultaneously. Criticizing what she eats at the family table. Monitoring portions. Making comments about her body in relation to food. This is body ownership disguised as health concern, wrapped in cultural authority ("you should eat like this," "that's not how we eat"). In a Jewrican context, food carries the weight of two cultures' entire emotional vocabularies — and having it weaponized means your nourishment, your comfort, your culture on a plate, all become contested territory. This belongs alongside appearance control (Ch 3, Decoder Card 9 expansion) and in the enmeshment section (Ch 5 addition) — because food control is body control is identity control.
+
+- **The sexuality field notes — all three moments (Ch 9, lines 294-334):** The moment you agreed without wanting to — someone wanted something, the risk of disappointing them was heavier than your own discomfort, you said yes without meaning it, and your body learned "I am negotiable if it keeps the peace." The private truth weaponized — he told people what you shared because you trusted him, and desire became guarded, silence became safer than truth. The moment you gave up — drinking, he said it was already happening, the freeze that wasn't desire but resignation, "okay" without meaning yes, something quiet breaking that you couldn't name afterward. These three moments are the *origin code*. Everything else — the strategic quiet around certain people, the coming out that never happened, the silence as self-preservation, the body that learned to comply before it learned to want — traces back to these lessons. The body learned young: your comfort is negotiable, your truth will be used against you, your "no" won't be heard so stop saying it. Written in second person ("You're young. Someone wants something you don't want to give.") because first person may still be too close. The distance of "you" is itself a remembered detail — it's the dissociation on the page, the same leaving-your-body that happened in the moments themselves.
+- **The first sexual experience — coerced.** "Pretty rough." The body's very first introduction to sex was someone else's will overriding hers. Not awkward. Not clumsy. *Coerced.* This is the foundation under the field notes — the template the nervous system built everything on. The first definition the body received: sex is something that happens to you. Your willingness is not required. Your participation is not the point. Every subsequent encounter — the compliance, the freezing, the "okay" without meaning yes — was the body following the instructions it received the first time. The first experience didn't just set a pattern. It set the *baseline*. A body that has never known consensual sex as its starting point doesn't know what it's missing — it knows what it's surviving.
 
 These details are what make the difference between a book about narcissism and a book that makes someone set it down, stare at the wall, and whisper *"that happened to me too."*
 
@@ -131,11 +138,50 @@ The following passages are already in the book and read as lived experience — 
 
 14. **UNADDRESSED. Ch 6, line 237 — "After he screamed at me in front of our friends."** *(Not confirmed or denied. Given the family system match, likely hers.)*
 
+18. **CONFIRMED. Ch 9, lines 294-334 — The sexuality field notes.** All three: "The Moment You Prioritized Their Comfort Over Yours" (agreeing without wanting to, learning "my body is negotiable if it keeps the peace"), "The Story That Wasn't Yours" (private truth shared in trust and then weaponized, desire becoming guarded, silence safer than truth), and "The Moment You Gave Up" (drinking, he says it's already happening, freezing, saying "okay" without meaning yes, something quiet breaking). *All confirmed as personal experience.* These are not composites. These are specific moments, written in second person for distance but lived in first person. The second-person voice may stay — it's protective, and some truths need the slight remove of "you" to be bearable on the page — but the integration pass should flag these as first-person-verified material. The weight of these field notes comes from their specificity: "My body is negotiable if it keeps the peace" is not a therapeutic insight. It's a lesson learned by a body that learned it young. "I lost something, and I don't know how to name it" is not a clinical observation. It's a memory. These connect directly to the coming-out story — the same pattern: vulnerability is dangerous, sharing gets weaponized, silence is safer. The sexuality field notes show where that pattern *started*. The coming-out-that-never-happened shows where it still lives.
+
+    **Critical additional context:** The author's first sexual experience was coerced. This reframes every field note in this section. "My body is negotiable if it keeps the peace" isn't a pattern she *developed* — it's the lesson her body received at the very beginning. The first experience — the one that sets the template, the one the nervous system uses as its baseline for what sex *is* — was not consensual. That means her body's first definition of sex was *something that happens to you*. Not something you choose. Not something you want. Something you endure. The field notes aren't describing a gradual erosion. They're describing a body that was never given a starting point of safety to erode *from*. The template was coercion. Everything after was the body trying to find consent in a landscape where it had never been modeled.
+
 **UNADDRESSED — Not yet confirmed or denied:**
 
 15. **Ch 12, line 102 — The brunch friend.** Not confirmed.
 16. **Ch 12, line 197 — The spiritual community doubt.** Not confirmed.
-17. **Ch 9, lines 294-334 — The sexuality field notes.** Not confirmed.
+
+### NEW: The First Experience — Coerced
+
+**New material from author:** Her first sexual experience was coerced. "Pretty rough."
+
+Two words that carry everything. The first time her body was introduced to sex, it wasn't introduced to pleasure, connection, or choice. It was introduced to someone else's will overriding hers. That's the foundation. Everything built on top of it — every relationship, every sexual encounter, every moment of freezing or complying or going quiet — was built on a foundation of *this is what it is. This is what happens to you.*
+
+**Why the first experience matters more than any other:**
+
+The nervous system doesn't average your experiences. It *weights* the first one. The first sexual experience becomes the body's definition — its reference point for what sex means, what it feels like, what your role in it is. When that first experience is consensual, curious, maybe awkward but *chosen* — the body's baseline is: I am a participant. I have a say. Even bad sex after that is measured against a template of agency.
+
+When the first experience is coerced, the body's baseline is: I am acted upon. My participation is not required. My willingness is not relevant. Every subsequent experience is measured against *that*. A partner who asks "is this okay?" feels foreign — not comforting, but confusing. Because the body's first lesson was: nobody asks. A partner who pushes past hesitation feels *normal* — not because it's acceptable, but because it matches the template.
+
+**How this connects to everything else in the plan:**
+
+- **The sexuality field notes (Ch 9)** — "My body is negotiable if it keeps the peace" isn't a lesson she learned through gradual conditioning. It was the *first* lesson. The very first time, her body learned: you don't get to choose. The field notes aren't describing the development of a pattern. They're describing a body living inside a pattern that was installed before it had any other reference point.
+
+- **The coming-out-that-never-happened** — The same body that learned "my participation is not required" later learned "my truth is not safe to share." Coercion teaches you that what you want doesn't matter. The boyfriend's slur and her mother's laughter confirmed it in a different register: what you *are* doesn't matter either. Both teach the same thing: you are not the authority on your own experience.
+
+- **The narcissistic relationships** — She entered those relationships with a nervous system already trained to comply. The narcissist didn't have to break her will. Her will was broken before they met. What the narcissist exploited wasn't weakness — it was a template that had been running since her first sexual experience: *this is what happens, you endure it, you don't get to say no, and afterward you can't name what you lost.*
+
+- **The bisexuality** — Her orientation includes attraction to women. Her first sexual experience with a man was coerced. The book should be careful here — this is not "she's bisexual because of trauma." That's a dangerous and false narrative. Her orientation is her orientation. But the relationship between her body, sex, men, consent, and safety is shaped by that first experience. A body whose introduction to male sexuality was coercion carries that in every subsequent encounter with men — and may experience desire for women differently, as something cleaner, less loaded, less encoded with survival. The book should name this without collapsing orientation into trauma. Both exist. Both are real. They're not the same thing.
+
+- **"I get quiet around certain people"** — The first coercion taught her: when someone wants something from you, your discomfort is not a reason to stop them. The strategic quiet she uses now — around people who dig for weaknesses, around her mother, around the boyfriend throwing slurs — is the *adult version* of the freeze response her body learned during that first experience. The freeze became the quiet. The compliance became the silence. The body that learned not to resist learned not to speak.
+
+**Where this belongs in the book:**
+
+- **Ch 9 (Childhood Patterns)** — This is the context that precedes the three sexuality field notes. The field notes currently read as a series of moments. With this context, they read as a *progression* from an origin point: the first experience was coerced → the body learned compliance → vulnerability became dangerous → desire became guarded → "okay" stopped meaning yes. The reader needs to understand that these aren't random moments. They're a body following the instructions it was given the first time.
+
+- **Ch 4 (Trauma Bonds)** — In the "why you can't just leave" section. A person whose first sexual experience was coerced has a different relationship to leaving. The body learned, at the very beginning: enduring is what you do. Leaving wasn't modeled. Compliance was. The trauma bond isn't just psychological — it's *somatic*. The body's first instruction was to stay and endure. Every narcissistic relationship after activated that same instruction.
+
+- **Ch 8 (Parental Wounds)** — Not because a parent caused this, but because the context matters: what was the home environment that preceded this? A mother with abusive boyfriends, a household where women endured, a culture of *aguanta*. The coercion didn't happen in a vacuum. It happened to a girl whose nervous system had already been watching women submit. The modeling and the coercion are two halves of the same lesson: *this is what happens to women. This is what you are.*
+
+- **The "Sovereignty Without Exit" framework** — Because reclaiming sovereignty over your body when your body's first sexual experience was coerced is not the same work as reclaiming sovereignty when your baseline was consent. The framework needs to acknowledge that for some readers, the "exit" they're seeking isn't from one narcissist — it's from a template that's been running since before they had words for what happened to them. Sovereignty here means: *my body gets to redefine what sex is. My first experience does not get the final word.*
+
+**Handling note:** This is the most sensitive material in the entire book. The author chose "pretty rough" and "coerced" — not clinical language, not graphic detail. The book should follow her lead. The power is in what's named without being described. The reader who needs to see themselves here doesn't need a scene. They need the sentence: *"The first time wasn't mine. And for a long time, I didn't know sex could be."* That's enough. The reader's body will fill in the rest.
 
 ---
 
@@ -242,6 +288,65 @@ This is what many readers will actually do. Not the dramatic exit. Not the brave
 - **Ch 10 (Family Breaking Free)** — as a named alternative to both no-contact and low-contact. Call it what it is: **the quiet release**. Not severing. Not confronting. Just... ceasing to be the one who reaches.
 - **The "Sovereignty Without Exit" framework** — as the primary example of what sovereignty looks like when it's not loud. The framework should include a section called something like "The door you close quietly" or "What it looks like when you just stop."
 - **The author's own voice** — this should be first-person. "I stopped making the effort. And for me, it was really freeing." That sentence — said by the author who has been through everything this book describes — gives the reader permission to do the same thing without guilt.
+
+### NEW: The Coming Out That Never Happened — Silence as Self-Preservation
+
+**New material from author:** She is bisexual. The day she went to tell her mother, her mom's boyfriend started throwing around the word "Dyke" — talking about two women together — and her mother agreed and laughed. She got embarrassed and didn't say anything. She still hasn't told her.
+
+This is one of the most quietly devastating moments in the book. Not because of what was said — but because of what it prevented. She walked in with her truth. She walked out with it still locked inside. Not because anyone rejected her. Because the environment made it clear, before she even spoke, that her truth would be met with ridicule.
+
+**What actually happened in that room:**
+
+The boyfriend wasn't targeting her. He didn't know. He was just talking — casually, performatively — using "Dyke" like it was a punchline. And her mother didn't just tolerate it. She *agreed*. She *laughed*. The two people she would have been coming out to were, in that exact moment, demonstrating what they thought of people like her.
+
+She didn't get rejected. She got *pre-rejected*. The rejection happened before the conversation. The laughter was the door slamming shut before she could knock.
+
+**Why she still hasn't told her:**
+
+Her own words: "What's the point. Sharing leaves me vulnerable for ridicule. So I get quiet around certain people that are digging for weaknesses to make fun of me about."
+
+This is not closeted silence born of shame. This is *strategic* silence born of pattern recognition. She learned — in that single moment — that certain people treat vulnerability as material. They dig for weaknesses. They collect ammunition. And sharing something this fundamental with someone who has already shown you what they'll do with it isn't bravery. It's self-harm.
+
+The quiet isn't cowardice. The quiet is *intelligence*. She read the room. She assessed the cost. And she decided her truth was worth more than their approval. She kept it for herself — not because she's ashamed of it, but because she refuses to hand it to people who would use it to diminish her.
+
+**What this teaches the reader:**
+
+- **You don't owe anyone your coming out.** Not your mother. Not your family. Not anyone who has shown you, through their words or their laughter, what they'll do with that information.
+- **Silence can be sovereignty.** Not all silence is oppression. Sometimes silence is the most powerful choice you have — keeping the sacred parts of yourself away from people who would mock them.
+- **The environment tells you everything.** You don't need to test the water by jumping in. Sometimes the water tells you it's freezing before you take off your shoes. She listened. She believed it. That's not failure. That's self-preservation.
+- **Pre-rejection is still rejection.** The narcissistic system doesn't have to wait for your disclosure. It can reject you preemptively — through casual cruelty, through humor, through the laugh that says "people like you are a joke." The person who hears that laugh and keeps their truth to themselves isn't hiding. They're protecting something precious from people who have already told you they won't be careful with it.
+
+**The connection to "getting quiet":**
+
+"I get quiet around certain people that are digging for weaknesses to make fun of me about." This pattern — the strategic quiet — is the same survival mechanism she used in the narcissistic relationship. The body scan before leaving the house. The anticipatory compliance. The reading of the room. Except here, the room isn't one narcissist. It's every environment where vulnerability is currency for mockery.
+
+She learned this in the relationship. She uses it now with her family. The skill that kept her safe from one narcissist keeps her guarded from others. The question the book asks is: when does protective silence become a prison? When does the smart choice become the only choice? And is there a version of coming out that doesn't require the other person to be safe — a coming out to *yourself* that is complete regardless of who else knows?
+
+**Where this belongs in the book:**
+
+- **Ch 7 (Family Roles & Triangulation)** — This could replace or supplement the anonymous "Open Secret" field note currently in the plan. That field note is a composite about someone who came out at sixteen. *This* is the author's actual experience — and it's more devastating because the coming out never happened. The silence itself is the story. If the author is willing to claim this as first-person, it becomes the most powerful LGBTQ+ field note in the book — because it's not about rejection. It's about the rejection that happens before you speak.
+
+- **Ch 8 (Parental Wounds) — "When Your Identity Becomes Their Wound"** — Currently this section describes parents who absorb your identity into their narrative. But this is the *precursor*: the parent who doesn't even know your identity, but whose casual cruelty makes disclosure impossible. The wound isn't "I told her and she made it about herself." The wound is "I couldn't tell her at all."
+
+- **Ch 9 (Childhood Patterns)** — In the "Acceptance Must Be Earned" section. This is what conditional acceptance looks like from the *outside*: you watch how they treat the concept of people like you, and you learn that acceptance would come with a cost you're not willing to pay. So you don't ask for it. You don't even apply.
+
+- **The "Sovereignty Without Exit" framework** — This IS sovereignty without exit. She didn't leave her mother. She didn't confront the boyfriend. She just... kept her truth. She chose herself over their approval. That's sovereignty. It's just the quietest version of it.
+
+- **Ch 16 (Scripts)** — Under "When the environment tells you it's not safe":
+
+  > **When someone uses slurs casually and your family laughs:**
+  >
+  > You don't have to correct them. You don't have to come out. You don't have to educate. You can simply *note it*: this person just showed me who they are. This room just showed me what it does with people like me. I will act accordingly.
+  >
+  > The "action" might be silence. That's valid. The action might be leaving early. That's valid. The action might be filing this information away and never, ever handing these people the parts of yourself they'd use as a punchline.
+  >
+  > You are not obligated to be brave in hostile territory. You are obligated to survive.
+
+**The boyfriend's role — the gatekeeper who doesn't know he's a gatekeeper:**
+
+The boyfriend wasn't performing targeted homophobia. He was performing *casual* homophobia — the kind that doesn't know it's homophobia, the kind that thinks it's just conversation, just humor, just words. And that's exactly what makes it so effective as a silencer. Targeted bigotry you can fight. Casual bigotry you can only witness — and learn from. He became the gatekeeper to her coming out without ever knowing there was a gate.
+
+And her mother's laughter was the lock.
 
 ---
 
@@ -971,6 +1076,9 @@ Vol 1 is **SEE** — recognition, naming, the moment the reader says "oh my God,
 | The access gate (three women, three bottlenecks) | Recognition: "I tolerate someone to reach someone I love" |
 | The threat to leave (boyfriend + sister in front of kids) | Recognition: abandonment threat as weapon |
 | The quiet release with sister | Recognition: sovereignty doesn't have to be loud |
+| The coming out that never happened (bisexual, boyfriend's "Dyke" slur, mom's laughter, silence) | Recognition: pre-rejection through casual cruelty; strategic silence as self-preservation; "I get quiet around people who dig for weaknesses" |
+| The sexuality field notes — all three (body negotiable for peace, truth weaponized, "okay" without meaning yes) | Recognition: the origin code — where the body first learned that vulnerability is dangerous, consent is negotiable, and silence is safer than truth. Everything else traces back here. |
+| The first sexual experience — coerced | Recognition: the foundation under the field notes. The body's first definition of sex was coercion. Not a pattern that developed — the template that was installed at the start. Reader who experienced this recognizes: "I didn't know sex could be something I chose." |
 | Lost voice for weeks (somatic) | Recognition: the body silencing itself |
 | "Years later he couldn't believe I was upset" (the 98) | Recognition: the second wound of minimization |
 
