@@ -147,19 +147,27 @@ The distinction matters: there's a difference between someone who is destructive
 
 ## How She Responds
 
-**When he starts the diagnosis:**
+**When he starts the diagnosis — any version of "the problem is inside you":**
+
+🟢 "Maybe so. And this still needs to be addressed."
+
+This refuses to argue about her interior while keeping the focus on the actual issue. It works whether he said "your ego," "your vibration," "your trauma response," or "specks of dust." She doesn't deny, defend, or engage with his frame. She sidesteps the whole diagnosis and redirects to the thing that matters.
+
+🟡 *If he pushes — keeps diagnosing, keeps drilling into her reaction:*
 
 "What outcome are you hoping for with this conversation?"
 
 This exposes the game. He can't answer it honestly without revealing that he wants her to be less of herself.
 
-**When he frames her frustration as a deficiency:**
+🔴 *If he won't stop — keeps the hyper-focus on what's "wrong" with her:*
 
-"Maybe so. And this still needs to be addressed."
+"We started talking about [the issue]. Now we're talking about me. How did that happen?"
 
-This refuses to argue about her interior while keeping the focus on the actual issue.
+This names the redirect itself. It doesn't argue with his diagnosis. It points at the move — the disappearance of the original problem — and lets the room see it.
 
-**When he positions himself as the spiritual authority:**
+---
+
+**When he positions himself as the authority on her growth:**
 
 "I appreciate your perspective. I'm the authority on my own experience."
 
@@ -167,9 +175,21 @@ This refuses to argue about her interior while keeping the focus on the actual i
 
 "Peace doesn't require silence about things that aren't working."
 
-**When he hyper-focuses on her reaction instead of being present:**
+**When he hyper-focuses on her tone instead of being present:**
 
 "You're focusing on my tone. I'm focused on the issue. Which one moves us forward?"
+
+**When he says "I'm just holding up a mirror" or "I'm just mirroring what's unresolved in you":**
+
+"Whether I'm triggered or not doesn't change what happened."
+
+**When he frames the conversation as a growth opportunity for her:**
+
+"I own my reaction. And the thing I reacted to still happened."
+
+---
+
+**The principle behind all of these:** None of these scripts deny her reaction. She doesn't pretend she wasn't frustrated. She doesn't claim to be perfectly regulated. She *owns her part* — and then immediately redirects to the part he's trying to erase. Both things stay on the table. His behavior and her reaction. Neither gets to disappear.
 
 ---
 
