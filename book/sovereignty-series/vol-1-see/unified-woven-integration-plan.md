@@ -188,6 +188,28 @@ And it's "playful." So:
 - **Ch 12 (Manipulation Across Contexts)** — in the section on how narcissism operates in domestic/family settings
 - **The "Sovereignty Without Exit" framework** — because the author has to tolerate this man to see her mother. She can't confront him without risking access. She can see what he's doing. She can name it privately. She cannot change it without cost. This is exactly what "thriving while staying" looks like: you walk into the kitchen, you see the laminated photo, you know what it means, and you hug your mom anyway. The sovereignty is in the seeing — not in the confrontation.
 
+### NEW: The Access Gate — Three Women, Three Bottlenecks, One System
+
+**New material from author:** Her mom puts up with the sister to see her grandkids — who are being poisoned against her anyway.
+
+This completes the picture. Three women, each tolerating a narcissist to reach someone they love:
+
+| **Who endures** | **Who they endure** | **Who they're trying to reach** | **The trap** |
+|---|---|---|---|
+| The author | Mom's boyfriend | Her mother | Must tolerate "Employee of the Month" man to see her mom |
+| Her mother | The author's sister | Her grandchildren | Must tolerate the sister's wrath to see the kids |
+| Her mother | The boyfriend | Her own home/stability | Must tolerate infantilization to keep the relationship |
+
+And the cruelest layer: the grandkids — the people the grandmother is enduring all this for — are being poisoned against her. The sister is turning them. So the grandmother is tolerating abuse from the sister in order to access children who are being taught that the grandmother is the problem.
+
+She's paying the toll and the bridge leads nowhere.
+
+This is the narcissist's masterpiece: controlling not just the relationship but the *access*. The narcissist doesn't have to be in the room. They just have to be between you and the person you love. They become the bottleneck. Every relationship in the family runs through them.
+
+**VOL 1 (SEE):** Name this pattern. Help the reader recognize the access gate. The field note: three women, three bottlenecks. The recognition: "I'm tolerating someone not because I want to, but because they stand between me and someone I love."
+
+**VOL 2/3 (later):** The tactical work — how to build alternative access paths, how to reach the grandkids without going through the sister, how to maintain relationships around the bottleneck. The deeper intergenerational work on breaking the pattern of women tolerating abuse for access to love.
+
 ### NEW: The Threat to Leave — Two Versions of the Same Weapon
 
 **New material from author:**
@@ -892,7 +914,105 @@ This is roughly 4-5% of the manuscript — enough to be felt throughout, not eno
 
 ---
 
-## Implementation Order
+## Volume Assignment — What Goes Where
+
+Vol 1 is **SEE** — recognition, naming, the moment the reader says "oh my God, that's what this is." Vol 1 gives you the language. It does NOT give you the full tactical playbook for navigating ongoing relationships. That's later volumes.
+
+### The Rule
+
+**If it helps you SEE the pattern → Vol 1.**
+**If it helps you NAVIGATE the pattern while staying in it → Vol 2/3.**
+**If it helps you REBUILD after leaving → Vol 2/3.**
+
+### VOL 1: SEE — Stays in this book
+
+**Recognition-level content (the naming):**
+
+| Content | Location | Why Vol 1 |
+|---|---|---|
+| The thesis: narcissism adapts to whatever community you can't afford to leave | Top of plan | This IS Vol 1's thesis expansion |
+| All cultural amplifier sections (machismo, marianismo, shalom bayit, respeto, nachas) | Ch 5, 7, 8, 9 | Helps reader SEE how the narcissist hides behind culture |
+| "When Enmeshment Is Called Closeness" | Ch 5 addition | Recognition of normalized enmeshment |
+| "When the Culture Validates the Type" | Ch 5 addition | SEEing the camouflage |
+| "When the Whole Community Is the Triangle" | Ch 7 addition | Naming the systemic version |
+| The Sunday Dinner field note | Ch 7 | Recognition moment: "I wasn't fighting my father. I was fighting the whole table." |
+| The Open Secret (LGBTQ+) field note | Ch 7 | Recognition: your identity became their wound |
+| "When Culture Sanctifies the Narcissistic Mother" | Ch 8 addition | SEEing through marianismo/Jewish mother archetype |
+| "When Machismo Masks the Wound" (Father Wound) | Ch 8 addition | Naming the invisible father wound |
+| Aguanta, Mija field note | Ch 8 | Recognition: endurance reframed as strength |
+| Shalom Bayit field note | Ch 8 | Recognition: peace reframed as silence |
+| Two Tables (Jewrican) field note | Ch 8 | Recognition: guilt squared |
+| The Immigrant Debt field note | Ch 9 | Recognition: gratitude weaponized |
+| "When Cultural Values Become Conditioning" | Ch 9 addition | SEEing how respeto/nachas/obedience became exploitable |
+| Mother-son enmeshment transfer | Ch 8 addition | Recognition: "I married the system" |
+| Public Scenes as Cultural Power Display | Ch 11 addition | SEEing the scene for what it is |
+| Decoder Card 34 expansion (community chorus) | Ch 3 | Naming the chorus |
+| Decoder Card 9 expansion (appearance as cultural norm) | Ch 3 | SEEing appearance control through cultural lens |
+| "When Passion Is the Disguise" | Ch 11 addition | Distinguishing passion from pathology |
+| "When Religion Says You Can't Leave" | Ch 11 addition | Naming the theological cage |
+| Collectivist Extinction Burst | Ch 11 addition | SEEing the system's immune response |
+| "When the Community Is Small" | Ch 12 addition | Recognition for tight-knit community readers |
+| Silent pronoun integration pass | Throughout | Ambient inclusion |
+| Front matter rewrite (collectivist readers addressed) | Front matter | Sets tone |
+| Ch 1 opening manifesto expansion | Ch 1 | Reader sees themselves in the "maybe it was..." list |
+| "When Breaking Free Means Losing Everyone" | Ch 10 | Recognition of the cost — what it actually means to leave a collectivist system |
+| Sidebar dissolutions (LGBTQ+, male survivor) | Ch 11 | Structural — representation woven in, not cordoned off |
+
+**Author's first-person field notes (the spine):**
+
+| Field note | Why Vol 1 |
+|---|---|
+| All 10 confirmed passages (cooking, finances, weather, head pat, tuna, exit phase, etc.) | These ARE the recognition. Reader sees them and says "that happened to me too." |
+| The neck quote (both halves) | Recognition: the threat that doesn't complete itself |
+| The wedding dress ("you shouldn't wear white, you're so colorful") | Recognition: the friend who dims you and calls it taste |
+| Watching mom beg abusive boyfriends to stay | Recognition: the template you inherited |
+| The binge eating (restriction → rebellion → surveillance) | Recognition: how food control creates disordered eating |
+| Employee of the Month (laminated photo in kitchen) | Recognition: ownership disguised as humor |
+| The access gate (three women, three bottlenecks) | Recognition: "I tolerate someone to reach someone I love" |
+| The threat to leave (boyfriend + sister in front of kids) | Recognition: abandonment threat as weapon |
+| The quiet release with sister | Recognition: sovereignty doesn't have to be loud |
+| Lost voice for weeks (somatic) | Recognition: the body silencing itself |
+| "Years later he couldn't believe I was upset" (the 98) | Recognition: the second wound of minimization |
+
+**What Vol 1 SEEDS but doesn't fully develop:**
+
+These get a brief mention, a paragraph, or a "this will be explored further in Vol 2" signal:
+
+| Content | What Vol 1 says | What Vol 2/3 develops |
+|---|---|---|
+| Sovereignty Without Exit framework | Brief introduction: "This book will not tell you to leave. It will tell you to see." + the 7-point philosophy | Full tactical framework with protocols, scripts, case studies |
+| Thriving while staying | Name it. Give permission. Point #5 (witness position) and #6 (private naming) land in Vol 1 naturally. | Detailed daily practices, nervous system management during contact, the "enough" threshold, long game planning |
+| Selective Sharing Protocol | The table (share freely / carefully / never) — this IS recognition-level. Reader sees it and immediately starts categorizing. Stays in Vol 1. | Advanced protocols for specific situations (holidays, emergencies, when the narcissist escalates) |
+| Adapted Gray Rock for collectivist gatherings | The 4-point version (warm not deep, redirect, have a role, arrive with exit). Stays in Vol 1 — it's practical enough to help and simple enough to be a "see" tool. | Extended version with scripts for specific family events, religious holidays, community functions |
+| The quiet release | First-person field note. "I stopped making the effort. It was freeing." Vol 1. | How to manage the aftermath — when the quiet release triggers the system's response, when guilt surfaces, how to stay released |
+| The police night / mother's contradictions / Testimony | The Testimony stays as-is (sister's story, second person). Brief reference to the wider frame. | The full complexity: holding a parent who is both victim and liar, navigating the mother relationship now |
+| Breaking the intergenerational pattern | Name it. Show the three generations. End with the question: "How does it stop here?" | Answer the question. The actual work of not passing it on. |
+| Navigating grandkids being poisoned | Name the access gate. Show the trap. | How to maintain relationship with grandchildren around the bottleneck, age-appropriate truth-telling |
+| Scripts for collectivist contexts (Ch 16) | **All scripts stay in Vol 1.** Scripts are recognition tools — the reader sees the script and recognizes the conversation they've been having. The 🟢 responses give them language for the first time. This is SEEing. | Advanced scripts for escalation scenarios, scripts for when the first boundary fails, scripts for the second conversation after the narcissist mobilizes the community |
+| Co-parenting with a narcissist | Brief mention in Ch 11 | Full chapter or section in Vol 2 |
+
+### VOL 2/3: Later volumes
+
+**Tactical/navigational content that goes beyond recognition:**
+
+- Full "Sovereignty Without Exit" protocol with daily practices
+- Extended co-parenting strategies
+- Building alternative access paths (reaching people around the narcissist)
+- Advanced scripts for escalation and system backlash
+- The intergenerational break: how to stop the pattern from passing to your children
+- Detailed nervous system management for ongoing contact
+- The grandmother's dilemma: maintaining relationship with grandchildren who are being turned
+- When the quiet release triggers the system's immune response
+- Deep work on holding parents who are both victim and perpetrator
+- Rebuilding identity after collectivist exile
+- Financial independence strategies for people leaving enmeshed economic systems
+- Legal strategies for visa-dependent or immigration-complicated separations
+- Religious deconstruction without losing faith (separating the narcissist's version of God from your own)
+- The long game: planning a 5-year exit from inside the system
+
+---
+
+## Implementation Order (Vol 1 Only)
 
 1. **Silent pronoun/example pass** — fastest, least disruptive, immediate impact
 2. **Chapter 1 and Front Matter** — sets the tone for everything that follows
@@ -902,8 +1022,9 @@ This is roughly 4-5% of the manuscript — enough to be felt throughout, not eno
 6. **Chapter 5 + 11** — narcissist types + romantic manipulation, sidebar dissolution
 7. **Chapter 12** — "When the Community Is Small" addition
 8. **Chapter 16** — full scripts integration (already drafted)
-9. **Appendix A** — resources expansion
-10. **Sensitivity review** — full pass by Sage + ideally external cultural consultants
+9. **Appendix A** — longevity restructure (two-tier: timeless in print, living resource page online)
+10. **Confirmed first-person passages** — update the 10 confirmed passages with new details and correct voice
+11. **Sensitivity review** — full pass by Sage + ideally external cultural consultants
 
 ---
 
