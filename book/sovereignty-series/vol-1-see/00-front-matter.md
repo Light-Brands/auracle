@@ -300,15 +300,19 @@ Chapter 8 (Parental Wounds) and Chapter 11 (Romantic Manipulation) include notes
 
 ## A Note on Diversity and Access
 
-While examples in this book often center heterosexual dynamics, these patterns appear in all relationship types and affect people of all genders, sexual orientations, races, abilities, and backgrounds. LGBTQ+ survivors, BIPOC survivors, disabled survivors, and others face unique barriers and dynamics not always explicitly addressed here.
+These patterns appear in all relationship types and affect people of all genders, sexual orientations, races, abilities, and backgrounds. The examples throughout this book use varied pronouns and reflect diverse relationship structures — not in a sidebar, but in the body of the text — because narcissistic abuse doesn't discriminate by demographic.
 
-**On race and intersectionality:** This book doesn't fully address how race, class, disability, and other identities intersect with narcissistic abuse. BIPOC survivors may face additional gaslighting about their experiences, may encounter racial dynamics within abusive relationships, and may find mainstream resources less culturally attuned. These intersections deserve dedicated treatment beyond what this book provides. Your experiences at these intersections are real and valid.
+**If you come from a community where the individual doesn't exist apart from the collective** — whether that's a tight-knit family, a religious congregation, a queer community, or an immigrant network — this book sees you. Many recovery strategies assume you can set boundaries, go no-contact, and rebuild independently. In your world, those options may not exist without losing everything: your family, your community, your faith, your legal status, your identity.
 
-Some readers may not have access to resources this book assumes: the ability to leave immediately, financial independence, safe housing, or affordable therapy. If you are currently unable to leave due to finances, disability, immigration status, custody concerns, or other constraints, please know: **survival strategies while remaining in an unsafe situation are valid.** This book is not about judging your timeline—it's about giving you tools for whatever phase you're in. "Emotional distance while maintaining physical presence" can be a valid protection strategy when leaving isn't possible.
+That doesn't make your healing less valid. It makes it harder. And it requires different tools — not always leaving, but reclaiming yourself *within* the system. This book addresses these realities throughout, especially in Chapters 7, 8, 10, 11, and 16.
 
-This book speaks from a Western, individualist perspective. Readers in collectivist cultures may need to adapt "leaving" strategies to "boundary-within-family" approaches. Religious communities where divorce is stigmatized, cultures where family estrangement carries severe social consequences, and communities where communication norms differ all deserve acknowledgment. Adapt these concepts to fit your cultural context.
+**This book will not tell you to leave. It will tell you to see.** What you do with that seeing is yours.
 
-What remains universal: your right to safety, your right to be treated with respect, and your right to trust your own perception.
+**On race and intersectionality:** BIPOC survivors may face additional gaslighting about their experiences, may encounter racial dynamics within abusive relationships, and may find mainstream resources less culturally attuned. Your experiences at these intersections are real. This book weaves cultural context — Hispanic, Jewish, immigrant, religious, LGBTQ+ — throughout its pages, but no single book can hold every intersection. Where your experience isn't reflected, the patterns still apply. Trust what your body knows.
+
+Some readers may not have access to resources this book assumes: the ability to leave immediately, financial independence, safe housing, or affordable therapy. If you are currently unable to leave due to finances, disability, immigration status, custody concerns, or other constraints, please know: **survival strategies while remaining in an unsafe situation are valid.** This book is not about judging your timeline — it's about giving you tools for whatever phase you're in.
+
+What remains universal, regardless of your community: your right to safety, your right to your own perception, and the truth that love — real love — doesn't require you to disappear.
 
 ---
 

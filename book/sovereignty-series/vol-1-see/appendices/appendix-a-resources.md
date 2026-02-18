@@ -4,13 +4,19 @@
 
 ---
 
-You'll find resources here for both crisis moments and long-term recovery. Save this section. Share it with others who need it. These resources could save your life—or someone else's.
+This appendix contains two kinds of resources: **timeless wisdom** that doesn't expire, and **current crisis information** that may change over time. The wisdom — the safety planning, the therapist questions, the 90-day protocol, the healing signs — will be true whether you read this book today or twenty years from now.
+
+**For current crisis hotlines, support communities, apps, legal resources, and financial assistance programs — including resources specific to LGBTQ+, immigrant, disabled, and culturally diverse survivors — visit the online companion resource at lightfield.institute/resources.**
+
+*This online resource is maintained and updated regularly so the information you find there is current, even if this book was published years ago.*
+
+If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country.
 
 ---
 
 ## Crisis Resources
 
-**Important:** Crisis lines change. Please verify current numbers at your local crisis center or RAINN.org for U.S. resources. For international resources, if any number is unreachable, consult HotPeachPages.net for the most current directory.
+**Important:** Crisis lines and organizations change. The numbers below were verified at time of publication. For the most current information, visit the online companion resource above, or check RAINN.org for U.S. resources and HotPeachPages.net for international resources.
 
 ### Immediate Help (24/7)
 

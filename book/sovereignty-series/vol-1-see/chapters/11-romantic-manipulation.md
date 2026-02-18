@@ -183,73 +183,46 @@ Use these questions to assess early:
 
 ---
 
-## A Note on Relationship Diversity
+## Identity as Leverage
 
-While many examples in this chapter use heterosexual relationship dynamics, narcissistic abuse occurs in all relationship types. LGBTQ+ survivors face unique challenges:
+In relationships where one partner's sexual orientation, gender identity, or immigration status is vulnerable, identity becomes a weapon. "I'll tell your family." "I'll tell your boss." "I'll out you." The threat doesn't have to be carried out. The possibility is the chain.
 
-**Additional control tactics in LGBTQ+ relationships:**
-- **Outing as threat or punishment.** Using your sexual orientation or gender identity as leverage
-- **Identity invalidation.** "You're not really [gay/trans/bi]" or weaponizing identity against you
-- **Community isolation.** Cutting you off from LGBTQ+ community and support networks
-- **Internalized shame exploitation.** Leveraging societal stigma you may have internalized
-- **Resource barriers.** Many traditional domestic violence resources were not designed with LGBTQ+ survivors in mind
+The distinction between love-bombing and genuine intensity is harder to see when you've been starved for acceptance. If you've spent years hiding who you are, someone who sees you and pursues you feels like water in a desert. The speed doesn't register as a warning — it registers as a miracle.
 
-**Additional barriers to leaving:**
-- Fear of not being believed by service providers
-- Fewer resources specifically designed for LGBTQ+ survivors
-- Smaller community size making no-contact harder
-- Concerns about "making the community look bad"
-- Loss of chosen family who may side with the abuser
+> **Field Note:** She was the first person I ever loved as myself. The first person I kissed without apology. When she said "I see you," I believed her — because no one ever had before.
+>
+> The love-bombing was indistinguishable from the relief of finally being loved. How do you separate "this person is mirroring me" from "this person is the first one who ever reflected me back"? I couldn't. For two years, I couldn't.
+>
+> When the devaluation started, I had nowhere to go. My family had made it clear. My queer friends were *her* friends first. The community was small enough that everyone would know.
+>
+> Leaving her didn't mean leaving a relationship. It meant leaving the only world that had ever accepted me. So I stayed. And stayed. And called it love.
 
-**LGBTQ+-Specific Resources:** See [Appendix A](../appendices/appendix-a-resources.md) for LGBTQ+-specific crisis lines, partner abuse services, and transgender support resources.
+**Reproductive coercion** deserves specific attention because it's often invisible until it's too late. This can look like deliberate pregnancy to create a bond you can't leave, birth control sabotage, or pressure to rush commitment after a pregnancy announcement. The pattern isn't about wanting a family. It's about wanting control. The child becomes both a hostage and a chain — something you love that keeps you connected to someone harming you.
 
-If the dynamics in this chapter resonate but the specific examples don't match your experience, trust your perception. Abuse is abuse regardless of the genders involved.
+These patterns exploit universal human wiring, not gender. Love-bombing hooks nervous systems. Intermittent reinforcement creates trauma bonds. Gaslighting erodes perception. If these dynamics resonate but the specific examples don't match your experience, trust your perception. Abuse is abuse regardless of the genders involved.
 
 ---
 
-### When Men Are the Target
+### When Passion Is the Disguise
 
-Male survivors of narcissistic abuse face every pattern described in this book—plus additional barriers to recognizing and naming their experience.
+Hispanic romantic culture values intensity — passionate courtship, jealousy-as-proof-of-love, devotion that borders on obsession. "Es que te quiero tanto que me vuelves loco/a." (I love you so much you drive me crazy.)
 
-**The cultural silence:**
+Where does cultural passion end and pathology begin?
 
-Men are told they can't be manipulated. That they should be strong enough to "just leave." That being victimized is emasculating. These messages don't prevent abuse—they prevent recognition and recovery.
+**Passion** is mutual intensity that respects autonomy. You both feel strongly. You both choose freely.
+**Pathology** is one-directional intensity that eliminates choice. They feel strongly. You feel trapped.
 
-**Let's be clear:** Being manipulated says nothing about your strength, your masculinity, or your worth as a man. The tactics in this book work on human attachment systems, not gender. Love-bombing hooks nervous systems. Intermittent reinforcement creates trauma bonds. Gaslighting erodes perception. These patterns exploit universal human wiring.
+The cultural cover makes this nearly impossible to see from inside. When everyone around you celebrates jealousy as romance and control as devotion, the narcissist's behavior looks like love — because the culture says it is.
 
-If you're a man reading this, you deserve the same recognition, support, and path to recovery as anyone else.
+### When Religion Says You Can't Leave
 
-**Reproductive coercion:**
+For survivors in religious communities where divorce is prohibited or severely stigmatized: the narcissist has an ally you can't argue with — God. Or at least, their version of God.
 
-One manipulation pattern deserves specific attention because it's often invisible to male victims until it's too late: reproductive coercion.
+"Marriage is a covenant." "What God has joined, let no one separate." "Have you prayed about it?" "A good wife submits." "A good husband leads."
 
-This can look like:
-- **The pregnancy trap:** Deliberate pregnancy to create a bond you can't leave—using biology to end your options
-- **Birth control sabotage:** "I'm on the pill" when she isn't, or sabotaging other contraception
-- **Rushed commitment:** Pressure to marry or move in together after pregnancy announcement before you've had time to think
+The theology becomes the cage. Your pastor isn't the narcissist — but the pastor may be the most effective flying monkey in the system. The narcissist doesn't need to say "you can't leave." The pulpit says it every Sunday.
 
-The pattern isn't about wanting a family. It's about wanting control. The child becomes both a hostage and a chain—something you love that keeps you connected to someone harming you.
-
-Some men stay out of love and duty, providing for a child while trapped in a relationship they might otherwise have left. Others construct narratives to justify it: "It was meant to be." "This is my path." The meaning-making helps survive what would otherwise be unbearable.
-
-**Isolation tactics targeting men:**
-
-Manipulators of all genders can create isolation through:
-- Financial dependence (both directions—controlling your money or making themselves financially dependent)
-- Social isolation (cutting you off from friends who might provide perspective)
-- Geographic relocation (moving you away from support networks)
-- Creating circumstances where you feel responsible for their survival
-
-**What recovery looks like:**
-
-The same tools work. The same patterns apply. The same healing is available.
-
-- Name the patterns (you're doing that now)
-- Trust your perception (your experience is valid)
-- Seek support (from people who understand)
-- Give yourself the same compassion you'd give anyone else
-
-Your gender doesn't make you immune to manipulation. It also doesn't disqualify you from recovery.
+**The truth that sets you free:** No theology that requires your destruction is holy. No covenant that demands your erasure is sacred. If your faith tradition says you must endure abuse, the tradition needs questioning — not you.
 
 ---
 
@@ -502,7 +475,7 @@ A partner has decided internally that they need to leave the relationship. They 
 
 The escalation began with **suicide threats** (Tactic 29): "If you leave, I'll kill myself. I'll jump off this balcony right now." The threat hangs in the air, creating an impossible choice—stay and endure abuse, or leave and risk their death being "your fault."
 
-This was followed by **physical intimidation** (Tactic 4): Taking their own hand and placing it around their partner's throat, not squeezing but demonstrating—"It's so delicate. I could snap it with one hand." Getting physically close with a closed fist while yelling. The message was clear: your safety depends on my restraint.
+This was followed by **physical intimidation** (Tactic 4): First came the marveling — repeated, almost admiring, turning the observation over like he was noticing something beautiful: "Your neck is so small and delicate." He said it more than once, with a tenderness that made her skin crawl. Then he placed his hand around her throat. Not squeezing. Demonstrating. "I could snap it with one hand." The message was clear: your safety depends on my restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. And afterward, every time someone admired something about her body, her neck remembered. The admiration and the violence became the same gesture.
 
 Then came the **trivial demands as compliance tests**: "Get me another popsicle." Not because they wanted it, but to test dominance. When their partner didn't immediately comply, the response was explosive—screaming, making a scene in front of a visiting friend. This was **public humiliation** (combined tactics) designed to punish non-compliance and demonstrate power.
 
@@ -545,6 +518,75 @@ You can't think clearly. You freeze. Each tactic makes you vulnerable to the nex
 - Appearance control makes you feel owned, not autonomous
 
 The trivial demands are particularly insidious. "Get me a popsicle" seems small—why not just do it to keep the peace? But that's exactly the point. The demand tests whether you're still compliant. Your refusal to perform small acts of submission signals that their control is slipping, which triggers escalation.
+
+### When Ownership Is Performed in Public
+
+Some narcissistic behaviors don't happen behind closed doors. They happen in the Louis Vuitton store. At the hair salon. In the yoga class. In front of your friends.
+
+**What it looks like:**
+
+He causes a scene at a luxury store to get a zipper replaced — not because the zipper matters, but because the scene itself is the point. The staff scrambles. The other customers watch. You stand there, small, mortified. He wins. And on the way out, he's calm. Smiling, even. Because that performance wasn't about the bag. It was about demonstrating — to you, to the room, to the world — that he takes what he wants and no one stops him.
+
+She yells at the hair salon because your color isn't right — not your dissatisfaction, *her* dissatisfaction with *your* appearance. She corrects the stylist as though she's the client and you're the product being serviced.
+
+He raises his voice in the yoga class, breaking the silence, breaking the peace, breaking the room — and you feel the shame radiating off you like heat. Everyone looks. You want to disappear.
+
+**What it does to you:**
+
+- **Embarrassment becomes a control tool.** You learn to avoid anything that might trigger a scene. You preemptively comply — wearing what he wants, saying what he wants, being who he wants — because the public alternative is unbearable.
+- **Fear of the scene replaces fear of the person.** You're not afraid of *him* exactly. You're afraid of what he'll do *in front of people*. The humiliation is worse than the abuse. So you manage him like a live wire — constantly scanning, anticipating, defusing.
+- **You become his reputation manager.** Your job is to make sure he doesn't erupt. When he does, you apologize — to the staff, to your friends, to the room. You clean up his wreckage and feel grateful when it's over.
+- **Isolation through embarrassment.** You stop going to yoga. You stop bringing friends around. You stop going to restaurants. Not because he forbids it — because you can't survive another scene. The isolation looks voluntary. It isn't.
+
+**The cultural amplifier:**
+
+In machismo cultures, public displays of dominance aren't red flags — they're proof of masculinity. "He doesn't take any shit." "He demands the best." "He's passionate." The man causing a scene at the store isn't embarrassing — he's *powerful*. The woman shrinking beside him isn't being abused — she's being *protected* by a man who handles things.
+
+**The decoder:** If their "standards" require your silence, their "taste" requires your compliance, and their "passion" requires your humiliation — it's not love. It's performance. And you're the prop.
+
+**What it feels like in your body:**
+
+The anticipatory scan before leaving the house. The tight chest walking into any public space with them. The flinch when they call the waiter over. The shame-heat when their voice rises. The relief — actual physical relief, shoulders dropping, breath releasing — when an outing ends without incident. If you're relieved that a normal dinner was *normal*, that's your body telling you the truth.
+
+### The Collectivist Extinction Burst
+
+The book already describes the extinction burst — the desperate escalation when the narcissist feels control slipping. But in collectivist systems, the extinction burst isn't just the narcissist. It's the narcissist *plus the entire system*.
+
+When you try to leave, they will say and do anything to keep you. And so will everyone around them.
+
+**What the narcissist does:**
+
+They cycle through every tool in the toolbox, rapid-fire, looking for the one that sticks:
+
+- First: love-bombing. "I'll change. I'll go to therapy. I'll be the person you fell in love with." Flowers. Gifts. The version of themselves you fell for — resurrected overnight, because they know exactly who you wanted them to be.
+- Then: guilt. "After everything I've done. After everything I gave up. You're going to throw this away?"
+- Then: threats. "You'll never see the kids. I'll tell everyone what you did. I'll destroy you."
+- Then: victimhood. "I can't live without you. I'll kill myself. You're killing me."
+- Then: rage. The mask drops completely. This is the most dangerous phase.
+- Then: back to love. "I'm sorry. I didn't mean it. I'm just so scared of losing you. Please."
+
+The cycle can happen in a single conversation. The speed is disorienting. Each shift destabilizes you before you can get your footing from the last one. That's the point.
+
+**What the community does — simultaneously:**
+
+In an individualist system, you weather the extinction burst alone with them. In a collectivist system, the community launches its own coordinated pressure campaign — without being asked. Because the system feels the disruption and moves to correct it:
+
+- His mother calls your mother. "Talk some sense into your daughter."
+- The rabbi or pastor calls to offer "counseling" — which means "stay."
+- Family members take his side because the story reached them first, shaped by him.
+- Friends from the community pressure you: "He says he's willing to work on it. What more do you want?"
+- Financial pressure materializes — shared accounts frozen, threats to the house, leverage through immigration status.
+- The children are weaponized — turned into messengers, loyalty tests, emotional hostages.
+
+You're not fighting one person's extinction burst. You're fighting the system's immune response. The community treats your departure like an infection — and rallies to push you back inside.
+
+**Why people go back:**
+
+They don't go back because they're weak. They go back because the extinction burst — the narcissist's and the community's combined — is designed to be unsurvivable. Most people have to try to leave multiple times before they actually leave. In collectivist systems, that number is higher — because each attempt triggers a bigger systemic response.
+
+Until one day the cost of staying finally exceeds even the staggering cost of leaving. That's when you go. And you go knowing you're leaving everything.
+
+**Going back is not failure.** Each attempt teaches you something. Each time, you leave a little more prepared. Each time, the hooks lose a little more grip. The people who finally break free aren't the ones who left cleanly. They're the ones who left messy, multiple times, with everyone telling them they were wrong — and left anyway.
 
 ### How to Recognize You're in Exit Phase Escalation
 

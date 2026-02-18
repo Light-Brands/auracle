@@ -147,7 +147,7 @@ This deposited shame feels like:
 
 Important: This is not your shame. It's theirs, and they've made you the container for it.
 
-> **Field Note:** *"I'd feel fine all morning. Then he'd walk into the kitchen, say nothing wrong, and suddenly I felt like I was failing at everything—my job, my parenting, my existence. I finally understood: he was offloading his shame onto me like dropping a bag at my feet."*
+> **Field Note:** *"I'd feel fine all morning. Then she'd walk into the kitchen, say nothing wrong, and suddenly I felt like I was failing at everything—my job, my parenting, my existence. I finally understood: she was offloading her shame onto me like dropping a bag at my feet."*
 
 ### Scanning for Which Version Is Coming
 
@@ -188,7 +188,7 @@ Physical signs of contraction include:
 
 Your body is telling the truth about this relationship. Listen to it.
 
-> **Field Note:** *"My therapist asked me to describe myself before the relationship. I used words like 'bold,' 'opinionated,' 'takes up space.' Then she asked me to describe myself now. I couldn't finish the sentence. I'd become a whisper of who I was."*
+> **Field Note:** *"My therapist asked me to describe myself before the relationship. I used words like 'bold,' 'opinionated,' 'takes up space.' Then she asked me to describe myself now. I couldn't finish the sentence. I'd become a whisper of who I was. There were times I literally lost my voice — weeks at a time where the words just wouldn't come. Not laryngitis. Not a cold. My body silencing itself because the environment had taught it that speaking was dangerous."*
 
 ### The Foggy Mind
 
@@ -229,7 +229,7 @@ This pattern is especially common after dealing with controlling people in profe
 
 This exhaustion is a signal. It's your body telling you how much work this relationship requires.
 
-> **Field Note:** *"A fifteen-minute phone call with my sister would knock me out for three hours. I'd hang up and go straight to bed—not tired like I'd exercised, but tired like I'd been running for my life. My husband started noticing: 'You talked to your sister again, didn't you?' He could tell by how I collapsed."*
+> **Field Note:** *"A fifteen-minute phone call with my sister would knock me out for three hours. I'd hang up and go straight to bed — not tired like I'd exercised, but tired like I'd been running for my life. My husband started noticing: 'You talked to your sister again, didn't you?' He could tell by how I collapsed. And the truth is, I'm still afraid of her. Still afraid of the wrath. Still navigating it. I'm not writing from the other side of a clean break — I'm writing from inside an ongoing relationship with someone I love and fear simultaneously."*
 
 ---
 
@@ -585,13 +585,13 @@ There's also the quality of attention. In healthy eye contact, you feel *seen*�
 
 > **Field Note:** *"I used to think I was just shy. Then I noticed I could hold eye contact easily with everyone except her. With her, I looked at the floor, the wall, my hands—anywhere but directly at her. My eyes knew what my heart was trying to hide from."*
 
-> **Field Note:** *"His eyes never moved. That's the only way I can describe it. Normal people look at your eyes, your mouth, glance away to think. He just... stared. Fixed. Like he was looking through me to something behind my face. I felt like prey being tracked. My therapist called it 'the predator gaze.' My body had been responding to it for years before I had words for why."*
+> **Field Note:** *"Her eyes never moved. That's the only way I can describe it. Normal people look at your eyes, your mouth, glance away to think. She just... stared. Fixed. Like she was looking through me to something behind my face. I felt like prey being tracked. My therapist called it 'the predator gaze.' My body had been responding to it for years before I had words for why."*
 
 ### The Freeze Frame
 
 You feel locked, stuck, unable to move or respond. Time seems to slow down. You're frozen mid-thought, mid-sentence, mid-action.
 
-> **Field Note:** *"He asked me a simple question—'Did you call the bank?'—and I went completely blank. I knew the answer. I just couldn't access it. I stood there like a deer in headlights while he sighed at my incompetence. I wasn't stupid. I was frozen."*
+> **Field Note:** *"She asked me a simple question—'Did you call the bank?'—and I went completely blank. I knew the answer. I just couldn't access it. I stood there like a deer in headlights while she sighed at my incompetence. I wasn't stupid. I was frozen."*
 
 ### The Flight Impulse
 
