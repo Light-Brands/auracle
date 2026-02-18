@@ -238,6 +238,17 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  [Join the Waitlist]                                    │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
+│  DECODER CARD TEASER — Featured card + free download    │
+│                                                         │
+│  Show 1 beautifully rendered decoder card inline        │
+│  (e.g., "The Gaslight Loop") as a visual preview.       │
+│  Next to it: "12 Decoder Cards — Free Download"         │
+│  with email capture. This gives visitors an immediate   │
+│  taste of the value before they download.               │
+│                                                         │
+│  [Email input]  [Get the Free Cards]                    │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
 │  NEWSLETTER SIGNUP — Substack integration               │
 │                                                         │
 │  "Join the field. Get early access, free resources,     │
@@ -439,7 +450,87 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 └─────────────────────────────────────────────────────────┘
 ```
 
-### 4E. About Page (`/about`)
+### 4E. Free Resources Page (`/free`)
+
+The lead magnet destination — where visitors download the free Decoder Cards PDF in exchange for an email address. This is the primary list-building page.
+
+**The Giveaway:** 12 Essential Decoder Cards — a professionally designed PDF featuring 12 manipulation patterns named and decoded, plus the 3-3-3 Rule and Emergency Protocol.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  HERO                                                   │
+│                                                         │
+│  "The Decoder Cards"                                    │
+│  12 Essential Patterns of Manipulation —                │
+│  Named and Decoded                                      │
+│                                                         │
+│  A free quick-reference guide from                      │
+│  See: The Truth That Was Hidden in Plain Sight          │
+│                                                         │
+│  [Email input]  [Get the Free Cards]                    │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  FEATURED CARDS — Show 2 decoder cards inline            │
+│                                                         │
+│  Display 2 cards directly on the page as a preview      │
+│  (e.g., "Concern as Control" and "The Gaslight Loop")   │
+│  so visitors can see the quality and format before       │
+│  downloading. Use the same card styling as the PDF:      │
+│  gold accent bar, card number, pattern name, "What       │
+│  They Say", "What's Really Happening", "Your Power       │
+│  Move" sections.                                        │
+│                                                         │
+│  These preview cards double as social-shareable          │
+│  content — consider making each card its own             │
+│  Open Graph image for sharing.                          │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  ALL 12 CARDS OVERVIEW — Grid showing all card titles    │
+│                                                         │
+│   1. Concern as Control                                 │
+│   2. The Gaslight Loop                                  │
+│   3. The Shame Dump                                     │
+│   4. Withholding as Punishment                          │
+│   5. The Moving Target                                  │
+│   6. Righteous Cruelty                                  │
+│   7. The Comparison Trap                                │
+│   8. Pity as Permission                                 │
+│   9. The Guilt Ledger                                   │
+│  10. Weaponized Vulnerability                           │
+│  11. Reality Revision                                   │
+│  12. The Future Promise                                 │
+│                                                         │
+│  + The 3-3-3 Rule and Emergency Protocol                │
+│                                                         │
+│  Design as a 3x4 or 4x3 grid of card-back-style        │
+│  tiles. Teaser only — titles visible, content blurred   │
+│  or hidden. Clicking any card triggers the download     │
+│  email capture.                                         │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  CTA — "Want the Full Playbook?"                        │
+│                                                         │
+│  These 12 cards are excerpted from See — which          │
+│  includes 60 manipulation patterns fully decoded.       │
+│                                                         │
+│  [Get See on Amazon]  [Get See on Gumroad]              │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  TESTIMONIALS — Reader testimonials (when available)     │
+│  Video embeds from YouTube + written quotes              │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Featured Decoder Cards on Other Pages:**
+
+In addition to the `/free` page, 1-2 decoder cards should appear as featured content in these locations:
+- **Home page** — In the newsletter signup section, show 1 card as a teaser with "Get all 12 free →"
+- **Volume 1 detail page** (`/books/sovereignty/see`) — Show 2 cards as a preview of what's inside
+- **Blog/social posts** — Individual cards formatted as shareable images (1080x1080 for Instagram)
+
+The decoder card component should be reusable across the site — same visual treatment everywhere.
+
+### 4F. About Page (`/about`)
 
 ```
 ┌─────────────────────────────────────────────────────────┐
