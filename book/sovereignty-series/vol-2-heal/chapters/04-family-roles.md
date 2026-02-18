@@ -112,6 +112,8 @@ It wasn't a choice. It was an assignment she accepted before she knew there was 
 
 **Mantra:** *"I don't have to carry this."*
 
+> **Variant: The Human Telephone.** In divorced families, parentification often takes a specific form: the child becomes the sole communication channel between parents who refuse to speak to each other. This isn't emotional caretaking — it's *communication labor*. The child carries messages about money, schedules, logistics, and resentment. They learn to translate, soften, and edit every message to prevent conflict. The hidden cost is identity erasure through forced neutrality — you can't have feelings about the situation when you're the system that makes it function. If this resonates, see Volume 5, Chapter 11: "The Human Telephone."
+
 ---
 
 ### 2. The Scapegoat
