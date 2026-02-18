@@ -200,6 +200,67 @@ Not arguing. Not conceding. Simply stating that two perspectives exist. Then end
 
 ---
 
+### When They Pathologize Your Personality
+
+This is different from "you're too sensitive." This is someone using spiritual, growth, or wellness language to reframe your *authentic personality* as a deficiency — and their provocation as your spiritual homework.
+
+The vocabulary changes depending on the environment. The move is always the same: **your reaction becomes a diagnosis, and their behavior disappears.**
+
+---
+
+**When they use spiritual language:**
+
+**Them:** "That's your ego." / "Your vibration is off right now." / "If you were really at peace, this wouldn't bother you." / "You still have specks of dust inside you — if you could get past them, you'd be as divine as you could be."
+
+🟢 "Maybe so. And this still needs to be addressed."
+🟡 *If they push:* "Peace doesn't require silence about things that aren't working."
+🔴 *If they keep diagnosing:* "You're describing my interior. I'm describing what happened. One of those moves us forward."
+
+---
+
+**When they use wellness or therapy language:**
+
+**Them:** "You're projecting." / "That's your trauma response, not mine." / "I'm just mirroring what's unresolved in you." / "Your nervous system is dysregulated — that's why you're reacting like this."
+
+🟢 "I appreciate the observation. The issue I raised still stands."
+🟡 *If they push:* "Whether I'm triggered or not doesn't change what happened."
+🔴 *If they keep redirecting:* "We started talking about [the issue]. Now we're talking about me. How did that happen?"
+
+---
+
+**When they use personal development language:**
+
+**Them:** "Leaders don't react like that." / "This is a growth opportunity for you." / "I'm just holding up a mirror." / "The fact that you're upset proves my point." / "If you had more emotional intelligence, you'd see this differently."
+
+🟢 "I hear you. And I'm still raising this because it matters."
+🟡 *If they push:* "Leaders also address problems directly. That's what I'm doing."
+🔴 *If they keep reframing:* "What outcome are you hoping for with this conversation?" — This exposes whether they want your growth or your silence. If they can't articulate a specific, actionable answer, they wanted control, not resolution.
+
+---
+
+**The universal responses (work across all framings):**
+
+These four lines work regardless of which vocabulary they're using:
+
+- "You're focusing on my tone. I'm focused on the issue. Which one moves us forward?"
+- "Maybe so. And this still needs to be addressed."
+- "What outcome are you hoping for with that observation?"
+- "I own my reaction. And the thing I reacted to still happened."
+
+---
+
+**Don't do:** Argue about whether you're "evolved enough," "healed enough," or "emotionally intelligent enough." Defend your personality. Apologize for being direct. Enter their frame and debate what's wrong with your interior — the moment you debate that, the conversation is about you instead of about their behavior.
+
+**The principle:** Being 100% positive doesn't mean being 100% silent. Frustration at dysfunction is discernment, not dissonance. If someone's "feedback" consistently requires you to be less of who you are, it's not guidance — it's diminishment wearing a spiritual costume.
+
+**The test:** Real growth-oriented feedback addresses specific behavior, comes from alongside you (not above you), and includes their accountability in the dynamic. Manipulative feedback comes after *they* provoked you, focuses on your character rather than a specific action, and conveniently erases their behavior from the conversation.
+
+**The trap to watch for:** If you're someone who values growth, you're especially vulnerable here — because you *want* to examine yourself. They exploit that willingness by making your self-examination the permanent subject, so their behavior is never the subject. Your openness to feedback becomes the door they walk through to avoid accountability.
+
+*See also: Chapter 3, Cards 30 (Moral Camouflage) and 31 (Authority Hijack); Vignette: "The Spiritual Diagnosis"*
+
+---
+
 ### When They're Revising Reality
 
 **Them:** "I never said that. You're making things up. That's not what happened."

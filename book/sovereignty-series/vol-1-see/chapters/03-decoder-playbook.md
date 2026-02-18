@@ -1341,15 +1341,22 @@ When you object, you're the one who's "not evolved enough" to understand.
 - "The universe told me to."
 - "It's my journey."
 - "I'm healing my shadow."
+- "These are just specks of dust still inside of you."
+- "If you could get past that, you'd be as divine as you could be."
+- "I'm just pointing out what's dissonant in your energy."
 
 **What's Really Happening:**
 Spirituality is being used as a shield against accountability. By wrapping harmful behavior in evolved-sounding language, they make criticism seem unspiritual, judgmental, or unenlightened.
 
+**The Workplace Variant:** This pattern is especially potent in professional settings where someone uses growth language to pathologize a colleague's personality. They provoke — then when you react, your reaction becomes a spiritual diagnosis. Your directness is "dissonance." Your passion is "specks of dust." Your frustration at broken systems is evidence that you haven't evolved. Meanwhile, the behavior that provoked four people goes unexamined — because the conversation is now about what's wrong with you. This isn't feedback. It's frame control using the vocabulary of healing.
+
 **How It Hooks You:**
-You feel like you can't challenge behavior that's dressed up as growth. You doubt your own "level of consciousness" for seeing harm. You enable in the name of supporting their journey.
+You feel like you can't challenge behavior that's dressed up as growth. You doubt your own "level of consciousness" for seeing harm. You enable in the name of supporting their journey. If you're someone who values growth, you're especially vulnerable — because you *want* to examine yourself. They exploit that willingness by making your self-examination the permanent subject, so their behavior is never the subject.
 
 **Your Power Move:**
-Real spirituality increases accountability, not decreases it. Watch for the gap between their words and their impact.
+Real spirituality increases accountability, not decreases it. Watch for the gap between their words and their impact. Ask: "If this person's feedback consistently requires me to be *less* of who I am — is this growth, or is this erasure?"
+
+*See also: Vignette: "The Spiritual Diagnosis"; Volume 7, Chapter 10 (The Spiritual Arbiter)*
 
 ---
 
