@@ -37,9 +37,8 @@ LightField Institute (umbrella)
 ├── Courses (structured learning)
 ├── Community (newsletter, circles, resources)
 └── ROSES OS (affiliate — RosesOS.com)
-    Jennifer is a therapist of the school, Guardian of the Hummingbird,
-    and leads branding. Offers rose meditation practice and free
-    pop-up aura readings (hummingbird sessions on Saturdays).
+    Jennifer is a therapist, rose meditation teacher, and
+    Guardian of the Hummingbird. She also leads branding.
     Cross-linked, not absorbed — separate site, shared audience
 ```
 
@@ -466,12 +465,10 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 ├─────────────────────────────────────────────────────────┤
 │  ROSES OS — Affiliated community                        │
 │                                                         │
-│  "Jennifer is a therapist of the school, Guardian of    │
-│  the Hummingbird, and leads branding for ROSES OS."     │
+│  "Jennifer is a therapist, rose meditation teacher,     │
+│  and Guardian of the Hummingbird at ROSES OS."           │
 │                                                         │
 │  Brief description + link to RosesOS.com                │
-│  Offerings: rose meditation practice, free pop-up aura  │
-│  readings (hummingbird sessions on Saturdays).           │
 │  Positions the relationship: Jennifer is a therapist    │
 │  and brand steward, not just a member.                  │
 │                                                         │
@@ -856,7 +853,7 @@ No structural redesign should be needed. The system is additive.
 - Add testimonials and reviews as they come in
 - Add "Start Here" quiz ("Which volume should I read first?")
 - Blog/articles integration (optional — could link to Substack)
-- **ROSES OS integration** — cross-link to RosesOS.com. Jennifer is a therapist of the school, Guardian of the Hummingbird, and leads their branding. Offerings include rose meditation practice and free pop-up aura readings (hummingbird sessions on Saturdays). The connection: LightField is the publishing/practitioner arm; ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jennifer teaches and practices" — drives traffic both ways without merging brands
+- **ROSES OS integration** — cross-link to RosesOS.com. Jennifer is a therapist, rose meditation teacher, Guardian of the Hummingbird, and leads their branding. The connection: LightField is the publishing/practitioner arm; ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jennifer teaches and practices" — drives traffic both ways without merging brands
 
 ### Phase 3 — Multi-Series (Energy Series)
 - Energy Series landing page
