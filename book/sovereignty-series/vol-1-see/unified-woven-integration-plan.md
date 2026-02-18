@@ -160,7 +160,66 @@ This is the "Aguanta, Mija" field note made flesh — except it wasn't spoken as
 - **Ch 4 (Trauma Bonds)** — in the section on why leaving feels impossible. Part of why leaving feels impossible is that she never saw a woman leave. She saw women beg. The neurological pathways for "man hurts you → you try harder" were laid down before she was old enough to question them.
 - **The cultural amplifier section** — because this doesn't happen in a vacuum. A Latina mother with multiple abusive boyfriends who cheated, begging them to stay, is doing what her culture and her circumstances trained her to do. Aguanta. Endure. A man is better than no man. The fear of being alone with children in a culture that judges single mothers is often stronger than the fear of the man himself.
 
-**The intergenerational thread:** Her mother begged abusive men to stay. She herself went back multiple times. The pattern didn't skip a generation — it refined itself. The question the book must answer is: how does it stop here?
+**The intergenerational thread:** Her mother begged abusive men to stay. She herself went back multiple times. The pattern didn't skip a generation — it refined itself. And now: her mother is with a man who calls her "Employee of the Month" and laminated her photo in the kitchen like a workplace award. The mother went from begging abusive men to stay to being treated like a subordinate in her own home — by a man who frames it as a joke. The pattern didn't end. It shapeshifted. The question the book must answer is: how does it stop here?
+
+### NEW: "Employee of the Month" — Ownership Disguised as Humor
+
+**New material from author:** Her mother's current boyfriend "playfully" calls her mother the Employee of the Month. He laminated her photo and put it in the kitchen. The author has the actual photo and could include it in the book (face blanked out).
+
+This is one of the most visually powerful examples in the entire manuscript. A man literally mounted a display of his authority on the kitchen wall — turning the woman's home into his workplace, where she is the employee and he is the manager evaluating her performance. In the *kitchen* — the room that, in Hispanic culture especially, is the woman's domain, her territory, her place of authority. He colonized it. He put a trophy up.
+
+And it's "playful." So:
+- You can't object without being too sensitive
+- You can't name it without being the one who ruined the joke
+- Everyone who sees it laughs, which means everyone who sees it participates in the humiliation
+- The lamination is permanent — he didn't tape up a piece of paper. He laminated it. He made it official. He invested effort into making his joke into a *fixture*.
+
+**What this actually is:**
+- **Infantilization** (Ch 3, Decoder Card) — treating an adult woman like a child receiving a gold star
+- **Ownership display** — her image is mounted on his wall, in his frame, by his decision. Her face is literally his decoration.
+- **Hierarchy establishment** — employer/employee. He evaluates. She performs. The "award" implies she could also be fired.
+- **Public performance** — everyone who enters the kitchen sees it. It normalizes the dynamic for witnesses. It teaches visitors: this is how it works here.
+
+**The photo:** If included (face blanked), this would be the only visual artifact in the book — a physical piece of evidence that these dynamics aren't theoretical. The reader could look at a real kitchen wall and see what ownership looks like when it's laminated and hung with a smile. This is a publishing decision (images add cost, the publisher would need to approve) but the option is powerful.
+
+**Where this belongs:**
+- **Ch 5 (Narcissist Types)** — under Covert Narcissist or the "playful" subtype. The humor that isn't humor. The joke that is a cage.
+- **Ch 3 (Decoder Playbook)** — as an example in the infantilization or ownership cards. "It's just a joke" is one of the most common containers for narcissistic control.
+- **Ch 12 (Manipulation Across Contexts)** — in the section on how narcissism operates in domestic/family settings
+- **The "Sovereignty Without Exit" framework** — because the author has to tolerate this man to see her mother. She can't confront him without risking access. She can see what he's doing. She can name it privately. She cannot change it without cost. This is exactly what "thriving while staying" looks like: you walk into the kitchen, you see the laminated photo, you know what it means, and you hug your mom anyway. The sovereignty is in the seeing — not in the confrontation.
+
+### NEW: The Threat to Leave — Two Versions of the Same Weapon
+
+**New material from author:**
+1. Mother's boyfriend threatens to leave — using abandonment threat as control
+2. Author's sister threatens to leave her own family, in front of the kids
+
+Same weapon, two contexts. The threat to leave is the inverse of the narcissist who won't let *you* leave. Both are about control. Both say: *Your stability depends on my decision to stay. I could revoke it at any time. Be grateful. Behave.*
+
+When this happens in front of children, it weaponizes them — the kids become the audience, the stakes, and the emotional hostages. The parent who threatens to leave in front of children is teaching those children: *Love is conditional. People you depend on can disappear. Your behavior determines whether they stay.*
+
+**Where this belongs:**
+- **Ch 3 (Decoder Playbook)** — the abandonment threat as a tactic. Pair with the suicide threat (Tactic 29) — both create hostage situations. The suicide threat says "if you leave, I'll die." The abandonment threat says "if you displease me, I'll leave." Same mechanism, different direction.
+- **Ch 7 (Family Roles & Triangulation)** — when the threat is performed in front of children, the children become triangulated. They learn to manage the threatening parent's mood to prevent departure. They become little regulators. They grow up to be people-pleasers.
+- **Ch 11 (Romantic Manipulation)** — for partners who use the threat to leave as leverage. This belongs alongside the intermittent reinforcement section — the person who oscillates between staying and threatening to go creates the same neurological hook as the slot machine.
+- **The sister section** — the author's sister threatens to leave her family in front of the kids. This connects to the author's own experience of the sister's wrath (confirmed in passage #12 above). The sister learned the same template the author did — but deployed it differently. The author became the one who stays too long. The sister became the one who threatens to leave. Same wound, opposite expression.
+
+### NEW: The Sister — Sovereignty in Practice
+
+**The author's current reality:** She and her sister aren't really speaking. She stopped making an effort. And it's *freeing*.
+
+This is not no-contact. This is not a dramatic break. This is the quietest form of sovereignty: she just stopped being the one who tries. No announcement. No confrontation. No wrath to endure. Just... less. Fewer calls. Fewer attempts. The relationship didn't end with a door slamming. It ended with a door quietly closing.
+
+And the result — freeing. Not painful. Not guilty. *Free.*
+
+**Why this matters for the book:** This is the most honest version of "Sovereignty Without Exit." She didn't confront. She didn't go no-contact. She didn't send a letter or set a boundary out loud. She just stopped volunteering for the pain. The relationship still technically exists. She could still call. The sister could still call. But the energy she was spending — the fifteen-minute calls that knocked her out for three hours — she just... stopped offering it.
+
+This is what many readers will actually do. Not the dramatic exit. Not the brave confrontation. The quiet withdrawal. The slow exhale. And the book should name this as valid — not as cowardice, not as avoidance, but as a form of self-protection that doesn't require anyone else's permission or participation.
+
+**Where this belongs:**
+- **Ch 10 (Family Breaking Free)** — as a named alternative to both no-contact and low-contact. Call it what it is: **the quiet release**. Not severing. Not confronting. Just... ceasing to be the one who reaches.
+- **The "Sovereignty Without Exit" framework** — as the primary example of what sovereignty looks like when it's not loud. The framework should include a section called something like "The door you close quietly" or "What it looks like when you just stop."
+- **The author's own voice** — this should be first-person. "I stopped making the effort. And for me, it was really freeing." That sentence — said by the author who has been through everything this book describes — gives the reader permission to do the same thing without guilt.
 
 ---
 
