@@ -59,6 +59,7 @@ These carry the author's name and voice. They are the anchor points that make ev
 | **"Your neck is so small I could snap it with one hand"** — threat disguised as observation | Ch 3: Threats/Intimidation decoder; Ch 11: Escalation | Personal. Violence wrapped in the language of intimacy. The threat that doesn't sound like a threat. |
 | **"You're too sensitive"** — the universal dismissal, culturally amplified | Ch 3: Gaslighting decoder (Card 1); Cultural amplifier sections | Personal. Double-weaponized: machismo says sensitivity is weakness + narcissist says your perception is wrong. |
 | **Food control and criticism** — what you eat, how much, when, whether it's acceptable | Ch 3: Decoder Card 9 expansion; Ch 5: Enmeshment section | Personal. In Jewrican context, food carries two cultures' emotional vocabularies — weaponizing it attacks body, autonomy, and heritage simultaneously. |
+| **The coming out that never happened** — bisexual, went to tell mom, boyfriend threw around "Dyke," mom laughed and agreed, got embarrassed, said nothing. Still hasn't told her. | Ch 7: LGBTQ+ field note (replaces/supplements "Open Secret" composite); Ch 8: "When Your Identity Becomes Their Wound"; Ch 9: "Acceptance Must Be Earned" | Personal. The most powerful LGBTQ+ material in the book because the coming out *didn't happen*. The silence is the story. Pre-rejection through casual cruelty. Strategic quiet as self-preservation. |
 
 ### Anonymous Composites — Other Communities' Experiences
 
@@ -67,7 +68,7 @@ These protect sources and extend reach beyond the author's direct experience:
 | Example/Field Note | Location in Plan | Why Anonymous |
 |---|---|---|
 | **LGBTQ+ first love** — "She was the first person I ever loved as myself" | Ch 11: Romantic Manipulation | Not the author's lived experience. Composite protects queer survivors. |
-| **Gay child coming out** — outed by narcissistic parent as control | Ch 11: Identity as leverage | Community-sourced. Anonymize. |
+| **Gay child coming out** — outed by narcissistic parent as control | Ch 11: Identity as leverage | Community-sourced. Anonymize. **Note:** The "Open Secret" field note in Ch 7 (coming out at sixteen) remains a composite, but is now supplemented by the author's own bisexual coming-out story — the coming out that *never happened* because the environment pre-rejected her. The composite shows what happens when you come out. The author's story shows what happens when you *can't*. Both are needed. |
 | **Immigrant debt** — "He has papers. He has a job. ¿Qué más quieres?" | Ch 10: Immigrant Debt field note | Composite from multiple stories. |
 | **Male survivor** — "Men don't get abused" | Ch 11: Male survivor integration | Not the author's lived experience. |
 | **Religious community** — pastor as flying monkey | Ch 11: Religious marriage cage | Can draw on personal knowledge but frame as composite to protect specific congregations. |
@@ -88,6 +89,7 @@ These are real, not reconstructed. They carry the weight of specificity that com
 - **The nail polish** — a specific color becoming an argument
 - **The body scan before leaving the house** — the anticipatory inventory of what might trigger a scene
 - **The relief after a normal dinner** — shoulders dropping, breath releasing, the realization that relief after normalcy is itself a diagnostic
+- **The coming out that never happened** — bisexual, walked in ready to tell her mother, the boyfriend was throwing around "Dyke" talking about two women together, the mother agreeing and laughing, the embarrassment flooding in, the words dying before they reached her mouth, walking out with the truth still locked inside. And the aftermath: still hasn't told her. "What's the point. Sharing leaves me vulnerable for ridicule." The strategic quiet — getting silent around people who dig for weaknesses. The room that pre-rejected her before she spoke. The boyfriend who became a gatekeeper without knowing there was a gate. The mother's laughter that was the lock.
 - **Going back multiple times** — the specific number doesn't matter, but the pattern does: each attempt, bigger system response, each return a little more broken, until the cost equation finally flips
 - **"Your neck is so small and delicate... I could snap it"** — Both parts happened. First the marveling — repeated, almost admiring, turning the observation over like he was noticing something beautiful about how fragile you are. And then the explicit part too. The manuscript (Ch 11, line 505) has the second half ("I could snap it with one hand") but not the first. The real version is worse than either half alone because the admiration *preceded* the threat. He appreciated your fragility before he named what he could do with it. The tenderness and the violence were the same gesture. This needs both halves in the book — the marveling followed by the snap — because that's how it actually works: the compliment is the setup, the threat is the punchline, and afterward you can't separate the two. Every time someone admires something about your body, your neck remembers. It belongs in the decoder cards on threats/intimidation (Ch 3) and in the body-level responses section.
 - **"You're too sensitive"** — the universal dismissal, but in this context it does double work. In machismo culture, sensitivity is weakness. In the narcissistic system, your perception is always wrong. When the culture and the narcissist agree that your feelings are the problem, you have nowhere to stand. "Too sensitive" isn't feedback. It's a silencing tool. It teaches you to distrust every feeling until you can't feel anything at all. This belongs in the gaslighting decoder (Ch 3, Card 1) and in the cultural amplifier sections — because "too sensitive" in a culture that prizes strength/endurance isn't just one person's opinion. It's the whole system nodding along.
@@ -242,6 +244,65 @@ This is what many readers will actually do. Not the dramatic exit. Not the brave
 - **Ch 10 (Family Breaking Free)** — as a named alternative to both no-contact and low-contact. Call it what it is: **the quiet release**. Not severing. Not confronting. Just... ceasing to be the one who reaches.
 - **The "Sovereignty Without Exit" framework** — as the primary example of what sovereignty looks like when it's not loud. The framework should include a section called something like "The door you close quietly" or "What it looks like when you just stop."
 - **The author's own voice** — this should be first-person. "I stopped making the effort. And for me, it was really freeing." That sentence — said by the author who has been through everything this book describes — gives the reader permission to do the same thing without guilt.
+
+### NEW: The Coming Out That Never Happened — Silence as Self-Preservation
+
+**New material from author:** She is bisexual. The day she went to tell her mother, her mom's boyfriend started throwing around the word "Dyke" — talking about two women together — and her mother agreed and laughed. She got embarrassed and didn't say anything. She still hasn't told her.
+
+This is one of the most quietly devastating moments in the book. Not because of what was said — but because of what it prevented. She walked in with her truth. She walked out with it still locked inside. Not because anyone rejected her. Because the environment made it clear, before she even spoke, that her truth would be met with ridicule.
+
+**What actually happened in that room:**
+
+The boyfriend wasn't targeting her. He didn't know. He was just talking — casually, performatively — using "Dyke" like it was a punchline. And her mother didn't just tolerate it. She *agreed*. She *laughed*. The two people she would have been coming out to were, in that exact moment, demonstrating what they thought of people like her.
+
+She didn't get rejected. She got *pre-rejected*. The rejection happened before the conversation. The laughter was the door slamming shut before she could knock.
+
+**Why she still hasn't told her:**
+
+Her own words: "What's the point. Sharing leaves me vulnerable for ridicule. So I get quiet around certain people that are digging for weaknesses to make fun of me about."
+
+This is not closeted silence born of shame. This is *strategic* silence born of pattern recognition. She learned — in that single moment — that certain people treat vulnerability as material. They dig for weaknesses. They collect ammunition. And sharing something this fundamental with someone who has already shown you what they'll do with it isn't bravery. It's self-harm.
+
+The quiet isn't cowardice. The quiet is *intelligence*. She read the room. She assessed the cost. And she decided her truth was worth more than their approval. She kept it for herself — not because she's ashamed of it, but because she refuses to hand it to people who would use it to diminish her.
+
+**What this teaches the reader:**
+
+- **You don't owe anyone your coming out.** Not your mother. Not your family. Not anyone who has shown you, through their words or their laughter, what they'll do with that information.
+- **Silence can be sovereignty.** Not all silence is oppression. Sometimes silence is the most powerful choice you have — keeping the sacred parts of yourself away from people who would mock them.
+- **The environment tells you everything.** You don't need to test the water by jumping in. Sometimes the water tells you it's freezing before you take off your shoes. She listened. She believed it. That's not failure. That's self-preservation.
+- **Pre-rejection is still rejection.** The narcissistic system doesn't have to wait for your disclosure. It can reject you preemptively — through casual cruelty, through humor, through the laugh that says "people like you are a joke." The person who hears that laugh and keeps their truth to themselves isn't hiding. They're protecting something precious from people who have already told you they won't be careful with it.
+
+**The connection to "getting quiet":**
+
+"I get quiet around certain people that are digging for weaknesses to make fun of me about." This pattern — the strategic quiet — is the same survival mechanism she used in the narcissistic relationship. The body scan before leaving the house. The anticipatory compliance. The reading of the room. Except here, the room isn't one narcissist. It's every environment where vulnerability is currency for mockery.
+
+She learned this in the relationship. She uses it now with her family. The skill that kept her safe from one narcissist keeps her guarded from others. The question the book asks is: when does protective silence become a prison? When does the smart choice become the only choice? And is there a version of coming out that doesn't require the other person to be safe — a coming out to *yourself* that is complete regardless of who else knows?
+
+**Where this belongs in the book:**
+
+- **Ch 7 (Family Roles & Triangulation)** — This could replace or supplement the anonymous "Open Secret" field note currently in the plan. That field note is a composite about someone who came out at sixteen. *This* is the author's actual experience — and it's more devastating because the coming out never happened. The silence itself is the story. If the author is willing to claim this as first-person, it becomes the most powerful LGBTQ+ field note in the book — because it's not about rejection. It's about the rejection that happens before you speak.
+
+- **Ch 8 (Parental Wounds) — "When Your Identity Becomes Their Wound"** — Currently this section describes parents who absorb your identity into their narrative. But this is the *precursor*: the parent who doesn't even know your identity, but whose casual cruelty makes disclosure impossible. The wound isn't "I told her and she made it about herself." The wound is "I couldn't tell her at all."
+
+- **Ch 9 (Childhood Patterns)** — In the "Acceptance Must Be Earned" section. This is what conditional acceptance looks like from the *outside*: you watch how they treat the concept of people like you, and you learn that acceptance would come with a cost you're not willing to pay. So you don't ask for it. You don't even apply.
+
+- **The "Sovereignty Without Exit" framework** — This IS sovereignty without exit. She didn't leave her mother. She didn't confront the boyfriend. She just... kept her truth. She chose herself over their approval. That's sovereignty. It's just the quietest version of it.
+
+- **Ch 16 (Scripts)** — Under "When the environment tells you it's not safe":
+
+  > **When someone uses slurs casually and your family laughs:**
+  >
+  > You don't have to correct them. You don't have to come out. You don't have to educate. You can simply *note it*: this person just showed me who they are. This room just showed me what it does with people like me. I will act accordingly.
+  >
+  > The "action" might be silence. That's valid. The action might be leaving early. That's valid. The action might be filing this information away and never, ever handing these people the parts of yourself they'd use as a punchline.
+  >
+  > You are not obligated to be brave in hostile territory. You are obligated to survive.
+
+**The boyfriend's role — the gatekeeper who doesn't know he's a gatekeeper:**
+
+The boyfriend wasn't performing targeted homophobia. He was performing *casual* homophobia — the kind that doesn't know it's homophobia, the kind that thinks it's just conversation, just humor, just words. And that's exactly what makes it so effective as a silencer. Targeted bigotry you can fight. Casual bigotry you can only witness — and learn from. He became the gatekeeper to her coming out without ever knowing there was a gate.
+
+And her mother's laughter was the lock.
 
 ---
 
@@ -971,6 +1032,7 @@ Vol 1 is **SEE** — recognition, naming, the moment the reader says "oh my God,
 | The access gate (three women, three bottlenecks) | Recognition: "I tolerate someone to reach someone I love" |
 | The threat to leave (boyfriend + sister in front of kids) | Recognition: abandonment threat as weapon |
 | The quiet release with sister | Recognition: sovereignty doesn't have to be loud |
+| The coming out that never happened (bisexual, boyfriend's "Dyke" slur, mom's laughter, silence) | Recognition: pre-rejection through casual cruelty; strategic silence as self-preservation; "I get quiet around people who dig for weaknesses" |
 | Lost voice for weeks (somatic) | Recognition: the body silencing itself |
 | "Years later he couldn't believe I was upset" (the 98) | Recognition: the second wound of minimization |
 
