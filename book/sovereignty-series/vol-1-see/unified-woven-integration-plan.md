@@ -774,6 +774,32 @@ This is a different shape of the same silencing. Not the strategic quiet she use
 
 ---
 
+### NEW: "The Damage You Bring Forward" — When the Next Relationship Inherits the Last One
+
+**This is a separate dynamic from the dinner party silencing and deserves its own treatment.**
+
+The dinner party is about the ex's world — a room full of his people where the author learned to disappear. That's conditioning. That's what the narcissistic system taught her.
+
+But the demotion — the passive-aggressive sarcasm, the contempt that leaks sideways, the humor that carries a blade — that's about the *current* relationship. That's what happens when unprocessed damage from the relationship you survived lands on the person who didn't create it.
+
+Nobody talks about this. The narcissistic abuse literature ends at "you left." Or "you're healing." It doesn't cover the part where you're in a new relationship and you can feel yourself doing something wrong — something corrosive — and you can *name* it but you can't stop it. You see the contempt. You hear the sarcasm. You know it's not fair. And you do it anyway because the alternative — being direct, being vulnerable, asking for what you need — requires a kind of safety your nervous system doesn't believe in yet.
+
+**What the reader needs to see:**
+- The narcissistic relationship didn't just damage you *in* that relationship — it installed patterns that follow you into the next one
+- Contempt, passive aggression, sarcasm, withdrawal — these aren't personality flaws. They're survival skills that outlived their context
+- You can SEE yourself doing it. That's the first book. Naming it is sovereignty. Fixing it is the next volume.
+- The current partner isn't the problem. But the current partner is *experiencing* the problem. And that's a truth the book has to be honest about.
+
+**Where this belongs:**
+- **Ch 4 (Trauma Bonds)** — new subsection: "What You Carry Forward." After the bond breaks, the patterns don't. The reader who left the narcissist and found a good partner still flinches. Still goes quiet. Still punishes sideways instead of asking directly.
+- **Ch 11 (Romantic Manipulation)** — as a mirror section: "The manipulation you learned." Not accusing the reader of being a narcissist — but honestly naming that narcissistic systems teach you narcissistic coping. Contempt. Control through withdrawal. Sarcasm as a weapon. These are learned behaviors, and the reader deserves to see them without shame.
+- **The "Sovereignty Without Exit" framework** — because sovereignty in the current relationship means seeing what you're doing to it. Not just seeing what was done to you. The framework's point #5 (the witness position) applies here too: "There it is again" — except this time, you're watching *yourself*.
+- **Bridge to Volume 2** — this is the clearest signal that SEEing isn't enough. The reader who recognizes this pattern in themselves needs the next book. Volume 1 gives them the diagnosis. Volume 2 gives them the treatment.
+
+**Legal note:** This material must be fully anonymized in the manuscript. No identifying details about the current partner. Present as composite or second-person: "You find yourself demoting him. Not out loud, maybe. But in your head, he's shrinking. And you know it's not about him."
+
+---
+
 ### Chapter 7: Family Roles & Triangulation
 
 **New subsection: "When the Whole Community Is the Triangle"**
