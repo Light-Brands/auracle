@@ -115,7 +115,7 @@ This work was brutally honest. I had to own my part in allowing toxic dynamics t
 
 ### Advanced Training & Certifications
 
-Meeting **Angelina Ataíde**, Portuguese founder of Escola da Aura in the chapadas region of Brazil, saved my spirit. In 2025, this journey crystallized into the founding of **ROSES OS**.
+Meeting **Angelina Ataíde**, Portuguese founder of Escola da Aura in the chapadas region of Brazil, saved my spirit. In 2025, Jennifer joined the first cohort of **ROSES OS**, where she became a therapist of the school and Guardian of the Hummingbird.
 
 ---
 
