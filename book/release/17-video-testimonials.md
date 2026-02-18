@@ -1,17 +1,30 @@
-# Video Testimonials — LightField Institute
+# Testimonials — LightField Institute
 
-## YouTube Video Testimonials for Website Integration
+## All Testimonials: Video, Written, and Screenshot
 
-All testimonial videos are hosted on YouTube and embedded on the site. This file tracks
-all video testimonials, their YouTube URLs, and where they should appear on the website.
+This file tracks all testimonials — video (YouTube), written quotes, and screenshot
+images (text messages, DMs, emails, social comments). Each entry includes where it
+should appear on the website.
 
 ---
 
 ## How to Add a New Testimonial
 
+### Video
 1. Upload the video to YouTube (unlisted or public)
 2. Add the entry below with: name, YouTube URL, type, date, and placement
 3. The website embeds videos using YouTube's iframe embed — no video hosting needed
+
+### Written
+1. Add the entry in the Written Testimonials section below
+
+### Screenshot / Image
+1. Save the image file to `book/release/testimonials/` (create folder if needed)
+2. Use naming convention: `testimonial-[name]-[type]-[number].png`
+   (e.g., `testimonial-sarah-session-01.png`, `testimonial-anonymous-book-03.jpg`)
+3. Add the entry in the Screenshot Testimonials section below
+4. **Privacy:** Redact last names, profile photos, or identifying info before saving
+   unless the person has given explicit permission to use their full identity
 
 ---
 
@@ -115,14 +128,79 @@ For text-only testimonials (no video), add them here:
 
 ---
 
+## Screenshot / Image Testimonials
+
+For testimonials that are screenshots of text messages, DMs, emails, social media
+comments, or any image-based proof. Store image files in `book/release/testimonials/`.
+
+### Screenshot 1
+
+| Field | Value |
+|-------|-------|
+| **Name** | |
+| **Image File** | `book/release/testimonials/` |
+| **Source** | Text message / DM / Email / Instagram / Facebook / Other |
+| **Type** | Session / Book / General |
+| **Date** | |
+| **Key Quote** | (Transcribe the main quote from the image for accessibility + SEO) |
+| **Privacy** | Full name approved / First name only / Anonymous |
+| **Website Placement** | |
+
+---
+
+### Screenshot 2
+
+| Field | Value |
+|-------|-------|
+| **Name** | |
+| **Image File** | `book/release/testimonials/` |
+| **Source** | Text message / DM / Email / Instagram / Facebook / Other |
+| **Type** | Session / Book / General |
+| **Date** | |
+| **Key Quote** | |
+| **Privacy** | Full name approved / First name only / Anonymous |
+| **Website Placement** | |
+
+---
+
+### Screenshot 3
+
+| Field | Value |
+|-------|-------|
+| **Name** | |
+| **Image File** | `book/release/testimonials/` |
+| **Source** | Text message / DM / Email / Instagram / Facebook / Other |
+| **Type** | Session / Book / General |
+| **Date** | |
+| **Key Quote** | |
+| **Privacy** | Full name approved / First name only / Anonymous |
+| **Website Placement** | |
+
+---
+
+### Screenshot 4
+
+| Field | Value |
+|-------|-------|
+| **Name** | |
+| **Image File** | `book/release/testimonials/` |
+| **Source** | Text message / DM / Email / Instagram / Facebook / Other |
+| **Type** | Session / Book / General |
+| **Date** | |
+| **Key Quote** | |
+| **Privacy** | Full name approved / First name only / Anonymous |
+| **Website Placement** | |
+
+---
+
 ## Website Placement Guide
 
 | Page | Testimonials Shown | Format |
 |------|--------------------|--------|
-| **Home** | 1 featured video + 2 written quotes | Large video embed + quote cards |
-| **The Auracle** | Session-type testimonials | Video embeds + written quotes |
-| **Volume Detail Pages** | Book-specific testimonials | Written quotes (video if available) |
-| **Free Resources (/free)** | General testimonials | 1-2 written quotes near download CTA |
+| **Home** | 1 featured video + 2 written/screenshot | Large video embed + quote cards or screenshot gallery |
+| **The Auracle** | Session-type testimonials | Video embeds + written quotes + screenshot carousel |
+| **Volume Detail Pages** | Book-specific testimonials | Written quotes + screenshots (video if available) |
+| **Free Resources (/free)** | General testimonials | 1-2 written quotes or screenshots near download CTA |
 
 ### YouTube Embed Settings
 
@@ -133,4 +211,15 @@ For text-only testimonials (no video), add them here:
 
 ---
 
-*Fill in YouTube URLs as videos are uploaded. The website pulls from this file for testimonial content.*
+### Screenshot Display on Website
+
+- Display as a styled image card with subtle shadow and rounded corners
+- Always include the transcribed key quote as alt text (accessibility + SEO)
+- On mobile: full-width, swipeable carousel
+- On desktop: masonry grid or 2-3 column layout mixed with written quotes
+- Clicking a screenshot can open a lightbox for full-size viewing
+- Respect privacy settings — blur or crop identifying info as noted per entry
+
+---
+
+*Fill in YouTube URLs, written quotes, and screenshot files as they become available. Store all image testimonials in `book/release/testimonials/`.*
