@@ -33,3 +33,6 @@ pids
 *.pid.lock
 ai-coding-config/
 tsconfig.tsbuildinfo
+
+# Python
+__pycache__/
