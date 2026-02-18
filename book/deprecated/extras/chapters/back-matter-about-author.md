@@ -149,7 +149,7 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 *With love and fierce protection,*
 
 **Jae**
-*Jennifer Brooke*
+*Jennifer Brooke Lawless*
 
 ---
 

@@ -179,7 +179,7 @@ To help others discover their highest potential and walk the path of healing and
 *With love and fierce protection,*
 
 **Jae**
-*Jennifer Brooke*
+*Jennifer Brooke Lawless*
 
 ---
 
