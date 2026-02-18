@@ -508,7 +508,7 @@ Then came the **trivial demands as compliance tests**: "Get me another popsicle.
 
 The aftermath involved **reversal of blame** (Tactic 18): "If you had just done what I wanted in the first place, none of this would have happened. This is your fault." The explosion was reframed as a reasonable response to non-compliance.
 
-Throughout the relationship, there had been ongoing **appearance control** (Tactic 9): Critiquing hair color in public—at appointments, in front of others. Demanding "neutral" hair and nails—no red hair, no sparkles—especially when seeing his friends. Dictating how she presented herself to ensure she reflected well on him and remained "appropriate."
+Throughout the relationship, there had been ongoing **appearance control** (Tactic 9): Critiquing hair color in public at the salon. Demanding "neutral" hair and nails—no red hair, no sparkles—especially when seeing his friends. Dictating how she presented herself to ensure she reflected well on him and remained "appropriate."
 
 **Tactics in Play:**
 
