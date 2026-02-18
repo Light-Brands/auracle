@@ -35,7 +35,11 @@ LightField Institute (umbrella)
 │   Jennifer's practitioner identity; word-of-mouth booking destination
 │   Connect-first flow (WhatsApp / email), not calendar widget
 ├── Courses (structured learning)
-└── Community (newsletter, circles, resources)
+├── Community (newsletter, circles, resources)
+└── ROSES OS (affiliate — RosesOS.com)
+    Jennifer is a therapist, rose meditation teacher, and
+    Guardian of the Hummingbird. She also leads branding.
+    Cross-linked, not absorbed — separate site, shared audience
 ```
 
 ### Alternative Names Considered
@@ -457,6 +461,18 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  CONNECT — Instagram (@jae.lawless), email, newsletter   │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
+│  ROSES OS — Affiliated community                        │
+│                                                         │
+│  "Jennifer is a therapist, rose meditation teacher,     │
+│  and Guardian of the Hummingbird at ROSES OS."           │
+│                                                         │
+│  Brief description + link to RosesOS.com                │
+│  Positions the relationship: Jennifer is a therapist    │
+│  and brand steward, not just a member.                  │
+│                                                         │
+│  [Visit ROSES OS →]                                     │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -685,7 +701,7 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 │  Sovereignty    Thematic       About         Instagram  │
 │  Energy         Couples        Newsletter    YouTube    │
 │  Free Resources Business       Research       Email     │
-│                 Group          WhatsApp                  │
+│                 Group          ROSES OS      WhatsApp   │
 │                 Chakra Journey                           │
 │                                                         │
 │  ─────────────────────────────────────────────────────  │
@@ -837,6 +853,7 @@ No structural redesign should be needed. The system is additive.
 - Add testimonials and reviews as they come in
 - Add "Start Here" quiz ("Which volume should I read first?")
 - Blog/articles integration (optional — could link to Substack)
+- **ROSES OS integration** — cross-link to RosesOS.com. Jennifer is a therapist, rose meditation teacher, Guardian of the Hummingbird, and leads their branding. The connection: LightField is the publishing/practitioner arm; ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jennifer teaches and practices" — drives traffic both ways without merging brands
 
 ### Phase 3 — Multi-Series (Energy Series)
 - Energy Series landing page

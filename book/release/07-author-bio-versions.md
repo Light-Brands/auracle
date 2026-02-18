@@ -36,7 +36,7 @@ Her healing journey led her beyond traditional therapy—through shadow work, ne
 
 Today, Jennifer lives in Costa Rica surrounded by community, where she offers healing sessions and integration work through Light Brands and Light Field Institute. Her book—*See*—was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
-**Connect:** LightBrands.ai | LightField.Institute (Counseling & Research) | @jae.lawless | lightfieldlawless@gmail.com
+**Connect:** LightBrands.ai | LightField.Institute (Counseling & Research) | @jae.lawless | LightFieldInstitute@gmail.com
 
 ---
 

@@ -10,14 +10,14 @@
 - [ ] Account approved
 
 ### Gumroad
-- **Email:** lightfieldlawless@gmail.com
+- **Email:** LightFieldInstitute@gmail.com
 - **Stripe:** Connected to same email
 - **Status:** Account created
 - [ ] Profile setup with author bio
 - [ ] Test payment flow completed
 
 ### Substack
-- **Email:** lightfieldlawless@gmail.com
+- **Email:** LightFieldInstitute@gmail.com
 - **Handle:** @jenniferbrookelawless
 - **Status:** Account created
 - [ ] About page written
@@ -38,9 +38,9 @@
 | Platform | Email | Handle |
 |----------|-------|--------|
 | Amazon KDP | happylawless9@gmail.com | — |
-| Gumroad | lightfieldlawless@gmail.com | — |
-| Stripe | lightfieldlawless@gmail.com | — |
-| Substack | lightfieldlawless@gmail.com | @jenniferbrookelawless |
+| Gumroad | LightFieldInstitute@gmail.com | — |
+| Stripe | LightFieldInstitute@gmail.com | — |
+| Substack | LightFieldInstitute@gmail.com | @jenniferbrookelawless |
 | Instagram | — | @thesovereigntyseries |
 
 ---

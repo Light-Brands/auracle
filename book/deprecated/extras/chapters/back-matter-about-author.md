@@ -54,7 +54,7 @@ In that moment, Jennifer's path became crystal clear. She had found the modality
 
 Jennifer's journey with Escola da Aura has taken her deep into the practice of aura therapy—a unique modality utilizing clairvoyance to read the auric field and receive messages directly from Source.
 
-In 2025, this journey crystallized into the founding of the International School of Aura and Dreams, ROSES OS.
+In 2025, Jennifer joined the first cohort of ROSES OS, where she became a therapist of the school and Guardian of the Hummingbird.
 
 **Influences:**
 - Aaron Doughty (mindset and personal development)
