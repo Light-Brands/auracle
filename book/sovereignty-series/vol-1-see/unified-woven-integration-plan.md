@@ -39,6 +39,10 @@ Same wolf. Different clothing. One integration pass.
 
 **Why this matters:** The book's credibility on collectivist narcissism comes from having survived at the intersection — Jewrican, machismo culture + Jewish guilt, two collectivist systems compounding. The reader needs to know this person isn't theorizing. She broke through the religious conditioning AND the cultural conditioning. She lived it. She got out.
 
+**Critical distinction the book must make:** The author left her relationships. She never left her family. Not her brother (who chose no-contact with their mother for self-preservation), not her sister (from whom she quietly withdrew), not her mother and her mother's boyfriend whom she chooses to continue being around, not her father. The family is intact — complicated, guarded, sometimes painful, but intact. This is not a no-contact success story. This is the real version: you leave the romantic relationships that are destroying you, and you stay in the family that shaped you. Both require different kinds of sovereignty. The book covers both.
+
+**Professional experience:** The author also worked with women in special housing circumstances — both in and out of these difficult relationships. This isn't just personal knowledge. She witnessed the pattern from the other side: women navigating the impossible math of leaving or staying, the housing instability, the system that often fails them. This professional experience informs the book's practical understanding of what "leaving" actually costs and what "staying" actually requires.
+
 **The hybrid approach:**
 
 ### First-Person ("I/my") — Author's Direct Experience
