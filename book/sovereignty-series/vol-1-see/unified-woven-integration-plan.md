@@ -133,6 +133,94 @@ Change 3-4 existing tactic examples to use she/she, he/he, or they/them pronouns
 
 ---
 
+### Chapter 5 (continued): Enmeshment as Cultural Norm
+
+**New subsection: "When Enmeshment Is Called Closeness"**
+
+> In individualist cultures, enmeshment — the collapse of boundaries between family members — is recognized as dysfunction. In collectivist cultures, it's called *family*.
+>
+> The mother who tells her adult son what to wear. The son who has opinions about how his mother dresses. The husband who speaks about his wife as though she's an extension of himself — *his* woman, *his* family, *his* home. The parent who considers a child's boundaries a personal rejection. None of this registers as abnormal in systems where the individual is expected to dissolve into the family unit.
+>
+> **What culturally normalized enmeshment looks like:**
+>
+> - A man who dictates his partner's hair, clothes, nail polish — and frames it as standards, taste, or "wanting her to look her best." The culture reads this as a man who cares. The partner experiences it as ownership.
+> - A mother-son bond where he manages her appearance and she manages his emotional world — and everyone calls it beautiful. "Such a good son." "So devoted."
+> - A family where there is no private information. Your salary, your therapy, your marriage problems — all shared, all discussed, all adjudicated by the collective. Privacy isn't healthy — it's suspicious.
+> - Language itself reinforcing ownership: "mi mujer" (my woman), "mi viejo" (my old man) — possessive framing so normal it's invisible.
+>
+> **Why this matters for the book's framework:**
+>
+> Chapter 3's decoder cards treat appearance control (Tactic 9: The Aesthetic Seesaw) and enmeshment as standalone manipulation patterns. But in collectivist cultures, these patterns are *baseline*. A reader from a machismo or traditional Jewish household may read Card 9 and think: "That's just how my husband is. That's just how our family works." The tactic doesn't register as a tactic because the culture already normalized it.
+>
+> The integration must help readers distinguish between **cultural closeness** and **narcissistic enmeshment** — because they look identical from the outside. The difference is always the same: does this closeness make you more yourself, or less?
+
+---
+
+### Chapter 11 (addition): "When Ownership Is Performed in Public"
+
+**New subsection under Romantic Manipulation: "Public Scenes as Cultural Power Display"**
+
+> Some narcissistic behaviors don't happen behind closed doors. They happen in the Louis Vuitton store. At the hair salon. In the yoga class. In front of your friends.
+>
+> **What it looks like:**
+>
+> He causes a scene at a luxury store to get a zipper replaced — not because the zipper matters, but because the scene itself is the point. The staff scrambles. The other customers watch. You stand there, small, mortified. He wins. And on the way out, he's calm. Smiling, even. Because that performance wasn't about the bag. It was about demonstrating — to you, to the room, to the world — that he takes what he wants and no one stops him.
+>
+> She yells at the hair salon because your color isn't right — not your dissatisfaction, *her* dissatisfaction with *your* appearance. She corrects the stylist as though she's the client and you're the product being serviced.
+>
+> He raises his voice in the yoga class, breaking the silence, breaking the peace, breaking the room — and you feel the shame radiating off you like heat. Everyone looks. You want to disappear.
+>
+> He berates the waiter in front of your friends. He critiques your outfit before you leave the house. He comments on your body in front of his family. Each public moment is a small ceremony of dominance — and you are the congregation being reminded who's in charge.
+>
+> **What it does to you:**
+>
+> - **Embarrassment becomes a control tool.** You learn to avoid anything that might trigger a scene. You preemptively comply — wearing what he wants, saying what he wants, being who he wants — because the public alternative is unbearable.
+> - **Fear of the scene replaces fear of the person.** You're not afraid of *him* exactly. You're afraid of what he'll do *in front of people*. The humiliation is worse than the abuse. So you manage him like a live wire — constantly scanning, anticipating, defusing.
+> - **You become his reputation manager.** Your job is to make sure he doesn't erupt. When he does, you apologize — to the staff, to your friends, to the room. You clean up his wreckage and feel grateful when it's over.
+> - **Isolation through embarrassment.** You stop going to yoga. You stop bringing friends around. You stop going to restaurants. Not because he forbids it — because you can't survive another scene. The isolation looks voluntary. It isn't.
+>
+> **The cultural amplifier:**
+>
+> In machismo cultures, public displays of dominance aren't red flags — they're proof of masculinity. "He doesn't take any shit." "He demands the best." "He's passionate." The man causing a scene at the store isn't embarrassing — he's *powerful*. The woman shrinking beside him isn't being abused — she's being *protected* by a man who handles things.
+>
+> In cultures that value status and appearance — and this crosses Hispanic, Jewish, and many other communities — the partner who controls your presentation is seen as having *taste*, not having a pathology. "He just wants you to look nice." "She has high standards." The control is reframed as care, and care is reframed as love.
+>
+> **The decoder:** If their "standards" require your silence, their "taste" requires your compliance, and their "passion" requires your humiliation — it's not love. It's performance. And you're the prop.
+>
+> **What it feels like in your body:**
+>
+> The anticipatory scan before leaving the house. The tight chest walking into any public space with them. The flinch when they call the waiter over. The shame-heat when their voice rises. The relief — actual physical relief, shoulders dropping, breath releasing — when an outing ends without incident. If you're relieved that a normal dinner was *normal*, that's your body telling you the truth.
+
+**Add to Chapter 3, Decoder Card 9 (The Aesthetic Seesaw) — cultural layer:**
+
+> **When appearance control is culturally sanctioned:**
+>
+> In some cultural contexts, a partner having opinions about your hair, your clothes, your nails, your body isn't a red flag — it's expected. "He likes her to look a certain way." "She takes care of herself for him." The control is invisible because the culture agrees that your appearance belongs, at least partly, to the relationship.
+>
+> The decoder question stays the same: Does this make you feel *more* beautiful or *less* yourself? Do you dress the way you want, or the way that avoids a reaction? Is this collaboration or compliance?
+>
+> If you can't wear red nail polish without it becoming an argument, the issue was never the nail polish.
+
+---
+
+### Chapter 8 (addition): Mother-Son Enmeshment Across Cultures
+
+**Add to the section on Mother Wound / Cultural Sanctification:**
+
+> **When mother-son enmeshment becomes the wife's problem:**
+>
+> In both Hispanic and Jewish cultures, the mother-son bond is sacred. "A man's first love is his mother." "A good son takes care of his mother." Beautiful in healthy systems. Devastating in narcissistic ones.
+>
+> When a narcissistic man is enmeshed with his mother, the enmeshment transfers to his partner. The same patterns — dictating appearance, managing emotions, demanding compliance, treating you as an extension of himself — are the patterns he learned at the original table. He told his mother what to wear. Now he tells you. She managed his emotional world. Now you do. The relationship isn't between two adults. It's between a man who learned that women exist to serve his image and a woman who entered the system without knowing the rules.
+>
+> And when the mother-in-law is still in the picture — still central, still the matriarch, still the one he calls first — you're not in a marriage. You're in a triangle. The mother and son are the primary bond. You are the outsider who was supposed to fit into the shape they already made.
+>
+> In a Jewrican household, this can mean the mother-in-law's standards for food, for holidays, for child-rearing, for how the home is run — delivered as love, enforced as law. His loyalty to her is culturally unquestionable. Your discomfort with it is culturally indefensible. "That's his mother. What do you expect?"
+>
+> **The decoder:** If his relationship with his mother requires your erasure, the bond isn't beautiful — it's a blueprint for how he'll treat you. You didn't marry him. You married the system.
+
+---
+
 ### Chapter 7: Family Roles & Triangulation
 
 **New subsection: "When the Whole Community Is the Triangle"**
@@ -395,6 +483,55 @@ Replace with language that does the translation itself — the examples in the c
 > The theology becomes the cage. Your pastor isn't the narcissist — but the pastor may be the most effective flying monkey in the system. The narcissist doesn't need to say "you can't leave." The pulpit says it every Sunday.
 >
 > **The truth that sets you free:** No theology that requires your destruction is holy. No covenant that demands your erasure is sacred. If your faith tradition says you must endure abuse, the tradition needs questioning — not you.
+
+---
+
+### Chapter 11 (addition): "When You Try to Leave — The Collectivist Extinction Burst"
+
+**Expand the existing Exit Phase Escalation section (Ch 11, line 524) with cultural layer:**
+
+> **The extinction burst in collectivist systems:**
+>
+> The book already describes the extinction burst — the desperate escalation when the narcissist feels control slipping. But in collectivist systems, the extinction burst isn't just the narcissist. It's the narcissist *plus the entire system*.
+>
+> When you try to leave, they will say and do anything to keep you. And so will everyone around them.
+>
+> **What the narcissist does:**
+>
+> They cycle through every tool in the toolbox, rapid-fire, looking for the one that sticks:
+>
+> - First: love-bombing. "I'll change. I'll go to therapy. I'll be the person you fell in love with." Flowers. Gifts. The version of themselves you fell for — resurrected overnight, because they know exactly who you wanted them to be.
+> - Then: guilt. "After everything I've done. After everything I gave up. You're going to throw this away?"
+> - Then: threats. "You'll never see the kids. I'll tell everyone what you did. I'll destroy you."
+> - Then: victimhood. "I can't live without you. I'll kill myself. You're killing me."
+> - Then: rage. The mask drops completely. This is the most dangerous phase.
+> - Then: back to love. "I'm sorry. I didn't mean it. I'm just so scared of losing you. Please."
+>
+> The cycle can happen in a single conversation. The speed is disorienting. Each shift destabilizes you before you can get your footing from the last one. That's the point.
+>
+> **What the community does — simultaneously:**
+>
+> In an individualist system, you weather the extinction burst alone with them. In a collectivist system, the community launches its own coordinated pressure campaign — without being asked. Because the system feels the disruption and moves to correct it:
+>
+> - His mother calls your mother. "Talk some sense into your daughter."
+> - The rabbi or pastor calls to offer "counseling" — which means "stay."
+> - Family members take his side because the story reached them first, shaped by him.
+> - Friends from the community pressure you: "He says he's willing to work on it. What more do you want?"
+> - Social media fills with pointed posts about family values, loyalty, ingratitude.
+> - Financial pressure materializes — shared accounts frozen, threats to the house, leverage through immigration status.
+> - The children are weaponized — turned into messengers, loyalty tests, emotional hostages.
+>
+> You're not fighting one person's extinction burst. You're fighting the system's immune response. The community treats your departure like an infection — and rallies to push you back inside.
+>
+> **Why people go back:**
+>
+> They don't go back because they're weak. They go back because the extinction burst — the narcissist's and the community's combined — is designed to be unsurvivable. Every promise triggers hope. Every guilt trip triggers obligation. Every threat triggers fear. Every community voice confirms that *you're* the problem.
+>
+> Most people have to try to leave multiple times before they actually leave. In collectivist systems, that number is higher — because each attempt triggers a bigger systemic response. The community learns to mobilize faster. The narcissist learns which tactic works best. And you learn, again and again, that leaving costs more than staying.
+>
+> Until one day it doesn't. Until the cost of staying finally exceeds even the staggering cost of leaving. That's when you go. And you go knowing you're leaving everything.
+>
+> **What the book needs to say here:** Going back is not failure. Each attempt teaches you something. Each time, you leave a little more prepared. Each time, the hooks lose a little more grip. The people who finally break free aren't the ones who left cleanly. They're the ones who left messy, multiple times, with everyone telling them they were wrong — and left anyway.
 
 ---
 
