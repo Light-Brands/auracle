@@ -1356,7 +1356,7 @@ You feel like you can't challenge behavior that's dressed up as growth. You doub
 **Your Power Move:**
 Real spirituality increases accountability, not decreases it. Watch for the gap between their words and their impact. Ask: "If this person's feedback consistently requires me to be *less* of who I am — is this growth, or is this erasure?"
 
-*See also: Vignette: "The Specks of Dust"; Volume 7, Chapter 10 (The Spiritual Arbiter)*
+*See also: Vignette: "The Spiritual Diagnosis"; Volume 7, Chapter 10 (The Spiritual Arbiter)*
 
 ---
 

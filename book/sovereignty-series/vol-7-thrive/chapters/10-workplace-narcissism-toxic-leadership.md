@@ -255,7 +255,7 @@ This works especially well in workplaces where personal growth, wellness, or spi
 
 **Your power move:** "What outcome are you hoping for with this observation?" This exposes whether they want your growth or your silence. If they can't articulate a specific, actionable answer — they wanted control, not resolution.
 
-*See also: Volume 1, Chapter 3, Cards 30 (Moral Camouflage) and 31 (Authority Hijack); Vignette: "The Specks of Dust"*
+*See also: Volume 1, Chapter 3, Cards 30 (Moral Camouflage) and 31 (Authority Hijack); Vignette: "The Spiritual Diagnosis"*
 
 ---
 

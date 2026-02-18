@@ -219,7 +219,7 @@ This is different from "you're too sensitive." This is someone using spiritual, 
 
 **The test:** Real growth-oriented feedback addresses specific behavior, comes from alongside you (not above you), and includes their accountability in the dynamic. Manipulative spiritual feedback comes after *they* provoked you, focuses on your character rather than a specific action, and conveniently erases their behavior from the conversation.
 
-*See also: Chapter 3, Cards 30 (Moral Camouflage) and 31 (Authority Hijack); Vignette: "The Specks of Dust"*
+*See also: Chapter 3, Cards 30 (Moral Camouflage) and 31 (Authority Hijack); Vignette: "The Spiritual Diagnosis"*
 
 ---
 
