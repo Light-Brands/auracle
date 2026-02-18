@@ -89,11 +89,55 @@ These are real, not reconstructed. They carry the weight of specificity that com
 - **The body scan before leaving the house** — the anticipatory inventory of what might trigger a scene
 - **The relief after a normal dinner** — shoulders dropping, breath releasing, the realization that relief after normalcy is itself a diagnostic
 - **Going back multiple times** — the specific number doesn't matter, but the pattern does: each attempt, bigger system response, each return a little more broken, until the cost equation finally flips
-- **"Your neck is so small I could snap it with one hand"** — said casually, almost admiringly, as though describing a physical feature rather than issuing a threat. The violence framed as observation. The power differential stated as fact. This is the threat that doesn't sound like a threat — because it's wrapped in the language of noticing, of intimacy, of how well he knows your body. It belongs in the decoder cards on threats/intimidation (Ch 3) and in the body-level responses section. The reader who had something similar said to them — and was told they were overreacting — needs to see this in print.
+- **"Your neck is so small and delicate"** — said repeatedly, marveling, as though admiring a physical feature. He repeated it a couple of times, turning it over like he was noticing something beautiful. Not a threat — an observation. An appreciation of how fragile you are. But the subtext was anatomical: *I could break this.* The violence lives inside the admiration. He didn't need to say "I could snap it." He just kept marveling at how small and delicate it was, and your body heard what your mind wouldn't name. This is already in the manuscript (Ch 11, line 505) in a more explicit form ("I could snap it with one hand") — but the real version is *worse* because it never said the second part. The threat that doesn't complete itself is the one you can't report, can't name, can't prove. You just know. Your neck knew. It belongs in the decoder cards on threats/intimidation (Ch 3) and in the body-level responses section.
 - **"You're too sensitive"** — the universal dismissal, but in this context it does double work. In machismo culture, sensitivity is weakness. In the narcissistic system, your perception is always wrong. When the culture and the narcissist agree that your feelings are the problem, you have nowhere to stand. "Too sensitive" isn't feedback. It's a silencing tool. It teaches you to distrust every feeling until you can't feel anything at all. This belongs in the gaslighting decoder (Ch 3, Card 1) and in the cultural amplifier sections — because "too sensitive" in a culture that prizes strength/endurance isn't just one person's opinion. It's the whole system nodding along.
 - **Food control and criticism** — what you eat, how much, when, whether it's "good enough." In cultures where food is love, identity, and family ritual — and in both Hispanic and Jewish cultures, food is *all three* — controlling someone's eating is controlling their body, their autonomy, and their connection to their own heritage simultaneously. Criticizing what she eats at the family table. Monitoring portions. Making comments about her body in relation to food. This is body ownership disguised as health concern, wrapped in cultural authority ("you should eat like this," "that's not how we eat"). In a Jewrican context, food carries the weight of two cultures' entire emotional vocabularies — and having it weaponized means your nourishment, your comfort, your culture on a plate, all become contested territory. This belongs alongside appearance control (Ch 3, Decoder Card 9 expansion) and in the enmeshment section (Ch 5 addition) — because food control is body control is identity control.
 
 These details are what make the difference between a book about narcissism and a book that makes someone set it down, stare at the wall, and whisper *"that happened to me too."*
+
+---
+
+### Existing Manuscript Passages to Evaluate for First-Person Claiming
+
+The following passages are already in the book and read as lived experience — too specific, too somatic, too precise to be clinical constructions. Review each and decide: **is this mine?** If yes, it gets flagged for first-person voice in the integration pass. If it's a composite or someone else's story, it stays anonymous.
+
+**STRONG CANDIDATES — These match the author's known patterns:**
+
+1. **Ch 11, lines 501-511 — The Exit Phase Escalation case study.** This is already clearly personal. It contains: suicide threats from the balcony, the hand on the throat ("It's so delicate. I could snap it with one hand"), the popsicle compliance test ("Get me another popsicle" — not because he wanted it, but to test dominance), screaming in front of a visiting friend, appearance control at the hair salon (critiquing hair color in public), demanding "neutral" hair and nails (no red hair, no sparkles) especially when seeing his friends. *This is the single most autobiographical passage in the manuscript. Every detail matches.*
+
+2. **Ch 5, line 621 — "That's a lot of tuna for a little girl."** The somatic narcissist field note. Food control, body commentary, the casual delivery ("almost playfully"), the monitoring of what she eats, the fork going down. "I felt his eyes on me whenever I ate." Matches the food control pattern. *Is this yours, or is this a different relationship's example dressed in bodybuilder clothing?*
+
+3. **Ch 6, line 87 — "I stopped cooking when he was home."** The Judge/Critic role field note. Every meal inspected — seasoning off, vegetables overcooked, presentation sloppy. "I'm just trying to help you improve." His voice replacing her own judgment. "I'd season a dish and hear him before I tasted it." Still flinching when someone watches her cook. *The internalized voice detail — hearing him before tasting her own food — is either yours or someone very close to you.*
+
+4. **Ch 6, line 51 — "He insisted on handling all the finances."** The Hero role field note. Care disguised as control. "You shouldn't have to worry about this stuff." Couldn't access accounts without asking. Had to explain purchases. "By year three, I didn't know our account balances." Running a department at work but couldn't tell you what they paid for electricity. *The competence contrast (running a department vs. not knowing the electricity bill) is too specific to be invented.*
+
+5. **Ch 2, line 168 — "I used to describe it as 'reading the weather.'"** Five versions of herself, one for each of his moods. Checking his face before saying good morning. Becoming a different person for the day. *The "five versions" count is autobiographical — composites use round numbers or vague language. This person counted.*
+
+6. **Ch 5, lines 455-458 — "My ex had this habit I couldn't name for years. He'd pat my head."** Tousle hair. Hand on top of head like a golden retriever. Shoulders curling inward. Being positioned — literally above, looking down. When she stopped letting him touch her head, he was furious. "It's just affection." *The physical positioning detail and the fury when it was refused — this is specific enough to be real.*
+
+7. **Ch 2, line 132 — "I knew the sound of her footsteps."** Could tell by the rhythm whether it was a good day or bad day before she entered the room. Tracking her like prey tracks a predator. *This is a mother, not a partner. The "her" may be significant. If this is a parent — could be the mother-in-law, could be the author's own mother.*
+
+8. **Ch 8, lines 370-427 — "Where Are the Other Two Points?"** The 98 on a test. The father's accounting. The mother's chronic lateness. The ADHD son's relationship with time. The ice road crash — almost died because he couldn't be five minutes late. *This reads as the author's partner's or co-parent's story, told with the intimacy of someone who knows this person's nervous system from inside the relationship. The compassion is too close for clinical distance.*
+
+9. **Ch 8, lines 131-160 — "The Testimony."** A child coached to testify against a parent. Describing a monster that doesn't match the father she knows. The courtroom believes her. Her body collapses as she speaks. Years later, struggling to trust her own voice. *"The lie wasn't hers. The burden was never supposed to be hers. But she carries it still." This is either the author or someone the author loves deeply enough to write in second person.*
+
+10. **Ch 2, line 191 — "My therapist asked me to describe myself before the relationship."** Words like "bold," "opinionated," "takes up space." Then asked to describe herself now — couldn't finish the sentence. "I'd become a whisper of who I was." *The word "whisper" — that's a writer's word for her own experience, not a clinical paraphrase.*
+
+11. **Ch 6, line 196 — "I learned to read his silences like weather patterns."** The delayed texts. Looking at his phone and not answering when she was right there. Replaying conversations searching for her mistake. Apologizing for things she hadn't done just to end the ice age. *The weather metaphor appears twice in the manuscript (here and Ch 2, line 168). Same author. Same relationship. Same survival strategy.*
+
+12. **Ch 6, line 237 — "After he screamed at me in front of our friends."** His sister pulled her aside: "You know how he gets. But you also push his buttons sometimes." The false equivalence — "both of you need to move on." *The sister-in-law as flying monkey. This matches the family system described in the enmeshment sections.*
+
+13. **Ch 2, line 232 — "A fifteen-minute phone call with my sister would knock me out for three hours."** Hang up and straight to bed. "Not tired like I'd exercised, but tired like I'd been running for my life." Husband noticed: "You talked to your sister again, didn't you?" *If this is the author's sister — it connects to the family-of-origin narcissism. If it's the husband noticing — he's either the healthy witness or the one who later becomes the problem. Either way, this is real.*
+
+14. **Ch 5, line 537 — "My aunt was the family saint."** Kept meticulous records. During a family dispute, recited a decade of favors — casseroles delivered, rides given, checks written. "After everything I've done for this family." The ledger was always running. *The aunt. The casseroles. The ledger. This is a specific family member.*
+
+**LOWER CONFIDENCE — Could be personal, could be composite:**
+
+15. **Ch 12, line 102 — The brunch friend.** Talking for forty-five minutes. The promotion that got "that's nice." The breakup she carried quietly. "This isn't mutual. It never was." *Could be personal or composite. The specificity (forty-five minutes) leans personal.*
+
+16. **Ch 12, line 197 — The spiritual community doubt.** Stomach contraction when the teacher says something wrong. Another student says "that sounds like resistance." Driving home, feeling it again. *If the author has a yoga/spiritual community background, this could be hers.*
+
+17. **Ch 9, lines 294-334 — The sexuality field notes.** "You're young. Someone wants something you don't want to give." The body freezing from resignation, not desire. "I lost something, and I don't know how to name it." *These are written with the careful distance of someone who lived them and needed the second person to survive writing them.*
 
 ---
 
