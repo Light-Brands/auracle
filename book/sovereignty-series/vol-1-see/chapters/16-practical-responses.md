@@ -200,6 +200,29 @@ Not arguing. Not conceding. Simply stating that two perspectives exist. Then end
 
 ---
 
+### When They Pathologize Your Personality
+
+**Them:** "These are just specks of dust still inside of you. If you could get past them, you'd be as divine as you could be." Or: "Your reaction shows you still have work to do." Or: "If you were really at peace, this wouldn't bother you."
+
+This is different from "you're too sensitive." This is someone using spiritual, growth, or wellness language to reframe your *authentic personality* as a deficiency — and their provocation as your spiritual homework.
+
+**Options:**
+
+- "Maybe I have specks of dust. And this still needs to be addressed."
+- "What outcome are you hoping for with that observation?"
+- "Peace doesn't require silence about things that aren't working."
+- "You're focusing on my tone. I'm focused on the issue. Which one moves us forward?"
+
+**Don't do:** Argue about whether you're "evolved enough." Defend your personality. Apologize for being direct. Enter their spiritual frame and debate whether you have "specks of dust" — the moment you debate that, the conversation is about you instead of about their behavior.
+
+**The principle:** Being 100% positive doesn't mean being 100% silent. Frustration at dysfunction is discernment, not dissonance. If someone's "spiritual feedback" consistently requires you to be less of who you are, it's not guidance — it's diminishment wearing a spiritual costume.
+
+**The test:** Real growth-oriented feedback addresses specific behavior, comes from alongside you (not above you), and includes their accountability in the dynamic. Manipulative spiritual feedback comes after *they* provoked you, focuses on your character rather than a specific action, and conveniently erases their behavior from the conversation.
+
+*See also: Chapter 3, Cards 30 (Moral Camouflage) and 31 (Authority Hijack); Vignette: "The Specks of Dust"*
+
+---
+
 ### When They're Revising Reality
 
 **Them:** "I never said that. You're making things up. That's not what happened."

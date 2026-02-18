@@ -241,6 +241,24 @@ Narcissistic dynamics present differently depending on the type:
 
 **What you feel:** Like you're in a political battle you didn't sign up for. Exhausted by the game-playing. Unsure who to trust.
 
+### The Spiritual Arbiter
+
+**Presentation:** Uses growth language, spiritual framing, or wellness vocabulary to position themselves above colleagues. They don't pull rank through title — they pull rank through "consciousness." They're the one who sees your "specks of dust," your "dissonance," your "unresolved energy." They frame themselves as further along the path — and your authentic personality as evidence you haven't arrived yet.
+
+**The pattern:** They provoke — through disrespect, boundary violations, or chronic dismissiveness. When you react, they pivot from the behavior to your reaction. Your frustration becomes a spiritual diagnosis. "If you could just get past these things, you'd be as divine as you could be." The original provocation vanishes. Now the conversation is about what's wrong with you.
+
+This works especially well in workplaces where personal growth, wellness, or spiritual language is part of the culture. The vocabulary of healing becomes the vocabulary of control.
+
+**What you feel:** Like your personality is the problem. Like your directness is a deficiency. Like being passionate about anything — including things that aren't working — is evidence of spiritual failure. You start editing yourself. Not because you've grown, but because being yourself has been reframed as being broken.
+
+**The tell:** When multiple people feel the same disrespect but he treats each person's reaction as an individual flaw — "you're triggered," "you have specks of dust," "you need to evolve" — he's not offering growth. He's isolating each person so no one connects the pattern. Real teachers don't need four people to be broken for the dynamic to make sense.
+
+**Your power move:** "What outcome are you hoping for with this observation?" This exposes whether they want your growth or your silence. If they can't articulate a specific, actionable answer — they wanted control, not resolution.
+
+*See also: Volume 1, Chapter 3, Cards 30 (Moral Camouflage) and 31 (Authority Hijack); Vignette: "The Specks of Dust"*
+
+---
+
 ### The Organizational Culture
 
 **Presentation:** It's not one person—it's the whole system. The organization rewards narcissistic behavior. The culture is competitive, cutthroat, image-focused.
