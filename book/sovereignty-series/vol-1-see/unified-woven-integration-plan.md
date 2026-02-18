@@ -804,9 +804,11 @@ This is a different shape of the same silencing. Not the strategic quiet she use
 >
 > I married into a family where guilt came from two directions. His mother could invoke both "después de todo lo que hice por ti" and "after everything this family survived" in the same sentence. Cuban devotion and Jewish obligation, woven together so tightly you couldn't separate them if you tried.
 >
-> When I started setting boundaries, I wasn't just defying one culture. I was defying two. I was a bad daughter-in-law *and* I was disrespecting the family's legacy. I was selfish *and* I was breaking shalom bayit. The guilt wasn't doubled — it was squared.
+> **Author's correction:** I never set boundaries in that household. I just became depressed.
 >
-> People ask me what it was like. I tell them: imagine every guilt trip you've ever gotten, but it comes with a side of arroz con pollo and a lecture about the Holocaust. Both sincere. Both weaponized. Both delivered with absolute love and absolute control in the same breath.
+> That's the line the book needs. Not "I fought back." Not "I stood up for myself." I disappeared. The guilt from two directions didn't make me defiant — it made me collapse. Two cultures telling you you're wrong, you're selfish, you're breaking everything sacred — and you don't push back. You fold. You go quiet. You stop eating, or you eat too much, or you sleep too long, or you can't sleep at all. The depression isn't a side effect of the guilt. It *is* the guilt — metabolized, swallowed, turned inward because there was nowhere else for it to go.
+>
+> People ask me what it was like. I tell them: imagine every guilt trip you've ever gotten, but it comes with a side of arroz con pollo and a lecture about the Holocaust. Both sincere. Both weaponized. Both delivered with absolute love and absolute control in the same breath. And you don't fight it. You just get sad. You get so sad you can't move. That's what two guilt systems do when they compound — they don't make you angry. They make you disappear.
 
 ---
 
