@@ -20,11 +20,11 @@ This isn't six separate integrations. It's one integration with six expressions:
 
 | Context | The community | The weaponized value | The "you can't do better" chorus | What leaving costs |
 |---|---|---|---|---|
-| **Hispanic family** | Extended familia (30+ people) | Familismo, respeto, marianismo | "Ese hombre te quiere. No seas malagradecida." | Cultural exile — holidays, food, language, identity |
-| **Jewish family** | Mishpacha, the community, the shul | Nachas, shalom bayit, historical survival | "After everything this family survived, you're going to tear it apart?" | Losing your people, your tradition, your place in a chain of survival going back millennia |
+| **Hispanic family** | Extended family (30+ people) | Familismo, respect, marianismo | "That man loves you. Don't be ungrateful." | Cultural exile — holidays, food, language, identity |
+| **Jewish family** | Family, the community, the synagogue | Nachas, shalom bayit, historical survival | "After everything this family survived, you're going to tear it apart?" | Losing your people, your tradition, your place in a chain of survival going back millennia |
 | **LGBTQ+ community** | Chosen family, queer spaces | Acceptance, belonging, visibility | "At least someone accepts you. You think that's easy to find?" | Losing the only world that ever accepted you |
 | **Religious community** | Congregation, church family | Faith, obedience, sacred covenant | "God gave you this marriage. Divorce is a sin." | Spiritual exile + social death + eternal consequences |
-| **Immigrant family** | Diaspora network, sponsor chain | Sacrifice, debt, gratitude | "He has papers. He has a job. ¿Qué más quieres?" | Legal vulnerability, economic collapse, deportation risk |
+| **Immigrant family** | Diaspora network, sponsor chain | Sacrifice, debt, gratitude | "He has papers. He has a job. What more do you want?" | Legal vulnerability, economic collapse, deportation risk |
 | **Male survivors** | Masculinity norms, peer culture | Strength, stoicism, self-reliance | "Men don't get abused. You could leave if you wanted to." | Identity erasure — admitting victimhood = losing manhood |
 
 And when these systems overlap — a "Jewrican" family with Cuban roots and Jewish traditions, a queer person in a religious immigrant community, a male survivor in a machismo culture — the layers compound. Two collectivist systems don't add. They multiply. The guilt architecture doubles. The enforcement network expands. The exit costs become unsurvivable.
@@ -37,7 +37,7 @@ Same wolf. Different clothing. One integration pass.
 
 **The author's lived experience is the spine of this integration.** Many of the cultural examples — enmeshment, appearance control, public scenes, the extinction burst, the community mobilizing to pull you back — are personal, not composites. This section maps which field notes and examples carry the author's direct voice (first-person "I/my") versus anonymous composites.
 
-**Why this matters:** The book's credibility on collectivist narcissism comes from having survived at the intersection — Jewrican, machismo + Jewish guilt, two collectivist systems compounding. The reader needs to know this person isn't theorizing. She broke through the religious conditioning AND the cultural conditioning. She lived it. She got out.
+**Why this matters:** The book's credibility on collectivist narcissism comes from having survived at the intersection — Jewrican, machismo culture + Jewish guilt, two collectivist systems compounding. The reader needs to know this person isn't theorizing. She broke through the religious conditioning AND the cultural conditioning. She lived it. She got out.
 
 **The hybrid approach:**
 
@@ -71,7 +71,7 @@ These protect sources and extend reach beyond the author's direct experience:
 |---|---|---|
 | **LGBTQ+ first love** — "She was the first person I ever loved as myself" | Ch 11: Romantic Manipulation | Not the author's lived experience. Composite protects queer survivors. |
 | **Gay child coming out** — outed by narcissistic parent as control | Ch 11: Identity as leverage | Community-sourced. Anonymize. **Note:** The "Open Secret" field note in Ch 7 (coming out at sixteen) remains a composite, but is now supplemented by the author's own bisexual coming-out story — the coming out that *never happened* because the environment pre-rejected her. The composite shows what happens when you come out. The author's story shows what happens when you *can't*. Both are needed. |
-| **Immigrant debt** — "He has papers. He has a job. ¿Qué más quieres?" | Ch 10: Immigrant Debt field note | Composite from multiple stories. |
+| **Immigrant debt** — "He has papers. He has a job. What more do you want?" | Ch 10: Immigrant Debt field note | Composite from multiple stories. |
 | **Male survivor** — "Men don't get abused" | Ch 11: Male survivor integration | Not the author's lived experience. |
 | **Religious community** — pastor as flying monkey | Ch 11: Religious marriage cage | Can draw on personal knowledge but frame as composite to protect specific congregations. |
 | **Trans person in conservative family** | Ch 1: Opening letter expansion | Community-sourced. Anonymize. |
@@ -208,7 +208,7 @@ What this taught her nervous system before she had words for it:
 
 This is more devastating than a single lesson. A mother who only endures teaches you: *don't leave.* A mother who leaves and then endures again teaches you: *leaving doesn't work.* The exit exists, but it leads back to the same room. The child who watches this learns not just to stay — but that the alternative isn't better. That's a deeper trap than "women endure." It's "women endure *everywhere.*"
 
-The Jewish intergenerational layer makes this heavier: a grandmother who survived the Holocaust — who survived the unsurvivable — raising a daughter who learned that survival means endurance at any cost. The endurance template didn't start with abusive boyfriends. It started in the camps. *Aguanta* has a Jewish equivalent: you survive. You keep going. You don't complain because others had it worse. The grandmother's survival became the mother's instruction manual — and the mother passed it down, not as words but as demonstration.
+The Jewish intergenerational layer makes this heavier: a grandmother who survived the Holocaust — who survived the unsurvivable — raising a daughter who learned that survival means endurance at any cost. The endurance template didn't start with abusive boyfriends. It started in the camps. *Endure* has a Jewish equivalent: you survive. You keep going. You don't complain because others had it worse. The grandmother's survival became the mother's instruction manual — and the mother passed it down, not as words but as demonstration.
 
 **Where this belongs in the book:**
 - **Ch 8 (Parental Wounds)** — as a field note on modeling. The mother who teaches you that love means tolerating betrayal. Not through words but through demonstration. The child watching learns: *This is what women do. This is what love looks like. This is what I will do.*
@@ -515,7 +515,7 @@ Add naturally to the existing "Maybe it was..." list without headers or labels:
 
 Add after the existing passage about control arriving disguised as concern, love, honesty:
 
-> In some families, in some communities, the architecture isn't invisible at all — it's celebrated. When the whole culture says "family first, always, no matter what" and the narcissist *is* that family — the control isn't hidden. It's in the dichos at the dinner table. It's in the sermon on Sunday. It's in the way everyone nods when abuela says "aguanta." The architecture is everywhere. It's just dressed as love, duty, tradition, and faith.
+> In some families, in some communities, the architecture isn't invisible at all — it's celebrated. When the whole culture says "family first, always, no matter what" and the narcissist *is* that family — the control isn't hidden. It's in the sayings at the dinner table. It's in the sermon on Sunday. It's in the way everyone nods when grandmother says "endure." The architecture is everywhere. It's just dressed as love, duty, tradition, and faith.
 >
 > This doesn't mean your culture is the problem. It means the narcissist is hiding behind it. And that's harder to see — because fighting them feels like fighting everything you belong to.
 
@@ -531,12 +531,12 @@ Add after "How It Hooks You" section:
 >
 > In individualist contexts, this is one voice — the narcissist's. In collectivist systems, it becomes a chorus. The narcissist plants the seed. The community waters it:
 >
-> - The mother: "Ese hombre te quiere. No seas malagradecida." (That man loves you. Don't be ungrateful.)
+> - The mother: "That man loves you. Don't be ungrateful."
 > - The Jewish mother: "After everything we went through to give you this life? He's a good provider. He comes from a good family."
 > - The pastor: "God blessed you with this marriage. Have you prayed about it?"
 > - The friend: "Do you know how hard it is to find someone in this community? At your age?"
-> - The tía: "¿Y quién te va a querer con dos hijos?" (And who's going to want you with two kids?)
-> - The bubbe: "Your grandfather survived the camps. He would have given anything for a family. And you want to throw yours away?"
+> - The aunt: "And who's going to want you with two kids?"
+> - The grandmother: "Your grandfather survived the camps. He would have given anything for a family. And you want to throw yours away?"
 > - The culture: "She left a good man." "He broke up his family." "She's so dramatic."
 >
 > The cruelest part: the community often isn't wrong about the practical reality. In a small congregation, a tight queer scene, an immigrant community with limited social mobility — the options *are* fewer. The narcissist's lie ("no one else will want you") gets propped up by a structural truth ("the pool is small and leaving has real costs"). The manipulation and the math overlap just enough to trap you.
@@ -586,7 +586,7 @@ Change 3-4 existing tactic examples to use she/she, he/he, or they/them pronouns
 > - A man who dictates his partner's hair, clothes, nail polish — and frames it as standards, taste, or "wanting her to look her best." The culture reads this as a man who cares. The partner experiences it as ownership.
 > - A mother-son bond where he manages her appearance and she manages his emotional world — and everyone calls it beautiful. "Such a good son." "So devoted."
 > - A family where there is no private information. Your salary, your therapy, your marriage problems — all shared, all discussed, all adjudicated by the collective. Privacy isn't healthy — it's suspicious.
-> - Language itself reinforcing ownership: "mi mujer" (my woman), "mi viejo" (my old man) — possessive framing so normal it's invisible.
+> - Language itself reinforcing ownership: "my woman," "my old man" — possessive framing so normal it's invisible.
 >
 > **Why this matters for the book's framework:**
 >
@@ -736,34 +736,34 @@ This is a different shape of the same silencing. Not the strategic quiet she use
 >
 > The narcissistic parent doesn't need to make all the calls themselves. The system self-corrects:
 >
-> - Tía calls because "tu mamá está llorando" (your mother is crying)
+> - Aunt calls because "your mother is crying"
 > - Your mother's best friend from shul calls to say "your mother is beside herself"
 > - The pastor or rabbi reaches out to "check on the family"
 > - Your cousin posts a pointed quote about loyalty on social media
-> - Abuela — or Bubbe — leaves a voicemail. Just crying, no words.
+> - Grandmother leaves a voicemail. Just crying, no words.
 > - Your brother texts: "Why do you always have to cause problems?"
 >
 > In individualist systems, these are called "flying monkeys" — people recruited to pressure you. In collectivist systems, there's no recruitment necessary. The community self-organizes around the disruption. Your boundary *is* the disruption. The calls aren't coordinated. They don't need to be. Everyone knows their role.
 
 **New Field Note: "The Sunday Dinner"**
 
-> **Field Note:** Every Sunday, the whole family gathered. Thirty people, three generations, one dining room that shouldn't have held us all but somehow did. Abuelita at the head. Mami running the kitchen. And me, trying to be invisible while Papi held court.
+> **Field Note:** Every Sunday, the whole family gathered. Thirty people, three generations, one dining room that shouldn't have held us all but somehow did. Grandmother at the head. Mom running the kitchen. And me, trying to be invisible while Dad held court.
 >
-> When I stopped coming, the calls started within hours. Not from Papi. From everyone else. Tía Rosa: "Tu papá está triste." Prima Marlena texted: "???" My brother called to say I was being dramatic. Abuelita left a voicemail — just crying, no words.
+> When I stopped coming, the calls started within hours. Not from Dad. From everyone else. Aunt Rosa: "Your dad is sad." Cousin Marlena texted: "???" My brother called to say I was being dramatic. Grandmother left a voicemail — just crying, no words.
 >
 > I hadn't told anyone why I stopped coming. I didn't need to. In my family, absence *is* the offense. The reason doesn't matter. You were supposed to be there. You weren't. That's the crime.
 >
-> I went back the next Sunday. Papi smiled like nothing happened. "Ahí está mi hija." Everyone relaxed. The system had corrected itself.
+> I went back the next Sunday. Dad smiled like nothing happened. "There's my girl." Everyone relaxed. The system had corrected itself.
 >
 > I realized: I wasn't fighting my father. I was fighting the whole table.
 
 **New Field Note: "The Open Secret" (LGBTQ+)**
 
-> **Field Note:** I came out to my mother when I was sixteen. She cried for three days. Then she told me she loved me but that we would never discuss it again. "No se lo digas a tu padre."
+> **Field Note:** I came out to my mother when I was sixteen. She cried for three days. Then she told me she loved me but that we would never discuss it again. "Don't tell your father."
 >
 > I became the family's open secret. Everyone knew. No one spoke about it. I held this invisible weight — the thing that was true about me but couldn't exist in the family's reality.
 >
-> When I brought my partner home for Christmas, my mother pulled me aside. "¿Por qué me haces esto?" My partner — the person I loved — was framed as something I was *doing to her*. My identity was an act of aggression against my own mother.
+> When I brought my partner home for Christmas, my mother pulled me aside. "Why are you doing this to me?" My partner — the person I loved — was framed as something I was *doing to her*. My identity was an act of aggression against my own mother.
 >
 > The narcissistic dynamic wasn't the homophobia. It was the way my truth became about her suffering. My coming out wasn't my liberation — it was her wound. And I was expected to manage her pain about *my* life.
 
@@ -779,9 +779,9 @@ This is a different shape of the same silencing. Not the strategic quiet she use
 
 **New subsection under Mother Wound: "When Culture Sanctifies the Narcissistic Mother"**
 
-> In Hispanic culture, it's *marianismo* — the ideal of the self-sacrificing woman, the mother who endures everything for her children. In Jewish culture, it's the archetype of the devoted mother whose entire identity is her children's success and her family's continuity. Both are real. Both are beautiful when healthy. And both make the narcissistic mother invisible as an abuser.
+> In Hispanic culture, it's the ideal of the self-sacrificing woman — the mother who endures everything for her children. In Jewish culture, it's the archetype of the devoted mother whose entire identity is her children's success and her family's continuity. Both are real. Both are beautiful when healthy. And both make the narcissistic mother invisible as an abuser.
 >
-> The Hispanic narcissistic mother says: "Yo lo hice todo por ustedes." (I did everything for you.)
+> The Hispanic narcissistic mother says: "I did everything for you."
 > The Jewish narcissistic mother says: "Everything I did was for this family. After everything we've been through."
 >
 > Both can be genuine history *and* emotional blackmail simultaneously. The sacrifice was real. The weaponization of it is also real. Both are true.
@@ -792,17 +792,17 @@ This is a different shape of the same silencing. Not the strategic quiet she use
 >
 > When these systems compound — a Jewrican family, a Jewish-Hispanic household — the guilt architecture doubles. You owe for the sacrifice *and* for the survival. The mother's devotion is sanctified by *two* traditions. The cage has twice as many bars.
 
-**New subsection under Father Wound: "When Machismo Masks the Wound"**
+**New subsection under Father Wound: "When Hyper-Masculinity Masks the Wound"**
 
-> "Así es tu papá." (That's just how your dad is.) Five words that erase decades of emotional damage.
+> "That's just how your dad is." Seven words that erase decades of emotional damage.
 >
 > The narcissistic father whose dominance is culturally expected doesn't need to hide. His emotional unavailability isn't a wound — it's masculinity. His rages aren't abuse — they're "passion." His control isn't pathology — it's leadership.
 >
-> Sons can't grieve this wound because male vulnerability is culturally forbidden. To say "my father hurt me" is to admit a weakness the culture doesn't allow. Daughters normalize controlling partners because Papá set the template — and the culture confirmed it was normal.
+> Sons can't grieve this wound because male vulnerability is culturally forbidden. To say "my father hurt me" is to admit a weakness the culture doesn't allow. Daughters normalize controlling partners because Dad set the template — and the culture confirmed it was normal.
 
 **New Field Note: "Aguanta, Mija"**
 
-> **Field Note:** When I told my mother that my husband screamed at me in front of the children, she was quiet for a long time. Then she said: "Mija, tu abuela aguantó cosas peores con tu abuelo. Y mira — cincuenta años juntos. El matrimonio es así."
+> **Field Note:** When I told my mother that my husband screamed at me in front of the children, she was quiet for a long time. Then she said: "Sweetheart, your grandmother endured worse things with your grandfather. And look — fifty years together. That's just how marriage is."
 >
 > She wasn't being cruel. She was giving me the best wisdom she had. Endure. That's what the women in our family do. We endure because the alternative — leaving, being alone, being the woman who "couldn't make it work" — was worse than anything a husband could do.
 >
@@ -826,15 +826,15 @@ This is a different shape of the same silencing. Not the strategic quiet she use
 
 **New Field Note: "Two Tables" (Jewrican intersection)**
 
-> **Field Note:** My husband's family had two tables at every holiday. One for the Cuban food — ropa vieja, yuca, black beans. One for the Jewish food — brisket, matzo ball soup, challah. And one set of rules for everyone: don't make waves, don't air the family's business, don't question the elders, and for God's sake, don't bring up what everyone already knows.
+> **Field Note:** My husband's family had two tables at every holiday. One for the Cuban food — shredded beef, cassava, black beans. One for the Jewish food — brisket, matzo ball soup, challah. And one set of rules for everyone: don't make waves, don't air the family's business, don't question the elders, and for God's sake, don't bring up what everyone already knows.
 >
-> I married into a family where guilt came from two directions. His mother could invoke both "después de todo lo que hice por ti" and "after everything this family survived" in the same sentence. Cuban devotion and Jewish obligation, woven together so tightly you couldn't separate them if you tried.
+> I married into a family where guilt came from two directions. His mother could invoke both "after everything I did for you" and "after everything this family survived" in the same sentence. Cuban devotion and Jewish obligation, woven together so tightly you couldn't separate them if you tried.
 >
 > **Author's correction:** I never set boundaries in that household. I just became depressed.
 >
 > That's the line the book needs. Not "I fought back." Not "I stood up for myself." I disappeared. The guilt from two directions didn't make me defiant — it made me collapse. Two cultures telling you you're wrong, you're selfish, you're breaking everything sacred — and you don't push back. You fold. You go quiet. You stop eating, or you eat too much, or you sleep too long, or you can't sleep at all. The depression isn't a side effect of the guilt. It *is* the guilt — metabolized, swallowed, turned inward because there was nowhere else for it to go.
 >
-> People ask me what it was like. I tell them: imagine every guilt trip you've ever gotten, but it comes with a side of arroz con pollo and a lecture about the Holocaust. Both sincere. Both weaponized. Both delivered with absolute love and absolute control in the same breath. And you don't fight it. You just get sad. You get so sad you can't move. That's what two guilt systems do when they compound — they don't make you angry. They make you disappear.
+> People ask me what it was like. I tell them: imagine every guilt trip you've ever gotten, but it comes with a side of chicken and rice and a lecture about the Holocaust. Both sincere. Both weaponized. Both delivered with absolute love and absolute control in the same breath. And you don't fight it. You just get sad. You get so sad you can't move. That's what two guilt systems do when they compound — they don't make you angry. They make you disappear.
 
 ---
 
@@ -932,7 +932,7 @@ Replace with language that does the translation itself — the examples in the c
 >
 > Instead:
 > - **Be warm, not deep.** Smile. Hug. Ask about the baby. Surface warmth is expected and easy to maintain.
-> - **Redirect to others.** "¿Y tú cómo estás?" works every time. Let them talk.
+> - **Redirect to others.** "And how are you?" works every time. Let them talk.
 > - **Have a role.** Help in the kitchen. Watch the kids. Being useful gives you movement and cover.
 > - **Arrive with an exit.** "I have to leave early today — work tomorrow." Announced cheerfully at arrival, not apologetically at departure.
 
@@ -1070,11 +1070,11 @@ Replace with language that does the translation itself — the examples in the c
 *(Full scripts already drafted in `hispanic-adapted-scripts-draft.md` — integrate here)*
 
 Key additions:
-- When tía calls to say your mother is crying
-- When abuela invokes generational debt
+- When your aunt calls to say your mother is crying
+- When your grandmother invokes generational debt
 - When a cousin brings it to social media
 - When a parent says "Yo soy tu madre" to end the conversation
-- When your mother says "Así son los hombres"
+- When your mother says "That's just how men are"
 - When the family says "No necesitas terapia, necesitas a Dios"
 - When they say you've changed
 - Selective Sharing Protocol
@@ -1095,9 +1095,9 @@ Key additions:
 > The scripts above handle one-on-one confrontations. But what about when the "you can't do better" message comes from everywhere?
 >
 > **When your mother agrees with the narcissist:**
-> "Ese hombre te quiere. ¿Qué más quieres?" (That man loves you. What more do you want?)
+> "That man loves you. What more do you want?"
 >
-> 🟢 "Quiero lo que merezco, Mami. No solo lo que puedo aguantar." (I want what I deserve, Mom. Not just what I can endure.)
+> 🟢 "I want what I deserve, Mom. Not just what I can endure."
 >
 > **When the Jewish family agrees with the narcissist:**
 > "He comes from a good family. He provides. After everything we went through to give you this life?"
@@ -1194,7 +1194,7 @@ Vol 1 is **SEE** — recognition, naming, the moment the reader says "oh my God,
 | The Sunday Dinner field note | Ch 7 | Recognition moment: "I wasn't fighting my father. I was fighting the whole table." |
 | The Open Secret (LGBTQ+) field note | Ch 7 | Recognition: your identity became their wound |
 | "When Culture Sanctifies the Narcissistic Mother" | Ch 8 addition | SEEing through marianismo/Jewish mother archetype |
-| "When Machismo Masks the Wound" (Father Wound) | Ch 8 addition | Naming the invisible father wound |
+| "When Hyper-Masculinity Masks the Wound" (Father Wound) | Ch 8 addition | Naming the invisible father wound |
 | Aguanta, Mija field note | Ch 8 | Recognition: endurance reframed as strength |
 | Shalom Bayit field note | Ch 8 | Recognition: peace reframed as silence |
 | Two Tables (Jewrican) field note | Ch 8 | Recognition: guilt squared |
