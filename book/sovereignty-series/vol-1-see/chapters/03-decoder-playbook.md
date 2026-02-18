@@ -553,7 +553,7 @@ The queen never asks, "Am I enough?" She only asks, "Am I *more*?" And that ques
 - Controlling your appearance: dictating hair color, nail style, clothing, makeup
 - "You need to have neutral hair when we see my friends."
 - "No sparkles on your nails." "That color is too loud."
-- Critiquing your appearance in public—at the salon, in front of others
+- Critiquing your appearance in public—at appointments, in front of others
 
 **What's Really Happening:**
 They're destabilizing your self-image AND erasing your identity. By controlling when you feel attractive and when you don't, they make you dependent on their assessment. When they control how you're allowed to look, they're claiming ownership over your body and expression. Your appearance becomes a reflection of their preferences, not your authentic self.

@@ -21,6 +21,8 @@ First Edition
 
 **Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. It is sold with the understanding that the publisher and author are not engaged in rendering psychological, medical, or other professional services. If expert assistance or counseling is needed, the services of a competent professional should be sought. The author offers private counseling sessions online through Light Field Institute. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
 
+**Author's Note:** This is a work of nonfiction. It reflects the author's present recollections of experiences over time. Names and identifying characteristics of certain individuals have been changed to protect their privacy, and some individuals are composites. Certain events have been compressed, and some dialogue has been recreated from memory. The information and opinions expressed in this book represent the author's personal experience and perspective and should not be considered a representation of the views or experiences of any other persons referenced herein, whether directly or indirectly.
+
 **Crisis Resources:** See [Appendix A: Resources](./appendices/appendix-a-resources.md) for 24/7 crisis hotlines, international resources, and specialized support services.
 
 ---
@@ -203,7 +205,9 @@ When you read a field note about a comment made at a gym, a look given across a 
 
 I include these details because narcissistic abuse lives in the specifics—the offhand comment that deflates you, the gesture that infantilizes you, the tone that makes you feel stupid before you can articulate why. The patterns are universal. The moments are particular. Both are true.
 
-Some details have been changed to protect privacy. But the essence—the feeling, the dynamic, the wound—is preserved exactly as it occurred.
+To protect the privacy of the individuals involved, I have changed names, identifying details, locations, and certain characteristics throughout. Some figures in this book are composites drawn from multiple experiences. The patterns are real. The people are protected. But the essence—the feeling, the dynamic, the wound—is preserved exactly as it occurred.
+
+This book describes patterns, not people. Where personal experiences are shared, they reflect my own memory and perception of events. Others who were present may remember things differently. That is the nature of memory and the nature of relationships where reality itself was contested.
 
 ---
 
