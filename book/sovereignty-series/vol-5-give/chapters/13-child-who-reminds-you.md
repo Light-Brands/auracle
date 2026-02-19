@@ -234,7 +234,7 @@ But her therapist asked a clarifying question: "Is she manipulating, or is she p
 
 The mother thought about it. Her daughter wasn't trying to control her. She was trying to get what she wanted using the tools she had. That's what all children do.
 
-The mother's ex-husband had manipulated to dominate, to control, to win at her expense.
+The mother's ex had manipulated to dominate, to control, to win at her expense.
 
 Her daughter was negotiating—still learning where the boundaries were, still testing what worked.
 

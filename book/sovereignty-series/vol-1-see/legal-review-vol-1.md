@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-This manuscript is a creative nonfiction/self-help work about narcissistic abuse by a named, identifiable author who positions herself as a trauma-trained therapist writing from professional experience. "My sister," "my mother," "my ex-husband" are therefore traceable to real, living people by anyone in the author's social circle.
+This manuscript is a creative nonfiction/self-help work about narcissistic abuse by a named, identifiable author who positions herself as a trauma-trained therapist writing from professional experience. "My sister," "my mother," "my ex" are therefore traceable to real, living people by anyone in the author's social circle.
 
 **Overall Manuscript Risk: MEDIUM-HIGH**
 
@@ -48,9 +48,9 @@ The front matter contains several protective elements:
 
 The single most dangerous passage for ex-partner litigation. Stacks highly specific details: suicide threats from a balcony ("I'll jump off this balcony right now"), hand placed around partner's throat ("It's so delicate. I could snap it with one hand"), popsicle compliance test, scene in front of a visiting friend, salon hair-color critiquing, demanding "neutral" hair and nails with "no red hair, no sparkles." The passage switches from gender-neutral to gendered pronouns mid-passage, signaling a real account.
 
-**Who could sue:** Ex-husband. Claims: defamation per se (accusation of criminal conduct — assault/threats), invasion of privacy, false light.
+**Who could sue:** Former lover / ex. Claims: defamation per se (accusation of criminal conduct — assault/threats), invasion of privacy, false light.
 
-**Recommendation:** Remove or thoroughly composite. Remove all uniquely identifying details (balcony, popsicle, throat, sparkles, visiting friend). Fix the pronoun slip. Consider explicit composite framing.
+**Recommendation:** Fix the pronoun consistency — passage switched from gender-neutral to gendered mid-scene, signaling a real account. ✅ DONE: Made consistently gendered (he/she) throughout so there is no mid-passage slip. Replace any "ex-husband" labels with "ex" or "former lover" per terminology policy (see Cross-Cutting Issue #5). The unique details are retained as they serve the book's educational power; the pronoun consistency and label change reduce identifiability. Consider explicit composite framing for additional protection.
 
 ---
 
@@ -229,6 +229,22 @@ The niece appears in passages where she can be identified through the author's k
 
 Add at the beginning of the first Field Note or in front matter: "All field notes are composites drawn from multiple sources. No single note depicts a specific individual."
 
+### 5. Relationship Terminology Policy — Replace "Ex-Husband" with Gender-Neutral Terms
+
+All references to "my ex-husband" throughout the manuscript should be replaced with **"my ex," "a former lover," or "a past lover."** This serves two protective functions:
+
+1. **Gender neutrality removes an identifying detail.** "Ex-husband" specifies a marital relationship with a man — immediately narrowing identification to anyone who knows the author was married. "Former lover" or "ex" could refer to anyone: any gender, any relationship type, any timeframe. The person becomes unidentifiable by relationship structure alone.
+
+2. **Consistency with composite framing.** The Author's Note states examples are composites and should not be read as direct accounts of specific individuals. Using "ex-husband" undermines that framing by specifying a relationship type that points to a known person. "Former lover" or "ex" is consistent with composite construction.
+
+**Scope:** Apply across the full manuscript — chapters, field notes, and any supporting materials. Also fix any passages where pronouns slip from gender-neutral to gendered (he/she/him/her), which signals a real account rather than a composite (see CRITICAL-1).
+
+**Recommended replacements:**
+- "my ex-husband" → "my ex" or "a former lover" or "a past lover"
+- "ex-husband's" → "my ex's" or "a former lover's"
+- "Ex-husband(s)" in references → "Ex(es)" or "Former lover(s)"
+- Gendered pronouns in composite passages → they/them/their
+
 ---
 
 ## Priority Action Items
@@ -253,6 +269,8 @@ Add at the beginning of the first Field Note or in front matter: "All field note
 13. Add field note composite disclaimer — partially covered by revised Author's Note ("Some examples are composites... No example should be read as a direct account"), but a standalone field note disclaimer would add another defense layer
 14. Remove all identifiable references to the niece
 15. Implement systematic compositing of first-person Field Notes
+16. ⬜ Replace all "ex-husband" with "ex" / "former lover" / "past lover" across manuscript — removes gender as identifying detail
+17. ⬜ Fix all gendered pronoun slips in composite passages (they/them/their throughout)
 
 ### Tier 4: Consider Changing (27 MEDIUM findings)
 See MEDIUM findings table above. These are defensible with current disclaimers but represent cumulative exposure.
@@ -263,7 +281,7 @@ See MEDIUM findings table above. These are defensible with current disclaimers b
 
 | Person | # of Findings | Highest Risk | Likely to Sue? | Resources? |
 |--------|--------------|-------------|----------------|------------|
-| **Ex-husband(s)** | ~15 across book | CRITICAL | Yes | Yes — wealthy, legally connected |
+| **Ex(es) / Former lover(s)** | ~15 across book | CRITICAL | Yes | Yes — wealthy, legally connected |
 | **Sister** | 6 findings (Ch. 2, 7, 10, 16) | CRITICAL | Possible | Unknown |
 | **Mother** | 8 findings (Ch. 2, 7, 8, 16) | CRITICAL | Unlikely | Unlikely |
 | **Aunt** | 1 finding (Ch. 5) | MEDIUM-HIGH | Unlikely | Unknown |
@@ -289,6 +307,7 @@ The solution is not to remove these notes (they are the book's emotional power),
 | CRITICAL findings (4) | ⬜ Not yet addressed | These remain the primary vulnerability. |
 | HIGH findings (7) | ⬜ Not yet addressed | Second priority after CRITICAL findings. |
 | Minor child policy | ⬜ Not yet implemented | Niece still appears in Ch. 7 passages. |
+| Relationship terminology policy | ⬜ In progress — policy defined | Replace all "ex-husband" with "ex" / "former lover" / "past lover" + fix gendered pronoun slips. |
 
 The structural disclaimer work is now substantially complete. The "creative nonfiction" genre label, professional authority framing, and explicit "no direct account" language create a strong baseline defense. However, the manuscript's risk level remains **MEDIUM-HIGH** because the CRITICAL and HIGH findings are unchanged in the text itself. Disclaimers — even excellent ones — cannot protect passages where specific, stacked identifying details make a person recognizable despite changed names. With targeted edits to the CRITICAL and HIGH findings plus the remaining structural changes (field note disclaimer, minor child policy), the manuscript's legal risk profile would drop to **LOW-MEDIUM** — within acceptable publishing industry standards for creative nonfiction/self-help.
 

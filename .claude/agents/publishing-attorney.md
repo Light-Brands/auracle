@@ -84,7 +84,7 @@ For each chapter, produce:
 
 This is a nonfiction memoir/self-help book about narcissistic abuse by a named author (Jennifer Brooke Lawless). Key legal context:
 
-- **The author is identifiable** — her name is on the book. "My sister," "my mother," "my ex-husband" are therefore identifiable people.
+- **The author is identifiable** — her name is on the book. "My sister," "my mother," "my ex" are therefore identifiable people.
 - **The exes are wealthy and legally connected** — they have resources and motivation to sue.
 - **The mother is image-conscious** — unlikely to sue but could be recruited as a witness or co-plaintiff.
 - **The sister is identifiable** — portrayed in unflattering terms across multiple chapters.

@@ -53,8 +53,8 @@ Same wolf. Different clothing. One integration pass.
 |---|---|---|
 | "Employee of the Month" — laminated photo, kitchen, current boyfriend | Too specific — one person on earth did this | Reframe as anonymous composite: "A display that made her feel subordinate in her own home" |
 | Sister's specific behaviors (threats to leave in front of kids, poisoning grandchildren against grandmother, the wrath) | Identifiable living person described in negative light = defamation risk | Keep only the author's own boundary-setting: "I stopped putting in the effort." Remove sister's specific behaviors. |
-| Ex-husband's dinner party with his lawyer friends, "demotion to boyfriend" joke about current husband | The dinner party was the ex's world (he had the lawyers). The "demotion" joke is about the current marriage. Both identifiable. | Reframe dinner party as third-person teaching example. Remove identifying professional detail ("lawyer friends"). |
-| Both husbands named Daniel | Same first name for both husbands is a highly identifying detail — anyone who knows the author knows this | NEVER use real names in the manuscript. Use different pseudonyms for each. The shared name is a fact for the author's notes only. |
+| Former lover's dinner party with his lawyer friends, "demotion to boyfriend" joke about current husband | The dinner party was the ex's world (he had the lawyers). The "demotion" joke is about the current marriage. Both identifiable. | Reframe dinner party as third-person teaching example. Remove identifying professional detail ("lawyer friends"). |
+| Both partners named Daniel | Same first name for both partners is a highly identifying detail — anyone who knows the author knows this | NEVER use real names in the manuscript. Use different pseudonyms for each. The shared name is a fact for the author's notes only. |
 | Louis Vuitton store incident | Brand + behavior = identifiable to witnesses, staff, possibly security footage | Change to "a luxury store" |
 | Chagall painting + father's alcoholic girlfriend wanting it | Extremely specific cultural artifact in a family conflict | Change to "a meaningful piece of art" |
 | "Still afraid of my sister" — present tense | Describing ongoing fear of an identifiable living person | Remove present-tense fear descriptions of living family members |
@@ -750,7 +750,7 @@ This is enmeshment at its most insidious: when even the therapeutic relationship
 
 ### NEW: The Dinner Party Silence — When "Jump In" Means "Disappear Louder"
 
-**New material from author:** At dinner parties with her ex-husband and his lawyer friends, she couldn't get a word in. "You have to jump in," he'd say. In truth, she just became more quiet to keep the peace. It was too much energy to fight to be heard.
+**New material from author:** At dinner parties with her ex and his lawyer friends, she couldn't get a word in. "You have to jump in," he'd say. In truth, she just became more quiet to keep the peace. It was too much energy to fight to be heard.
 
 This is a different shape of the same silencing. Not the strategic quiet she uses with her family — the one born of pattern recognition, the one that protects her truth from people who'd weaponize it. This is the quiet of exhaustion. The quiet of a person who calculated the energy required to be heard in a room that wasn't designed to hear her — and decided the cost was too high.
 
