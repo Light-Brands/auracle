@@ -331,9 +331,8 @@ export const dummyContentPages: AdminContentPage[] = [
         content: {
           title: 'Meet Jennifer, The Auracle',
           credentials: [
-            'Masters Degree Nova Southeastern University',
-            'Bachelors of Science from Boston University',
-            'Former Licensed Mental Health Counselor in Massachusetts (LMHC)'
+            'Masters Degree in Mental Health Counseling, Nova Southeastern University',
+            'Bachelors of Science in Psychology, Boston University'
           ],
           bio: 'A sacred guide devoted to awakening divine remembrance and energetic clarity...'
         }
