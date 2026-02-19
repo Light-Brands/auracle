@@ -197,7 +197,7 @@ The distinction between love-bombing and genuine intensity is harder to see when
 >
 > Leaving her didn't mean leaving a relationship. It meant leaving the only world that had ever accepted me. So I stayed. And stayed. And called it love.
 
-**Reproductive coercion** deserves specific attention because it's often invisible until it's too late. This can look like deliberate pregnancy to create a bond you can't leave, birth control sabotage, or pressure to rush commitment after a pregnancy announcement. The pattern isn't about wanting a family. It's about wanting control. The child becomes both a hostage and a chain — something you love that keeps you connected to someone harming you.
+**Reproductive coercion** deserves specific attention because it's often invisible until it's too late. A close friend described this pattern in her own relationship — how it can look like deliberate pregnancy to create a bond you can't leave, birth control sabotage, or pressure to rush commitment after a pregnancy announcement. The pattern isn't about wanting a family. It's about wanting control. The child becomes both a hostage and a chain — something you love that keeps you connected to someone harming you.
 
 These patterns exploit universal human wiring, not gender. Love-bombing hooks nervous systems. Intermittent reinforcement creates trauma bonds. Gaslighting erodes perception. If these dynamics resonate but the specific examples don't match your experience, trust your perception. Abuse is abuse regardless of the genders involved.
 

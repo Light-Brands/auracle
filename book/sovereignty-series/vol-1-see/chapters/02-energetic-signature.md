@@ -208,7 +208,7 @@ The headaches that accompany this fog are your body's physical protest. The ment
 
 The fog often lifts once you're away from them. That tells you something important.
 
-> **Field Note:** *"I'd leave conversations with my mother unable to remember what we talked about. I once sat in my car for twenty minutes trying to recall a single thing she'd said. It was like the interaction had been erased from my brain—but my body remembered. The headache stayed for hours."*
+> **Field Note:** *"She'd leave conversations with her mother unable to remember what they talked about. She once sat in her car for twenty minutes trying to recall a single thing her mother had said. It was like the interaction had been erased from her brain—but her body remembered. The headache stayed for hours."*
 
 ### The Exhaustion After
 
@@ -229,7 +229,7 @@ This pattern is especially common after dealing with controlling people in profe
 
 This exhaustion is a signal. It's your body telling you how much work this relationship requires.
 
-> **Field Note:** *"A fifteen-minute phone call with my sister would knock me out for three hours. I'd hang up and go straight to bed — not tired like I'd exercised, but tired like I'd been running for my life. My husband started noticing: 'You talked to your sister again, didn't you?' He could tell by how I collapsed. And the truth is, I'm still afraid of her. Still afraid of the wrath. Still navigating it. I'm not writing from the other side of a clean break — I'm writing from inside an ongoing relationship with someone I love and fear simultaneously."*
+> **Field Note:** *"A fifteen-minute phone call with a certain family member would knock her out for three hours. She'd hang up and go straight to bed — not tired like she'd exercised, but tired like she'd been running for her life. Her husband started noticing: 'You talked to her again, didn't you?' He could tell by how she collapsed. The truth was, she was still afraid. Still navigating it. Not writing from the other side of a clean break — still inside an ongoing relationship with someone she loved and feared simultaneously."*
 
 ---
 
@@ -710,7 +710,7 @@ You don't need to understand everything that comes up. Sometimes a sensation rev
 ### Examples from Practice
 
 **The Chest Cave (expanded):**
-"When I'm around my mother, I notice my chest caves inward. When I really pay attention, it feels like there's a heavy, dark purple weight—about the size of a mango—pressing down behind my sternum. It's cold and dense, like a stone that's been at the bottom of a lake. The edges are smooth but hard. It feels ancient. When I ask it what it's protecting, I get the sense that it's protecting my heart from hoping—because hoping led to disappointment too many times."
+"A friend described this: when she's around her mother, she notices her chest caves inward. When she really pays attention, it feels like there's a heavy, dark purple weight—about the size of a mango—pressing down behind her sternum. It's cold and dense, like a stone that's been at the bottom of a lake. The edges are smooth but hard. It feels ancient. When she asks it what it's protecting, she gets the sense that it's protecting her heart from hoping—because hoping led to disappointment too many times."
 
 **The Throat Lock (expanded):**
 "My throat closes up in meetings with my boss. When I focus on it, there's a tight band—like a rubber tourniquet—wrapped around my throat at the level of my Adam's apple. It's grayish-brown, slightly rough textured. It pulses when I try to speak. It's not just blocking words—it feels like it's protecting me from saying something that will get me attacked. When I ask what it needs, I get: 'To know it's safe first.'"

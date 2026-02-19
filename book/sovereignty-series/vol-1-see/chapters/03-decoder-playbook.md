@@ -551,9 +551,13 @@ The queen never asks, "Am I enough?" She only asks, "Am I *more*?" And that ques
 - "You looked great before you gained weight."
 - "I prefer women who are [something you're not], but you're fine."
 - Controlling your appearance: dictating hair color, nail style, clothing, makeup
+- Telling you what to wear before meeting their friends or family
 - "You need to have neutral hair when we see my friends."
 - "No sparkles on your nails." "That color is too loud."
+- "You're not wearing *that*, are you?"
 - Critiquing your appearance in public—at the salon, in front of others
+- Deciding what's "appropriate" for your body, your age, your role
+- Treating your personal style as something that reflects on *them*
 
 **What's Really Happening:**
 They're destabilizing your self-image AND erasing your identity. By controlling when you feel attractive and when you don't, they make you dependent on their assessment. When they control how you're allowed to look, they're claiming ownership over your body and expression. Your appearance becomes a reflection of their preferences, not your authentic self.
