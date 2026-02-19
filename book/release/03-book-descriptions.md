@@ -4,6 +4,30 @@
 
 ---
 
+## Genre Positioning & Discoverability
+
+**Genre Classification:** Prescriptive Nonfiction — Personal Transformation / Trauma Recovery / Psychology
+
+**What this series IS:**
+- Prescriptive transformation — tools, frameworks, decoder cards, 12-week programs
+- Trauma recovery — attachment theory, polyvagal theory, nervous system healing
+- Psychology — informed by clinical training and professional therapeutic experience
+
+**What this series is NOT (and should never be positioned as):**
+- Memoir — personal experience informs the work but is not the product
+- Academic psychology — accessible, not clinical
+- Spiritual bypassing — grounded in neuroscience and somatic practice
+- Revenge literature — describes patterns, not people
+
+**Amazon Genre Strategy:** Position as Self-Help / Personal Transformation primary, Psychology secondary. This maximizes discoverability while matching reader expectation. The personal narrative elements differentiate from clinical texts but the *product* is the framework and tools.
+
+**Author's Note Genre Language (used in all volumes):**
+> "This is a work of nonfiction. The examples, field notes, and illustrative narratives throughout draw from the author's professional experience as a trauma-trained therapist, as well as from personal observation and lived experience."
+
+**Important:** The word "memoir" should not appear in any Amazon metadata, descriptions, or marketing materials. The series is prescriptive nonfiction with illustrative examples — not personal memoir.
+
+---
+
 ## The Sovereignty Series Overview
 
 | Volume | Title | Core Question | Launch Theme |
