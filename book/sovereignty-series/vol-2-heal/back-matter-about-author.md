@@ -10,7 +10,7 @@
 
 ---
 
-Jennifer Brooke Lawless is a therapeut, writer, and survivor of narcissistic abuse. She holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University), with clinical experience spanning psychiatric units, family therapy, and couples counseling.
+Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
 
 In *See* (Volume 1), she helped readers name the patterns. Now, in *Heal*, she guides you across the gap between insight and embodiment—because she had to cross it herself.
 

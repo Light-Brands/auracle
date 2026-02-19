@@ -10,7 +10,7 @@
 
 ---
 
-Jennifer Brooke Lawless is a healer, writer, and guide for emotionally sensitive adults learning to lead from a regulated nervous system. She holds degrees in Psychology and Mental Health Counseling, with clinical experience spanning psychiatric care, family systems, and couples work.
+Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
 
 Her journey to sovereignty began in the wreckage of narcissistic relationships. In *See* (Volume 1), she named the patterns. In *Heal* (Volume 2), she crossed from insight to embodiment. This book is what she found on the other side.
 

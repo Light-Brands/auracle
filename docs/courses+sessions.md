@@ -2,9 +2,8 @@
 
 ## About Jennifer (The Auracle)
 **Credentials & Background**
-- Masters Degree, Nova Southeastern University
-- Bachelor of Science, Boston University  
-- Former Licensed Mental Health Counselor in Massachusetts (LMHC)
+- Masters Degree in Mental Health Counseling, Nova Southeastern University
+- Bachelor of Science in Psychology, Boston University
 
 ---
 
