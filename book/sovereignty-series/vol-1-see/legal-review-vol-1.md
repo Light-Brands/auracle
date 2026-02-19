@@ -3,14 +3,14 @@
 **Manuscript:** *See: The Truth That Was Hidden in Plain Sight* (Volume One, The Sovereignty Series)
 **Author:** Jennifer Brooke Lawless
 **Review Date:** February 18, 2026
-**Last Updated:** February 19, 2026 (review updated to reflect Author's Note reframe)
+**Last Updated:** February 19, 2026 (review updated to reflect Author's Note reframe + "creative nonfiction" genre change)
 **Scope:** Full manuscript — Front Matter through Chapter 17
 
 ---
 
 ## Executive Summary
 
-This manuscript is a prescriptive nonfiction/self-help work about narcissistic abuse by a named, identifiable author who positions herself as a trauma-trained therapist writing from professional experience. "My sister," "my mother," "my ex-husband" are therefore traceable to real, living people by anyone in the author's social circle.
+This manuscript is a creative nonfiction/self-help work about narcissistic abuse by a named, identifiable author who positions herself as a trauma-trained therapist writing from professional experience. "My sister," "my mother," "my ex-husband" are therefore traceable to real, living people by anyone in the author's social circle.
 
 **Overall Manuscript Risk: MEDIUM-HIGH**
 
@@ -20,6 +20,7 @@ The author has done significant protective work — the disclaimers are strong, 
 
 **Change log (since initial review):**
 - ✅ Author's Note reframed: removed "personal memoir," added professional authority framing and "No example should be read as a direct account of any specific individual"
+- ✅ Genre declaration changed from "nonfiction" to "creative nonfiction" — invokes subjective recollection latitude
 - ⬜ CRITICAL findings 1-4: Not yet addressed in manuscript
 - ⬜ HIGH findings 1-7: Not yet addressed in manuscript
 - ⬜ Field note composite disclaimer: Not yet added as standalone element (partially covered by revised Author's Note)
@@ -31,12 +32,12 @@ The author has done significant protective work — the disclaimers are strong, 
 
 The front matter contains several protective elements:
 
-1. **Author's Note** *(revised)* — Leads with "professional experience as a trauma-trained therapist" rather than personal memoir. States examples draw from "professional experience... as well as from personal observation and lived experience." All names/details changed, composites used, events compressed, dialogue recreated. Includes the protective sentence: **"No example should be read as a direct account of any specific individual."** This is a meaningful legal improvement — it shifts the framing from "I'm telling my story with changed names" to "I'm a professional illustrating patterns from clinical and personal observation."
+1. **Author's Note** *(revised)* — Now opens with "This is a work of **creative nonfiction**" and leads with "professional experience as a trauma-trained therapist" rather than personal memoir. The "creative nonfiction" label is legally significant: courts give substantially more latitude to creative nonfiction than to "nonfiction," recognizing that creative nonfiction involves selection, compression, composite construction, and subjective interpretation of events. States examples draw from "professional experience... as well as from personal observation and lived experience." All names/details changed, composites used, events compressed, dialogue recreated. Includes the protective sentence: **"No example should be read as a direct account of any specific individual."** This is a meaningful legal improvement — it shifts the framing from "I'm telling my story with changed names" to "I'm a professional illustrating patterns from clinical and personal observation, using creative nonfiction techniques."
 2. **Field Experience Note** — Changed details, composites, "this book describes patterns, not people"
 3. **Diagnosis Note** — "Narcissist" refers to behavioral patterns, not clinical diagnosis
 4. **Professional Disclaimer** — Standard "not rendering professional services" language
 
-**Assessment:** The revised Author's Note is substantially stronger than the original. The professional-authority framing creates a meaningful defense layer: field notes can now be characterized as professional illustrations rather than personal disclosures. The "No example should be read as a direct account" sentence is particularly valuable — it directly undermines a plaintiff's claim that a passage is "about" them. However, disclaimers do not immunize against all claims. Where content is specific enough to be identifiable despite changed names, courts have held that disclaimers are insufficient. The CRITICAL and HIGH findings below remain vulnerable because the specificity of certain passages overrides even strong disclaimer language.
+**Assessment:** The revised Author's Note is substantially stronger than the original. Three layers of protection now work together: (1) the "creative nonfiction" genre label invokes judicial latitude for subjective recollection and composite construction, (2) the professional-authority framing positions field notes as clinical illustrations rather than personal disclosures, and (3) the "No example should be read as a direct account" sentence directly undermines a plaintiff's claim that a passage is "about" them. However, disclaimers do not immunize against all claims. Where content is specific enough to be identifiable despite changed names, courts have held that disclaimers are insufficient. The CRITICAL and HIGH findings below remain vulnerable because the specificity of certain passages overrides even strong disclaimer language.
 
 ---
 
@@ -206,15 +207,17 @@ The accumulation of anecdotes about "my ex," "my mother," "my sister," "my aunt"
 
 **Recommendation:** Track which passages appear to describe the same real individual. For each identifiable person, ensure no more than one or two passages contain specific enough details to function as identifying information.
 
-### 2. Genre Framing — "Nonfiction" Label *(partially addressed)*
+### 2. Genre Framing — "Creative Nonfiction" Label ✅ RESOLVED
 
-The Author's Note still opens with "This is a work of nonfiction." The original recommendation was to change this to "memoir" or "creative nonfiction" so courts would give more latitude to subjective recollection.
+The Author's Note now opens with **"This is a work of creative nonfiction"** — replacing the original "nonfiction rooted in personal memoir."
 
-**What changed:** Instead of adopting "memoir" framing, the author chose a different strategy — repositioning the book as prescriptive nonfiction written from professional authority. The Author's Note now leads with "the author's professional experience as a trauma-trained therapist" and adds "No example should be read as a direct account of any specific individual." The word "memoir" has been deliberately removed from all marketing and metadata.
+**What changed (two rounds of revision):**
+1. *First revision:* Removed "personal memoir," repositioned as prescriptive nonfiction written from professional authority. Added "No example should be read as a direct account of any specific individual."
+2. *Second revision:* Changed "nonfiction" to "creative nonfiction," invoking the genre's established legal latitude.
 
-**Assessment of alternative approach:** This is a defensible strategic choice with trade-offs. The professional-authority framing is *stronger* than "memoir" in one key respect: it positions personal anecdotes as clinical illustrations rather than autobiographical accounts, which weakens the "she's writing about me" claim. However, "nonfiction" still carries the legal weight of asserting factual truth. A plaintiff's attorney could argue: "She says this is nonfiction. She says it draws from lived experience. Therefore, the factual claims about my client are presented as true."
+**Why "creative nonfiction" is the strongest option:** Courts recognize creative nonfiction as a genre that inherently involves selection, compression, composite construction, and subjective interpretation. Unlike "nonfiction" (which implies factual assertion), "creative nonfiction" signals that the author has shaped, composited, and interpreted raw material. This makes it significantly harder for a plaintiff to argue that any specific passage is a factual claim about them. Combined with the professional-authority framing and the explicit "No example should be read as a direct account" language, this creates a robust three-layer defense at the genre level.
 
-**Remaining recommendation:** Consider adding the qualifier "prescriptive" — "This is a work of prescriptive nonfiction" — which further signals that the book's purpose is educational guidance, not personal disclosure. Alternatively, removing the genre declaration entirely ("This is a work of...") and letting the professional framing speak for itself would eliminate the issue.
+**Note:** The word "memoir" has been deliberately excluded from all marketing, Amazon metadata, and manuscript language. This avoids the autobiographical implications of memoir while gaining the subjective-recollection protections of creative nonfiction.
 
 ### 3. Minor Child Policy
 
@@ -246,7 +249,7 @@ Add at the beginning of the first Field Note or in front matter: "All field note
 11. Ch. 3 Aesthetic seesaw quotes — generalize
 
 ### Tier 3: Structural Changes
-12. ~~Change "nonfiction" to "memoir" in Author's Note~~ → ✅ ADDRESSED (differently than recommended): Author's Note reframed with professional authority; "personal memoir" removed. Consider adding "prescriptive" before "nonfiction" for additional protection.
+12. ~~Change "nonfiction" to "memoir" in Author's Note~~ → ✅ DONE: Changed to "creative nonfiction" + professional authority framing. Stronger than original "memoir" recommendation — invokes creative nonfiction genre latitude while avoiding autobiographical implications of "memoir."
 13. Add field note composite disclaimer — partially covered by revised Author's Note ("Some examples are composites... No example should be read as a direct account"), but a standalone field note disclaimer would add another defense layer
 14. Remove all identifiable references to the niece
 15. Implement systematic compositing of first-person Field Notes
@@ -280,14 +283,14 @@ The solution is not to remove these notes (they are the book's emotional power),
 
 | Change | Status | Impact |
 |--------|--------|--------|
-| Genre reframe (Author's Note) | ✅ Done — professional authority framing | Meaningful risk reduction. Positions field notes as professional illustrations. |
-| "Nonfiction" qualifier | ⬜ Open — consider "prescriptive nonfiction" | Would further distance from autobiographical framing. |
+| Genre reframe (Author's Note) | ✅ Done — professional authority framing + "creative nonfiction" | Strong risk reduction. Three-layer defense: genre latitude, professional framing, explicit disclaimer. |
+| ~~"Nonfiction" qualifier~~ | ✅ Done — changed to "creative nonfiction" | Invokes judicial latitude for subjective recollection and composite construction. |
 | Field note composite disclaimer | ⬜ Partially covered by Author's Note | Standalone disclaimer would add additional defense layer. |
 | CRITICAL findings (4) | ⬜ Not yet addressed | These remain the primary vulnerability. |
 | HIGH findings (7) | ⬜ Not yet addressed | Second priority after CRITICAL findings. |
 | Minor child policy | ⬜ Not yet implemented | Niece still appears in Ch. 7 passages. |
 
-The Author's Note reframe is a meaningful step that reduces overall exposure, but the manuscript's risk level remains **MEDIUM-HIGH** because the CRITICAL and HIGH findings are unchanged. The Author's Note cannot protect passages where specific, stacked identifying details override any disclaimer. With targeted edits to the CRITICAL and HIGH findings plus the remaining structural changes, the manuscript's legal risk profile would drop to **LOW-MEDIUM** — within acceptable publishing industry standards for prescriptive nonfiction/self-help.
+The structural disclaimer work is now substantially complete. The "creative nonfiction" genre label, professional authority framing, and explicit "no direct account" language create a strong baseline defense. However, the manuscript's risk level remains **MEDIUM-HIGH** because the CRITICAL and HIGH findings are unchanged in the text itself. Disclaimers — even excellent ones — cannot protect passages where specific, stacked identifying details make a person recognizable despite changed names. With targeted edits to the CRITICAL and HIGH findings plus the remaining structural changes (field note disclaimer, minor child policy), the manuscript's legal risk profile would drop to **LOW-MEDIUM** — within acceptable publishing industry standards for creative nonfiction/self-help.
 
 ---
 
