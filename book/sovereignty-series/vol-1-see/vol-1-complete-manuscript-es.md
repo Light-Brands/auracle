@@ -14,6 +14,8 @@ Todos los derechos reservados. Ninguna parte de este libro puede ser reproducida
 
 Publicado por KDP Amazon
 
+Diseño de portada por Light Brands — LightBrands.ai
+
 ISBN 978-X-XXXX-XXXX-X (tapa blanda)
 ISBN 978-X-XXXX-XXXX-X (libro electrónico)
 
@@ -15500,16 +15502,14 @@ No pudo encontrar ese libro. Así que lo escribió.
 
 No lo son. Y tú tampoco.
 
-Hoy, Jennifer vive en Costa Rica con su pareja Daniel, su gata Lumi y su comunidad espiritual, ROSES OS, donde es terapeuta, profesora de meditación de la rosa y Guardiana del Colibrí. Ofrece sesiones a través de Light Field Institute y es cofundadora de Light Brands.
+Hoy, Jennifer vive en Costa Rica con su pareja Daniel y su gata Lumi — aún haciendo el trabajo, una conversación a la vez.
 
 ---
 
 **Conecta con Jennifer**
 
-- Sitio web: LightBrands.ai
-- Sesiones y Libros: LightField.Institute
-- Instagram: @jae.lawless
-- Correo electrónico: LightFieldInstitute@gmail.com
+- LightField.Institute
+- @jae.lawless
 
 ---
 

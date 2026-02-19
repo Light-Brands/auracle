@@ -290,6 +290,15 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 > **Jennifer Brooke Lawless** holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica.
 
+### Back Cover Connect Info
+
+The back cover should include two simple lines beneath the author bio:
+
+- **LightField.Institute**
+- **@jae.lawless**
+
+**Branding note:** LightBrands.ai is the broader brand umbrella but lives on the website, not on the book. The designer should be aware of it for visual cohesion — the book's back cover points readers to LightField.Institute (sessions and books) and Instagram, while LightBrands.ai connects the full ecosystem online. If the designer visits LightBrands.ai for brand reference, the visual language there should feel like it belongs to the same family as these covers.
+
 ---
 
 ## Ebook Cover (Front Only)
