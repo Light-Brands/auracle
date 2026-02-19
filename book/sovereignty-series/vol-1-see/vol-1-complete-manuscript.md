@@ -14,6 +14,8 @@ All rights reserved. No part of this book may be reproduced, distributed, or tra
 
 Published by KDP Amazon
 
+Cover design by Light Brands — LightBrands.ai
+
 ISBN 978-X-XXXX-XXXX-X (paperback)
 ISBN 978-X-XXXX-XXXX-X (ebook)
 
@@ -15465,16 +15467,14 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community, ROSES OS, where she is a therapist, rose meditation teacher, and Guardian of the Hummingbird. She offers sessions through Light Field Institute and is a cofounder of Light Brands.
+Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi — still doing the work, one conversation at a time.
 
 ---
 
 **Connect with Jennifer**
 
-- Website: LightBrands.ai
-- Sessions & Books: LightField.Institute
-- Instagram: @jae.lawless
-- Email: LightFieldInstitute@gmail.com
+- LightField.Institute
+- @jae.lawless
 
 ---
 

@@ -14,6 +14,8 @@ All rights reserved. No part of this book may be reproduced, distributed, or tra
 
 Published by KDP Amazon
 
+Cover design by Light Brands — LightBrands.ai
+
 ISBN 978-X-XXXX-XXXX-X (paperback)
 ISBN 978-X-XXXX-XXXX-X (ebook)
 
