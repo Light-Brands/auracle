@@ -193,6 +193,44 @@ This names the redirect itself. It doesn't argue with his diagnosis. It points a
 
 ---
 
+## When She Wants to Go Through It, Not Around It
+
+The scripts above protect her. These are for a different moment — when she decides the relationship is worth pushing into. When she doesn't want to redirect away from the conversation but redirect it *deeper.* Not defusing — detonating, with care.
+
+This only works if she believes there's a real person under the posture. If she thinks he's capable of more than what he's showing her.
+
+**The move:** She takes his framework more seriously than he does. If growth is what this is about, she invites him into actual growth — which is mutual, uncomfortable, and requires him to examine himself too.
+
+**When he diagnoses her and she wants to open a real conversation:**
+
+"Okay. I'm willing to look at my part. Are you willing to look at yours?"
+
+This accepts the invitation but extends it. She's not defending. She's saying *yes, and.* If he's genuinely about growth, this is where a real conversation starts. If he deflects — if he can't turn the lens on himself — that tells her everything.
+
+**When he positions himself above her and she wants to pull him into the conversation:**
+
+"You want me to look deeper. I'm willing. But I need you in here with me, not above me."
+
+This doesn't attack his authority. It invites him to abandon it. Come down here. Do this with me. That's harder to refuse than a deflection, because refusing it proves the diagnosis was never about her growth.
+
+**When she wants to name the pattern — with love, not accusation:**
+
+"I notice that when I raise something, we end up talking about what's wrong with me. Every time. I don't think you're doing that on purpose. But I need you to see it."
+
+This is the hardest line to deliver because it requires genuine care. She's not trying to win. She's trying to *reach* him. She's saying: I see the pattern. I don't think you're a bad person. And I need this to change.
+
+**When she wants to test whether mutuality is possible:**
+
+"If I drop my defensiveness right now — completely — will you tell me what you're actually feeling underneath this?"
+
+This is the ultimate vulnerability move. She's offering to go first. To model the honesty she's asking for. If he meets her there — if he pauses, drops the posture, and says something real — that's the conversation she actually wanted. Stay in it.
+
+If he can't meet her — if he treats her openness as more evidence of what needs fixing — then she has her answer. Not about whether she should keep trying, but about whether he's capable of the mutuality she's offering.
+
+**The principle:** Going through it means being more honest than he is, first. She has to model what she's asking for. That's the risk. It's also why the payoff is so much higher when it works — because what comes out the other side isn't a managed conflict. It's a real relationship.
+
+---
+
 ## The Reframe That Frees Her
 
 When someone diagnoses your personality after provoking you — but the facts show they provoked four people and positioned all four as the problem — what they're really saying is:
