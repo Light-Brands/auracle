@@ -15508,8 +15508,7 @@ Hoy, Jennifer vive en Costa Rica con su pareja Daniel y su gata Lumi — aún ha
 
 **Conecta con Jennifer**
 
-- LightField.Institute
-- @jae.lawless
+LightField.Institute
 
 ---
 

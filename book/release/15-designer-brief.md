@@ -292,12 +292,11 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 ### Back Cover Connect Info
 
-The back cover should include two simple lines beneath the author bio:
+The back cover should include one clean line beneath the author bio:
 
 - **LightField.Institute**
-- **@jae.lawless**
 
-**Branding note:** LightBrands.ai is the broader brand umbrella but lives on the website, not on the book. The designer should be aware of it for visual cohesion — the book's back cover points readers to LightField.Institute (sessions and books) and Instagram, while LightBrands.ai connects the full ecosystem online. If the designer visits LightBrands.ai for brand reference, the visual language there should feel like it belongs to the same family as these covers.
+**Branding note:** All contact info (Instagram, email, Light Brands) lives on the website, not on the book. The book points readers to one place; the website connects the full ecosystem. LightBrands.ai is the broader brand umbrella — the designer should be aware of it for visual cohesion. If the designer visits LightBrands.ai for brand reference, the visual language there should feel like it belongs to the same family as these covers.
 
 ---
 

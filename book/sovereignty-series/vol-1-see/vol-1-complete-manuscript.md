@@ -15473,8 +15473,7 @@ Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi â
 
 **Connect with Jennifer**
 
-- LightField.Institute
-- @jae.lawless
+LightField.Institute
 
 ---
 
