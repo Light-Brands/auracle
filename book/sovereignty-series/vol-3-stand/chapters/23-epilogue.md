@@ -1,4 +1,4 @@
-# Chapter 22: Epilogue + Reader Blessing
+# Chapter 23: Epilogue + Reader Blessing
 
 ---
 

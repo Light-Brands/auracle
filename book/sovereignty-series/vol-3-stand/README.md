@@ -49,11 +49,12 @@
 | [Chapter 19](./chapters/19-holding-space.md) | Holding Space Without Rescuing | The difference between support and absorption |
 | [Chapter 20](./chapters/20-teaching-without-converting.md) | Teaching Without Converting | Sharing the path without preaching |
 | [Chapter 21](./chapters/21-sovereign-community.md) | The Sovereign Community | Finding and building your people |
+| [Chapter 22](./chapters/22-working-it-out.md) | Working It Out | Staying and doing the work across every committed relationship |
 
 ### Part VI — Closing
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 22](./chapters/22-epilogue.md) | Epilogue + Reader Blessing | A word before you go |
+| [Chapter 23](./chapters/23-epilogue.md) | Epilogue + Reader Blessing | A word before you go |
 
 ### Appendices
 | Appendix | Title | Description |
@@ -130,10 +131,11 @@ PART V: RELATIONAL SOVEREIGNTY
 ├── Chapter 18 ............ Navigating Others' Dysregulation
 ├── Chapter 19 ............ Holding Space Without Rescuing
 ├── Chapter 20 ............ Teaching Without Converting
-└── Chapter 21 ............ The Sovereign Community
+├── Chapter 21 ............ The Sovereign Community
+└── Chapter 22 ............ Working It Out
 
 PART VI: CLOSING
-└── Chapter 22 ............ Epilogue + Reader Blessing
+└── Chapter 23 ............ Epilogue + Reader Blessing
 
 APPENDICES
 ├── Appendix A ............ Glossary
