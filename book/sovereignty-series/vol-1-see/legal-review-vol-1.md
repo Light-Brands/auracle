@@ -259,21 +259,21 @@ The niece appears in passages where she can be identified through the author's k
 
 Add at the beginning of the first Field Note or in front matter: "All field notes are composites drawn from multiple sources. No single note depicts a specific individual."
 
-### 5. Relationship Terminology Policy — Replace "Ex-Husband" with Gender-Neutral Terms
+### 5. Relationship Terminology Policy — "X" Codename System
 
-All references to "my ex-husband" throughout the manuscript should be replaced with **"my ex," "a former lover," or "a past lover."** This serves two protective functions:
+All personal references to the author's former partner now use **"X"** as a codename (inspired by the anonymization approach in *Sex and the City*). This serves three protective functions:
 
-1. **Gender neutrality removes an identifying detail.** "Ex-husband" specifies a marital relationship with a man — immediately narrowing identification to anyone who knows the author was married. "Former lover" or "ex" could refer to anyone: any gender, any relationship type, any timeframe. The person becomes unidentifiable by relationship structure alone.
+1. **Complete de-identification.** "X" removes gender, relationship type, and timeframe — making the person entirely unidentifiable by relationship structure alone.
 
-2. **Consistency with composite framing.** The Author's Note states examples are composites and should not be read as direct accounts of specific individuals. Using "ex-husband" undermines that framing by specifying a relationship type that points to a known person. "Former lover" or "ex" is consistent with composite construction.
+2. **Consistency with composite framing.** The Author's Note states examples are composites. A codename reinforces that framing more effectively than "my ex" (which still implies a specific, identifiable person).
 
-**Scope:** Apply across the full manuscript — chapters, field notes, and any supporting materials. Also fix any passages where pronouns slip from gender-neutral to gendered (he/she/him/her), which signals a real account rather than a composite (see CRITICAL-1).
+3. **Narrative distance.** "X" reads as a deliberate literary choice, signaling to the reader that the person is anonymized by design, not accidentally.
 
-**Recommended replacements:**
-- "my ex-husband" → "my ex" or "a former lover" or "a past lover"
-- "ex-husband's" → "my ex's" or "a former lover's"
-- "Ex-husband(s)" in references → "Ex(es)" or "Former lover(s)"
-- Gendered pronouns in composite passages → they/them/their
+**Scope:** Apply to all personal references to the author's former partner across chapters and field notes. Generic/educational uses of "ex" (e.g., "every ex is crazy" as a narcissist tactic quote, or "your ex" in reader-directed passages) remain unchanged.
+
+**Replacement:**
+- "my ex" / "my ex-husband" → "X"
+- "with my ex" → "with X"
 
 ---
 

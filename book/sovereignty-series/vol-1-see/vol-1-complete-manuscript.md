@@ -402,6 +402,10 @@ This book is your way out.
 
 If you're reading this, something brought you here. Maybe it was a relationship that left you questioning your own sanity. Maybe it was a parent whose love always came with conditions you could never quite meet. Maybe it was a friend who seemed to take more than they gave, or a boss who made you feel both indispensable and worthless in the same conversation.
 
+I know because I lived it. Before I ever entered my own harmful relationships, I watched the woman who raised me model what love looked like: you chase the person who hurts you. You beg them to stay. You endure. Not one partner — a pattern. And my nervous system recorded every lesson before I had words for any of it. By the time I chose my own relationships, I wasn't choosing at all. I was following a template that had been installed in my body since childhood — mistaking anxiety for chemistry, intensity for connection, and the familiar ache of unavailability for love.
+
+This book exists because I kept asking *why*. Why did I stay? Why did I go back? Why did I choose the same pattern wearing a different face? The answers weren't in my character — they were in my wiring. And once I understood how that wiring was installed, I could finally begin to rewire it. That's what this book offers you: not just the language to name what happened, but the understanding of *why it worked on you specifically* — and how to make sure it never works again.
+
 Whatever brought you here, trust that instinct.
 
 The fact that you're seeking understanding is not a sign of weakness. It's a sign of intelligence. It takes a certain kind of courage to look directly at something that has been designed to keep you confused.
@@ -1548,7 +1552,7 @@ You don't need to understand everything that comes up. Sometimes a sensation rev
 "My throat closes up in meetings with my boss. When I focus on it, there's a tight band—like a rubber tourniquet—wrapped around my throat at the level of my Adam's apple. It's grayish-brown, slightly rough textured. It pulses when I try to speak. It's not just blocking words—it feels like it's protecting me from saying something that will get me attacked. When I ask what it needs, I get: 'To know it's safe first.'"
 
 **The Gut Churn (expanded):**
-"After phone calls with my ex, my stomach churns for hours. When I tune in, it feels like there's a swirling, murky greenish-black liquid in my belly—moving in slow circles, heavy and slightly acidic. It's not nausea exactly—it's more like dread that's trying to digest itself. The texture is oily, slick. When I ask what it's processing, I realize it's all the things I didn't say. The true responses I swallowed to keep the peace."
+"After phone calls with X, my stomach churns for hours. When I tune in, it feels like there's a swirling, murky greenish-black liquid in my belly—moving in slow circles, heavy and slightly acidic. It's not nausea exactly—it's more like dread that's trying to digest itself. The texture is oily, slick. When I ask what it's processing, I realize it's all the things I didn't say. The true responses I swallowed to keep the peace."
 
 ---
 
@@ -6854,6 +6858,22 @@ You may have learned to:
 - Apologize for existing
 - Need nothing, want nothing, and be nothing that inconveniences her
 
+> **Field Note: The Rocking Chair**
+>
+> She remembers the tightening in her chest every time she left the house. Her mother sitting in the rocking chair, still and heavy with something the daughter couldn't fix — sadness, anxiety, the weight of being alone with herself. The daughter could feel the pull from the doorway, the unspoken demand: *Stay. Soothe me. Keep me company in this.*
+>
+> She wasn't asked to stay. She didn't need to be. Her body had learned the request before language — the guilt that flooded her ribcage as she reached for the door handle, the way her breath went shallow as she stepped outside, the sick feeling of abandoning someone who needed her even though she was just going to live her life.
+>
+> Years later, she still can't leave certain rooms without that tightness. She still feels the pull — not from the rocking chair, but from anyone whose sadness feels like a command. Her body never learned the difference between leaving a room and leaving someone forever.
+
+> **Field Note: The Seeking Missile**
+>
+> She knows the feeling of being interrogated by her mother's anxiety. Not interrogated with cruelty — interrogated with need. The questions come rapid-fire, each one a heat-seeking missile deftly moving through deep waters, scanning for tension, for a crack, for anything to latch onto and make its target. *How was your day? What did he say? Why did you sound like that on the phone? Are you upset with me? What's wrong? Something's wrong. Tell me.*
+>
+> The questions aren't curiosity. They're sonar. Her mother's anxiety needs a place to land, and the daughter's inner world is the landing strip. Every answer gets parsed for threat. Every pause gets filled with projection. The mother isn't listening — she's locating. *Where is the thing I can worry about? Where is the explosion? Where does my anxiety go?*
+>
+> The daughter learns to go flat. To give nothing. To answer in monotone so there's nothing to grab. She becomes a smooth surface her mother's anxiety can't grip. And later, in her own relationships, she'll wonder why she goes blank when someone asks how she's feeling. It's not that she doesn't know. It's that her body learned: *if you show it, it will be consumed.*
+
 And underneath all of it, a primal grief. The mother you needed isn't the mother you got.
 
 ### The Mother Betrayal Pattern: Deep Dive
@@ -7028,6 +7048,20 @@ The mother wound doesn't heal by getting the mother you needed. It heals by beco
 - Let yourself be sad. The loss is real.
 - Stop waiting for her to become someone she can't be
 
+> **Field Note: Two Weddings**
+>
+> There were two sisters.
+>
+> The first sister got married and her mother barely participated. She didn't help plan. She didn't come dress shopping. She didn't ask about flowers or seating or the vows. When the day came, she attended like a guest — present in the room but absent from the role. The sister stood at the altar and felt the empty space where a mother's excitement should have been. She told herself it didn't matter. She told herself she didn't need it. But the photographs tell a different story: a bride whose smile doesn't quite reach the place where a daughter still waits.
+>
+> The second sister got married years later. She thought — maybe this time. Maybe with time and distance and growth, things would be different. She imagined her mother arriving early, helping with the dress, steadying her hands. Instead, her mother showed up late. Not devastatingly late — not missing-the-ceremony late. Just late enough to confirm everything the first wedding had already taught her: *you are not the event that makes her show up on time.*
+>
+> Two weddings. Two daughters. The same lesson delivered twice: your milestones are not her milestones. Your joy does not activate her joy. The mother you imagined — the one who cries happy tears and fusses over your veil and tells you you're beautiful — was never the mother you had.
+>
+> The grief isn't about the wedding. The grief is about every moment you expected her to rise to the occasion and she didn't. Every graduation, every heartbreak, every moment you looked toward the door and she either wasn't there or arrived too late for it to matter.
+>
+> The hardest part: she wasn't absent out of cruelty. She was absent out of incapacity. And incapacity doesn't give you anyone to be angry at — which is why the grief sits so deep and takes so long to name.
+
 **The truth work:**
 - Recognize that her limitations were never about your worth
 - Understand that you couldn't have been "good enough" because the goal kept moving
@@ -7049,6 +7083,18 @@ You'll know it's working when:
 - You can see her clearly without drowning in grief or rage
 - You can have limited contact without losing yourself
 - You stop hoping she'll change and start living your life anyway
+
+> **Field Note: The Rolling Roads**
+>
+> She remembers the tightness in her neck and chest as they drove to his house. She was scared. Her mother drove fast down rolling roads, gripping the wheel like it owed her something, and the daughter sat in the passenger seat pressing her feet into the floor as if she could slow the car from where she sat.
+>
+> *Mom, slow down,* she begged.
+>
+> Her mother didn't slow down. Her mother was chasing something — a man, an answer, the feeling of being chosen — and the speed was the pursuit made physical. The daughter's fear didn't register. It couldn't. In that car, there was only room for one person's urgency, and it wasn't the child's.
+>
+> What the daughter's body learned on those rolling roads: *When she is activated, you are invisible. Your fear is not a reason to stop. Her need is the only engine, and you are a passenger in someone else's desperation.*
+>
+> She will carry this in her neck for decades. The tightness that arrives in cars, in conflict, in any moment when someone else's intensity takes the wheel and she cannot make it stop. Her body still braces for the curve.
 
 ---
 
@@ -7270,6 +7316,79 @@ It can just mean: *I'm on my way.*
 **What it feels like in your body:** Fear that lives in your stomach. A startle response that's too easily triggered. Difficulty being around raised voices or conflict. A nervous system that was never allowed to fully relax.
 
 **The adult pattern:** You may be drawn to angry men (the familiar), terrified of anger (yours or others'), or completely conflict-avoidant. You may struggle to access your own healthy anger because anger was only ever destructive.
+
+---
+
+### The Father Betrayal Pattern: Deep Dive
+
+**What it feels like:** A shattering. Not a slow erosion like the mother wound — a clean break. The moment you realize the man who was supposed to model safety, protection, and reliability has shown you that none of those things are guaranteed.
+
+**Pattern name:** Paternal Inconsistency + Broken Promise + Selective Presence
+
+**This occurs when a father:**
+- Makes promises he doesn't keep — not occasionally, but as a pattern
+- Shows up for the public-facing moments (games, graduations, holidays) but disappears for the private ones (heartbreaks, fears, ordinary Tuesdays)
+- Is warm and engaged when it serves his image, then distant when no one is watching
+- Prioritizes new partners, new families, or new pursuits over maintaining connection
+- Is present physically but treats time with his children as an obligation, not a choice
+- Creates a separate life that the child can see but never fully enter
+- Tells the child they're important while consistently demonstrating otherwise
+
+**What the father betrayal pattern does to the child:**
+- Creates a template that love is unreliable
+- Teaches that words and actions don't need to match
+- Installs a belief that they're not worth staying for
+- Makes them hyper-attuned to inconsistency in others
+- Trains them to accept crumbs of attention as if it were a meal
+- Creates a pattern of excusing unavailability in partners ("he's just busy, he's under pressure, he means well")
+
+**The truth:** A father who is selectively present is teaching you that presence is conditional. You deserve someone who shows up — not just when it's easy or public or convenient, but when it's ordinary and quiet and no one is watching.
+
+**Activation statement:** "His inconsistency was his limitation. My worthiness of reliable love was never in question."
+
+---
+
+### The Father Wound in Daughters: How It Shapes Romantic Choices
+
+This section names something rarely discussed: the father wound doesn't just affect your relationship with your father. It becomes the blueprint for every intimate relationship that follows.
+
+**If your father was emotionally absent:**
+- You may interpret distance as normal, even desirable. "He needs his space" feels natural because space was all you ever got.
+- You may feel *more* attracted to men who are hard to reach — because reaching is the only form of intimacy your nervous system recognizes.
+- You may mistake relief (when he finally pays attention) for love. The inconsistency creates a dopamine cycle: absence → craving → brief presence → relief → absence. That cycle feels like chemistry. It isn't. It's a wound loop.
+
+**If your father was controlling:**
+- You may confuse dominance with protection. "He just wants what's best for me" is the same language you used for your father.
+- You may feel uncomfortable with men who give you freedom — because freedom feels like disinterest.
+- You may find yourself deferring, shrinking, asking permission — not because your partner demands it, but because your body was trained to operate that way.
+
+**If your father was rage-based:**
+- You may find calm men boring. Your nervous system was wired for high alert, and calm registers as absence of feeling.
+- You may become an expert at de-escalation — reading moods, managing tension, becoming invisible when the temperature rises. These are survival skills. They are not intimacy skills.
+- You may tolerate anger in partners that others wouldn't, because your threshold for what counts as "bad enough to leave" was set impossibly high in childhood.
+
+**The common thread:** The father wound in daughters teaches that male love is something you earn, endure, or decode — never something you simply receive. Healing begins when you recognize that the father wound isn't a character flaw in you. It's a template installed in your nervous system. And templates can be overwritten — but only after they've been named.
+
+---
+
+### Field Note: The Phone That Didn't Ring
+
+She is twelve, and it's her birthday.
+
+Her father said he'd call. He doesn't live with them anymore — hasn't for years — but he said he'd call. She believes him because believing him is easier than the alternative, and because twelve-year-olds still believe their fathers.
+
+She sits near the phone. Not staring at it — she's too smart for that. She does homework. She watches television. She acts casual. But her body is oriented toward the phone like a compass needle, waiting for the vibration, the ring, the proof that she was remembered.
+
+He doesn't call.
+
+Not that day. Not the next. When he calls a week later, he doesn't mention it. Neither does she. She has already learned the most important lesson: *Don't make it a thing. Don't show that you waited. Don't let him know it mattered.*
+
+She will carry this into every relationship. The waiting without admitting she's waiting. The checking of phones with a face that says "I don't care." The ability to absorb a disappointment so quickly it looks like it never happened. The reflex to protect the person who hurt her from knowing they hurt her — because if she shows the wound, it might drive them further away.
+
+She is not dramatic. She is not needy. She is a twelve-year-old who learned that the safest way to love a man is to never let him see how much you need him.
+
+Her body learned:
+*Wanting is dangerous. Waiting is inevitable. And the person you love most can forget you exist.*
 
 ---
 
