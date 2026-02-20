@@ -71,7 +71,168 @@ You may have learned to:
 >
 > The daughter learns to go flat. To give nothing. To answer in monotone so there's nothing to grab. She becomes a smooth surface her mother's anxiety can't grip. And later, in her own relationships, she'll wonder why she goes blank when someone asks how she's feeling. It's not that she doesn't know. It's that her body learned: *if you show it, it will be consumed.*
 
+But before she learned to go flat, there was a different phase. The phase where it worked.
+
+The anxious questioning — the relentless sonar — isn't just surveillance. It's a siren song. It sounds like love. It sounds like *someone cares enough to ask*. And because you were trained by this person, because this was your first template for emotional intimacy, you answer. You overshare. You hand over the details of your inner world because she made it feel safe to — because that's what the questioning was designed to do. Extract.
+
+And then the information moves. What you told her in vulnerability, she repeats to your sister. What you confided in a moment of trust becomes the thing she worries about *at* you — not for you, *at* you — turning your own feelings into evidence of your dysfunction. What you shared because you thought she was listening, she uses to tear you down, to guilt you, to triangulate, to prove you need her management.
+
+This is the extraction-to-weaponization cycle. The siren song comes first. The betrayal comes after. And because the siren song felt like love, you keep falling for it — handing over pieces of yourself, hoping *this time* she'll just hold them. She won't. She can't. She was never listening. She was loading.
+
 And underneath all of it, a primal grief. The mother you needed isn't the mother you got.
+
+---
+
+### The Engulfing Mother
+
+**What it looks like:** She wasn't absent — she was everywhere. She called constantly. She showed up unannounced. She needed to know everything: where you were, who you were with, what you were thinking. She treated your separateness as a rejection. "I need space" was met with tears, guilt, or rage — because to her, space meant abandonment, and your independence was a threat to her survival.
+
+**The hidden message you received:** Your autonomy is a betrayal. Being separate means being selfish. Love requires fusion. If you have a life she's not part of, you're hurting her.
+
+**What it feels like in your body:** A suffocating tightness when someone gets too close. A paradox: craving connection but panicking when it arrives. Feeling claustrophobic in intimacy, as though closeness itself will swallow you. An impulse to flee — not from the person, but from the merging your body expects.
+
+**The adult pattern:** You may oscillate between craving closeness and sabotaging it. You may choose emotionally unavailable partners because distance feels like oxygen. Or you may replicate the enmeshment — losing yourself in relationships, merging identities, not knowing where you end and they begin. Healthy interdependence (close *and* separate) may feel impossible, because your body only knows the extremes: consumed or abandoned.
+
+---
+
+### The Emotionally Absent Mother
+
+**What it looks like:** She was in the room but not in the room. Her body showed up. Her attention didn't. She might have been depressed, dissociated, medicated, or simply shut down. She went through the motions — meals, school drop-offs, bedtimes — but her eyes were somewhere you could never reach. You couldn't point to what she did wrong. She just wasn't *there*.
+
+**The hidden message you received:** You are not worth being present for. Your existence does not activate someone's attention. You can be right in front of someone and still be invisible.
+
+**What it feels like in your body:** An aching hollowness where mirroring should have been. A hunger that relationships don't quite satisfy. A feeling of being unseen even when someone is looking directly at you. Grief without a specific event — just the cumulative absence of someone who should have been paying attention.
+
+**The adult pattern:** You may over-perform to be noticed — becoming louder, more impressive, more useful — because visibility had to be earned, never given. Or you may under-perform, fading into the background because invisibility became your identity. You may choose partners who are physically present but emotionally gone, because your nervous system can't recognize a form of love that includes actual attentiveness. When someone truly sees you, it may feel suspicious — or terrifying.
+
+---
+
+### The Jealous / Competitive Mother
+
+**What it looks like:** She couldn't celebrate you without comparing herself. Your beauty was a threat. Your success triggered her insecurity. Your happiness — particularly the happiness she didn't have at your age — activated something in her that looked like resentment wearing a smile. She competed for attention at your events, undermined your confidence with "jokes," or dimmed your light by changing the subject back to herself.
+
+**The hidden message you received:** Your shine threatens the people who are supposed to love you. Being attractive, successful, or happy comes at a cost — someone else's envy. You must dim yourself to keep the peace.
+
+**What it feels like in your body:** A contraction when you receive a compliment. An instinct to deflect praise, apologize for good news, or minimize your appearance. A tightening in your gut when you outperform someone you love. The feeling that celebration is dangerous.
+
+**The adult pattern:** You may unconsciously choose partners who are threatened by your success — because that dynamic feels like home. You may dim yourself in relationships, playing smaller than you are so your partner doesn't feel eclipsed. You may struggle to receive admiration without guilt, because your body learned that being admired means someone nearby is shrinking. Or you may avoid romantic partners who celebrate you — because that level of support feels unfamiliar and therefore suspicious.
+
+---
+
+### The Martyr Mother
+
+**What it looks like:** Her suffering was her identity — and your debt. She sacrificed everything (and made sure you knew it). Every meal cooked was a gift to be repaid. Every hardship endured was a credit in the ledger. "After everything I've done for you" wasn't a sentence — it was a lifestyle. She didn't ask for gratitude. She installed it as a permanent operating system.
+
+**The hidden message you received:** You owe your existence. Your needs are a burden. Independence is ingratitude. You can never repay what was given — which means you can never be free.
+
+**What it feels like in your body:** Guilt that lives in your chest like a low-grade fever. A reflexive need to over-explain, over-thank, over-reciprocate. A discomfort with receiving anything — gifts, help, love — without immediately calculating what you owe in return. A heaviness that increases with every boundary you set, as though self-protection comes with a surcharge.
+
+**The adult pattern:** You may attract partners who guilt-trip you, because guilt is the emotional currency your nervous system was trained on. You may over-give in relationships — not from generosity but from the terror of being in someone's debt. You may struggle to say no without a paragraph of justification, because your body learned that "no" without sacrifice is selfishness. The martyr mother doesn't just install guilt. She installs the belief that *you are fundamentally too expensive to love* — that your existence requires repayment.
+
+**The reproductive extension:** The martyr mother's ledger doesn't end with what she gave you. It extends to what you haven't given her. "When are you going to give me grandchildren?" "Your sister already has kids." "I just want to be a grandmother before I die." Your reproductive choices — or your body's inability or your deliberate decision — become another line item in her suffering. She isn't asking. She's invoicing. The message beneath the message: *your body exists to complete my story.* Your childlessness — whether by choice, circumstance, or grief you haven't shared — is reframed as something you are doing *to her*. Not a private decision. A public withholding. The martyr mother's guilt doesn't stop at your life choices. It reaches into your womb and claims that too.
+
+---
+
+### The Covert / Sweetness Mother
+
+**What it looks like:** She never raised her voice. She never said anything overtly cruel. She was the mother everyone else envied — warm, devoted, always smiling. But you left every interaction feeling worse than when you walked in. The sighs. The "I'm fine" that meant "you've destroyed me." The kindness that was actually a leash. The compliment that was actually a correction. The concern that was actually surveillance.
+
+**The hidden message you received:** You can't trust your own perception. If she's this nice and you still feel bad, the problem must be you. Love that looks perfect from the outside can still hollow you from within — and no one will believe you.
+
+**What it feels like in your body:** A fog after conversations that seemed pleasant. A nagging sense that something just happened, but you can't prove it. Confusion that sits in your temples like a headache. An inability to name the wound because there's no bruise to point to.
+
+**The adult pattern:** You may attract covert narcissists — partners who present beautifully but leave you feeling crazy. You may struggle to leave relationships that "look good on paper" because you've been trained to distrust your own experience when the surface is pleasant. You may gaslight yourself: *They're so nice to me. Why do I feel so empty?* The covert mother is the training ground for every partner who will later make you doubt your own reality.
+
+---
+
+### The Vicariously Living Mother
+
+**What it looks like:** She didn't have her own life — she had yours. Your appearance was her project. Your achievements were her accomplishments. Your social life was her social life. She chose your clothes, your activities, your friends. She lived through you — the career she didn't have, the beauty she felt she lost, the youth she wanted back. You weren't her child. You were her second chance.
+
+**The hidden message you received:** You don't exist for yourself. Your body, your accomplishments, your choices exist to fulfill someone else's unlived life. Your wants are irrelevant; your role is to perform the life she wished she'd had.
+
+**What it feels like in your body:** A disconnection from your own desires. An inability to answer "what do *you* want?" without freezing. A body that performs perfectly — always dressed right, always achieving — but feels hollow at the center. The sense that you've been living someone else's life and have no idea what your own would look like.
+
+**The adult pattern:** You may attract partners who tell you who to be — because having your identity defined from outside feels normal. You may struggle with identity in relationships, morphing into what your partner wants without realizing you've done it. You may confuse enmeshment with love, because love and self-erasure were always the same thing. The question "Who are you when no one needs you to be anything?" may feel like standing at the edge of a cliff.
+
+---
+
+### The Addicted / Unpredictable Mother
+
+**What it looks like:** She was two people. Sober mom and drunk mom. Medicated mom and unraveling mom. The version who read you bedtime stories and the version who forgot to pick you up from school. You learned to read the signs before you walked through the door — the particular quality of silence, the smell, the position of her body on the couch. Your childhood was organized around prediction.
+
+**The hidden message you received:** The person you love most is unreliable. Safety is temporary. The good version is real but so is the dangerous one, and they live in the same body. You must always be ready.
+
+**What it feels like in your body:** A hypervigilance that begins at the threshold. A body that scans before it enters — any room, any conversation, any relationship. An exhaustion that comes not from activity but from the constant work of anticipation. A nervous system that never fully rests because resting means being caught off guard.
+
+**The adult pattern:** You may tolerate inconsistency in partners because your body doesn't know what consistency feels like. You may excuse bad behavior by pointing to the good behavior that came before — or the good behavior you know is "in there somewhere." You were trained to love potential, to wait for the good version, to believe that the pain is the price of admission to the love. Intermittent reinforcement — the cycle of warmth and withdrawal — feels like passion. It isn't. It's the oldest pattern you know.
+
+---
+
+### The Rage-Based Mother
+
+**What it looks like:** Her anger organized the household. You knew by the way she put down a dish, closed a door, or drew a breath whether the temperature was about to change. Her explosions were the events the family revolved around — avoiding them, recovering from them, pretending they didn't happen. She may have called it passion, or stress, or "being pushed too far." The family called it walking on eggshells.
+
+**The hidden message you received:** Female anger is terrifying and all-consuming. Emotions are weapons. Expressing feelings means someone gets hurt. You are responsible for preventing her detonation — and when she detonates, it's because you failed.
+
+**What it feels like in your body:** A flinch that never fully relaxes. A bracing in the shoulders when you hear raised voices — any voices, not just hers. A nervous system that treats calm as the space between storms rather than a place to rest. An inability to express your own anger because anger, in your experience, always destroys.
+
+**The adult pattern:** You may suppress your anger entirely — becoming accommodating, conflict-avoidant, unable to assert yourself — because you saw what anger does when it's unleashed. Or you may replicate it: explosive outbursts followed by shame, a cycle you recognize but can't stop. You may struggle to be around angry women — or you may seek them, because the familiar chaos of a raging mother is the only version of female intensity your nervous system recognizes as "real."
+
+---
+
+### The Mother Wound in Sons
+
+The mother wound in sons is one of the most culturally invisible wounds — because the culture demands that men not have one.
+
+**If your mother was engulfing:**
+- You may have learned that women's love is a cage. You may struggle with commitment — not from immaturity, but because closeness triggers a claustrophobic reflex installed by a mother who couldn't let you go. You may keep partners at arm's length and call it independence.
+- You may confuse a partner's need for emotional presence with the suffocating demand your mother made. When someone says "I need more from you," your body hears: *she's consuming me again.*
+
+**If your mother was emotionally absent:**
+- You may have a deep hunger for feminine attention that you don't know how to name. You may seek women who are emotionally unavailable — or pursue relentlessly and then lose interest the moment they reciprocate, because the wanting was the only version of connection your nervous system knows.
+- You may struggle to believe a woman actually *wants* to be with you. The absence taught: *your presence doesn't register. You are not the person someone stays present for.*
+
+**If your mother was competitive or jealous:**
+- You may have internalized that women are threatened by your success — and learned to downplay it. Or you may have learned to perform success as a way to earn female attention, because your mother's approval was tied to how well you reflected her.
+- In relationships, you may be drawn to women who compete with you — because that tension feels like engagement. Mutual support may feel flat.
+
+**If your mother was a martyr:**
+- You may carry a debt you can never repay. You may over-function for women in your life — not from love, but from guilt. You may confuse a woman's suffering with a claim on your labor, because your mother taught you that female pain is always your responsibility.
+- Setting boundaries with women may feel impossible — because saying no to your mother wasn't just difficult, it was framed as an act of cruelty.
+
+**If your mother was rage-based:**
+- You may flinch at female anger — any female anger, even healthy anger. You may become compliant, over-accommodating, or conflict-avoidant in relationships, because your body learned that a woman's displeasure is dangerous and your job is to prevent it.
+- Or you may have absorbed the rage: explosive yourself, then ashamed, then desperate to make up for it. The cycle your mother ran becomes the cycle you repeat.
+
+**The common thread:** The mother wound in sons teaches that female love is conditional, consuming, or dangerous — and that admitting this wound exists makes you weak. Healing begins when you recognize that needing your mother's love wasn't weakness. It was biology. And the way she handled that need was *her* limitation, not yours.
+
+### The Mother Wound in Daughters: How It Shapes Romantic Choices
+
+The mother wound in daughters doesn't just damage the mother-daughter relationship. It becomes the template for how you relate to yourself — and by extension, how you allow others to relate to you.
+
+**If your mother was engulfing:**
+- You may attract partners who are possessive and call it "passion." The enmeshment feels like love because love and fusion were always the same thing.
+- You may also flee from closeness — choosing emotionally unavailable partners because distance is the only way your nervous system knows how to breathe.
+
+**If your mother was emotionally absent:**
+- You may over-perform in relationships, trying to earn the attention that was never freely given. You become the partner who does everything — and then resents it — because your body is still trying to be visible enough to be loved.
+- You may struggle to believe you're lovable without being useful. Rest feels dangerous. Being still feels like becoming invisible again.
+
+**If your mother was jealous:**
+- You may hide your beauty, your success, your happiness — not from modesty, but from the learned belief that being visible makes the people you love feel worse. You may choose partners who are intimidated by you, because shrinking to fit someone else's comfort was your first relational training.
+- You may unconsciously compete with female friends — not because you're competitive, but because your mother taught you that female relationships are zero-sum.
+
+**If your mother was a martyr:**
+- You may attract guilt-based relationships. You may stay in dynamics that make you miserable because leaving triggers the same guilt your mother installed: *after everything they've done for you, how could you go?*
+- You may become a martyr yourself — sacrificing endlessly and then feeling invisible when no one notices. You learned the playbook. You're running it.
+
+**If your mother was covert:**
+- You may be especially vulnerable to covert narcissistic partners. The relationship "looks perfect" and you feel terrible — and because your mother trained you to distrust your perception when the surface is nice, you'll stay far longer than you should, wondering if you're the problem.
+
+**The common thread:** The mother wound in daughters teaches that your needs are secondary, your perception is unreliable, and love requires self-abandonment. Healing begins when you stop mothering everyone else and let yourself be held.
+
+---
 
 ### The Mother Betrayal Pattern: Deep Dive
 
@@ -738,6 +899,38 @@ This section names something rarely discussed: the father wound doesn't just aff
 - You may tolerate anger in partners that others wouldn't, because your threshold for what counts as "bad enough to leave" was set impossibly high in childhood.
 
 **The common thread:** The father wound in daughters teaches that male love is something you earn, endure, or decode — never something you simply receive. Healing begins when you recognize that the father wound isn't a character flaw in you. It's a template installed in your nervous system. And templates can be overwritten — but only after they've been named.
+
+---
+
+### The Father Wound in Sons: How It Shapes Identity and Relationships
+
+The father wound in sons is culturally invisible — because the culture demands that men not have one. Boys are taught to "get over it." Sons are expected to become men without acknowledging that the man who was supposed to show them how either wasn't there or showed them the wrong way.
+
+**If your father was emotionally absent:**
+- You may have no template for what engaged masculinity looks like. You may default to silence, distance, and emotional shutdown in relationships — not from cruelty, but because you were never shown an alternative. Your partner asks "what are you feeling?" and your body goes blank, because no one ever taught you to answer that question.
+- You may seek male mentors obsessively — coaches, bosses, older men — trying to fill the role he left empty. Or you may reject male authority entirely, because the original authority figure proved it was meaningless.
+
+**If your father was authoritarian:**
+- You may oscillate between domination and submission. In some relationships, you replicate his control. In others, you collapse into compliance — terrified of becoming him, but equally terrified of the powerlessness he made you feel. The middle ground — assertive without being aggressive — may feel like a tightrope you were never taught to walk.
+- You may struggle with anger. His anger was the only model you had. Yours may erupt in ways that shame you — or may be so deeply buried you can't access it at all.
+
+**If your father was achievement-obsessed:**
+- You may be driven — relentlessly, joylessly, unstoppably. Success doesn't satisfy because the goalposts were installed by a man who never let you arrive. You hit the target and immediately look for the next one, because resting means becoming the disappointment he always implied you were.
+- In relationships, you may be emotionally absent — not because you don't care, but because your nervous system was trained to value productivity over presence. Your partner asks for your time. Your body says: *time not producing is time failing.*
+
+**If your father was rage-based:**
+- You may carry a terror of your own anger. You know what it looks like when it's unleashed. You may suppress it so completely that you can't advocate for yourself, set boundaries, or protect the people you love — because any expression of force feels like the beginning of becoming him.
+- Or you may have inherited the cycle: explosive anger → shame → over-compensation → simmering resentment → explosion. You know the pattern. You hate it. And you may not know how to stop it, because the only masculine emotional template you have is the one he installed.
+
+**If your father was competitive:**
+- You may struggle with male friendships. Closeness with men feels like competition — because the first man in your life couldn't let you win without making it about himself. You may choose male friends who are non-threatening, or avoid male intimacy entirely.
+- In romantic relationships, you may struggle when your partner succeeds — not from misogyny, but from the reflex your father installed: *someone else's success is your diminishment.* Recognizing this pattern is the first step to overwriting it.
+
+**If your father was addicted:**
+- You may carry a vigilance around men who drink, use, or check out. You scan for the signs. You monitor consumption at dinner. You read the quality of someone's presence the way you used to read your father's — *is the good version here, or the other one?*
+- You may also normalize substance use in yourself — because it was the wallpaper of your childhood. Or you may be rigidly sober, building a wall against the version of yourself you're terrified might emerge.
+
+**The common thread:** The father wound in sons teaches that masculinity is either dangerous or absent — and that admitting you were hurt by it makes you less of a man. Healing begins when you name the wound without apology. You were a boy who needed a father. The father you got was inadequate. That is not your shame. That was his failure. And the man you're becoming doesn't have to be built on his blueprint.
 
 ---
 
