@@ -7321,6 +7321,78 @@ It can just mean: *I'm on my way.*
 
 ---
 
+### The Enmeshed / "Best Friend" Father
+
+**What it looks like:** He made you his confidant. His buddy. His emotional partner. He told you about his dating life, his problems with your mother, his loneliness. He treated you like an equal, which felt special — until you realized it was a burden. He didn't parent you. He friended you. And the friendship came with obligations no child should carry.
+
+**The hidden message you received:** Your value lies in understanding men. Your job is to manage their emotions, absorb their loneliness, and make them feel known. Emotional caretaking is how you earn closeness.
+
+**What it feels like in your body:** A tightness in your solar plexus when a man shares his feelings — not because you don't care, but because your body braces for the weight. A compulsive need to fix, soothe, or understand. An inability to simply be *with* someone without managing *for* them.
+
+**The adult pattern:** You gravitate toward men who "need you to understand them" — because being needed is the only form of closeness your nervous system recognizes. You may confuse emotional labor with intimacy. You may be drawn to wounded, complicated men and mistake the work of decoding them for connection. When a man doesn't need you to manage his inner world, it may feel like there's no relationship at all.
+
+---
+
+### The Idealizing / Pedestaling Father
+
+**What it looks like:** He called you his princess. His perfect girl. He praised your beauty, your intelligence, your talent — but only the shiny parts. He put you on a pedestal and made you feel adored. The problem: you could never come down from it. He didn't want to see you struggle, fail, be ugly, be human. His love was for the image of you, not the fullness of you.
+
+**The hidden message you received:** Your value is in being admired, not in being real. Being imperfect will cost you love. You must perform the version of yourself that gets adored — and hide the rest.
+
+**What it feels like in your body:** A clenching when you're about to show vulnerability. A reflex to present the polished version. A fear that if someone sees you as you actually are — messy, uncertain, struggling — the love will evaporate. A strange emptiness inside the praise, like being applauded for a role you didn't audition for.
+
+**The adult pattern:** You may attract partners who idealize you early (love-bombing feels *right* because it matches the template). When they inevitably see your imperfections and devalue you, it confirms the fear the pedestal installed: *the real me isn't lovable, only the performance is.* You may also struggle to ask for help, admit weakness, or let anyone see you at less than your best — because the pedestal taught you that visibility has conditions.
+
+---
+
+### The Competitive Father
+
+**What it looks like:** He couldn't let you surpass him. When you succeeded, he one-upped you. When you excelled, he reminded you of his own accomplishments. He told stories at dinner that happened to minimize yours. He didn't cheer from the sidelines — he jogged onto the field.
+
+**The hidden message you received:** Your success threatens the people you love. Growing means leaving someone behind. Being excellent is an act of aggression.
+
+**What it feels like in your body:** A contraction when you're about to share good news. A reflex to downplay accomplishments. An instinct to check whether your success will make someone else feel small — and to shrink accordingly. A discomfort with being celebrated, as though the spotlight itself is dangerous.
+
+**The adult pattern:** You may unconsciously sabotage your own success — not from lack of ability, but because your body learned that excelling provokes retaliation from the people closest to you. You may choose partners who are threatened by your competence, because that dynamic feels familiar. Or you may over-function for partners who under-function, keeping yourself small enough that they never feel outshone. Dimming your light to keep the peace was your first relational skill. It shouldn't be your last.
+
+---
+
+### The Addicted / Unpredictable Father
+
+**What it looks like:** He was two people. Sober dad and drunk dad. Medicated dad and off-his-meds dad. Present dad and disappeared dad. You never knew which version was walking through the door, and your childhood was organized around predicting which one you'd get.
+
+**The hidden message you received:** Love is a gamble. The good version is worth waiting for. You can love someone and be terrified of them simultaneously. The best times are only possible because of the worst times — and that's what love costs.
+
+**What it feels like in your body:** A flinch at the sound of a door opening. A scanning that begins before full consciousness — reading footsteps, reading the quality of silence, reading the energy of a room before your eyes have adjusted. An exhaustion that comes from being always ready.
+
+**The adult pattern:** You may tolerate intermittent reinforcement in relationships (the cycle of good-bad-good-bad feels like home). You may believe that "real love" requires endurance. You may wait out bad behavior because you know the good version is in there somewhere. You were trained to love potential instead of presence.
+
+> **Field Note: The House You Couldn't Invite Anyone To**
+>
+> She never had friends over. Not because her parents forbade it — because the house itself was unpredictable. You couldn't control what they'd walk into. Which version of him would be in the living room. What the energy would feel like when they opened the door.
+>
+> So she went to other people's houses. She spent afternoons and weekends and summers anywhere that wasn't home — absorbing other families' calm the way someone starving absorbs food. She studied how other fathers spoke at dinner. She noticed how other houses felt when you walked in — the absence of dread, the ordinariness of safety.
+>
+> She didn't know the word for what she was doing. She was benchmarking. She was learning what *normal* felt like by visiting it in other people's lives.
+>
+> Years later, she will love having people over. Her home will be open, warm, full. She'll set the table for friends and feel something ancient release in her chest. *This is what a house is supposed to feel like. This is what I was building toward all along.*
+>
+> But she'll also notice: when someone arrives and the energy shifts even slightly — a mood change, a tense silence, a raised voice — her body goes to the old place. Scanning. Predicting. Ready to manage the room or empty it. The girl who couldn't invite anyone over is still inside the woman who invites everyone.
+
+---
+
+### The Financially Weaponizing Father
+
+**What it looks like:** Money was his primary language of love — and his primary tool of control. He provided generously, and every gift came with a receipt. College was paid for, and you heard about it at every disagreement. Support was given and withdrawn based on compliance. "After everything I've paid for" was a sentence that ended arguments before they started.
+
+**The hidden message you received:** Love has a ledger. You always owe. Independence is ingratitude. Accepting help means accepting conditions. Financial support and emotional control are the same transaction.
+
+**What it feels like in your body:** A tightening in your stomach when someone offers to help. A reflex to refuse gifts, pay your own way, split every check — not from generosity but from the knowledge that accepting comes with strings. A discomfort with being provided for, because provision was never free.
+
+**The adult pattern:** You may either replicate the pattern (choosing partners who use money as control) or rebel against it (refusing all financial help, even healthy interdependence). You may struggle to receive generosity without suspicion. You may over-work and over-earn as a way to ensure you never *owe* anyone anything — because debt, in your nervous system, is the same as captivity. Financial independence isn't just a goal; it's a survival strategy installed by a man who taught you that love has a price tag.
+
+---
+
 ### The Father Betrayal Pattern: Deep Dive
 
 **What it feels like:** A shattering. Not a slow erosion like the mother wound — a clean break. The moment you realize the man who was supposed to model safety, protection, and reliability has shown you that none of those things are guaranteed.
