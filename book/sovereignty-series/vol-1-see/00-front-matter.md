@@ -25,6 +25,8 @@ First Edition
 
 **Author's Note:** This is a work of creative nonfiction. The examples, field notes, and illustrative narratives throughout draw from the author's professional experience as a trauma-trained therapist, as well as from personal observation and lived experience. All names, identifying details, and circumstances have been changed. Some examples are composites. Some events have been compressed, and some dialogue has been recreated from memory. No example should be read as a direct account of any specific individual. The information and opinions expressed in this book represent the author's professional and personal perspective and should not be considered a representation of the views or experiences of any other persons referenced herein, whether directly or indirectly.
 
+**A Note on Field Notes:** The field notes throughout this book are composites drawn from clinical work, personal observation, and the shared experiences of colleagues, clients, and friends. No single field note depicts a specific individual or a specific event. Details have been changed, combined, and reimagined to protect privacy while preserving the emotional truth of each pattern. If you see yourself in these pages, it is because the patterns are universal — not because any note was written about you.
+
 **Crisis Resources:** See [Appendix A: Resources](./appendices/appendix-a-resources.md) for 24/7 crisis hotlines, international resources, and specialized support services.
 
 ---

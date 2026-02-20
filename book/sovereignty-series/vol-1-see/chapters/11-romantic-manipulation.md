@@ -197,7 +197,7 @@ The distinction between love-bombing and genuine intensity is harder to see when
 >
 > Leaving her didn't mean leaving a relationship. It meant leaving the only world that had ever accepted me. So I stayed. And stayed. And called it love.
 
-**Reproductive coercion** deserves specific attention because it's often invisible until it's too late. This can look like deliberate pregnancy to create a bond you can't leave, birth control sabotage, or pressure to rush commitment after a pregnancy announcement. The pattern isn't about wanting a family. It's about wanting control. The child becomes both a hostage and a chain — something you love that keeps you connected to someone harming you.
+**Reproductive coercion** deserves specific attention because it's often invisible until it's too late. A close friend described this pattern in her own relationship — how it can look like deliberate pregnancy to create a bond you can't leave, birth control sabotage, or pressure to rush commitment after a pregnancy announcement. The pattern isn't about wanting a family. It's about wanting control. The child becomes both a hostage and a chain — something you love that keeps you connected to someone harming you.
 
 These patterns exploit universal human wiring, not gender. Love-bombing hooks nervous systems. Intermittent reinforcement creates trauma bonds. Gaslighting erodes perception. If these dynamics resonate but the specific examples don't match your experience, trust your perception. Abuse is abuse regardless of the genders involved.
 
@@ -469,15 +469,15 @@ This phase is the most dangerous time in the relationship. The tactics combine a
 
 **The Context:**
 
-A partner has decided internally that they need to leave the relationship. They haven't announced it yet, but the narcissist senses the shift—the emotional withdrawal, the lack of engagement, the quiet preparation. The narcissist knows their grip is loosening.
+She has decided internally that she needs to leave the relationship. She hasn't announced it yet, but the narcissist senses the shift—the emotional withdrawal, the lack of engagement, the quiet preparation. He knows his grip is loosening.
 
 **What Happened:**
 
-The escalation began with **suicide threats** (Tactic 29): "If you leave, I'll kill myself. I'll jump off this balcony right now." The threat hangs in the air, creating an impossible choice—stay and endure abuse, or leave and risk their death being "your fault."
+The escalation began with **suicide threats** (Tactic 29): "If you leave, I'll kill myself. I'll jump off this balcony right now." The threat hangs in the air, creating an impossible choice—stay and endure abuse, or leave and risk his death being "your fault."
 
 This was followed by **physical intimidation** (Tactic 4): First came the marveling — repeated, almost admiring, turning the observation over like he was noticing something beautiful: "Your neck is so small and delicate." He said it more than once, with a tenderness that made her skin crawl. Then he placed his hand around her throat. Not squeezing. Demonstrating. "I could snap it with one hand." The message was clear: your safety depends on my restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. And afterward, every time someone admired something about her body, her neck remembered. The admiration and the violence became the same gesture.
 
-Then came the **trivial demands as compliance tests**: "Get me another popsicle." Not because they wanted it, but to test dominance. When their partner didn't immediately comply, the response was explosive—screaming, making a scene in front of a visiting friend. This was **public humiliation** (combined tactics) designed to punish non-compliance and demonstrate power.
+Then came the **trivial demands as compliance tests**: "Get me another popsicle." Not because he wanted it, but to test dominance. When she didn't immediately comply, the response was explosive—screaming, making a scene in front of a visiting friend. This was **public humiliation** (combined tactics) designed to punish non-compliance and demonstrate power.
 
 The aftermath involved **reversal of blame** (Tactic 18): "If you had just done what I wanted in the first place, none of this would have happened. This is your fault." The explosion was reframed as a reasonable response to non-compliance.
 
