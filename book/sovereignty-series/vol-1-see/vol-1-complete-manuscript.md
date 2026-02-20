@@ -7010,6 +7010,18 @@ The mother wound in sons is one of the most culturally invisible wounds — beca
 - You may flinch at female anger — any female anger, even healthy anger. You may become compliant, over-accommodating, or conflict-avoidant in relationships, because your body learned that a woman's displeasure is dangerous and your job is to prevent it.
 - Or you may have absorbed the rage: explosive yourself, then ashamed, then desperate to make up for it. The cycle your mother ran becomes the cycle you repeat.
 
+**If your mother was covert:**
+- You may be drawn to women who seem perfect — warm, attentive, never overtly cruel — but leave you feeling hollowed after every interaction. You can't point to what's wrong. The relationship "looks great." And you feel crazy. Your mother trained you to distrust your gut when the surface is pleasant, so you stay, wondering what's wrong with *you*.
+- You may struggle to trust kindness. When a woman is genuinely warm, your body waits for the undertow — the sigh, the passive withdrawal, the sweetness that's actually a leash. You may keep kind women at a distance because your nervous system can't distinguish real warmth from the covert variety.
+
+**If your mother was vicariously living:**
+- You may attract partners who need you to perform a version of yourself — the successful one, the impressive one, the man she can display. You may feel loved only when you're being someone's achievement. When a partner loves you quietly, without needing you to shine, it may feel like indifference.
+- You may struggle with identity in relationships. Your mother used you as her second chance, and you may unconsciously seek partners who tell you who to be — because being defined from outside is the only way you know you exist.
+
+**If your mother was addicted:**
+- You may normalize chaos in relationships. The unpredictability — the good nights and the bad nights, the tenderness followed by the vanishing — registers as familiar. You may find stable women boring, because your nervous system was calibrated for the swing between the two versions of her.
+- You may carry a vigilance that never rests. You scan your partner's mood before she speaks. You read the energy of a room before your eyes adjust. You became an expert at prediction because prediction was survival — and now you can't turn it off, even when the room is safe.
+
 **The common thread:** The mother wound in sons teaches that female love is conditional, consuming, or dangerous — and that admitting this wound exists makes you weak. Healing begins when you recognize that needing your mother's love wasn't weakness. It was biology. And the way she handled that need was *her* limitation, not yours.
 
 ### The Mother Wound in Daughters: How It Shapes Romantic Choices
@@ -7034,6 +7046,18 @@ The mother wound in daughters doesn't just damage the mother-daughter relationsh
 
 **If your mother was covert:**
 - You may be especially vulnerable to covert narcissistic partners. The relationship "looks perfect" and you feel terrible — and because your mother trained you to distrust your perception when the surface is nice, you'll stay far longer than you should, wondering if you're the problem.
+
+**If your mother was vicariously living:**
+- You may attract partners who tell you who to be — and mistake it for love. Your mother used your life as her canvas, and you may gravitate toward people who have a vision for you, because being shaped from outside feels like being seen. When a partner says "you'd look great if you..." or "you should really pursue...", your body doesn't hear control. It hears attention.
+- You may struggle to know what you want in a relationship — or in life — because your desires were never the point. You may morph into what each partner needs, losing yourself so seamlessly you don't notice until the relationship ends and you have no idea who you are without them.
+
+**If your mother was addicted:**
+- You may tolerate instability in partners because instability is your baseline. The good version and the bad version living in the same person doesn't alarm you — it feels like love. You were trained to wait out the storm for the tenderness on the other side. You may confuse intermittent reinforcement with passion, because the highs after the lows were the only version of intensity your mother's household offered.
+- You may also become hypervigilant in relationships — scanning your partner's eyes, reading their breathing, monitoring their consumption — because your body never stopped doing the work it learned in childhood: *predict which version is walking through the door so you can survive it.*
+
+**If your mother was rage-based:**
+- You may suppress your own anger entirely — becoming the calm one, the accommodating one, the one who never makes waves — because you saw what female anger does when it detonates. Or you may carry the rage forward, exploding and then drowning in shame, repeating the cycle you swore you'd break.
+- You may be drawn to intense partners. Calm feels suspicious. Stability feels like something waiting to crack. Your nervous system was organized around emotional explosions, and a relationship without them may feel like a relationship without feeling. The chaos was exhausting — but it was the only proof of life you knew.
 
 **The common thread:** The mother wound in daughters teaches that your needs are secondary, your perception is unreliable, and love requires self-abandonment. Healing begins when you stop mothering everyone else and let yourself be held.
 
@@ -7225,7 +7249,7 @@ The mother wound doesn't heal by getting the mother you needed. It heals by beco
 >
 > The grief isn't about the wedding. The grief is about every moment you expected her to rise to the occasion and she didn't. Every graduation, every heartbreak, every moment you looked toward the door and she either wasn't there or arrived too late for it to matter.
 >
-> The hardest part: she wasn't absent out of cruelty. She was absent out of incapacity. And incapacity doesn't give you anyone to be angry at — which is why the grief sits so deep and takes so long to name.
+> The hardest part: the first wedding, she was absent out of incapacity. The second, she showed up — but as the main character. And you can't grieve those the same way. Incapacity doesn't give you anyone to be angry at. Competition does — but the anger feels forbidden, because she's still your mother, and she was standing right there in her princess dress, being adored. One daughter got emptiness. The other got upstaging. Both got the same lesson: *your joy is not her priority.* The grief sits so deep because the wound wears two faces — and neither one gives you permission to name it.
 
 **The truth work:**
 - Recognize that her limitations were never about your worth
@@ -7604,6 +7628,30 @@ This section names something rarely discussed: the father wound doesn't just aff
 - You may become an expert at de-escalation — reading moods, managing tension, becoming invisible when the temperature rises. These are survival skills. They are not intimacy skills.
 - You may tolerate anger in partners that others wouldn't, because your threshold for what counts as "bad enough to leave" was set impossibly high in childhood.
 
+**If your father was achievement-obsessed:**
+- You may choose partners who value what you *do* over who you *are* — because that's the only version of attention you recognize. A man who asks "how was your day?" may feel less compelling than one who asks "what did you accomplish?"
+- You may burn yourself out earning love. Resting in a relationship feels like risking abandonment, because your father taught you that your value is your output. When a partner says "just relax," your body hears: *you're about to become invisible.*
+
+**If your father was enmeshed / "best friend":**
+- You may confuse emotional caretaking with love. He made you his confidant, his advisor, his emotional partner — and now you gravitate toward men who need you to decode them, manage them, understand them. Being needed feels like being chosen.
+- You may struggle to recognize healthy boundaries in relationships because you never had them with him. When a man handles his own emotions without leaning on you, it may feel like rejection — because your father taught you that closeness means carrying someone's inner world.
+
+**If your father was idealizing / pedestaling:**
+- You may be drawn to love-bombing. A man who calls you perfect, who puts you on a pedestal, who adores the image of you — this feels like home. It feels like the way your father loved you. The problem: when the idealization fades (as it always does), it feels like death. Because your father taught you that only the shiny version of you gets loved.
+- You may hide your struggles, your failures, your humanness in relationships — because the pedestal taught you that imperfection costs you love. Vulnerability feels like falling from a height. It shouldn't. But his love made it so.
+
+**If your father was competitive:**
+- You may dim your achievements in relationships. When you succeed, you instinctively check your partner's reaction — not for celebration, but for threat. Your father couldn't let you outshine him, so you learned that female excellence activates male insecurity. You may choose partners who are threatened by your competence, because managing someone else's ego around your success was your earliest relational skill.
+- You may also unconsciously hold yourself back — not applying for the promotion, not finishing the degree, not accepting the praise — because your body learned that success provokes the people you depend on.
+
+**If your father was addicted:**
+- You may be drawn to unpredictable men and call it passion. The intermittent reinforcement — the good days that make the bad days worth waiting for — is the oldest pattern in your body. You learned to love potential. You learned to wait for the good version. You learned that the price of the tenderness is the chaos.
+- You may also find yourself scanning every new partner for signs. Counting drinks at dinner. Monitoring moods. Assessing whether tonight is a safe night. Your body is still reading the room the way it read your father walking through the door — except now the door belongs to someone you chose, and you didn't realize you chose the same thing.
+
+**If your father financially weaponized:**
+- You may struggle with men who are generous — because generosity was always a transaction. When a partner offers to pay, your body calculates the cost. When someone gives you a gift, you search for the strings. Financial independence isn't just a preference; it's a fortress you built because your father taught you that accepting anything from a man means owing him everything.
+- You may also attract partners who use money as control — because that dynamic feels legible. The language of financial leverage is one you speak fluently. You may not even recognize it as control, because it was the only version of provision you ever knew.
+
 **The common thread:** The father wound in daughters teaches that male love is something you earn, endure, or decode — never something you simply receive. Healing begins when you recognize that the father wound isn't a character flaw in you. It's a template installed in your nervous system. And templates can be overwritten — but only after they've been named.
 
 ---
@@ -7648,7 +7696,7 @@ The father wound in sons is culturally invisible — because the culture demands
 >
 > The boy didn't argue. He didn't cry. He absorbed it. His body filed it in the place where a boy keeps the things his father says about who he is — the place that becomes the voice in his head for the next thirty years.
 >
-> He heard variations of it growing up. He was small. He was useless. He was a disappointment in a body his father couldn't be proud of. The words changed but the verdict didn't: *you are not enough, and you never will be.*
+> He heard variations of it growing up. He was nothing. He was useless. He was a disappointment in a body his father couldn't be proud of. The words changed but the verdict didn't: *you are not enough, and you never will be.*
 >
 > What happens to a boy who is told by his father that he is nothing?
 >
@@ -7656,7 +7704,7 @@ The father wound in sons is culturally invisible — because the culture demands
 >
 > And then — this is the part no one talks about — the wound transfers. The boy who was told he was nothing becomes a man. And if he doesn't name the wound, if he doesn't grieve it and process it, he passes the pronouncement forward. Maybe not the same words. Maybe it's silence instead of cruelty. Maybe it's absence instead of insults. But the message arrives in the next generation's body the same way: *you are not enough.*
 >
-> Three generations can carry a single sentence. The grandfather said it. The father absorbed it. The son inherits it. The question this book keeps asking: *who breaks the chain?*
+> Three generations can carry a single sentence. The grandfather said it. The father absorbed it. The son inherits it. The question is not whether the wound transfers — it already has. The question is: *who decides it stops?*
 
 ---
 
