@@ -117,6 +117,8 @@ And underneath all of it, a primal grief. The mother you needed isn't the mother
 
 **The adult pattern:** You may unconsciously choose partners who are threatened by your success — because that dynamic feels like home. You may dim yourself in relationships, playing smaller than you are so your partner doesn't feel eclipsed. You may struggle to receive admiration without guilt, because your body learned that being admired means someone nearby is shrinking. Or you may avoid romantic partners who celebrate you — because that level of support feels unfamiliar and therefore suspicious.
 
+**The deeper damage:** The jealous mother doesn't just wound your relationship with her. She installs a template that *women are competition*. If the first woman in your life — the one who was supposed to mirror you, celebrate you, teach you that female bonds are safe — instead competed with you, your nervous system learns that femininity itself is a zero-sum game. You may struggle to trust female friendships. You may feel suspicious when women are kind to you. You may unconsciously compete with other women — not because you're competitive by nature, but because your mother taught you that between two women, only one can be seen. This is one of the most isolating legacies of the jealous mother: she doesn't just take your confidence. She takes your sisterhood.
+
 ---
 
 ### The Martyr Mother
@@ -931,6 +933,26 @@ The father wound in sons is culturally invisible — because the culture demands
 - You may also normalize substance use in yourself — because it was the wallpaper of your childhood. Or you may be rigidly sober, building a wall against the version of yourself you're terrified might emerge.
 
 **The common thread:** The father wound in sons teaches that masculinity is either dangerous or absent — and that admitting you were hurt by it makes you less of a man. Healing begins when you name the wound without apology. You were a boy who needed a father. The father you got was inadequate. That is not your shame. That was his failure. And the man you're becoming doesn't have to be built on his blueprint.
+
+> **Field Note: The Pronouncement**
+>
+> He was young enough that the words should have bounced off. They didn't.
+>
+> His father looked at him — not in anger exactly, but in the cold assessment of a man who had already decided what his son was worth — and said: "You'll never amount to anything."
+>
+> Not yelled. Not in the heat of a fight. Stated. Like a fact. Like weather. Like something the father had observed and was now reporting.
+>
+> The boy didn't argue. He didn't cry. He absorbed it. His body filed it in the place where a boy keeps the things his father says about who he is — the place that becomes the voice in his head for the next thirty years.
+>
+> He heard variations of it growing up. He was small. He was useless. He was a disappointment in a body his father couldn't be proud of. The words changed but the verdict didn't: *you are not enough, and you never will be.*
+>
+> What happens to a boy who is told by his father that he is nothing?
+>
+> One of two things. He spends his life proving it wrong — driven, relentless, achieving — but the achievement never fills the hole because the hole was made by the one person whose approval would have mattered. Or he believes it. He becomes the nothing his father predicted. Not from lack of ability, but from the weight of carrying a prophecy that was never his to carry.
+>
+> And then — this is the part no one talks about — the wound transfers. The boy who was told he was nothing becomes a man. And if he doesn't name the wound, if he doesn't grieve it and process it, he passes the pronouncement forward. Maybe not the same words. Maybe it's silence instead of cruelty. Maybe it's absence instead of insults. But the message arrives in the next generation's body the same way: *you are not enough.*
+>
+> Three generations can carry a single sentence. The grandfather said it. The father absorbed it. The son inherits it. The question this book keeps asking: *who breaks the chain?*
 
 ---
 
