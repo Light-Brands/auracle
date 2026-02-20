@@ -7056,7 +7056,9 @@ The mother wound doesn't heal by getting the mother you needed. It heals by beco
 >
 > The second sister got married years later. She thought — maybe this time. Maybe with time and distance and growth, things would be different. She imagined her mother arriving early, helping with the dress, steadying her hands. Instead, her mother showed up late. Not devastatingly late — not missing-the-ceremony late. Just late enough to confirm everything the first wedding had already taught her: *you are not the event that makes her show up on time.*
 >
-> Two weddings. Two daughters. The same lesson delivered twice: your milestones are not her milestones. Your joy does not activate her joy. The mother you imagined — the one who cries happy tears and fusses over your veil and tells you you're beautiful — was never the mother you had.
+> And then the dress. Her mother's gown was larger than hers — fuller, more elaborate, the kind of dress that enters a room before the person wearing it. Her mother insisted on walking her down the aisle, and when they reached the front, the compliments that followed weren't for the bride. *Your mother looks like a princess. What a beautiful dress.* The daughter stood beside her in her own gown and understood: even on the day that was supposed to be hers, she was the backdrop. Her mother hadn't come to witness her daughter's joy. She'd come to be witnessed.
+>
+> Two weddings. Two daughters. The same lesson delivered twice: your milestones are not her milestones. Your joy does not activate her joy. The mother you imagined — the one who cries happy tears and fusses over your veil and tells you you're beautiful — was never the mother you had. She was the mother who needed the veil for herself.
 >
 > The grief isn't about the wedding. The grief is about every moment you expected her to rise to the occasion and she didn't. Every graduation, every heartbreak, every moment you looked toward the door and she either wasn't there or arrived too late for it to matter.
 >
