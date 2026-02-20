@@ -26,6 +26,10 @@ If you're reading this, something brought you here. Maybe it was a relationship 
 
 Maybe it was a partner who accepted you when your family didn't — and then used that acceptance as a leash. Maybe it was a community that felt like home until you realized the price of belonging was silence. Maybe it was a family where love and control were spoken in the same language — and everyone around you insisted that was normal.
 
+I know because I lived it. Before I ever entered my own harmful relationships, I watched the woman who raised me model what love looked like: you chase the person who hurts you. You beg them to stay. You endure. Not one partner — a pattern. And my nervous system recorded every lesson before I had words for any of it. By the time I chose my own relationships, I wasn't choosing at all. I was following a template that had been installed in my body since childhood — mistaking anxiety for chemistry, intensity for connection, and the familiar ache of unavailability for love.
+
+This book exists because I kept asking *why*. Why did I stay? Why did I go back? Why did I choose the same pattern wearing a different face? The answers weren't in my character — they were in my wiring. And once I understood how that wiring was installed, I could finally begin to rewire it. That's what this book offers you: not just the language to name what happened, but the understanding of *why it worked on you specifically* — and how to make sure it never works again.
+
 Whatever brought you here, trust that instinct.
 
 The fact that you're seeking understanding is not a sign of weakness. It's a sign of intelligence. It takes a certain kind of courage to look directly at something that has been designed to keep you confused.

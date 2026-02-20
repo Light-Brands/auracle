@@ -716,7 +716,7 @@ You don't need to understand everything that comes up. Sometimes a sensation rev
 "My throat closes up in meetings with my boss. When I focus on it, there's a tight band—like a rubber tourniquet—wrapped around my throat at the level of my Adam's apple. It's grayish-brown, slightly rough textured. It pulses when I try to speak. It's not just blocking words—it feels like it's protecting me from saying something that will get me attacked. When I ask what it needs, I get: 'To know it's safe first.'"
 
 **The Gut Churn (expanded):**
-"After phone calls with my ex, my stomach churns for hours. When I tune in, it feels like there's a swirling, murky greenish-black liquid in my belly—moving in slow circles, heavy and slightly acidic. It's not nausea exactly—it's more like dread that's trying to digest itself. The texture is oily, slick. When I ask what it's processing, I realize it's all the things I didn't say. The true responses I swallowed to keep the peace."
+"After phone calls with X, my stomach churns for hours. When I tune in, it feels like there's a swirling, murky greenish-black liquid in my belly—moving in slow circles, heavy and slightly acidic. It's not nausea exactly—it's more like dread that's trying to digest itself. The texture is oily, slick. When I ask what it's processing, I realize it's all the things I didn't say. The true responses I swallowed to keep the peace."
 
 ---
 
