@@ -13,7 +13,7 @@ This is called gaslighting. Sound familiar?
 
 ---
 
-W stayed in my house with a girl. They broke into my closet and stole a one-of-a-kind dress — a gift from an Italian woman designer I'd hosted an event for. I can still hear the rustle of the long fringe on the skirt as I moved. It was the most glorious dress, in fringe of purple and yellow and multicolored fabric of the softest, clingiest type, with a short sleeveless turtleneck top and a belt cinched in the middle. It was my most prized possession. When I confronted him, he looked me in the eye and said it didn't happen.
+W stayed in my house with a girl. They broke into my closet and stole a one-of-a-kind dress — a gift from an Italian woman designer I'd hosted an event for. I can still hear the rustle of the long fringe on the skirt as I moved. It was the most glorious dress, in fringe that looked purple from a distance, but when you looked close, each thread was a different color — pink, orange, yellow — in the softest, clingiest fabric, with a short sleeveless turtleneck top and a belt cinched in the middle. It was my most prized possession. When I confronted him, he looked me in the eye and said it didn't happen.
 
 Years later, he confessed.
 
