@@ -384,11 +384,11 @@ Sometimes the narcissist doesn't even have to be in the room. They just have to 
 
 > **Field Note:** Three women. Three bottlenecks. One system.
 >
-> I tolerate my mother's boyfriend — the one who laminated her photo and calls her "Employee of the Month" — to see my mother. I can see what he's doing. I can name it privately. But I can't confront him without risking access to her.
+> I tolerate M's boyfriend — the one who laminated her photo and calls her "Employee of the Month" — to see M. I can see what he's doing. I can name it privately. But I can't confront him without risking access to her.
 >
-> My mother tolerates my sister's wrath to see her grandchildren. She endures the guilt trips, the accusations, the rage — because the alternative is not seeing the kids.
+> M tolerates J's wrath to see her grandchildren. She endures the guilt trips, the accusations, the rage — because the alternative is not seeing the kids.
 >
-> And the cruelest layer: the grandchildren — the people my mother is enduring all this for — are being turned against her. My sister is poisoning them. So my mother is paying the toll and the bridge leads nowhere.
+> And the cruelest layer: the grandchildren — the people M is enduring all this for — are being turned against her. J is poisoning them. So M is paying the toll and the bridge leads nowhere.
 >
 > Three women, each tolerating a narcissist to reach someone they love. None of us can confront the person in our way without losing the person on the other side. The narcissist doesn't have to control the relationship. They just have to control the *access*.
 
@@ -436,7 +436,7 @@ No announcement. No wrath to endure. Just... less. Fewer calls. Fewer attempts t
 
 And the result — for some people, for some relationships — is not pain. It's *relief*.
 
-> **Field Note:** I stopped making the effort with my sister. Not a dramatic break. Not a conversation. I just... stopped being the one who reached. The fifteen-minute phone calls that knocked me out for three hours — I stopped volunteering for them. The relationship still technically exists. I could still call. She could still call. But the energy I was spending — I just stopped offering it. And for me, it was really freeing.
+> **Field Note:** I stopped making the effort with J. Not a dramatic break. Not a conversation. I just... stopped being the one who reached. The fifteen-minute phone calls that knocked me out for three hours — I stopped volunteering for them. The relationship still technically exists. I could still call. She could still call. But the energy I was spending — I just stopped offering it. And for me, it was really freeing.
 
 This is what many readers will actually do. Not the dramatic exit. Not the brave confrontation. The quiet withdrawal. The slow exhale. And this book names it as valid — not as cowardice, not as avoidance, but as a form of self-protection that doesn't require anyone else's permission or participation.
 

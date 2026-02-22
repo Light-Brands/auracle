@@ -145,6 +145,12 @@ Volume 4 (embodiment) is helpful but not required for this volume—these are pa
 
 ---
 
+## A Note on Names
+
+The people in this series are real. They are identified by single letters — not to protect them, but because their names were never the point. The patterns are. When you encounter W, or X, or J, or M in these pages, know that these are real people who did real things. The letter is all they get. You'll know yours.
+
+---
+
 ## A Note on Family Structures
 
 This book addresses parents of all kinds:
