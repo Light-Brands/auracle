@@ -519,7 +519,7 @@ Healing requires learning that you're allowed to have needs. That someone else's
 
 Some covert narcissists operate through "playful" control — the joke that isn't a joke, the nickname that establishes hierarchy, the prop that turns a person into a display.
 
-> **Field Note:** M's boyfriend calls her "Employee of the Month." He laminated a photo of her and put it up in the kitchen — like a workplace award on the wall. Everyone laughs. It's "just a joke." But look at what the joke does: it turns her home into his workplace. She is the employee. He is the manager evaluating her performance. In the *kitchen* — the room that in our culture is the woman's domain, her territory, her place of authority. He colonized it. He mounted a trophy.
+> **Field Note:** C's boyfriend calls her "Employee of the Month." He laminated a photo of her and put it up in the kitchen — like a workplace award on the wall. Everyone laughs. It's "just a joke." But look at what the joke does: it turns her home into his workplace. She is the employee. He is the manager evaluating her performance. In the *kitchen* — the room that in our culture is the woman's domain, her territory, her place of authority. He colonized it. He mounted a trophy.
 >
 > You can't object without being too sensitive. You can't name it without being the one who ruined the joke. And the lamination is permanent — he didn't tape up a piece of paper. He invested effort into making his joke into a *fixture*.
 >
@@ -552,7 +552,7 @@ Then you notice the ledger. Every kindness gets recorded. Every gift comes with 
 
 Your body feels the trap before you can articulate it. Something tightens when they do something "nice." You feel indebted but also somehow resentful, and then guilty for the resentment because they've done so much for you.
 
-> **Field Note:** My aunt — M's sister — was the family saint. She organized every holiday, remembered every birthday, showed up at every hospital bedside. She also kept meticulous records. Years later, during a family dispute, I watched her recite a decade of favors: the casseroles delivered, the rides given, the checks written. "After everything I've done for this family." The ledger was always running. Every kindness was a deposit she expected to withdraw later—with interest.
+> **Field Note:** My aunt — C's sister — was the family saint. She organized every holiday, remembered every birthday, showed up at every hospital bedside. She also kept meticulous records. Years later, during a family dispute, I watched her recite a decade of favors: the casseroles delivered, the rides given, the checks written. "After everything I've done for this family." The ledger was always running. Every kindness was a deposit she expected to withdraw later—with interest.
 >
 > But it was subtler than that. She'd give gifts you didn't ask for, then be visibly hurt when you didn't use them correctly. She'd "help" with projects and then take over, becoming indispensable so she could later remind you how much you needed her. Once, she cleaned my entire apartment while I was at work. I came home to find everything rearranged. When I looked uncomfortable, she said, "You're welcome," with a tightness that made clear my discomfort was ingratitude. I spent the evening thanking her while feeling violated. That's the communal narcissist's trick: they give you things you can't refuse, then own you through your receipt of them.
 

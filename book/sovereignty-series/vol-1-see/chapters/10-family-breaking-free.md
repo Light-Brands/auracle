@@ -384,11 +384,11 @@ Sometimes the narcissist doesn't even have to be in the room. They just have to 
 
 > **Field Note:** Three women. Three bottlenecks. One system.
 >
-> I tolerate M's boyfriend — the one who laminated her photo and calls her "Employee of the Month" — to see M. I can see what he's doing. I can name it privately. But I can't confront him without risking access to her.
+> I tolerate C's boyfriend — the one who laminated her photo and calls her "Employee of the Month" — to see C. I can see what he's doing. I can name it privately. But I can't confront him without risking access to her.
 >
-> M tolerates N's wrath to see her grandchildren. She endures the guilt trips, the accusations, the rage — because the alternative is not seeing the kids.
+> C tolerates N's wrath to see her grandchildren. She endures the guilt trips, the accusations, the rage — because the alternative is not seeing the kids.
 >
-> And the cruelest layer: the grandchildren — the people M is enduring all this for — are being turned against her. N is poisoning them. So M is paying the toll and the bridge leads nowhere.
+> And the cruelest layer: the grandchildren — the people C is enduring all this for — are being turned against her. N is poisoning them. So C is paying the toll and the bridge leads nowhere.
 >
 > Three women, each tolerating a narcissist to reach someone they love. None of us can confront the person in our way without losing the person on the other side. The narcissist doesn't have to control the relationship. They just have to control the *access*.
 
