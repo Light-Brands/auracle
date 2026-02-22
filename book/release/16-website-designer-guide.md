@@ -587,6 +587,19 @@ The palette moves between these poles: **deep indigo** grounds the site, **elect
 | Throat & collar | Cream | `#F5F0E1` | Soft warm white |
 | Eye & bill | Black | `#1A1A1A` | Sharp, defining |
 
+#### Cover vs. Web Color Relationship
+
+The Kingfisher palette has two calibrations — one optimized for **book covers** (print/thumbnail visibility) and one for **web UI** (screen readability, interactive elements). Both are derived from the same kingfisher source, but tuned for their medium.
+
+| Role | Cover Hex | Web Hex | Why Different |
+|------|-----------|---------|---------------|
+| **Electric Blue** | `#00BFFF` | `#0EA5C3` | Cover blue is brighter/more saturated for thumbnail pop at 80px. Web blue is slightly deeper for comfortable screen reading and WCAG contrast. |
+| **Orange-Red** | `#E25822` | `#E0522D` | Nearly identical. Cover orange tuned for CMYK print. Web orange tuned for RGB screen. Both read as "fiery orange-red." |
+
+**Where they meet:** When book covers appear on the website (volume cards, hero images, 3D mockups), the cover's `#00BFFF` blue will naturally appear inside the cover image. The surrounding UI uses `#0EA5C3`. This is intentional — the cover image is a self-contained visual artifact, and the website frames it. The slight blue difference creates a subtle "the book is special" visual separation rather than a jarring mismatch.
+
+**Arc words are the exception:** When arc words (SEE, HEAL, etc.) appear at display scale on the website — especially on series landing pages and volume hero sections — they should use the **cover blue** (`#00BFFF`) to create continuity with the physical book. See the Arc Word Treatment section below.
+
 #### Core Colors
 
 | Token | Hex | Usage |
@@ -609,6 +622,7 @@ The palette moves between these poles: **deep indigo** grounds the site, **elect
 | Token | Hex | Usage |
 |-------|-----|-------|
 | `--accent-blue` | `#0EA5C3` | Primary accent — links, interactive elements, the electric blue flash |
+| `--accent-blue-cover` | `#00BFFF` | Arc words at display scale — matches the book cover title blue |
 | `--accent-blue-deep` | `#0889A3` | Hover state for blue elements |
 | `--accent-blue-soft` | `#0EA5C320` | Blue at 12% opacity — subtle tag backgrounds on cream |
 | `--accent-indigo` | `#13417C` | Secondary accent — depth, authority, section backgrounds |
@@ -676,16 +690,26 @@ This creates a rhythm: **cream (breathe) → indigo (immerse) → cream (breathe
 
 #### Arc Word Treatment
 
-The single-word titles (SEE, HEAL, STAND, etc.) are the brand. They receive special typographic treatment:
+The single-word titles (SEE, HEAL, STAND, etc.) are the brand. They receive special typographic treatment on the website that should **mirror the cover design** as closely as possible, so readers experience continuity between the physical book and the digital platform.
+
+**Cover-to-web alignment:** The covers use a bold, heavyweight serif (Cinzel Black or Playfair Display Black recommended — see `book-cover-design-strategy.md`) with Electric Blue (`#00BFFF`) titles. The website's arc word treatment should use the **same font family** selected for the final covers. If the cover designer selects Cinzel Black, the website should load Cinzel for arc words. This is the one place where the cover typography takes priority over the general website type system.
 
 ```css
 .arc-word {
+  /* Use the same font as the book covers — update when cover font is finalized */
+  font-family: 'Cinzel', 'Playfair Display', Georgia, serif;
+  font-weight: 900; /* Black weight — matches cover exaggerated scale */
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--accent-blue-cover, #00BFFF); /* Cover Electric Blue for large display */
+  /* Size varies by context — hero: 96px, card: 36px, inline: 18px */
+}
+
+/* At small/inline sizes, fall back to UI blue for consistency with surrounding UI */
+.arc-word--inline {
   font-family: 'Cormorant Garamond', Georgia, serif;
   font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.25em;
-  color: var(--text-primary); /* Black on cream, cream on indigo */
-  /* Size varies by context — hero: 96px, card: 36px, inline: 18px */
+  color: var(--text-primary);
 }
 
 /* On indigo backgrounds */
@@ -693,10 +717,12 @@ The single-word titles (SEE, HEAL, STAND, etc.) are the brand. They receive spec
   color: var(--text-on-dark); /* Cream */
 }
 
-/* Series-specific accent coloring (optional) */
+/* Series-specific accent coloring (for non-cover contexts) */
 .arc-word--sovereignty { color: #E0522D; } /* Orange-red */
 .arc-word--energy { color: #0EA5C3; } /* Electric blue */
 ```
+
+**Why two treatments:** At hero/display scale, arc words function as cover art — they should feel like the book itself. At inline/card scale, they function as UI labels — they should integrate with the website's type system. The crossover point is approximately 36px.
 
 ### 5C. Spacing & Layout
 
@@ -713,7 +739,7 @@ The single-word titles (SEE, HEAL, STAND, etc.) are the brand. They receive spec
 | Element | Direction |
 |---------|-----------|
 | **Hero backgrounds** | Deep indigo (`#0C1A2E`) with abstract light effects — think light refracting through water, the kingfisher's dive. Electric blue and orange-red light streaks on dark indigo. No stock photos of people. |
-| **Book covers** | Display as high-quality 3D mockups with shadows on the cream background. Show books at a slight angle, not flat. Use the mockup files from the cover design package. |
+| **Book covers** | Display as high-quality 3D mockups with strong shadows and slight rotation on the cream background. Because the covers themselves use cream backgrounds (see `book-cover-design-strategy.md`), the mockup treatment is essential — without 3D depth, shadows, and elevation, cream covers will visually merge into the cream page. Consider placing mockups on a subtly darker surface or using a thin border/shadow to separate cover from page. |
 | **Series backgrounds** | Each series landing hero uses indigo + its accent color. Sovereignty: indigo with orange-red warmth. Energy: indigo with electric blue luminescence. |
 | **Session images** | Abstract or environmental — water, light through prisms, nature. Never photos of people in sessions. The kingfisher is a river bird — water imagery is natural. |
 | **Author photo** | The AI-enhanced professional headshot from `public/photos/author-headshot.jpg`. Warm, approachable, not overly staged. |
@@ -833,9 +859,10 @@ Every volume across every series uses the same card component with series-specif
 ┌─────────────────────────────────┐
 │                                 │
 │  [Cover Image]                  │  ← Same aspect ratio, all series
-│                                 │
+│                                 │     3D mockup with shadow (essential
+│                                 │     for cream-on-cream separation)
 │  VOLUME 1                       │  ← Micro text, --text-tertiary (#6B6B6B)
-│  SEE                            │  ← Arc word, series accent (orange-red or blue)
+│  SEE                            │  ← Arc word, cover blue (#00BFFF)
 │  The Truth That Was Hidden      │  ← Subtitle, --text-secondary (#3A3A3A)
 │  in Plain Sight                 │
 │                                 │
@@ -844,6 +871,8 @@ Every volume across every series uses the same card component with series-specif
 │                                 │
 └─────────────────────────────────┘
 ```
+
+**Cover display note:** The Sovereignty Series covers use cream backgrounds (see `book-cover-design-strategy.md`). On the cream website background, flat cover images will lack visual separation. Always display covers as 3D mockups with visible shadows, or place them on cards with a slightly darker background (`--bg-tertiary`) to ensure the cover edge is visible.
 
 ### Cross-Series Navigation
 
@@ -1031,4 +1060,23 @@ The designer must preserve:
 
 ---
 
-*This document is the single source of truth for the website redesign. It should be shared with the web designer alongside the cover designer brief (`15-designer-brief.md`) so both visual systems align.*
+### Cover Design Alignment
+
+The website and book covers share the Kingfisher palette but are calibrated for different media. These documents form the complete designer package — the web designer should review all of them:
+
+| Document | What It Covers | Alignment Points |
+|----------|---------------|-----------------|
+| **This guide** | Website visual system, UI components, pages | Web-optimized colors, layout, typography |
+| **Designer Brief** (`15-designer-brief.md`) | Cover technical specs, dimensions, deliverables | Back cover layout, spine design, file formats |
+| **Book Cover Design Guide** (`18-book-cover-design-guide.md`) | Cover design philosophy and creative decisions | Six design principles, color system rationale |
+| **Book Cover Design Strategy** (`book-cover-design-strategy.md`) | Bestseller-informed visual strategy | Cream backgrounds, exaggerated typography, complementary triad |
+| **LightField Institute Brand Guide** | Umbrella brand identity | Canonical UI color values, parent brand voice |
+| **Sovereignty Series Brand Guide** | Series identity and arc | Volume reference, tone evolution, cover-specific colors |
+
+**Critical alignment requirements:**
+1. The website's arc word font must match the cover title font (update when cover font is finalized)
+2. Arc words at display scale use cover blue (`#00BFFF`), not UI blue (`#0EA5C3`)
+3. Cover images on the site need 3D mockup treatment to separate cream covers from cream backgrounds
+4. The cover's cream-background strategy means the website cannot rely on cover images alone to create visual variety in the volume grid — the surrounding UI (card borders, series accent colors, status badges) must carry the differentiation
+
+*This document is the single source of truth for the website redesign. It should be shared with the web designer alongside the cover designer brief (`15-designer-brief.md`) and cover design strategy (`book-cover-design-strategy.md`) so both visual systems align.*
