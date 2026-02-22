@@ -1,0 +1,254 @@
+# Book Cover Design Guide — The Sovereignty Series
+
+## The Decision Framework
+
+This guide captures the design philosophy and specific creative decisions for the 8-volume Sovereignty Series covers. It translates market research (see `bestseller-book-art-research.md`) into actionable direction and sits alongside the Designer Brief (`15-designer-brief.md`) as the "why" behind the "what."
+
+**Author:** Jennifer Brooke Lawless
+**Series:** The Sovereignty Series — 8 Volumes
+**Genre:** Self-help / Personal Transformation / Narcissistic Abuse Recovery
+
+---
+
+## The Six Principles
+
+Every cover decision flows from these six principles. They are ranked by priority — when two principles conflict, the higher-ranked one wins.
+
+### 1. Illustration Is King — Photography Is Out
+
+The shift from photography to illustration is complete across bestselling covers. By 2025, 100% of romance bestsellers used illustration. The trend has spread to self-help and personal transformation.
+
+**Our decision:**
+- No stock photography on any cover — ever
+- No photos of people, hands, faces, or bodies
+- Illustration, painterly textures, abstract symbolism, and typographic design are all in play
+- The visual language should feel **handcrafted, intentional, and authored**
+- Fine art aesthetics over commercial clip art — expressive brushstrokes, symbolism, atmosphere
+- Concept-driven imagery that signals **tone rather than plot**
+
+**What this means for the series:**
+- Each volume's imagery (if used) should evoke the emotional arc, not illustrate the content literally
+- A single symbolic element per cover is stronger than a busy scene
+- The 8 covers together should tell a visual story from dark to light — the transformation arc
+
+---
+
+### 2. Bold Typography Is the Most Reliable Element at Any Scale
+
+Typography is no longer a separate layer — it IS the main visual. The single-word titles (SEE, HEAL, STAND, LIVE, GIVE, SERVE, THRIVE, BECOME) are the series' most powerful brand asset. They must dominate every cover.
+
+**Our decision:**
+- The single-word title is the **hero element** of every cover
+- Set bold and large — it should command the cover at any size
+- Title in **Electric Blue** (`#00BFFF`) — vivid, alive, the color of clarity and breakthrough
+- Subtitle in **Orange** (`#E0522D` / `#FB9543` range) — fire, transformation, warmth with intensity
+- The title must be readable at 80px height (mobile thumbnail browsing)
+- Same font family across all 8 volumes — non-negotiable
+
+**The color logic:**
+- **Electric Blue titles** carry the breakthrough energy — the flash of the kingfisher diving. Each single word is an imperative command. Blue says: *clarity, illumination, truth*
+- **Orange subtitles** carry the warmth and human fire — the transformation underneath. Orange says: *courage, life force, embodied change*
+- This pairing comes directly from the kingfisher palette (see LightField Institute Brand Identity Guide) and creates high contrast on both dark and light backgrounds
+- The two colors together — electric blue and fiery orange — are complementary on the color wheel, creating natural visual tension and energy
+
+**Typography hierarchy (all 8 volumes):**
+
+```
+┌─────────────────────────────────────────┐
+│                                         │
+│    The Sovereignty Series               │  ← Series name (small, cream or light)
+│    Volume N                             │  ← Volume marker (small, cream or light)
+│                                         │
+│                                         │
+│    SEE                                  │  ← TITLE — BOLD, LARGE, ELECTRIC BLUE
+│                                         │     ALL CAPS, single word
+│                                         │
+│    The Truth That Was Hidden            │  ← Subtitle — ORANGE, medium weight
+│    in Plain Sight                       │     Mixed case, italic or light
+│                                         │
+│                                         │
+│    Jennifer Brooke Lawless              │  ← Author (small, legible, cream or white)
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+**Font direction:**
+- Title font should be bold, high-impact, and structured — not decorative or script
+- Think condensed sans-serif or strong geometric serif that holds up at massive scale
+- Avoid ornate display fonts — the single words need to hit like a command, not a flourish
+- The subtitle font should be a complementary lighter weight — italic serif or clean sans
+- Author name: smallest but clearly legible, consider ALL CAPS letter-spaced treatment
+
+---
+
+### 3. Design for Phones First — Most Discovery Happens on Screens
+
+91% of Amazon purchases happen after seeing the thumbnail. BookTok drives discovery through phone screens. If a cover only works large, most readers never see it.
+
+**Our decision:**
+- Every cover must pass the "phone test" — shrink to thumbnail and the title must still read
+- The title word IS the thumbnail — at small sizes, the single bold word in electric blue should be the only thing a reader needs to see
+- Minimal visual clutter — fewer elements means faster recognition at small scale
+- High contrast between text and background is mandatory
+- Design the ebook cover first (2560 x 1600 px), then adapt to print
+
+**The thumbnail test:**
+- Export at 80px height. Can you read the title? Can you identify the genre? Does it look premium? If any answer is no, simplify
+- The electric blue + orange color combination is specifically chosen for screen contrast — both colors pop on dark backgrounds and hold their saturation on backlit displays
+
+**Dual-scale requirement:**
+- Covers must work at both thumbnail (phone browsing) AND full size (print, bookshelf, flatlay)
+- Simple over busy — the single-word titles are the brand; let them breathe
+- No small decorative details that disappear at thumbnail size
+
+---
+
+### 4. Signal Genre Instantly — Readers Decide in 1-2 Seconds
+
+79% of readers judge books solely by covers. Genre signaling is the most important communication a cover makes. The wrong signal means the right reader scrolls past.
+
+**Our decision:**
+- **Genre:** Self-help / Personal Transformation — not clinical psychology, not memoir, not spiritual woo
+- The covers should say: *"This is a serious, sophisticated book about healing and personal power"*
+- Visual cues that signal our genre: bold typography, clean design, conceptual imagery, premium production quality
+- The dark-to-light arc across 8 volumes itself signals transformation — the genre's core promise
+
+**What to avoid (wrong genre signals):**
+- Clinical/academic: white covers with small serif text, institution logos, textbook layouts
+- Memoir: author photo on front, handwritten fonts, nostalgic imagery
+- Spiritual bypassing: rainbows, chakra diagrams, lotus flowers, crystals, cosmic backgrounds
+- Pop psychology: cartoon illustrations, bright yellow, exclamation marks, "10 STEPS TO..." formatting
+- Revenge/toxic: red-and-black thriller aesthetics, shattered glass, aggressive imagery
+
+**What to aim for:**
+- The visual confidence of Brené Brown meets the design sophistication of literary fiction
+- Covers that a therapist would display on their bookshelf without hesitation
+- Covers that look premium in a BookTok flatlay — "Instagrammable" without being trendy
+- Think *The Body Keeps the Score* meets fine art — authoritative but alive
+
+---
+
+### 5. Human-Made Art Feels Premium in an AI-Saturated Market
+
+In a market increasingly saturated with AI-generated covers, artwork that feels human, intentional, and authored has become a differentiator. The distinction is crafted vs. generic, not analog vs. digital.
+
+**Our decision:**
+- All cover art must feel **authored** — whether digitally created or traditionally made
+- No AI-generated cover art. Period. The author writes about human sovereignty; the covers should embody it
+- Painterly textures, expressive marks, hand-lettered elements, or intentional imperfections are welcome
+- If illustration is used, it should feel like a specific artist made a specific choice — not like a prompt generated a result
+- The "human hand" quality applies to typography choices too — fonts with character, not generic system fonts
+
+**Why this matters for this series specifically:**
+- A series about reclaiming personal sovereignty should not be wrapped in algorithmically generated packaging
+- The covers ARE the first impression of the brand's values
+- Human-crafted art positions the series as premium in a market where AI covers signal "low budget" or "mass produced"
+- This decision is also a marketing story: "Every cover was created by a human artist" is a differentiator worth communicating
+
+---
+
+### 6. Multiple Formats Drive Revenue and Chart Position
+
+Releasing multiple editions (standard, deluxe, signed, ebook, audiobook) boosts chart presence because sales aggregate across SKUs. The cover system must scale across formats.
+
+**Our decision:**
+- Each volume needs 4 deliverables: ebook cover, paperback full wrap, Gumroad product image, social media card (see Designer Brief for exact specs)
+- The front cover design must translate seamlessly between digital (RGB) and print (CMYK) without losing impact
+- The 8-volume structure itself is a format advantage — bundle mockups (Vol 1+2, Vol 1-4, Complete Series) are marketing assets
+- The spine lineup (SEE | HEAL | STAND | LIVE | GIVE | SERVE | THRIVE | BECOME) is a visual event when shelved — design for this moment
+- Plan for future formats: hardcover editions, box sets, audiobook covers, and large-format social media assets
+
+**Format-specific notes:**
+- Ebook: The electric blue title must pop on the Kindle store's white background AND Amazon's dark mode
+- Print: The orange subtitle must hold its warmth in CMYK — test print proofs before final approval
+- Social: 1080x1080 cards should feature the title word and one volume-specific color element — nothing else. Clean, bold, shareable
+- Gumroad: 1600x900 product images can use 3D mockup style — the cover on a book, not just the flat image
+
+---
+
+## Color System
+
+### The Core Palette (Kingfisher-Derived)
+
+| Role | Color | Hex | Usage on Covers |
+|------|-------|-----|-----------------|
+| **Title text** | Electric Blue | `#00BFFF` | All 8 title words — the commanding flash |
+| **Subtitle text** | Orange-Red | `#E0522D` | All 8 subtitles — the fiery warmth beneath |
+| **Subtitle alt** | Warm Orange | `#FB9543` | Optional lighter orange for subtitle variation |
+| **Background dark** | Black | `#1A1A1A` | Early volumes, anchoring, depth |
+| **Background depth** | Indigo | `#2E0854` | Mystery, sovereignty, inner knowing |
+| **Text light** | Cream | `#F5F0E1` | Author name, series line, breathing room |
+| **Background light** | White / Pearl | near `#FFFFFF` | Later volumes, transcendence, arrival |
+
+### The Dark-to-Light Arc
+
+The 8 covers progress from darkness to light — visually telling the transformation story:
+
+| Vol | Title | Background Direction | Mood |
+|:---:|:-----:|---------------------|------|
+| 1 | **SEE** | Darkest — deep black, charcoal | Crisis, revelation, decoding |
+| 2 | **HEAL** | Dark grounded — deep teal/forest | Healing, crossing over, hope |
+| 3 | **STAND** | Authoritative — deep navy/midnight | Stability, groundedness, stillness |
+| 4 | **LIVE** | Warming — deep plum/burgundy | Embodiment, presence, radiance |
+| 5 | **GIVE** | Warm earth — amber/brown tones | Nurturing, generational, tender |
+| 6 | **SERVE** | Clearing — sage/muted green | Sustainable, clear, purposeful |
+| 7 | **THRIVE** | Abundant — rich green/gold | Prosperity, joy, expansion |
+| 8 | **BECOME** | Lightest — white, iridescent, pearl | Integration, wholeness, arrival |
+
+**Constant across all 8:** Electric blue titles + orange subtitles. The background changes; the text colors unify the series.
+
+---
+
+## What "Bold and Big" Means in Practice
+
+The title word should occupy approximately **40-50% of the cover's vertical space**. It is not a label on the cover — it IS the cover. Everything else (subtitle, series line, author name) orbits around it.
+
+**Scale reference:**
+- On a 6x9" paperback, the title word should be roughly 3-4 inches tall
+- On an ebook at 2560x1600px, the title should be 700-900px tall
+- At thumbnail size (80px cover height), the title word should still be the dominant readable element
+
+**Weight reference:**
+- The title font should be Bold or Black weight — not Regular, not Light
+- If the font family has a Condensed Bold variant, even better — condensed fonts pack more visual mass per character width
+- Letter-spacing: tight to moderate. Not wide-tracked. The word should feel like a single visual unit, not individual letters floating apart
+
+---
+
+## Design Decisions Summary
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| Cover art style | Illustration / painterly / abstract | Photography is out; illustration dominates bestsellers |
+| Title color | Electric Blue `#00BFFF` | Clarity, breakthrough, the kingfisher flash |
+| Subtitle color | Orange `#E0522D` / `#FB9543` | Fire, transformation, warmth — complementary to blue |
+| Title treatment | Bold, large, ALL CAPS, ~40-50% of cover height | Typography is the hero element |
+| Background arc | Dark → Light across 8 volumes | Visual transformation story |
+| AI art | No — human-created only | Values alignment, premium positioning |
+| Photography | No — illustration/abstract only | Industry trend, genre signal |
+| Phone-first | Yes — thumbnail readability is non-negotiable | 91% of Amazon purchases from thumbnails |
+| Genre signal | Sophisticated self-help, not clinical or woo | 1-2 second recognition window |
+| Series cohesion | Same fonts, same text colors, same layout structure | 8 volumes must read as one system |
+
+---
+
+## Relationship to Other Documents
+
+| Document | What It Covers | Use It For |
+|----------|---------------|------------|
+| **This guide** | Design philosophy, creative decisions, the "why" | Understanding the vision and reasoning |
+| **Designer Brief** (`15-designer-brief.md`) | Technical specs, dimensions, deliverables, back cover copy | Building the actual files |
+| **Sovereignty Series Brand Guide** | Full brand identity — voice, tone, volume reference | Series context and brand alignment |
+| **LightField Institute Brand Guide** | Umbrella brand — palette, typography, positioning | Parent brand consistency |
+| **Bestseller Book Art Research** | Market trends, data, competitive landscape | Understanding the market context |
+| **Cover Specifications** (`11-cover-specifications.md`) | Platform-specific technical requirements | Technical compliance (superseded by Designer Brief) |
+
+**Reading order for a designer:**
+1. This guide (understand the vision)
+2. Designer Brief (understand the deliverables)
+3. Sovereignty Series Brand Guide (understand the series)
+4. Bestseller Book Art Research (understand the market)
+
+---
+
+*This document captures the creative direction and design philosophy for The Sovereignty Series covers. It should be shared with designers alongside the Designer Brief (`15-designer-brief.md`) as the companion "why" to the technical "what."*
