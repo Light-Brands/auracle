@@ -74,10 +74,11 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 
 **Font direction:**
 - Title font should be bold, high-impact, and structured — not decorative or script
-- Think condensed sans-serif or strong geometric serif that holds up at massive scale
+- Recommended: **Cinzel Black** or **Playfair Display Black** — serif fonts that feel native on cream and carry the literary, premium positioning (see `book-cover-design-strategy.md` for full font evaluation)
 - Avoid ornate display fonts — the single words need to hit like a command, not a flourish
-- The subtitle font should be a complementary lighter weight — italic serif or clean sans
-- Author name: smallest but clearly legible, consider ALL CAPS letter-spaced treatment
+- The subtitle font should be **Cormorant Garamond Light Italic** — the light weight lets orange carry warmth without competing with the title
+- Author name: smallest but clearly legible, ALL CAPS letter-spaced in dark charcoal (`#1A1A1A`)
+- **Important:** The chosen cover title font will also be used for arc words at display scale on the website (`16-website-designer-guide.md`). The font selection is a cross-platform decision
 
 ---
 
@@ -173,35 +174,42 @@ Releasing multiple editions (standard, deluxe, signed, ebook, audiobook) boosts 
 | Role | Color | Hex | Usage on Covers |
 |------|-------|-----|-----------------|
 | **Title text** | Electric Blue | `#00BFFF` | All 8 title words — the commanding flash |
-| **Subtitle text** | Orange-Red | `#E0522D` | All 8 subtitles — the fiery warmth beneath |
+| **Subtitle text** | Orange-Red | `#E25822` | All 8 subtitles — the fiery warmth beneath |
 | **Subtitle alt** | Warm Orange | `#FB9543` | Optional lighter orange for subtitle variation |
-| **Background dark** | Black | `#1A1A1A` | Early volumes, anchoring, depth |
-| **Background depth** | Indigo | `#2E0854` | Mystery, sovereignty, inner knowing |
-| **Text light** | Cream | `#F5F0E1` | Author name, series line, breathing room |
-| **Background light** | White / Pearl | near `#FFFFFF` | Later volumes, transcendence, arrival |
+| **Background** | Cream | `#F5F0E1` | All 8 volumes — warm, inviting, safe |
+| **Author name** | Dark Charcoal | `#1A1A1A` | Grounding anchor — clean, legible |
+| **Series line** | Dark Charcoal / Muted | `#1A1A1A` / `#8A8070` | Small, understated framing |
 
-### The Dark-to-Light Arc
+> **Web equivalent colors:** The website uses `#0EA5C3` (slightly deeper blue) and `#E0522D` (nearly identical orange) for UI elements. The cover colors above are calibrated for print and thumbnail visibility. See `16-website-designer-guide.md` for the full web color system and how the two calibrations relate.
 
-The 8 covers progress from darkness to light — visually telling the transformation story:
+### Background Approach — Cream with Subtle Arc
 
-| Vol | Title | Background Direction | Mood |
+> **Note:** This section has been updated to align with the Bestseller-Driven Cover Strategy (`book-cover-design-strategy.md`), which supersedes the original dark-to-light background progression.
+
+All 8 volumes use a **cream background** (`#F5F0E1`) as the primary field. This decision was driven by three factors: (1) emotional safety for the target audience, (2) print quality and cost advantages, (3) differentiation from the 79% of bestsellers using white backgrounds. See `book-cover-design-strategy.md` for the full rationale.
+
+The transformation arc is expressed through **subtle warmth shifts** in the cream rather than dramatic color changes:
+
+| Vol | Title | Background Variation | Mood |
 |:---:|:-----:|---------------------|------|
-| 1 | **SEE** | Darkest — deep black, charcoal | Crisis, revelation, decoding |
-| 2 | **HEAL** | Dark grounded — deep teal/forest | Healing, crossing over, hope |
-| 3 | **STAND** | Authoritative — deep navy/midnight | Stability, groundedness, stillness |
-| 4 | **LIVE** | Warming — deep plum/burgundy | Embodiment, presence, radiance |
-| 5 | **GIVE** | Warm earth — amber/brown tones | Nurturing, generational, tender |
-| 6 | **SERVE** | Clearing — sage/muted green | Sustainable, clear, purposeful |
-| 7 | **THRIVE** | Abundant — rich green/gold | Prosperity, joy, expansion |
-| 8 | **BECOME** | Lightest — white, iridescent, pearl | Integration, wholeness, arrival |
+| 1 | **SEE** | Pure cream, cool undertone | Crisis — clean, stark clarity |
+| 2 | **HEAL** | Cream with faintest warm blush | Healing — warmth beginning to enter |
+| 3 | **STAND** | Cream, steady and neutral | Authority — grounded, centered |
+| 4 | **LIVE** | Cream with warm golden undertone | Embodiment — presence, radiance |
+| 5 | **GIVE** | Cream with soft amber warmth | Nurturing — tender, earthy |
+| 6 | **SERVE** | Cream, clean and clear | Sustainable — clarity of purpose |
+| 7 | **THRIVE** | Cream with golden luminosity | Abundance — rich, expansive |
+| 8 | **BECOME** | Cream with subtle iridescent warmth | Transcendence — arrival, wholeness |
 
-**Constant across all 8:** Electric blue titles + orange subtitles. The background changes; the text colors unify the series.
+All backgrounds read as "cream" at a glance, maintaining series cohesion. When shelved together, the progression from cool to warm to luminous tells the arc story subtly.
+
+**Constant across all 8:** Electric blue (`#00BFFF`) titles + orange (`#E25822`) subtitles on cream. The text colors and background unify the series.
 
 ---
 
 ## What "Bold and Big" Means in Practice
 
-The title word should occupy approximately **40-50% of the cover's vertical space**. It is not a label on the cover — it IS the cover. Everything else (subtitle, series line, author name) orbits around it.
+The title word should occupy approximately **40-60% of the cover's horizontal width** (see `book-cover-design-strategy.md` for the exaggerated scale rationale). It is not a label on the cover — it IS the cover. Everything else (subtitle, series line, author name) orbits around it.
 
 **Scale reference:**
 - On a 6x9" paperback, the title word should be roughly 3-4 inches tall
@@ -219,16 +227,17 @@ The title word should occupy approximately **40-50% of the cover's vertical spac
 
 | Decision | Choice | Rationale |
 |----------|--------|-----------|
-| Cover art style | Illustration / painterly / abstract | Photography is out; illustration dominates bestsellers |
+| Cover art style | Typography-dominant / type-as-art | Single-word titles ARE the visual — no imagery needed |
 | Title color | Electric Blue `#00BFFF` | Clarity, breakthrough, the kingfisher flash |
-| Subtitle color | Orange `#E0522D` / `#FB9543` | Fire, transformation, warmth — complementary to blue |
-| Title treatment | Bold, large, ALL CAPS, ~40-50% of cover height | Typography is the hero element |
-| Background arc | Dark → Light across 8 volumes | Visual transformation story |
+| Subtitle color | Orange `#E25822` | Fire, transformation, warmth — complementary to blue |
+| Background | Cream `#F5F0E1` with subtle per-volume warmth shifts | Emotional safety, print-friendly, differentiates from 79% white-background pack |
+| Title treatment | Bold, large, ALL CAPS, ~40-60% of cover width | Typography is the hero element — exaggerated scale |
 | AI art | No — human-created only | Values alignment, premium positioning |
 | Photography | No — illustration/abstract only | Industry trend, genre signal |
 | Phone-first | Yes — thumbnail readability is non-negotiable | 91% of Amazon purchases from thumbnails |
 | Genre signal | Sophisticated self-help, not clinical or woo | 1-2 second recognition window |
-| Series cohesion | Same fonts, same text colors, same layout structure | 8 volumes must read as one system |
+| Series cohesion | Same fonts, same text colors, same cream background, same layout | 8 volumes must read as one system |
+| Web alignment | Cover font used for website arc words; cover blue for display-scale text | Readers should feel continuity between book and site |
 
 ---
 
@@ -237,7 +246,9 @@ The title word should occupy approximately **40-50% of the cover's vertical spac
 | Document | What It Covers | Use It For |
 |----------|---------------|------------|
 | **This guide** | Design philosophy, creative decisions, the "why" | Understanding the vision and reasoning |
+| **Cover Design Strategy** (`book-cover-design-strategy.md`) | Bestseller-informed visual strategy — cream backgrounds, exaggerated type, complementary triad | The specific visual direction and color decisions |
 | **Designer Brief** (`15-designer-brief.md`) | Technical specs, dimensions, deliverables, back cover copy | Building the actual files |
+| **Website Designer Guide** (`16-website-designer-guide.md`) | Website visual system, pages, components | Ensuring cover and web designs align |
 | **Sovereignty Series Brand Guide** | Full brand identity — voice, tone, volume reference | Series context and brand alignment |
 | **LightField Institute Brand Guide** | Umbrella brand — palette, typography, positioning | Parent brand consistency |
 | **Bestseller Book Art Research** | Market trends, data, competitive landscape | Understanding the market context |
@@ -245,9 +256,11 @@ The title word should occupy approximately **40-50% of the cover's vertical spac
 
 **Reading order for a designer:**
 1. This guide (understand the vision)
-2. Designer Brief (understand the deliverables)
-3. Sovereignty Series Brand Guide (understand the series)
-4. Bestseller Book Art Research (understand the market)
+2. Cover Design Strategy (understand the specific visual approach)
+3. Designer Brief (understand the deliverables)
+4. Website Designer Guide (understand how covers appear on the site)
+5. Sovereignty Series Brand Guide (understand the series)
+6. Bestseller Book Art Research (understand the market)
 
 ---
 
