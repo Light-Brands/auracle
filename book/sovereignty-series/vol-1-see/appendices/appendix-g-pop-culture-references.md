@@ -507,6 +507,272 @@ This book is that moment for you.
 
 ---
 
+## Part III: The Pattern in Contemporary Culture
+
+*The classics endure because the pattern endures. But these are the characters you're watching now — on your couch, on your phone, in the shows everyone is talking about. If the classics gave you distance, these give you immediacy.*
+
+---
+
+### The Grandiose Narcissist — Contemporary
+
+---
+
+**Logan Roy** — *Succession* (2018-2023)
+
+The patriarch who loves his children the way a dragon loves its hoard — possessively, conditionally, and only as extensions of himself. Logan doesn't parent. He auditions his children for the role of successor, then disqualifies them for wanting it. Every family dinner is a board meeting. Every "I love you" is a transaction.
+
+> *"I love you, but you are not serious people."*
+
+That line contains the entire grandiose narcissist playbook. The love is stated. The demolition follows immediately. His children spend four seasons trying to earn approval from a man whose approval was never available — because approving them would mean sharing the throne, and the grandiose narcissist doesn't share.
+
+**What to watch for:** The birthday episode. Watch each child arrive with hope and leave diminished. That cycle — approach, hope, devastation, repeat — is the narcissistic family system running exactly as designed.
+
+---
+
+**Homelander** — *The Boys* (2019-present)
+
+The grandiose narcissist as superhero — literally invincible, literally above the law, literally able to destroy anyone who challenges him. Homelander doesn't just want admiration. He needs it the way other people need oxygen. When the crowd cheers, he glows. When they question him, he fantasizes about incinerating them.
+
+> *"I'm the Homelander. And I can do whatever the fuck I want."*
+
+The false ideal with actual superpowers. What makes Homelander terrifying isn't his strength — it's his fragility. Beneath the cape and the smile is a child raised in a lab who never learned to regulate his own emotions. His tantrums level buildings. His narcissistic injuries have body counts. He is what happens when the grandiose narcissist has no external limits — only the internal void that no amount of worship can fill.
+
+**What to watch for:** The mirror scenes. Homelander talking to himself, reassuring himself, performing for his own reflection. The grandiose narcissist's most important audience is always themselves.
+
+---
+
+**Cersei Lannister** — *Game of Thrones* (2011-2019)
+
+Cersei's grandiosity is dynastic — she doesn't just believe she's special, she believes her *bloodline* is special, and everything she does is justified by that belief. Her children aren't people. They're Lannisters. Her love isn't love. It's brand management.
+
+> *"When you play the game of thrones, you win or you die. There is no middle ground."*
+
+Binary thinking as life philosophy. The grandiose narcissist divides the world into winners and losers, and any challenge to their position triggers existential panic. Cersei blows up a cathedral full of people not because she's evil — but because they threatened her image. Narcissistic injury, answered with wildfire.
+
+**What to watch for:** How Cersei treats Sansa. She's grooming her — teaching her that power is the only currency, that love is weakness, that the world is divided into Lannisters and prey. That's the grandiose narcissist as mentor: *Let me teach you to be like me. Let me teach you that softness is death.*
+
+---
+
+**Emily Cooper** — *Emily in Paris* (2020-present)
+
+This one might surprise you. Emily isn't a villain. She's charming, enthusiastic, well-intentioned. And she walks through Paris with the unshakable certainty that her way — her American, social-media-first, relentlessly optimistic way — is not just valid, but superior.
+
+She disrupts a French marketing firm and frames it as innovation. She ignores cultural boundaries and calls it confidence. She sleeps with her friend's boyfriend and reframes it as complicated. Every room she enters reorganizes around her energy — not because she demands it, but because she genuinely cannot conceive of a world where she isn't the main character.
+
+Emily isn't malicious. That's what makes her useful as a reference. **Most narcissistic patterns don't look like villainy. They look like charm with no awareness of impact.** Emily doesn't intend harm. She simply doesn't register that other people's realities are as real as hers.
+
+**What to watch for:** Sylvie's face. The French colleagues' reactions. The exhaustion of the people around Emily who keep adjusting to accommodate someone who never adjusts for them. That's what living with a grandiose narcissist feels like — not dramatic, just relentless.
+
+---
+
+### The Covert Narcissist — Contemporary
+
+---
+
+**Joe Goldberg** — *You* (2018-2024)
+
+Netflix gave us the covert narcissist as first-person narrator — and made us complicit. Joe doesn't see himself as a predator. He's a *romantic*. A *protector*. He stalks because he *cares*. He kills because he *loves*. His internal monologue reframes every act of violence as devotion.
+
+> *"I just want to help you. I just want to protect you. I would do anything for you."*
+
+That's the covert narcissist's internal logic, externalized. Joe believes his own narrative so completely that the audience almost believes it too — at least in the first few episodes. That's the danger. The covert narcissist's self-deception is contagious. If they believe they're the hero, you might too.
+
+**What to watch for:** The glass cage. Joe literally puts people in a cage and calls it protection. That's the covert narcissist's relationship model made physical — containment framed as care, imprisonment framed as love.
+
+---
+
+**Mary Louise Wright** — *Big Little Lies* (2019, Season 2)
+
+Meryl Streep plays the covert narcissist as grieving mother. Mary Louise arrives after her son's death with soft questions and gentle concern. She just wants to *understand*. She just wants to be *close* to her grandchildren. She's just a *mother* who lost her *boy*.
+
+> *"I want to understand what happened. I'm not accusing anyone. I just... I don't have the luxury of comforting lies."*
+
+Every sentence is a weapon disguised as grief. She systematically undermines Celeste, questions her parenting, challenges her fitness as a mother — all while appearing to be a fragile old woman seeking answers. Her victimhood is her armor. You can't confront a grieving mother without looking cruel.
+
+**What to watch for:** The custody hearing. Watch how Mary Louise weaponizes vulnerability on the witness stand. The tears aren't fake — they're strategic. The covert narcissist's pain is real. They just know exactly when to deploy it.
+
+---
+
+**Nate Shelley** — *Ted Lasso* (2020-2023)
+
+One of television's most nuanced portraits of how narcissism develops. Nate starts as the bullied kit man — the victim. He's sympathetic. You root for him. Then Ted gives him power, and you watch the covert narcissist emerge: the passive-aggressive comments, the need for recognition that can never be satisfied, the moment he tears up the "BELIEVE" sign.
+
+> *"You made me feel like I was the most important person in the whole world. And then you abandoned me."*
+
+That's the covert narcissist's wound statement — and it's genuinely felt. Nate *does* feel abandoned. His pain is real. But his response to that pain — cruelty, betrayal, the need to punish the person who didn't give him enough — is the pattern. The covert narcissist's injury is legitimate. Their retaliation is not.
+
+**What to watch for:** Nate's arc across three seasons. It's the most honest depiction of how the victim role transforms into the abuser role — not through choice, but through unexamined wounds. That's what Chapter 9 is about.
+
+---
+
+### The Communal Narcissist — Contemporary
+
+---
+
+**The Armitage Family** — *Get Out* (2017)
+
+Jordan Peele created the communal narcissist as horror. The Armitages don't present as racist — they present as *allies*. "I would have voted for Obama a third time." Their liberalism is their narcissistic supply. Their wokeness is their moral currency. And underneath the progressive performance, they literally consume Black bodies.
+
+> *"I would have voted for Obama a third time if I could."*
+
+The communal narcissist's most dangerous quality: the goodness is performed so convincingly that questioning it makes *you* look paranoid. Chris can sense something is wrong. His body knows. But everyone around him — including his girlfriend — insists the Armitages are wonderful. That's the communal narcissist's ultimate shield: *How dare you question my goodness? Look at how much I give.*
+
+**What to watch for:** The garden party. Watch each white guest approach Chris with compliments about his body, his genetics, his physicality — all framed as admiration. That's the communal narcissist's "generosity" — the compliment that objectifies, the kindness that consumes.
+
+---
+
+**Anna Delvey** — *Inventing Anna* (2022)
+
+This book opens with a quote from this show for a reason. Anna Sorokin invented a persona — Anna Delvey, German heiress — and used generosity as her primary manipulation tool. She picked up checks. She tipped lavishly. She offered to fund art foundations. Every act of "giving" was acquisition disguised as generosity.
+
+> *"This whole story is completely true — except for all the parts that are completely made up."*
+
+The communal narcissist's supply isn't money — it's the image of someone *who would* spend that kind of money. Anna's gifts weren't gifts. They were hooks. Her generosity wasn't generosity. It was a ledger no one knew they were signing.
+
+**What to watch for:** How people defend Anna even after they've been defrauded. That's the communal narcissist's residue — the gratitude is so deeply installed that victims feel guilty for being angry. *But she was so generous...*
+
+---
+
+### The Malignant Narcissist — Contemporary
+
+---
+
+**Kilgrave** — *Jessica Jones* (2015-2019)
+
+Marvel's most psychologically accurate villain. Kilgrave has the literal superpower of mind control — he tells people what to do and they do it. It's the narcissistic relationship stripped of subtlety and made supernatural.
+
+> *"I once told a man to go screw himself. Can you even imagine?"*
+
+Said with delight. Said as a party anecdote. That casual cruelty — the pleasure in dominance, the amusement at someone else's suffering — is the malignant narcissist's signature. But what makes Kilgrave truly terrifying is his genuine confusion when Jessica resists. He doesn't understand consent because he's never needed it. *"I hate that word,"* he says about the word "rape." He rewrites reality to make himself the lover, not the predator.
+
+**What to watch for:** Kilgrave's "romantic" gestures — buying Jessica's childhood home, setting up a perfect dinner. Grand displays of love that are actually demonstrations of surveillance. *I know everything about you. I own your history.* That's not romance. That's colonization.
+
+---
+
+**Joffrey Baratheon** — *Game of Thrones* (2011-2016)
+
+The malignant narcissist as king — a child with unlimited power and zero empathy. Joffrey doesn't just punish disobedience. He enjoys it. He makes Sansa look at her father's head on a spike. He tortures sex workers for entertainment. His cruelty isn't a means to an end. It *is* the end.
+
+> *"Everyone is mine to torment."*
+
+Said without irony. Said as fact. Joffrey is useful because he shows what malignant narcissism looks like without the charm — raw entitlement, raw sadism, raw rage when the world doesn't bend to his whims. Most malignant narcissists are smarter than Joffrey. But the impulse is the same: *your pain exists for my entertainment.*
+
+**What to watch for:** Sansa. Watch her learn to survive by becoming invisible, by performing compliance, by reading his moods before he expresses them. That's the survival strategy. That's what your nervous system learned to do.
+
+---
+
+### The Cerebral Narcissist — Contemporary
+
+---
+
+**Sheldon Cooper** — *The Big Bang Theory* (2007-2019)
+
+The cerebral narcissist played for laughs — which is exactly why he's a useful reference. Sheldon corrects everyone, dismisses emotions as irrational, treats his friends as intellectually inferior, and genuinely cannot understand why this bothers people. The audience laughs. The people living with him are exhausted.
+
+> *"I'm not crazy. My mother had me tested."*
+
+That line is funny. It's also the cerebral narcissist's deflection: *My behavior isn't the problem. I've been certified.* Sheldon's "quirks" — the roommate agreement, the designated seat, the rigid rules — are control mechanisms dressed as personality. His friends accommodate him constantly. He accommodates no one. The show frames this as lovable. In real life, it's draining.
+
+**What to watch for:** How often Leonard apologizes. How often Penny adjusts. How rarely Sheldon compromises. That asymmetry — where one person's comfort consistently overrides everyone else's — is the cerebral narcissist's operating system.
+
+---
+
+### The Histrionic Narcissist — Contemporary
+
+---
+
+**Moira Rose** — *Schitt's Creek* (2015-2020)
+
+The histrionic narcissist as comedic icon. Moira's wigs, her accent, her dramatic pronouncements — everything is performance. She cannot enter a room without commanding it. She cannot have a feeling without amplifying it. She is always, always the lead in a production only she is directing.
+
+> *"What you did was impulsive, capricious, and melodramatic. But it was also wrong."*
+
+The comedy works because Catherine O'Hara plays Moira with enough warmth that you see past the performance to the person. But strip the comedy, and the pattern is clear: Moira's emotions take up all available space. Her children's problems are background noise to her dramas. Her husband's feelings exist to support hers.
+
+**What to watch for:** David and Alexis. Watch how the children of a histrionic narcissist learn to perform their own emotions at high volume — because that's the only frequency that registers. You had to be dramatic to be heard in that house.
+
+---
+
+### The Addiction-Narcissism Intersection — Contemporary
+
+---
+
+**Jackson Maine** — *A Star Is Born* (2018)
+
+Bradley Cooper played the narcissist-addict with devastating accuracy. Jackson's alcoholism and his narcissism aren't separate problems — they're the same avoidance system wearing different masks. Sober, he's charming. Drunk, he's cruel. And the people around him — especially Ally — organize their entire existence around managing which version they'll get.
+
+> *"Maybe it's time to let the old ways die."*
+
+He sings it. He can't do it. Jackson discovers Ally, elevates her, and then can't tolerate that she's surpassing him. His addiction escalates in direct proportion to her success. That's the narcissist-addict intersection: when the substance stops working and the partner's independence threatens the false ideal, the system collapses.
+
+**What to watch for:** The Grammy scene. Jackson's public humiliation of Ally isn't just drunk behavior — it's narcissistic injury expressed through intoxication. He doesn't embarrass her because he's drunk. He gets drunk because her success is an injury he can't metabolize sober.
+
+---
+
+**BoJack Horseman** — *BoJack Horseman* (2014-2020)
+
+An animated show about a talking horse that is somehow the most accurate portrayal of narcissism and addiction on television. BoJack hurts everyone around him, then collapses into self-hatred so complete that you can't stay angry — because he's already punishing himself more than you ever could.
+
+> *"I need you to tell me that I'm a good person. I know that I can be selfish and narcissistic and self-destructive, but underneath all that, deep down, I'm a good person, and I need you to tell me that I'm good."*
+
+That monologue is the Saboteur role (Role 11) and the addiction-narcissism intersection in a single breath. BoJack knows the vocabulary. He can name his patterns. He can diagnose himself with clinical precision. But naming the pattern isn't the same as changing it. Self-awareness without behavioral change is just a more sophisticated manipulation — *I already know I'm terrible, so you can't hold me accountable for it.*
+
+**What to watch for:** Diane. She's the friend who stays because BoJack's self-awareness makes her believe change is possible. She writes his memoir. She holds space for his growth. And he doesn't grow — not for seasons. That's the trap: when someone can articulate exactly what they're doing wrong, you believe they're one realization away from stopping. They're not.
+
+---
+
+### The Roles in Contemporary Culture
+
+---
+
+**The Victim — Anna Delvey** — *Inventing Anna* (2022)
+
+Even after conviction, Anna maintained the victim role. The system misunderstood her. The banks should have done better due diligence. She was just a dreamer in a city that punishes ambition. Her victim narrative was so compelling that people *continued to fund her* from prison.
+
+---
+
+**The Seducer/Charmer — Joe Goldberg** — *You* (2018-2024)
+
+The love-bombing arc of every season follows the same structure: intense attention, manufactured destiny, declarations of "I've never felt this way." Joe mirrors each target perfectly — her interests become his interests, her enemies become his enemies. By the time the mask slips, the bond is already formed.
+
+---
+
+**The Ghost/Withholder — Mr. Big** — *Sex and the City* (1998-2004; *And Just Like That*, 2021-present)
+
+Television's most enduring ghost. Big's weapon isn't cruelty — it's unavailability. He appears, creates intensity, withdraws. Carrie chases. He returns. She reorganizes her life. He withdraws again. For six seasons and two movies, the cycle repeats — and millions of viewers called it romance.
+
+> *"You're the one."*
+
+Said eventually. Said after years of withholding it. The ghost doesn't refuse you forever — that would be clean. They give you *just enough* to keep you reaching. Big's "I love you" arrives so late that when it comes, the relief feels like proof that the waiting was worth it. It wasn't.
+
+**What to watch for:** How Carrie's friends can see the pattern but she can't. That's what it looks like from inside the ghost's orbit — everyone around you sees clearly, and you're too bonded to the cycle of withdrawal and return to hear them.
+
+---
+
+**The Judge/Critic — Sylvie Grateau** — *Emily in Paris* (2020-present)
+
+Sylvie's standards aren't wrong. Her taste isn't wrong. Her critique of Emily's work is often accurate. That's what makes the Judge role so effective — *they're frequently right about the specifics, which makes you miss the pattern.*
+
+The pattern is: nothing Emily does will ever be good enough. The goalposts aren't just moving — they were never real. Sylvie's approval is a currency she mints and controls, and she distributes it with the precision of a central bank: just enough to keep you working, never enough to let you rest.
+
+---
+
+**The Truth-Teller — Beth Dutton** — *Yellowstone* (2018-present)
+
+Beth weaponizes honesty like a flamethrower. She says the thing no one else will say — and she says it to draw blood.
+
+> *"I don't speak d\*\*khead."*
+
+Beth's "honesty" is selective — it always targets vulnerability, never self-reflection. She frames cruelty as toughness, attacks as authenticity. The people around her brace before she speaks, and the audience cheers because the performance is thrilling. But living with a Beth isn't thrilling. It's surviving a daily evaluation you never signed up for.
+
+---
+
+**The Protector — Jack Chambers** — *Don't Worry Darling* (2022)
+
+The protective husband in a literal simulation. Jack controls every detail of Alice's reality — her home, her schedule, her perception — and frames all of it as care. He built her a perfect world. He gave her everything. The fact that none of it is real, and she didn't consent to any of it, is irrelevant to him. Protection that requires your captivity isn't protection. It's the role made architectural.
+
+---
+
 ## Why These Stories Matter
 
 You didn't need this appendix to understand the patterns. You've lived them.
