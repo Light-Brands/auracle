@@ -6,6 +6,21 @@
 
 ---
 
+> *"This whole story is completely true — except for all the parts that are completely made up."*
+> — *Inventing Anna*
+
+This is called gaslighting. Sound familiar?
+
+---
+
+W stayed in my house with a girl. They broke into my closet and stole a one-of-a-kind dress — a gift from a designer I'd hosted an event for. When I confronted him, he looked me in the eye and said it didn't happen.
+
+Years later, he confessed.
+
+The story was completely true. Except for the part he made up — the part where he told me it wasn't.
+
+---
+
 ## Copyright
 
 Copyright © 2026 by Jennifer Brooke Lawless
@@ -26,6 +41,8 @@ First Edition
 **Author's Note:** This is a work of creative nonfiction. The examples, field notes, and illustrative narratives throughout draw from the author's professional experience as a trauma-trained therapist, as well as from personal observation and lived experience. All names, identifying details, and circumstances have been changed. Some examples are composites. Some events have been compressed, and some dialogue has been recreated from memory. No example should be read as a direct account of any specific individual. The information and opinions expressed in this book represent the author's professional and personal perspective and should not be considered a representation of the views or experiences of any other persons referenced herein, whether directly or indirectly.
 
 **A Note on Field Notes:** The field notes throughout this book are composites drawn from clinical work, personal observation, and the shared experiences of colleagues, clients, and friends. No single field note depicts a specific individual or a specific event. Details have been changed, combined, and reimagined to protect privacy while preserving the emotional truth of each pattern. If you see yourself in these pages, it is because the patterns are universal — not because any note was written about you.
+
+**A Note on Names:** The people in this book are real. They are identified by single letters — not to protect them, but because their names were never the point. The patterns are. When you encounter W, or J, or M in these pages, know that these are real people who did real things. The letter is all they get. You'll know yours.
 
 **Crisis Resources:** See [Appendix A: Resources](./appendices/appendix-a-resources.md) for 24/7 crisis hotlines, international resources, and specialized support services.
 
