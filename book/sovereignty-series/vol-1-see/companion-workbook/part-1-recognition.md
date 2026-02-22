@@ -53,33 +53,27 @@ This is not about blame. It is not about labeling anyone. It is about noticing w
 
 What patterns do you notice?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Were there any names that were hard to write down? What made them hard?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Were there any names where you felt a pull to defend the person before you even finished the row? (That pull is worth noticing.)
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -122,39 +116,31 @@ Now transfer your ratings here:
 
 How many of your relationships fall on the negative side of the scale?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Did any ratings surprise you? Which ones, and why?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Is there anyone you rated positively where, if you are very honest, the rating should be lower? (Sometimes we rate people the way we wish they were, not the way they are.)
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Look at the person with your lowest rating. Without explaining, justifying, or defending -- just notice: how long have you been feeling smaller around them?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -195,33 +181,27 @@ Think of a recent interaction where you felt smaller afterward. Close your eyes 
 
 Where in your body do you feel "smaller" the most? (This is your early warning signal. Remember it.)
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 If that body sensation could speak, what would it say?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Chapter 1 described how the wolf in sheep's clothing never arrives looking like a wolf. It arrives wearing concern, love, protection. Think of someone in your life who wears the sheep's clothing well. What does your body say about them that your mind hasn't been willing to say yet?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -261,37 +241,29 @@ If you miss a day, do not punish yourself. Just pick up the next day. This is pr
 
 Look across the seven days. What patterns do you notice?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Were certain people or situations consistently linked to body tension? Who or what?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Were there moments of genuine ease? What was different about those interactions?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Chapter 2 described how some people make you feel like you are "on stage" or performing around them -- constantly monitoring their mood, rehearsing your words, scanning their face. Did you notice that sensation this week? With whom?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -340,37 +312,29 @@ Read through the sensation vocabulary below. Circle or mark every sensation you 
 
 How many sensations did you check?
 
-_Write here:_
-
-&nbsp;
+_______________________________________________
 
 Did any surprise you? Which ones?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Is there a cluster of sensations that appears around the same person? Write their name (or code) and the cluster:
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Chapter 2 described "deposited shame" -- the kind that arrives for no clear reason when you are in someone's presence. Not shame from something you did, but shame placed into you by someone who cannot hold their own. Did you recognize that in your list above?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -413,35 +377,29 @@ Each time you have a significant interaction (in person, phone, text, even think
 
 Were there interactions where you felt good *during* but drained or confused *after*? (This gap between the "during" and the "after" is one of the most important things you can learn to notice. Love-bombing feels wonderful in the moment. The crash comes later.)
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Were there interactions where the "after" feeling was relief? (Relief that they left. Relief that the conversation ended. Relief is information. It tells you your nervous system was on alert the whole time.)
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 What did you learn about the difference between how someone makes you feel when they are present versus when they are gone?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -538,35 +496,27 @@ You do not need to complete this in one sitting. Some people take days. Some tak
 
 How many patterns did you rate as a 2 or 3?
 
-_Write here:_
-
-&nbsp;
+_______________________________________________
 
 Were there patterns you had never had a name for before? Which ones?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Was there a single person whose name appeared most often in the "Who?" column?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Chapter 3 said: "Naming breaks the spell." Now that you have names for what has been happening, does anything feel different? Even slightly?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -598,57 +548,47 @@ Card number and name: _______________________________________________
 
 **What happened.** Describe a specific incident where this pattern played out in your life. Not a general feeling -- a specific moment. Where were you? What was said? What did your body do?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What you were told it was.** How did they frame it? What was the sheep's clothing? (e.g., "I was just worried about you," "It was a joke," "You're overreacting.")
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What it actually was.** Now that you have the decoder card, name what was really happening beneath the surface.
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What it cost you.** What did this pattern take from you over time? (Confidence? Trust in yourself? A friendship? Your voice? Sleep? Joy?)
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What your body knew.** What physical signals were you receiving that something was wrong -- even when your mind was still making excuses?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -658,57 +598,47 @@ Card number and name: _______________________________________________
 
 **What happened.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What you were told it was.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What it actually was.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What it cost you.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What your body knew.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -718,57 +648,47 @@ Card number and name: _______________________________________________
 
 **What happened.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What you were told it was.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What it actually was.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What it cost you.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **What your body knew.**
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -776,25 +696,21 @@ _Write here:_
 
 Look at your three patterns together. Do they share anything in common? (Sometimes the same wolf wears different costumes. Sometimes three different patterns serve the same purpose: keeping you small, confused, or dependent.)
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 If you could say one sentence to your past self -- the version of you who was living inside these patterns without a name for them -- what would you say?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -847,43 +763,35 @@ Using your top 3 patterns from Exercise 3B (or any patterns that feel significan
 
 How far back does your oldest pattern go?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Did the same pattern show up across different people and different time periods? (If so, you have found your template. This is not a sign that you are broken. It is a sign that your nervous system learned to recognize something familiar and mistake it for something safe.)
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 Was there a moment in your history where a pattern was present, but you could not see it at the time? What would you have needed -- what information, what language, what support -- to see it then?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 What has changed between then and now? What do you see today that you could not see before?
 
-_Write here:_
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 

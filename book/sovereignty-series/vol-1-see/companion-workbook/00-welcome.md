@@ -1,5 +1,7 @@
 # SEE: The Companion Workbook
 
+### By Jennifer Brooke Lawless, M.S.
+
 ### A Free Resource for Readers of *The Truth That Was Hidden in Plain Sight*
 
 ---
@@ -32,6 +34,22 @@ This workbook follows the structure of the book. Each section corresponds to spe
 - A diagnostic tool
 - A weapon to use against anyone
 - Something that needs to be completed
+
+---
+
+## A Note on Honesty
+
+One more thing before we begin — and it matters.
+
+As you work through these exercises, you may recognize patterns not only in others but in yourself. You may notice moments where you used silence as punishment, or where your "honesty" carried a blade, or where you struggled to hold someone else's pain without centering your own.
+
+That recognition is not a reason to stop. It is a reason to keep going.
+
+This workbook is not about sorting people into villains and victims. The human capacity for harmful relational behavior exists on a spectrum, and surviving narcissistic abuse does not make anyone immune from their own blind spots. The healthiest thing you can do — the thing that separates recovery from repetition — is to stay honest about what you see in the mirror, too.
+
+If you notice something uncomfortable about your own patterns: good. That means your perception is coming back online. Write about it. Bring it to therapy. Let it inform the person you are becoming — not as shame, but as data.
+
+The people who do the most harm are the ones who never look. You are looking. That changes everything.
 
 ---
 
@@ -81,7 +99,7 @@ This workbook will be here when you're safe. Your life comes first.
 - **National Suicide Prevention Lifeline:** **988**
 - **Emergency Services:** **911**
 
-If you cannot safely store this workbook, use the online version at [website URL] in a private/incognito browser window. Clear your browser history afterward.
+If you cannot safely store this workbook, use the online version at LightField.Institute in a private/incognito browser window. Clear your browser history afterward.
 
 ### If You Are in YELLOW
 
@@ -133,9 +151,40 @@ For a complete international directory, visit **hotpeachpages.net** or see Appen
 
 ---
 
+---
+
+## Your Progress Tracker
+
+This is yours. Mark each section as you complete it — not because there is a deadline, but because it can help to see how far you have come.
+
+| Section | Part | Status |
+|---|---|---|
+| Section 1: The Shrinking Map | Part I — Recognition | ☐ |
+| Section 2: Your Body Already Knows | Part I — Recognition | ☐ |
+| Section 3: Pattern Naming | Part I — Recognition | ☐ |
+| Section 4: The Bond That Felt Like Love | Part II — Understanding | ☐ |
+| Section 5: Seeing Behind the Mask | Part II — Understanding | ☐ |
+| Section 6: The Role You Were Assigned | Part III — Origins | ☐ |
+| Section 7: The Sentence You Spent Your Childhood Earning | Part III — Origins | ☐ |
+| Section 8: Your Template | Part III — Origins | ☐ |
+| Section 9: Siblings & the System | Part III — Origins | ☐ |
+| Section 10: The Relationship Timeline | Part IV — Application | ☐ |
+| Section 11: The Hidden Costs | Part IV — Application | ☐ |
+| Section 12: Your Exposure Questions | Part IV — Application | ☐ |
+| Section 13: Your Emergency Protocol Card | Part IV — Application | ☐ |
+| Section 14: Energetic Remapping Journal | Part V — Recovery | ☐ |
+| Section 15: Your Scripts & Responses | Part V — Recovery | ☐ |
+| Section 16: Moving Forward | Part V — Recovery | ☐ |
+
+**A note about progress:** Some sections you will complete in one sitting. Others you will return to many times over months. A section is "done" when you have gotten from it what you need — not when every blank is filled. Trust your own sense of completion.
+
+---
+
 > **A note from the author:**
 >
 > This workbook is free because seeing clearly shouldn't cost extra.
 > The book opens the door. This workbook helps you walk through it.
 > Take your time. There is no grade. There is no deadline.
 > The only rule is: trust what your body already knows.
+>
+> — Jennifer Brooke Lawless, M.S.

@@ -17,6 +17,8 @@ When you feel confused, activated, or "off" after an interaction:
 
 You don't need to identify the exact card. A rough match is enough. The act of naming is what breaks the loop.
 
+> **Start with your top 10.** There are 60 patterns here. That is intentionally comprehensive — and intentionally more than you need right now. Do not try to learn them all at once. Instead: scan the full list once, slowly. Circle or highlight the 10 patterns you recognize most from your own experience. Those are *your* decoder cards. Learn their names. Practice their power moves. The other 50 will be here when you are ready. Most people find that 10-15 patterns account for the vast majority of what they experience. Find yours first.
+
 ---
 
 ## Card 0: The Wolf in Sheep's Clothing (Master Card)

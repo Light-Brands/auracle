@@ -26,7 +26,7 @@ A reminder before we start: understanding the biology of the bond does not mean 
 
 ---
 
-### Exercise 4.1: Slot Machine vs. Vending Machine
+### Exercise 4A: Slot Machine vs. Vending Machine
 
 Chapter 4 introduces a core concept: intermittent, unpredictable rewards create stronger bonds than consistent, reliable ones. A vending machine gives you what you paid for every time. A slot machine might pay off, and that uncertainty is what makes it addictive.
 
@@ -56,39 +56,31 @@ Look at your table. Then sit with these questions for a few minutes before writi
 
 1. How many of the kind moments followed conflict, coldness, or fear?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 2. Were there stretches of consistent, predictable warmth that didn't require a crisis first? If so, how long did they last?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 3. When the kindness arrived after pain, what did it feel like in your body? Can you name the sensation? (Relief? A rush? Gratitude that seemed outsized for what actually happened?)
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 4. A vending machine doesn't make your heart race. A slot machine does. Which one did your relationship feel like?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 ---
 
-### Exercise 4.2: The Cycle Tracker
+### Exercise 4B: The Cycle Tracker
 
 The abuse cycle has four phases: tension building, incident, reconciliation, and calm. Chapter 4 walks through the neuroscience of each phase. This exercise helps you map that cycle in your own experience, because once you can see the cycle, it becomes much harder for it to operate invisibly.
 
@@ -100,49 +92,41 @@ Think of a specific period in the relationship, ideally the most recent one you 
 
 What did it feel like when tension was rising? What signals did your body give you? What did you start doing differently (walking on eggshells, monitoring their mood, trying to prevent the explosion)?
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Phase 2: Incident**
 
 What form did the incident take? (It doesn't have to be an explosion. It could be cruel words, cold silence, manipulation, a "small" criticism that carried enormous weight.) What did your nervous system do: fight, flight, freeze, or fawn?
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Phase 3: Reconciliation**
 
 How did the "making up" happen? Did they apologize? Did you apologize (even when you hadn't done anything)? What did the relief feel like? Did it feel like love?
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Phase 4: Calm**
 
 How long did the calm last? What did you tell yourself during it? ("It wasn't that bad." "They're really trying." "Maybe I overreacted." "This is who they really are.")
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Part B: The pattern question.**
 
@@ -155,11 +139,9 @@ Now step back and look at what you wrote. How many times did this cycle repeat? 
 
 Did the cycle get shorter over time? (Did the calm phase shrink while the tension and incident phases grew?)
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -173,7 +155,7 @@ Did the cycle get shorter over time? (Did the calm phase shrink while the tensio
 
 ---
 
-### Exercise 4.3: Relief vs. Love — Journal Prompts
+### Exercise 4C: Relief vs. Love — Journal Prompts
 
 This may be the hardest exercise in this section. Chapter 4 names a truth that many people resist: much of what felt like love was actually relief. Relief that they weren't angry. Relief that they were kind again. Relief that you hadn't lost them.
 
@@ -181,33 +163,27 @@ You don't have to accept this fully right now. Just be curious about it. Try ans
 
 **Prompt 1:** Think of a moment in the relationship that felt like deep love or connection. Write it down in a few sentences. Now ask yourself: what happened in the hours or days before that moment? Was there a fight? A cold stretch? A period of fear or uncertainty?
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Prompt 2:** In a healthy relationship, love doesn't need pain as a warm-up act. Can you think of a time you felt genuine warmth from someone, a friend, a family member, a pet, a stranger's kindness, that didn't require recovery from something painful first? What did that feel like compared to what you felt in the relationship?
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Prompt 3:** Chapter 4 says: "If you can only feel close after conflict, you're in a relief cycle, not a love cycle." Does this sentence land as true for you? If it makes you angry or defensive, that's worth writing about too. Resistance is information.
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Prompt 4:** What does cognitive dissonance look like in your experience? The four strategies the brain uses to resolve the contradiction between "this person loves me" and "this person hurts me" are:
 
@@ -218,29 +194,25 @@ You don't have to accept this fully right now. Just be curious about it. Try ans
 
 Which of these four have you used most? Write about a specific time you used it. What were you protecting yourself from seeing?
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Prompt 5:** If the love you felt was partly relief, that doesn't make you foolish. It makes you human, experiencing a neurological response that evolution designed to be powerful. Can you hold both truths at once? The bond was real AND it was wired to harm. Write about what it feels like to hold those two things simultaneously.
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
-### Exercise 4.4: The 72-Hour Test Log
+### Exercise 4D: The 72-Hour Test Log
 
 Chapter 4 discusses how love-bombing and the relief cycle flood your brain with neurochemicals that distort decision-making. The 72-Hour Test is simple: before making any major decision about the relationship, wait 72 hours. That's how long it takes for the neurochemistry to settle enough that you can think clearly.
 
@@ -292,23 +264,17 @@ Use this template for four weeks. Make copies if you need more rows.
 
 1. What patterns do you see in your triggers?
 
-   *(space for writing)*
-
-   &nbsp;
+   _______________________________________________
 
 2. How often did the urge survive 72 hours? How often did it dissolve?
 
-   *(space for writing)*
-
-   &nbsp;
+   _______________________________________________
 
 3. What does this tell you about the difference between what your activated nervous system wants and what your settled self actually needs?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 ---
 
@@ -332,7 +298,7 @@ When you can see the mask as a mask, it stops working.
 
 ---
 
-### Exercise 5.1: The Gap Exercise — Who They Present vs. Who They Are
+### Exercise 5A: The Gap Exercise — Who They Present vs. Who They Are
 
 This is a side-by-side inventory. It asks you to look at the difference between the person they showed the world (or showed you in the beginning) and the person you actually experienced behind closed doors.
 
@@ -358,39 +324,31 @@ This exercise can be disorienting. That dissonance you feel as you fill it out? 
 
 1. Look at the two columns. How wide is the gap? Does it surprise you to see it laid out like this?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 2. Which version did you believe for the longest time? What made you start seeing the other column?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 3. If someone who only knew the left column read the right column, would they believe you? How does that feel?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 4. Chapter 5 introduces the concept of the "false ideal," the constructed self-image the narcissist maintains at all costs. Looking at your left column: is that the false ideal? And looking at your right column: is that what happens when reality threatens to puncture it?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 ---
 
-### Exercise 5.2: Injury Mapping
+### Exercise 5B: Injury Mapping
 
 Chapter 5 explains narcissistic injury: the emotional devastation that occurs when the gap between their idealized self-image and reality becomes visible. The rage that follows is disproportionate because it's not really about what you said or did. It's about the threat to their entire self-concept.
 
@@ -421,13 +379,11 @@ Look at your list. Is there a pattern in what triggered them?
 
 Write what you notice:
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 **Part C: The master exposure question.**
 
@@ -441,27 +397,21 @@ Think about your person. If you asked them this question:
 
 1. What do you think would happen?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 2. Can you remember a single time they genuinely admitted being wrong without deflecting, minimizing, or turning it into your fault?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 3. What does your answer tell you?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 ---
 
@@ -475,7 +425,7 @@ Think about your person. If you asked them this question:
 
 ---
 
-### Exercise 5.3: Role Identification — The 12 Masks
+### Exercise 5C: Role Identification — The 12 Masks
 
 Chapter 6 identifies twelve identity roles narcissists wear. Each mask serves a function: to avoid accountability, secure supply, control perception, or maintain emotional dominance.
 
@@ -510,33 +460,25 @@ Pick the three roles your person used most. For each one, answer these questions
 
 *A specific moment when they wore this mask:*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What did this mask get them? (What did they gain from wearing it?)*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What did it cost you? (What did you lose, suppress, or sacrifice because of it?)*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What role did it cast YOU in? (The Rescuer? The Audience? The Guilty One? The Child?)*
 
-*(space for writing)*
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -544,33 +486,25 @@ Pick the three roles your person used most. For each one, answer these questions
 
 *A specific moment when they wore this mask:*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What did this mask get them?*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What did it cost you?*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What role did it cast YOU in?*
 
-*(space for writing)*
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -578,33 +512,25 @@ Pick the three roles your person used most. For each one, answer these questions
 
 *A specific moment when they wore this mask:*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What did this mask get them?*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What did it cost you?*
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 *What role did it cast YOU in?*
 
-*(space for writing)*
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -614,23 +540,19 @@ Chapter 6 explains that one of the most disorienting things about narcissists is
 
 Can you identify a single conversation or conflict where your person shifted between at least two roles? Describe it below. Name the masks as they appeared.
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 What did the shifting feel like in your body? (Confusion? Vertigo? A sense that the ground kept moving?)
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -648,11 +570,9 @@ Chapter 5 describes three primary types and four additional types. Based on what
 
 What was your body's first reaction when you read the description of their type in the book? Did something in you say *"that's them"* before your mind caught up?
 
-*(space for writing)*
+_______________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________
 
 ---
 
@@ -668,27 +588,21 @@ This matters. On the days when you doubt yourself, when cognitive dissonance tri
 
 1. What is one thing you can see now that you couldn't see while you were inside the cycle?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 2. If you could speak to yourself at the beginning of the relationship, knowing what you know now, what would you say? (Not to warn yourself. Not to prevent it. Just to offer compassion.)
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 3. What is one thing you want to carry forward from this section? One insight, one phrase, one body-awareness that you don't want to forget?
 
-   *(space for writing)*
+   _______________________________________________
 
-   &nbsp;
-
-   &nbsp;
+   _______________________________________________
 
 ---
 

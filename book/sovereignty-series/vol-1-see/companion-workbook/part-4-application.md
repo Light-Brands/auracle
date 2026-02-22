@@ -25,7 +25,7 @@ This exercise helps you map those phases onto an actual relationship. If you've 
 
 ---
 
-### Exercise 10.1: Map the Three Phases
+### Exercise 10A: Map the Three Phases
 
 Think about one romantic relationship where you now suspect manipulation was present. Use the timeline below to map when each phase occurred. Don't worry about exact dates — approximate seasons or timeframes are fine.
 
@@ -104,7 +104,7 @@ What were the hallmarks? (Check all that apply)
 
 ---
 
-### Exercise 10.2: What I Called It Then vs. What I Call It Now
+### Exercise 10B: What I Called It Then vs. What I Call It Now
 
 This is one of the most powerful exercises in the workbook. Manipulation doesn't work unless it has a good name. Love-bombing doesn't call itself love-bombing — it calls itself romance. Devaluation doesn't call itself devaluation — it calls itself "honesty" or "helping you grow."
 
@@ -135,7 +135,7 @@ _________________________________________________________________________
 
 ---
 
-### Exercise 10.3: Red Flag Retrospective
+### Exercise 10C: Red Flag Retrospective
 
 Hindsight isn't about blame. It's about education. You're not looking back to punish yourself for what you didn't see — you're looking back to sharpen your vision for what comes next.
 
@@ -173,6 +173,26 @@ _________________________________________________________________________
 
 ---
 
+---
+
+> **A Note on Co-Parenting**
+>
+> If you share children with the person you mapped above, everything gets more complicated — and none of this section's advice to "leave" or "go no-contact" may be available to you. That is not a failure. You are not behind. You are navigating one of the hardest situations a survivor can face: maintaining a boundary with someone you are legally required to engage with.
+>
+> Some things that may help:
+>
+> - **Parallel parenting** (not co-parenting): You don't collaborate. You co-exist. Minimal contact, maximum structure, everything in writing.
+> - **Communication only through apps** (OurFamilyWizard, TalkingParents): These create legal records and reduce real-time manipulation.
+> - **Gray rock for exchanges:** Flat affect. Short sentences. No emotional content. "Tuesday at 3 works." Period.
+> - **A separate therapist** who specializes in high-conflict custody — not a mediator who assumes both parties are acting in good faith.
+> - **Document everything.** Texts, emails, behavioral patterns, timeline of events. Not to win an argument — to protect yourself and your children.
+>
+> You are not co-parenting with a partner. You are managing a dynamic with someone who may use your children as leverage. The skills in this workbook — naming patterns, grounding, choosing your response, documenting — are not abstract for you. They are daily survival tools.
+>
+> You are doing harder work than most people will ever understand. Keep going.
+
+---
+
 ## Section 11: The Hidden Costs
 
 **Aligned with Chapter 12 — Manipulation Across Contexts**
@@ -183,7 +203,7 @@ This section asks you to inventory the full landscape of your relational life an
 
 ---
 
-### Exercise 11.1: Beyond Romance — The Full Inventory
+### Exercise 11A: Beyond Romance — The Full Inventory
 
 For each context below, consider: Is there a relationship here that follows manipulative patterns? You're not diagnosing anyone. You're noticing how you feel, what it costs you, and whether the dynamic is mutual.
 
@@ -241,7 +261,7 @@ _Why I keep going back:_ ________________________________________________
 
 ---
 
-### Exercise 11.2: The Relationship Nobody Suspects
+### Exercise 11B: The Relationship Nobody Suspects
 
 There is usually one. The relationship that, from the outside, looks perfectly fine — maybe even admirable. The friend everyone loves. The parent who "did their best." The mentor who "believes in you." The sibling who "just has a strong personality."
 
@@ -281,7 +301,7 @@ Sit with what you just wrote. You don't have to do anything about it yet. Just l
 
 ---
 
-### Exercise 11.3: Energy Audit
+### Exercise 11C: Energy Audit
 
 Your life force is finite. Where is it actually going? Use the grid below to map where your energy flows in a typical week. Be honest, not aspirational.
 
@@ -332,7 +352,7 @@ But these questions are not toys. Asking them in the wrong context or at the wro
 
 ---
 
-### Exercise 12.1: Safety Assessment
+### Exercise 12A: Safety Assessment
 
 **Before you use exposure questions with anyone, assess your safety level for that specific relationship.**
 
@@ -359,7 +379,7 @@ Think of the person you're considering using these questions with.
 
 ---
 
-### Exercise 12.2: Select Your Exposure Questions
+### Exercise 12B: Select Your Exposure Questions
 
 Below are the core exposure questions from Chapter 13. Read through all of them, then circle or mark the **three** that feel most relevant to your situation right now.
 
@@ -395,7 +415,7 @@ _________________________________________________________________________
 
 ---
 
-### Exercise 12.3: Response Prediction
+### Exercise 12C: Response Prediction
 
 Before you ask an exposure question (if you decide to ask it at all), predict what will happen. This isn't cynicism — it's preparation. When you know what a deflection looks like in advance, it can't disguise itself as a real answer.
 
@@ -427,7 +447,7 @@ Before you ask an exposure question (if you decide to ask it at all), predict wh
 
 ---
 
-### Exercise 12.4: The Fear Journal
+### Exercise 12D: The Fear Journal
 
 This is the exercise most people skip. Don't skip it.
 
@@ -470,6 +490,8 @@ _________________________________________________________________________
 This section is different from the rest of the workbook. It's designed to be **cut out, copied, photographed, or saved to your phone.** These are the tools you need when you're in the middle of it — when your thinking brain goes offline and your body is running the show.
 
 You don't need to understand these tools perfectly. You need to have them within reach.
+
+*Note: The cards below are condensed for quick reference. For professionally designed, printable versions of all cards, see [Appendix F: Printable Cards](appendix-f-printable-cards.md). For the complete grounding techniques menu, see [Appendix C: Grounding Techniques](appendix-c-grounding-techniques.md).*
 
 ---
 
@@ -529,7 +551,7 @@ You don't need to understand these tools perfectly. You need to have them within
 
 ---
 
-### Exercise 13.1: Your Personalized Grounding Menu
+### Exercise 13A: Your Personalized Grounding Menu
 
 Not every grounding technique works for every body. Some people need movement. Some need cold. Some need sound. The key is knowing what works for *you* before you need it.
 
@@ -633,7 +655,7 @@ Your body keeps score in real time. Learn to read it. Print this page or save it
 
 ---
 
-### Exercise 13.2: My Personal Body Decoder
+### Exercise 13B: My Personal Body Decoder
 
 The cheat sheet above covers common patterns. But your body has its own specific signals that may not be on the list. Take a few minutes to map your personal responses.
 
@@ -665,7 +687,7 @@ _________________________________________________________________________
 
 ---
 
-### Exercise 13.3: Your Complete Emergency Kit
+### Exercise 13C: Your Complete Emergency Kit
 
 Assemble your kit. Check off each item as you complete it.
 

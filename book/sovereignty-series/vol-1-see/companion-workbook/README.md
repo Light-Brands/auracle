@@ -1,5 +1,7 @@
 # SEE: The Companion Workbook
 
+## By Jennifer Brooke Lawless, M.S.
+
 ## A Free Resource for Readers of *The Truth That Was Hidden in Plain Sight*
 
 ### Volume 1 | The Sovereignty Series
@@ -187,3 +189,5 @@ The 3-3-3 Rule, 72-Hour Test, Emergency Protocol, Body Decoder, Sovereignty Stat
 >
 > Take your time. There is no grade. There is no deadline.
 > The only rule is: trust what your body already knows.
+>
+> — Jennifer Brooke Lawless, M.S.

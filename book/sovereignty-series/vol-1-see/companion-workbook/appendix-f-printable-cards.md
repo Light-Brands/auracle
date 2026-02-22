@@ -323,6 +323,85 @@
 
 ---
 
+## Card 11: What Healthy Looks Like
+
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│       WHAT HEALTHY LOOKS LIKE               │
+│                                             │
+│  MANIPULATIVE          │  HEALTHY            │
+│  ─────────────         │  ───────            │
+│  Intensity             │  Consistency         │
+│  Love-bombing          │  Gradual trust       │
+│  "You're the only one" │  "I respect your     │
+│                        │   other bonds"       │
+│  Secrets & isolation   │  Transparency         │
+│  "No one understands   │  "Tell your friends  │
+│   us"                  │   about me"          │
+│  Rage at boundaries    │  Respect for "no"    │
+│  Silent treatment      │  "I need space, and  │
+│                        │   I'll come back"    │
+│  Apologies without     │  Changed behavior    │
+│  change                │  after apology       │
+│  Your needs are a      │  Your needs are      │
+│  burden                │  welcome             │
+│  Walking on eggshells  │  Feeling safe to     │
+│                        │   disagree           │
+│  You feel smaller      │  You feel more       │
+│  after contact         │   yourself           │
+│                                             │
+│  TRUST THE CONTRAST.                        │
+│  Once you've felt the difference,           │
+│  you can't unfeel it.                       │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## Card 12: When You Want to Go Back
+
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│      WHEN YOU WANT TO GO BACK               │
+│                                             │
+│  This feeling is real. It doesn't mean      │
+│  going back is right.                       │
+│                                             │
+│  BEFORE YOU CONTACT THEM:                   │
+│                                             │
+│  1. Wait 72 hours. (Not optional.)          │
+│                                             │
+│  2. Re-read what you wrote in               │
+│     this workbook. Your own words.          │
+│     Trust them.                             │
+│                                             │
+│  3. Ask: Am I missing THEM, or am I         │
+│     missing who they pretended to be?       │
+│                                             │
+│  4. Ask: What will be different             │
+│     this time? (Be specific. "They'll       │
+│     change" doesn't count.)                 │
+│                                             │
+│  5. Call your safe person instead.           │
+│     Name: _________________________         │
+│     Number: _______________________         │
+│                                             │
+│  6. Read your Sovereignty Statement.         │
+│     Out loud. Hand on heart.                │
+│                                             │
+│  THE PULL IS NOT LOVE.                      │
+│  IT IS THE TRAUMA BOND DOING ITS JOB.      │
+│  You already know this.                     │
+│  Trust what you know.                       │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
 > **How to use these cards:**
 >
 > - **Print this page** and cut along the borders

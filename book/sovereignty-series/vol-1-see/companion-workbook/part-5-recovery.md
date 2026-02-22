@@ -25,7 +25,7 @@ rest.
 
 ---
 
-# Section 14: Energetic Remapping Journal
+## Section 14: Energetic Remapping Journal
 
 *Aligned with Chapter 15 — Recovery Tools*
 
@@ -44,7 +44,7 @@ and shame.
 
 ---
 
-## Exercise 14.1: Loop Recognition Log
+### Exercise 14A: Loop Recognition Log
 
 When the old pattern activates, something happens in your body before your mind catches
 up. Your heart rate changes. Your stomach tightens. Your jaw locks. Your hands get cold.
@@ -129,7 +129,7 @@ That seeing is the first step of remapping.**
 
 ---
 
-## Exercise 14.2: "This Belongs to Then, Not Now"
+### Exercise 14B: "This Belongs to Then, Not Now"
 
 Your nervous system doesn't have a calendar. When it gets activated, it doesn't know
 whether the threat is happening right now or happened fifteen years ago. It just fires.
@@ -163,7 +163,7 @@ distinction, the echo gets a little quieter.
 
 ---
 
-## Exercise 14.3: Three Truths About Me
+### Exercise 14C: Three Truths About Me
 
 Chapter 15 introduces the practice of reclaiming internal authority — naming qualities
 that are true about you regardless of anyone's evaluation. These are attributes no one
@@ -216,7 +216,7 @@ who needed you to doubt yourself?
 
 ---
 
-## Exercise 14.4: Shame Inventory
+### Exercise 14D: Shame Inventory
 
 Shame is the narcissist's most powerful tool. It gets deposited, not generated. You've
 been carrying some that was never yours.
@@ -302,7 +302,7 @@ _____________________________________________________________________________
 
 ---
 
-# Section 15: Your Scripts & Responses
+## Section 15: Your Scripts & Responses
 
 *Aligned with Chapter 16 — Practical Responses*
 
@@ -321,7 +321,7 @@ Remember the four core principles:
 
 ---
 
-## Exercise 15.1: Spiritual Aikido Practice
+### Exercise 15A: Spiritual Aikido Practice
 
 Spiritual aikido means not meeting force with force. Instead of blocking, you redirect.
 Instead of arguing, you transcend the frame.
@@ -416,7 +416,7 @@ just like your mind does.
 
 ---
 
-## Exercise 15.2: The Dreaded Conversation Planner
+### Exercise 15B: The Dreaded Conversation Planner
 
 You know it's coming. Maybe it's a holiday dinner, a co-parenting exchange, a phone
 call you can't avoid, a family event where they'll be there. Instead of dreading it
@@ -506,7 +506,7 @@ _____________________________________________________________________________
 
 ---
 
-## Exercise 15.3: Exit Line Library
+### Exercise 15C: Exit Line Library
 
 Endings are power. Having them ready means you never get trapped in a conversation
 that's draining you simply because you couldn't find the words to leave.
@@ -547,7 +547,7 @@ muscle in low-stakes moments so it's there when you need it.
 
 ---
 
-## Exercise 15.4: "What I Wish I Could Say"
+### Exercise 15D: "What I Wish I Could Say"
 
 This one is just for you. Not for sending. Not for rehearsing. Not for delivering with
 perfect timing someday.
@@ -612,7 +612,99 @@ enough.
 
 ---
 
-# Section 16: Moving Forward
+### Exercise 15E: When You Want to Go Back
+
+This is the exercise you will need on the worst night.
+
+The one where loneliness feels worse than the abuse did. Where your brain rewrites the
+story into something softer — where you remember only the good days, the early days,
+the version of them that made you feel chosen. Where your phone is in your hand and
+their name is right there and it would be so easy to just say hi.
+
+This exercise is for that night.
+
+---
+
+**Step 1: Stop. Don't contact them yet.**
+
+You are not making a decision right now. You are pausing. That is all. Set a timer for
+72 hours. If you still want to contact them after 72 hours, you can. But not tonight.
+
+**Step 2: Reread your own words.**
+
+Go back to the exercises you completed in this workbook. Specifically:
+
+- **Exercise 10B** — What I Called It Then vs. What I Call It Now
+- **Exercise 14D** — Your Shame Inventory (the "D" items — the shame they deposited)
+- **Exercise 14C** — Your Three Truths About You
+
+Read what you wrote in your own handwriting. Let your past self talk to your present
+self. They were clearheaded when they wrote those words. Trust them.
+
+**Step 3: Name what you are actually feeling.**
+
+"I want to go back" is rarely the real feeling. Underneath it, there is usually
+something more specific. Check what is true right now:
+
+- [ ] I am lonely, and I am confusing loneliness with love
+- [ ] I miss being chosen — even if the choosing was performance
+- [ ] I am afraid that no one else will want me
+- [ ] I feel guilty — like I am the one who broke something
+- [ ] I am replaying only the good parts and editing out the rest
+- [ ] I am exhausted from being strong, and going back feels like rest
+- [ ] My nervous system is activated and the familiar feels safer than the unknown
+- [ ] Other: _______________________________________________
+
+**Step 4: Answer one question honestly.**
+
+*"What will be different this time?"*
+
+Not "they said they'd change." Not "maybe it was partly my fault." Not "they seemed
+sincere."
+
+What, specifically, structurally, will be different?
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
+If you cannot write a specific, concrete answer — something they have already done, not
+something they have promised — then you already know.
+
+**Step 5: Call your safe person.**
+
+Not to ask permission. Not to be talked out of it. Just to say out loud: "I am having
+the pull tonight. I need to hear a voice that tells me the truth."
+
+My safe person: _______________________________________________
+
+Their number: _______________________________________________
+
+**Step 6: Read your Sovereignty Statement out loud.**
+
+If you wrote one in Exercise 16D, read it now. Hand on heart. Out loud. Even if your
+voice shakes.
+
+If you haven't written one yet, say these words instead:
+
+*"I know what happened. I believe myself. I am not going back to something I had to
+survive leaving. I deserve a love that does not require me to abandon myself."*
+
+---
+
+**If, after 72 hours, you still want to contact them:** That is your choice. This
+workbook does not control you — that would make it no different from what you left. But
+come back to this page and read what you wrote above first. Let the clearheaded version
+of you have a vote.
+
+*See also: Appendix F, Card 12 — "When You Want to Go Back" (keep this card on your
+phone for the nights you can't get to this workbook).*
+
+---
+
+## Section 16: Moving Forward
 
 *Aligned with Chapter 17 — Moving Forward*
 
@@ -631,7 +723,7 @@ time with both.
 
 ---
 
-## Exercise 16.1: The Grief Inventory
+### Exercise 16A: The Grief Inventory
 
 One of the strangest parts of leaving a narcissistic dynamic is mourning something you
 never actually had. You grieve the person they pretended to be. The relationship you
@@ -695,7 +787,7 @@ Let it move through you. It's completing a cycle your body needs to complete.
 
 ---
 
-## Exercise 16.2: Contradictory Emotions Map
+### Exercise 16B: Contradictory Emotions Map
 
 Chapter 17 names the reality: after leaving, you will feel many things simultaneously.
 Relief and grief. Anger and gratitude. Freedom and loneliness. These contradictions
@@ -797,7 +889,7 @@ All of it belongs to you. And all of it can coexist.
 
 ---
 
-## Exercise 16.3: "I Believe Myself" — Somatic Exercise
+### Exercise 16C: "I Believe Myself" — Somatic Exercise
 
 This is a body exercise, not a thinking exercise. Don't skip the physical parts.
 
@@ -885,7 +977,7 @@ will know the words before your mouth says them.
 
 ---
 
-## Exercise 16.4: The Sovereignty Statement
+### Exercise 16D: The Sovereignty Statement
 
 In Chapter 17, the book offers a Sovereignty Statement — a declaration of who you are
 now that the old dynamic no longer defines you. You were invited to read it aloud with
@@ -960,7 +1052,7 @@ You're writing a living declaration.
 
 ---
 
-## Exercise 16.5: Letter to Yourself One Year from Now
+### Exercise 16E: Letter to Yourself One Year from Now
 
 This is the final exercise in this workbook. Take your time with it.
 
@@ -1038,7 +1130,7 @@ _____________________________________________________________________________
 - What you hope has changed by the time you read this
 - What you're afraid of, and what you want to say to that fear
 - Forgiveness — for yourself, not for anyone else, if and only if you feel it
-- A reminder of the truths you wrote in Exercise 14.3
+- A reminder of the truths you wrote in Exercise 14C
 - A reminder that relapse isn't failure — it's information
 - What you know you deserve, even if you don't fully believe it yet
 - A word about forgiveness: you don't owe it to anyone, and you don't have to decide

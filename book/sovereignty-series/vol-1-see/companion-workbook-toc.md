@@ -1,10 +1,12 @@
 # SEE: The Companion Workbook
 
+### By Jennifer Brooke Lawless, M.S.
+
 ### A Free Resource for Readers of *The Truth That Was Hidden in Plain Sight*
 
 > This workbook is designed to be used alongside Volume 1. It expands on the
 > light prompts in the book with guided exercises, pattern-mapping tools, and
-> space to do the deeper work at your own pace. Download it free at [website URL].
+> space to do the deeper work at your own pace. Download it free at LightField.Institute.
 
 ---
 
@@ -91,6 +93,8 @@
 - "What I called it then vs. what I call it now" — Renaming key moments
 - Red flag retrospective: What you see now that you couldn't see then
 
+> **A Note on Co-Parenting** — Sidebar for readers sharing children with a narcissist
+
 #### 11. The Hidden Costs
 - Beyond romance: Inventory manipulation in friendships, work, spiritual spaces, family
 - "The relationship nobody suspects" — Guided reflection on the one that looks fine but costs the most
@@ -125,6 +129,7 @@
 - The dreaded conversation planner: Prepare for a specific upcoming interaction
 - Exit line library: Write 5 sentences that end conversations on your terms
 - "What I wish I could say" — The uncensored version (just for you, never to send)
+- **When you want to go back** — The exercise for the worst night (72-hour protocol, naming the pull, calling your safe person)
 
 #### 16. Moving Forward
 - The grief inventory: What you're mourning that you never actually had
@@ -153,8 +158,8 @@
 #### E. Recommended Reading & Resources
 - Curated list aligned with each chapter's themes
 
-#### F. The 3-3-3 Rule & 72-Hour Test — Printable Cards
-- Cut-out reference cards for daily use
+#### F. Printable Cards (12 cards)
+- The 3-3-3 Rule, 72-Hour Test, Master Question, Emergency Protocol, Whose Needs Are Being Centered?, Body Decoder, Quick Grounding, The Wolf Test, Universal Response Bank, Sovereignty Statement, **What Healthy Looks Like** (NEW), **When You Want to Go Back** (NEW)
 
 ---
 
@@ -164,3 +169,5 @@
 > The book opens the door. This workbook helps you walk through it.
 > Take your time. There is no grade. There is no deadline.
 > The only rule is: trust what your body already knows.
+>
+> — Jennifer Brooke Lawless, M.S.
