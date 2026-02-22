@@ -150,6 +150,8 @@ Appendix E: Index — Quick Reference to Key Concepts and Terms ................
 
 Appendix F: Substance-Related Patterns — Recognizing Narcissistic Dynamics in Addiction and Recovery .................... [pg. XX]
 
+Appendix G: The Pattern on Screen — Narcissism in Film, Television, and Literature .................... [pg. XX]
+
 ---
 
 ## Before We Begin
