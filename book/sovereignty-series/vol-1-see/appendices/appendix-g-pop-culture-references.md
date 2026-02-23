@@ -183,18 +183,6 @@ That saccharine tone — the head tilt, the soft voice, the smile that never rea
 
 ---
 
-**Lady Macbeth** — *Macbeth* (Shakespeare; 1971 Polanski film, 2015 Fassbender film, and others)
-
-Before the guilt unravels her, Lady Macbeth is a communal narcissist operating within a marriage. Everything she does is "for us," "for our future," "for what we deserve." She frames murder as ambition, treason as destiny, and her manipulation of Macbeth as support.
-
-> *"Look like th' innocent flower, but be the serpent under 't."*
-
-That instruction — appear giving while being predatory — is the communal narcissist's operating manual. Lady Macbeth doesn't wield the dagger herself. She wields her husband. And when the cost comes due, she collapses — not from remorse for the dead, but from the unbearable weight of the false ideal crumbling.
-
-**What to watch for:** The sleepwalking scene. *"Out, damned spot!"* The body remembers what the mind tries to deny. Even Lady Macbeth's nervous system couldn't maintain the performance forever.
-
----
-
 ### The Malignant Narcissist
 
 *"NPD combined with antisocial features, paranoia, and sometimes sadism."*
@@ -335,18 +323,6 @@ The last line of the film. The last line of a life spent performing. The histrio
 
 ---
 
-**Blanche DuBois** — *A Streetcar Named Desire* (1951)
-
-Tennessee Williams created both the histrionic narcissist and the grandiose narcissist in a single play and set them against each other. Blanche arrives performing — her fragility, her faded beauty, her invented past. Everything is theatrical. Every emotion is calibrated for maximum impact.
-
-> *"I don't want realism. I want magic! Yes, yes, magic! I try to give that to people. I misrepresent things to them. I don't tell truth, I tell what ought to be truth."*
-
-This is the histrionic narcissist's philosophy stated plainly: reality is unacceptable, so I will replace it with performance. Blanche isn't lying — she's curating. She controls the lighting (literally — she covers bulbs with paper lanterns so no one sees her clearly) because being seen as she actually is would collapse the false ideal.
-
-**What to watch for:** The paper lanterns. The histrionic narcissist always controls the lighting — metaphorically and sometimes literally. They manage how they're seen because being seen accurately feels like annihilation.
-
----
-
 ### The Addiction-Narcissism Intersection
 
 *"Sobriety doesn't cure narcissism."*
@@ -396,18 +372,6 @@ The hero/savior doesn't see you. They see the version of you that needs them. Ga
 
 ---
 
-### Role 4: The Judge/Critic
-
-**Anton Ego** — *Ratatouille* (2007)
-
-The literal critic. A man whose entire identity is built on evaluation, whose power comes from the ability to destroy with a single review.
-
-> *"If I don't love it, I don't swallow."*
-
-His transformation at the end — tasting Remy's ratatouille and being transported to his mother's kitchen — is what happens when the critic's armor cracks. But before that moment, Ego is the Judge role incarnate: your worth exists only in relation to his assessment. That's the wound this role creates — you stop cooking because you can't stop hearing their review.
-
----
-
 ### Role 7: The Seducer/Charmer
 
 **Tom Ripley** — *The Talented Mr. Ripley* (1999)
@@ -429,18 +393,6 @@ Literature's most romanticized ghost. Heathcliff's love for Catherine isn't devo
 > *"I cannot live without my life! I cannot live without my soul!"*
 
 Romantic? Or the ghost role at its most extreme — a person who makes their withdrawal so devastating that you can never fully be free of them, even when they're gone. Heathcliff doesn't haunt Wuthering Heights. He haunts *Catherine*. And through her, everyone she touches.
-
----
-
-### Role 11: The Saboteur (Self-Blaming for Manipulation)
-
-**Hamlet** — *Hamlet* (Shakespeare; 1948, 1996, 2000 films)
-
-*"O, what a rogue and peasant slave am I!"*
-
-Hamlet's self-flagellation serves the same function as the saboteur role: it absorbs all available compassion. When Hamlet calls himself a coward, you comfort him. When he declares himself unworthy, you reassure him. And while everyone is busy managing his self-destruction, the legitimate grievances of Ophelia, Gertrude, and Laertes go unaddressed. His crisis eclipses their pain.
-
-**What to watch for:** Ophelia. She has every reason to rage, grieve, and demand accountability. Instead, she goes mad — because the saboteur's self-destruction leaves no room for anyone else's suffering.
 
 ---
 
@@ -521,18 +473,6 @@ Cersei's grandiosity is dynastic — she doesn't just believe she's special, she
 Binary thinking as life philosophy. The grandiose narcissist divides the world into winners and losers, and any challenge to their position triggers existential panic. Cersei blows up a cathedral full of people not because she's evil — but because they threatened her image. Narcissistic injury, answered with wildfire.
 
 **What to watch for:** How Cersei treats Sansa. She's grooming her — teaching her that power is the only currency, that love is weakness, that the world is divided into Lannisters and prey. That's the grandiose narcissist as mentor: *Let me teach you to be like me. Let me teach you that softness is death.*
-
----
-
-**Emily Cooper** — *Emily in Paris* (2020-present)
-
-This one might surprise you. Emily isn't a villain. She's charming, enthusiastic, well-intentioned. And she walks through Paris with the unshakable certainty that her way — her American, social-media-first, relentlessly optimistic way — is not just valid, but superior.
-
-She disrupts a French marketing firm and frames it as innovation. She ignores cultural boundaries and calls it confidence. She sleeps with her friend's boyfriend and reframes it as complicated. Every room she enters reorganizes around her energy — not because she demands it, but because she genuinely cannot conceive of a world where she isn't the main character.
-
-Emily isn't malicious. That's what makes her useful as a reference. **Most narcissistic patterns don't look like villainy. They look like charm with no awareness of impact.** Emily doesn't intend harm. She simply doesn't register that other people's realities are as real as hers.
-
-**What to watch for:** Sylvie's face. The French colleagues' reactions. The exhaustion of the people around Emily who keep adjusting to accommodate someone who never adjusts for them. That's what living with a grandiose narcissist feels like — not dramatic, just relentless.
 
 ---
 
@@ -789,30 +729,6 @@ Television's most enduring ghost. Big's weapon isn't cruelty — it's unavailabi
 Said eventually. Said after years of withholding it. The ghost doesn't refuse you forever — that would be clean. They give you *just enough* to keep you reaching. Big's "I love you" arrives so late that when it comes, the relief feels like proof that the waiting was worth it. It wasn't.
 
 **What to watch for:** How Carrie's friends can see the pattern but she can't. That's what it looks like from inside the ghost's orbit — everyone around you sees clearly, and you're too bonded to the cycle of withdrawal and return to hear them.
-
----
-
-**The Judge/Critic — Sylvie Grateau** — *Emily in Paris* (2020-present)
-
-Sylvie's standards aren't wrong. Her taste isn't wrong. Her critique of Emily's work is often accurate. That's what makes the Judge role so effective — *they're frequently right about the specifics, which makes you miss the pattern.*
-
-The pattern is: nothing Emily does will ever be good enough. The goalposts aren't just moving — they were never real. Sylvie's approval is a currency she mints and controls, and she distributes it with the precision of a central bank: just enough to keep you working, never enough to let you rest.
-
----
-
-**The Truth-Teller — Beth Dutton** — *Yellowstone* (2018-present)
-
-Beth weaponizes honesty like a flamethrower. She says the thing no one else will say — and she says it to draw blood.
-
-> *"I don't speak d\*\*khead."*
-
-Beth's "honesty" is selective — it always targets vulnerability, never self-reflection. She frames cruelty as toughness, attacks as authenticity. The people around her brace before she speaks, and the audience cheers because the performance is thrilling. But living with a Beth isn't thrilling. It's surviving a daily evaluation you never signed up for.
-
----
-
-**The Protector — Jack Chambers** — *Don't Worry Darling* (2022)
-
-The protective husband in a literal simulation. Jack controls every detail of Alice's reality — her home, her schedule, her perception — and frames all of it as care. He built her a perfect world. He gave her everything. The fact that none of it is real, and she didn't consent to any of it, is irrelevant to him. Protection that requires your captivity isn't protection. It's the role made architectural.
 
 ---
 
