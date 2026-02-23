@@ -73,6 +73,30 @@ The grandiose narcissist in four words. Eleanor Payson titled her essential book
 
 ---
 
+**The Evil Queen** — *Snow White and the Seven Dwarfs* (1937)
+
+The oldest narcissist in cinema — and the most literal. She stands before a mirror and demands confirmation: *Am I the most beautiful?* When the mirror says yes, she is content. When it says no, she attempts murder.
+
+> *"Magic Mirror on the wall, who is the fairest one of all?"*
+
+This is narcissistic supply stripped to its essence: a person who requires constant external validation, and who experiences the existence of someone else's beauty as a personal attack. Snow White hasn't done anything. She simply exists. That's enough. The grandiose narcissist doesn't need you to fight them. They need you to not outshine them. Your presence is the offense.
+
+**What to watch for:** The mirror. Every narcissist has one — a person, an audience, a metric they consult to confirm their superiority. When the mirror stops cooperating, the narcissist doesn't look inward. They destroy what the mirror reflected.
+
+---
+
+**Jordan Belfort** — *The Wolf of Wall Street* (2013)
+
+Scorsese filmed grandiose narcissism as seduction — and the audience cheered. Belfort doesn't just break the law. He performs the breaking of it. His wealth isn't private; it's spectacle. His consumption isn't pleasure; it's proof.
+
+> *"The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can't achieve it."*
+
+The grandiose narcissist's motivational speech: your reality is the obstacle; my delusion is the solution. What makes Belfort dangerous isn't his greed — it's his ability to make everyone around him complicit in it. He doesn't just steal. He inspires others to steal *for* him. The grandiose narcissist doesn't operate alone. They build a congregation.
+
+**What to watch for:** The Quaaludes scene. The loss of control that Belfort treats as comedy. The people around him cleaning up the wreckage while he remains the star. That's the narcissistic family system — one person's chaos becomes everyone else's labor.
+
+---
+
 ### The Covert (Vulnerable) Narcissist
 
 *"I am special but the world doesn't recognize it. I am a victim of others' inability to see my worth."*
@@ -125,6 +149,18 @@ Shakespeare wrote the covert narcissist four centuries before the term existed. 
 He warns Othello about the very poison he's administering. That's the covert narcissist's signature move: naming the danger while being the danger. Iago doesn't need to be the king. He needs the king to need him. His supply is influence — invisible, deniable, devastating.
 
 **What to watch for:** Iago's reason for the destruction. He gives several — passed over for promotion, suspicion of adultery — but none quite explain the depth of his malice. That's because the motive is the pattern itself: the covert narcissist doesn't need a reason. The control *is* the reason.
+
+---
+
+**Amy Dunne** — *Gone Girl* (2014)
+
+Gillian Flynn created the covert narcissist as architect. Amy doesn't just manipulate — she engineers an entire false reality, complete with planted evidence, a faked diary, and a victim narrative so airtight that the whole country mourns her. She is the wronged wife. She is the stolen innocent. She is the covert narcissist who made victimhood into a masterpiece.
+
+> *"I'm so much happier now that I'm dead."*
+
+Amy's genius is that she understands how society's sympathy works and she reverse-engineers it. She knows which story the world wants to believe — the beautiful wife destroyed by the careless husband — and she builds it, detail by detail. When Nick can't prove he didn't do it, that's not a legal problem. That's the covert narcissist's endgame: a reality so thoroughly constructed that the truth sounds less plausible than the lie.
+
+**What to watch for:** The diary. Amy writes a fictional version of herself — *Cool Girl Amy* — that she performs for years before deploying the victim version. The covert narcissist always has multiple drafts of themselves, and the one you're seeing is always the one that serves them best right now.
 
 ---
 
@@ -219,6 +255,30 @@ Palpatine is the malignant narcissist as architect. He doesn't just seize power 
 Three words that contain the entire grandiose-malignant structure. But his most dangerous work is intimate, not political. Watch how he grooms Anakin: identifying the wound (fear of loss), offering himself as the only one who understands, isolating Anakin from every other source of support, and reframing murder as love. *"The dark side of the Force is a pathway to many abilities some consider to be... unnatural."*
 
 **What to watch for:** Palpatine never forces Anakin to turn. He *invites*. He creates conditions where turning feels like the only rational choice. That's the malignant narcissist — they don't break you with force. They arrange the world so that you break yourself.
+
+---
+
+**Martin Burney** — *Sleeping with the Enemy* (1991)
+
+Every list of narcissistic abuse films starts here. Martin doesn't just control Laura — he curates her. The towels must be aligned. The cans must face forward. The house must be spotless. His violence isn't chaotic — it's architectural. He has built a world where every surface reflects his order, and she is one of those surfaces.
+
+> *"I can't live without you. And I won't let you live without me."*
+
+That line is the malignant narcissist's marriage vow. *Sleeping with the Enemy* appears on virtually every therapist-recommended film list because it shows what most outsiders never see: the meticulous control that precedes the explosion. Martin isn't angry because Laura left a towel crooked. He's enraged because the towel represents her independent will — the one thing his system cannot tolerate.
+
+**What to watch for:** The moment Laura fakes her own death to escape. She doesn't leave — she *dies* to get free. That's how high the cost of exit feels when you're inside the system. For many survivors, that scene isn't dramatic. It's familiar. The lengths you considered. The performances you rehearsed. The identities you were willing to shed just to breathe.
+
+---
+
+**Baby Jane Hudson** — *What Ever Happened to Baby Jane?* (1962)
+
+Bette Davis plays the narcissistic sibling as horror. Jane was a child star — the golden child, the center of attention, the family's supply source. When the spotlight moved to her sister Blanche, Jane never recovered. Decades later, she is still performing for an audience that left the theater long ago.
+
+> *"You mean all this time we could have been friends?"*
+
+Jane's cruelty toward her paralyzed sister isn't just jealousy. It's narcissistic injury calcified into a life sentence. She was the special one. She was supposed to stay the special one. When reality disagreed, she didn't adjust — she imprisoned the person who represented her displacement. The film is the sibling narcissism chapter (Chapter 10) made visible: what happens when the golden child's throne gets taken away, and they spend the rest of their life punishing the person who received it.
+
+**What to watch for:** The rat on the dinner tray. The casual escalation of cruelty from neglect to sadism. That gradient — from small withholdings to genuine danger — is the malignant narcissist's timeline. It never starts with the worst. It builds.
 
 ---
 
@@ -718,6 +778,102 @@ An animated show about a talking horse that is somehow the most accurate portray
 That monologue is the Saboteur role (Role 11) and the addiction-narcissism intersection in a single breath. BoJack knows the vocabulary. He can name his patterns. He can diagnose himself with clinical precision. But naming the pattern isn't the same as changing it. Self-awareness without behavioral change is just a more sophisticated manipulation — *I already know I'm terrible, so you can't hold me accountable for it.*
 
 **What to watch for:** Diane. She's the friend who stays because BoJack's self-awareness makes her believe change is possible. She writes his memoir. She holds space for his growth. And he doesn't grow — not for seasons. That's the trap: when someone can articulate exactly what they're doing wrong, you believe they're one realization away from stopping. They're not.
+
+---
+
+### The Narcissistic Parent on Screen
+
+*These films appear on virtually every therapist-recommended list — not because they're the most dramatic, but because survivors say: "That's my parent."*
+
+---
+
+**Joan Crawford** — *Mommie Dearest* (1981)
+
+The narcissistic mother film. Faye Dunaway plays Joan Crawford as a woman for whom motherhood is performance, children are props, and love is control administered on a schedule she dictates.
+
+> *"No. Wire. Hangers. EVER!"*
+
+That scene — the midnight rage over the wrong type of hanger — lives in cultural memory because it captures the narcissistic parent's signature terror: the eruption that comes from nowhere, the punishment that doesn't match the "crime," the child standing frozen, scanning for what they did wrong. The answer is nothing. There was no right answer. There never is.
+
+**What to watch for:** Christina's face. Not the screaming — the silence *before* the screaming. The hypervigilance. The constant reading of her mother's mood. That's what Chapter 8 (Parental Wounds) maps in clinical language. This film shows it in a child's eyes.
+
+---
+
+**The Other Mother** — *Coraline* (2009)
+
+The narcissistic parent as fairy tale — and one of the most accurate depictions of love-bombing ever animated. The Other Mother offers Coraline everything her real mother doesn't: attention, elaborate meals, wonder, a world designed entirely around Coraline's desires. It's perfect. It's irresistible. It has button eyes.
+
+> *"I'll give you everything you want — all I ask is one small thing."*
+
+That "one small thing" is Coraline's eyes — her ability to see clearly. That's the price of the narcissistic parent's love: your perception. They'll give you everything — attention, gifts, a world built for you — but only if you stop seeing them as they actually are. The buttons aren't a detail. They're the contract.
+
+**What to watch for:** The moment the Other Mother's world starts decaying — when Coraline sees behind the performance. The narcissistic parent's constructed paradise only holds as long as the child doesn't question it. The moment you say *something's wrong here*, the button eyes come out.
+
+---
+
+**LaVona Golden and Jeff Gillooly** — *I, Tonya* (2017)
+
+Two narcissists from two different angles. LaVona (Allison Janney) is the narcissistic mother — cruel, volatile, weaponizing her sacrifice (*"I made you a champion, and this is the thanks I get"*). Jeff (Sebastian Stan) is the narcissistic partner — initially charming, then controlling, then violent. Tonya orbits between them, never landing on solid ground.
+
+> *"I was loved for the first time. And it was by someone just like my mother."*
+
+That line is Chapter 9 in one sentence: the way childhood patterns shape adult relationships. Tonya escapes one narcissist and falls into the arms of another — not because she's foolish, but because the dynamic *feels like home*. The familiar is mistaken for the safe.
+
+**What to watch for:** The fourth-wall breaks. Tonya, LaVona, and Jeff each tell their version of events — and none of them match. That's the narcissistic family system: competing realities, each self-serving, with the truth buried somewhere no one will look.
+
+---
+
+**Matilda Wormwood's parents** — *Matilda* (1996)
+
+For younger readers and parents reading this book — Roald Dahl wrote the narcissistic family system as children's story. The Wormwoods don't just neglect Matilda. They actively resent her intelligence, her curiosity, her *existence as a separate person with her own perceptions*.
+
+> *"I'm smart, you're dumb. I'm big, you're little. I'm right, you're wrong. And there's nothing you can do about it."*
+
+Mr. Wormwood's speech is the narcissistic parent's worldview, stated without disguise. The child's reality doesn't matter. The child's feelings don't register. The child exists to serve the parent's ego — and a child who is smarter, kinder, or more perceptive than the parent is experienced as a threat, not a gift.
+
+**What to watch for:** Miss Honey. The teacher who sees Matilda clearly. The adult from outside the system who says: *you're not the problem. They are.* For many children of narcissists, one Miss Honey — one witness — is the difference between internalizing the wound and surviving it.
+
+---
+
+### The Pattern of Escape — Contemporary
+
+*These works focus on what it looks like to leave — the part most films skip.*
+
+---
+
+**Alex Russell** — *Maid* (2021, Netflix)
+
+The most realistic depiction of leaving narcissistic abuse in recent television. There is no dramatic escape scene. No single moment of clarity. Just a woman trying to get out — and the systems, the finances, the custody threats, the housing barriers, and the sheer exhaustion that make leaving feel impossible even when you know you should.
+
+> *"He never hit me."*
+
+Alex says this repeatedly — to social workers, to lawyers, to herself. Because the abuse was emotional, financial, psychological. And the system is built to recognize bruises, not patterns. *Maid* is essential because it shows what Chapter 16 (Practical Responses) addresses: the gap between knowing you should leave and having the resources to do it.
+
+**What to watch for:** The cleaning. Alex scrubs other people's homes to survive, making other people's messes disappear while her own life remains in chaos. The metaphor isn't subtle — it doesn't need to be. That's what the narcissistic relationship teaches you: your labor exists to maintain someone else's world. Your mess is invisible.
+
+---
+
+**Cecilia Kass** — *The Invisible Man* (2020)
+
+Leigh Whannell reimagined the classic monster as a narcissistic ex — and created the most accurate modern gaslighting film since *Gaslight* itself. Adrian doesn't just stalk Cecilia. He makes her look insane. He's invisible, so every act of violence is attributed to her instability. When she says *someone is here*, no one believes her.
+
+> *"He said that wherever I went, he would find me, walk right up to me, and I wouldn't be able to see him."*
+
+That's coercive control as horror premise. The narcissistic ex who remains present in your life even after you leave — through surveillance, through financial control, through the gaslighting so thorough that even the people who love you start to doubt you. Adrian doesn't need to be seen. He just needs Cecilia to be *not believed*.
+
+**What to watch for:** The dinner scene — where Adrian, invisible, moves Cecilia's knife and slashes her sister's throat, framing Cecilia. That's the narcissist's endgame: arrange the evidence so that the victim looks like the perpetrator. Make the world see *her* as the dangerous one.
+
+---
+
+**Prince Hans** — *Frozen* (2013)
+
+Disney's most deliberate depiction of love-bombing. Hans is charming, attentive, perfectly attuned to Anna's loneliness. He finishes her sentences. He shares her love of sandwiches. He proposes within hours. It feels like destiny.
+
+> *"Oh, Anna. If only there was someone out there who loved you."*
+
+That reveal — when the mask drops and the calculated cruelty behind the charm becomes visible — is the moment every survivor of love-bombing recognizes. The person you fell for never existed. Hans didn't mirror Anna because he loved her. He mirrored her because he was *studying* her. Every shared interest was research. Every tender moment was acquisition.
+
+**What to watch for:** How fast Anna falls. Not because she's naive — because she's lonely. The love-bomber doesn't create the vulnerability. They find it. Hans targets Anna *because* she's been isolated, because she's starved for connection, because she'll bond fast. That's the seducer's market research.
 
 ---
 
