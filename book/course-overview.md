@@ -188,16 +188,43 @@ COURSE 8: BECOME    → Quantum consciousness, full expression
 
 ## Course Index
 
-| Course | Folder | Curriculum |
-|--------|--------|------------|
-| 1. See | `vol-1-see/course/` | [View Curriculum](./vol-1-see/course/00-curriculum.md) |
-| 2. Heal | `vol-2-heal/course/` | [View Curriculum](./vol-2-heal/course/00-curriculum.md) |
-| 3. Stand | `vol-3-stand/course/` | [View Curriculum](./vol-3-stand/course/00-curriculum.md) |
-| 4. Live | `vol-4-live/course/` | [View Curriculum](./vol-4-live/course/00-curriculum.md) |
-| 5. Give | `vol-5-give/course/` | [View Curriculum](./vol-5-give/course/00-curriculum.md) |
-| 6. Serve | `vol-6-serve/course/` | [View Curriculum](./vol-6-serve/course/00-curriculum.md) |
-| 7. Thrive | `vol-7-thrive/course/` | [View Curriculum](./vol-7-thrive/course/00-curriculum.md) |
-| 8. Become | `vol-8-become/course/` | [View Curriculum](./vol-8-become/course/00-curriculum.md) |
+| Course | Folder | Curriculum | Lessons | Status |
+|--------|--------|------------|---------|--------|
+| 1. See | `vol-1-see/course/` | [View Curriculum](./sovereignty-series/vol-1-see/course/00-curriculum.md) | 33 scripts written | Complete |
+| 2. Heal | `vol-2-heal/course/` | [View Curriculum](./sovereignty-series/vol-2-heal/course/00-curriculum.md) | In progress | Curriculum complete |
+| 3. Stand | `vol-3-stand/course/` | [View Curriculum](./sovereignty-series/vol-3-stand/course/00-curriculum.md) | — | Curriculum complete |
+| 4. Live | `vol-4-live/course/` | [View Curriculum](./sovereignty-series/vol-4-live/course/00-curriculum.md) | — | Curriculum complete |
+| 5. Give | `vol-5-give/course/` | [View Curriculum](./sovereignty-series/vol-5-give/course/00-curriculum.md) | — | Curriculum complete |
+| 6. Serve | `vol-6-serve/course/` | [View Curriculum](./sovereignty-series/vol-6-serve/course/00-curriculum.md) | — | Curriculum complete |
+| 7. Thrive | `vol-7-thrive/course/` | [View Curriculum](./sovereignty-series/vol-7-thrive/course/00-curriculum.md) | — | Curriculum complete |
+| 8. Become | `vol-8-become/course/` | [View Curriculum](./sovereignty-series/vol-8-become/course/00-curriculum.md) | — | Curriculum complete |
+
+---
+
+## Companion Materials
+
+| Resource | Volume | Status | Location |
+|----------|--------|--------|----------|
+| Companion Workbook | Vol 1: See | Complete (15 files, 5 parts + 6 appendices + designer brief) | `vol-1-see/companion-workbook/` |
+| Quick Reference Guide | Vols 1-6 | Complete | `reference-guides/` |
+| Quick Reference Guide | Vols 7-8 | Not yet created | — |
+
+---
+
+## Production Status (as of February 2026)
+
+### Manuscripts
+- **Vol 1 (See):** Complete manuscript in MD, DOCX, EPUB, and Spanish translation
+- **Vols 2-8:** Complete manuscripts in MD format; DOCX/EPUB builds pending
+
+### Courses
+- **Vol 1 (See):** 33 lesson scripts fully written across 6 modules
+- **Vol 2 (Heal):** Curriculum complete, lesson writing in progress
+- **Vols 3-8:** Curricula complete, lesson scripts pending
+
+### Workbooks
+- **Vol 1 (See):** Complete companion workbook with designer brief ready for layout
+- **Vols 2-8:** Not yet started
 
 ---
 
