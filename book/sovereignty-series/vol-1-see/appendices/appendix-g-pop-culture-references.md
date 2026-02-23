@@ -183,14 +183,6 @@ That saccharine tone — the head tilt, the soft voice, the smile that never rea
 
 ---
 
-**The Wizard of Oz** — *The Wizard of Oz* (1939) *(revisited)*
-
-The Wizard also embodies communal narcissism. He positions himself as the great benefactor — the one who grants wishes, solves problems, gives the tin man a heart. But he never had any of it. His generosity is theater. His gifts are props. And the price of his "help" is complete obedience and a dangerous quest he designed for his own benefit.
-
-**What to watch for:** The moment he gives the Scarecrow a diploma, the Tin Man a ticking heart, the Lion a medal. None of these things change anything — they're symbols with no substance. But the recipients feel grateful. That's the communal narcissist's ledger: give nothing of real value, then collect gratitude as though you gave everything.
-
----
-
 **Lady Macbeth** — *Macbeth* (Shakespeare; 1971 Polanski film, 2015 Fassbender film, and others)
 
 Before the guilt unravels her, Lady Macbeth is a communal narcissist operating within a marriage. Everything she does is "for us," "for our future," "for what we deserve." She frames murder as ambition, treason as destiny, and her manipulation of Macbeth as support.
@@ -289,12 +281,6 @@ Jane's cruelty toward her paralyzed sister isn't just jealousy. It's narcissisti
 
 ---
 
-**Hannibal Lecter** *(revisited)*
-
-Lecter is both malignant and cerebral — his intelligence *is* his superiority. He doesn't just know more than you. He needs you to know that he knows more. Every interaction is a demonstration of his intellectual dominance. He gives Clarice riddles, not answers. He makes her earn his knowledge. The dynamic isn't conversation — it's examination.
-
----
-
 **The Phantom** — *The Phantom of the Opera* (1925 film, 1986 musical, 2004 film)
 
 The Phantom's genius is the source of his grandiosity and the weapon of his control. He positions himself as Christine's "Angel of Music" — the only one who can unlock her talent, the only teacher worthy of her voice. His brilliance justifies his possession.
@@ -323,18 +309,6 @@ Bret Easton Ellis wrote the somatic narcissist as horror. Bateman's morning rout
 The body as false ideal. Bateman doesn't have relationships — he has mirrors. Other people exist to confirm his appearance, his status, his superiority. When they fail to reflect him correctly, they cease to be human to him. The business card scene — where a slightly better font on a colleague's card triggers existential crisis — is the narcissistic injury in miniature: someone else's card is better than mine, therefore *I am nothing*.
 
 **What to watch for:** How Bateman describes his skincare routine with more intimacy than any human interaction. The body isn't his home — it's his product. That's the wound the somatic narcissist creates in their partners: *your body is not your home. It's your performance.*
-
----
-
-**Gaston** — *Beauty and the Beast* (1991)
-
-Disney's most honest narcissist. Gaston doesn't hide it. He sings about it.
-
-> *"No one's slick as Gaston, no one's quick as Gaston, no one's neck's as incredibly thick as Gaston!"*
-
-He's the somatic narcissist in a world that rewards him for it. The town adores him. His physicality is currency. He is the cultural ideal — strong, handsome, dominant — and he knows it. Belle's rejection doesn't hurt because he loves her. It hurts because she's the only mirror that won't reflect his image back.
-
-**What to watch for:** The moment Gaston decides to have Belle's father committed. The shift from charm to violence isn't a personality change — it's what was always underneath. The somatic narcissist's body is their armor. When the armor fails to secure supply, what's beneath it isn't vulnerability. It's rage.
 
 ---
 
@@ -410,15 +384,6 @@ Spoken by Don — a man who tells no one who he is. His charm is his currency, h
 
 ---
 
-### Role 1: The Victim
-
-**Mother Gothel** — *Tangled* (2010)
-*"After all I've done for you — you want to leave? You want to break your mother's heart?"*
-
-Every confrontation becomes her wound. Every boundary becomes her betrayal. Rapunzel can't be angry because Gothel is already hurting. The victim role turns your legitimate need for freedom into your cruelty toward them.
-
----
-
 ### Role 2: The Hero/Savior
 
 **Jay Gatsby** — *The Great Gatsby* (1925 novel; 1974, 2013 films)
@@ -431,16 +396,6 @@ The hero/savior doesn't see you. They see the version of you that needs them. Ga
 
 ---
 
-### Role 3: The Martyr
-
-**Mrs. Bennet** — *Pride and Prejudice* (1813 novel; 1995 BBC, 2005 film)
-
-*"You have no compassion for my poor nerves!"*
-
-Every headache is your fault. Every worry is a sacrifice she's making for you. Mrs. Bennet's suffering is currency — and the ledger is always running. Her daughters' marriages aren't their lives; they're her achievement, her validation, her repayment for all she's endured.
-
----
-
 ### Role 4: The Judge/Critic
 
 **Anton Ego** — *Ratatouille* (2007)
@@ -450,30 +405,6 @@ The literal critic. A man whose entire identity is built on evaluation, whose po
 > *"If I don't love it, I don't swallow."*
 
 His transformation at the end — tasting Remy's ratatouille and being transported to his mother's kitchen — is what happens when the critic's armor cracks. But before that moment, Ego is the Judge role incarnate: your worth exists only in relation to his assessment. That's the wound this role creates — you stop cooking because you can't stop hearing their review.
-
----
-
-### Role 5: The Child (Helpless Role)
-
-**Peter Pan** — *Peter Pan* (1953 Disney film; J.M. Barrie's 1904 play)
-
-The eternal child who refuses to grow up — and who punishes anyone who does. Peter's helplessness isn't inability; it's refusal. He wants the adventure without the responsibility, the family without the commitment, the love without the vulnerability.
-
-> *"I don't want to grow up!"*
-
-Wendy does the emotional labor — the mothering, the caretaking, the storytelling. Peter provides the excitement. When Wendy wants to go home — when she needs something for herself — Peter doesn't understand. He can't. The child role requires that someone else always be the adult.
-
----
-
-### Role 6: The Guru (Pseudo-Wise Role)
-
-**Emperor Palpatine** — *Star Wars* *(revisited)*
-
-*"Learn to know the dark side of the Force, and you will be able to save your wife from certain death."*
-
-The guru offers exclusive knowledge. Salvation through surrender. Palpatine doesn't demand Anakin's loyalty — he earns it by positioning himself as the only teacher who understands. Every Jedi is limited. Only the dark side has the answers. By the time Anakin sees the manipulation, he's already destroyed everything the guru told him to destroy.
-
-**The Phantom of the Opera** also inhabits this role — the genius teacher whose instruction comes at the price of total obedience, whose "gift" of knowledge creates absolute dependency.
 
 ---
 
@@ -498,26 +429,6 @@ Literature's most romanticized ghost. Heathcliff's love for Catherine isn't devo
 > *"I cannot live without my life! I cannot live without my soul!"*
 
 Romantic? Or the ghost role at its most extreme — a person who makes their withdrawal so devastating that you can never fully be free of them, even when they're gone. Heathcliff doesn't haunt Wuthering Heights. He haunts *Catherine*. And through her, everyone she touches.
-
----
-
-### Role 9: The Peacemaker (False Mediator)
-
-**The Wizard of Oz** *(revisited once more)*
-
-The Wizard mediates between Dorothy's group and reality — and his mediation is false equivalence. *You want a brain? Here's a diploma. You want courage? Here's a medal.* He resolves nothing. He soothes everyone. The real problems remain untouched, but everyone feels handled.
-
-The false peacemaker doesn't solve conflict. They manage perception until the conflict becomes invisible — or until the person with the legitimate grievance gives up.
-
----
-
-### Role 10: The Protector (Possessive Care)
-
-**The Phantom** — *The Phantom of the Opera* *(revisited)*
-
-*"I am your guardian, your angel."*
-
-Protection that requires captivity. The Phantom's love for Christine is inseparable from his control of her — he keeps her underground, monitors her relationships, and frames all of it as devotion. His lair isn't a home. It's a cage with candles. When Christine chooses Raoul, the Phantom doesn't release her out of love. He releases her because his final performance requires it.
 
 ---
 
@@ -823,18 +734,6 @@ That line is Chapter 9 in one sentence: the way childhood patterns shape adult r
 
 ---
 
-**Matilda Wormwood's parents** — *Matilda* (1996)
-
-For younger readers and parents reading this book — Roald Dahl wrote the narcissistic family system as children's story. The Wormwoods don't just neglect Matilda. They actively resent her intelligence, her curiosity, her *existence as a separate person with her own perceptions*.
-
-> *"I'm smart, you're dumb. I'm big, you're little. I'm right, you're wrong. And there's nothing you can do about it."*
-
-Mr. Wormwood's speech is the narcissistic parent's worldview, stated without disguise. The child's reality doesn't matter. The child's feelings don't register. The child exists to serve the parent's ego — and a child who is smarter, kinder, or more perceptive than the parent is experienced as a threat, not a gift.
-
-**What to watch for:** Miss Honey. The teacher who sees Matilda clearly. The adult from outside the system who says: *you're not the problem. They are.* For many children of narcissists, one Miss Honey — one witness — is the difference between internalizing the wound and surviving it.
-
----
-
 ### The Pattern of Escape — Contemporary
 
 *These works focus on what it looks like to leave — the part most films skip.*
@@ -878,18 +777,6 @@ That reveal — when the mask drops and the calculated cruelty behind the charm 
 ---
 
 ### The Roles in Contemporary Culture
-
----
-
-**The Victim — Anna Delvey** — *Inventing Anna* (2022)
-
-Even after conviction, Anna maintained the victim role. The system misunderstood her. The banks should have done better due diligence. She was just a dreamer in a city that punishes ambition. Her victim narrative was so compelling that people *continued to fund her* from prison.
-
----
-
-**The Seducer/Charmer — Joe Goldberg** — *You* (2018-2024)
-
-The love-bombing arc of every season follows the same structure: intense attention, manufactured destiny, declarations of "I've never felt this way." Joe mirrors each target perfectly — her interests become his interests, her enemies become his enemies. By the time the mask slips, the bond is already formed.
 
 ---
 
