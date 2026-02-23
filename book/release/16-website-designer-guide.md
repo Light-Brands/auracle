@@ -132,7 +132,9 @@ Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jenn
 │
 ├── /about                  Jennifer's story + credentials
 ├── /newsletter             Substack integration / signup
-├── /free                   Lead magnets (Decoder Cards, etc.)
+├── /free                   Lead magnets (Decoder Cards, Workbook, etc.)
+│   ├── /decoder-cards      Decoder Cards PDF download (email capture)
+│   └── /workbook           Companion Workbook PDF download (email capture)
 └── /contact                Contact + booking
 ```
 
@@ -238,15 +240,29 @@ The home page introduces the full scope of LightField Institute. It is NOT a boo
 │  [Join the Waitlist]                                    │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  DECODER CARD TEASER — Featured card + free download    │
+│  FREE RESOURCES — Decoder Cards + Companion Workbook    │
 │                                                         │
-│  Show 1 beautifully rendered decoder card inline        │
-│  (e.g., "The Gaslight Loop") as a visual preview.       │
-│  Next to it: "12 Decoder Cards — Free Download"         │
-│  with email capture. This gives visitors an immediate   │
-│  taste of the value before they download.               │
+│  Two-column layout:                                     │
 │                                                         │
-│  [Email input]  [Get the Free Cards]                    │
+│  ┌──────────────────┐  ┌──────────────────┐            │
+│  │ DECODER CARDS    │  │ COMPANION        │            │
+│  │                  │  │ WORKBOOK         │            │
+│  │ Show 1 rendered  │  │                  │            │
+│  │ decoder card as  │  │ Show workbook    │            │
+│  │ preview (e.g.,   │  │ cover + 1 sample │            │
+│  │ "The Gaslight    │  │ exercise page    │            │
+│  │ Loop")           │  │                  │            │
+│  │                  │  │ "The book opens  │            │
+│  │ "12 Decoder      │  │ the door. This   │            │
+│  │ Cards — Free"    │  │ workbook helps   │            │
+│  │                  │  │ you walk through │            │
+│  │ [Get Free Cards] │  │ it."             │            │
+│  │                  │  │                  │            │
+│  └──────────────────┘  │ [Get Workbook]   │            │
+│                        └──────────────────┘            │
+│                                                         │
+│  Both require email capture. Single email input          │
+│  with option to receive both.                           │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  NEWSLETTER SIGNUP — Substack integration               │
@@ -358,6 +374,26 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 │  volume. No fabricated stats or placeholder reviews.     │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
+│  COMPANION WORKBOOK — (Volume 1 only, initially)        │
+│                                                         │
+│  "The book opens the door. This workbook helps you      │
+│  walk through it."                                      │
+│                                                         │
+│  Show workbook cover image + brief description:         │
+│  - Free companion resource for readers of this volume   │
+│  - 5 parts aligned to all 17 chapters                   │
+│  - Exercises, journal prompts, tracking logs            │
+│  - 12 printable reference cards                         │
+│  - Safety planning resources                            │
+│                                                         │
+│  [Download Free Workbook]  (email capture)              │
+│                                                         │
+│  Design note: This section only appears on volume       │
+│  detail pages that have a companion workbook. Build     │
+│  as a conditional component — future volumes may        │
+│  also receive workbooks.                                │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
 │  NEXT IN THE SERIES — Card linking to Volume 2           │
 │  "You've named the patterns. Now heal the body that     │
 │  remembers → HEAL"                                      │
@@ -452,9 +488,11 @@ The page uses LightField's visual identity throughout — kingfisher palette, sa
 
 ### 4E. Free Resources Page (`/free`)
 
-The lead magnet destination — where visitors download the free Decoder Cards PDF in exchange for an email address. This is the primary list-building page.
+The lead magnet destination — where visitors download free resources in exchange for an email address. This is the primary list-building page.
 
-**The Giveaway:** 12 Essential Decoder Cards — a professionally designed PDF featuring 12 manipulation patterns named and decoded, plus the 3-3-3 Rule and Emergency Protocol.
+**The Giveaways:**
+1. **12 Essential Decoder Cards** — a professionally designed PDF featuring 12 manipulation patterns named and decoded, plus the 3-3-3 Rule and Emergency Protocol.
+2. **SEE: The Companion Workbook** — a full companion workbook for Volume 1 readers with exercises, journal prompts, tracking logs, 12 printable reference cards, and safety planning resources. Free because "seeing clearly shouldn't cost extra."
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -516,6 +554,31 @@ The lead magnet destination — where visitors download the free Decoder Cards P
 │  [Get See on Amazon]  [Get See on Gumroad]              │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
+│  COMPANION WORKBOOK — Second free resource               │
+│                                                         │
+│  "SEE: The Companion Workbook"                          │
+│  A Free Resource for Readers of Volume 1                │
+│                                                         │
+│  "The book opens the door. This workbook helps you      │
+│  walk through it."                                      │
+│                                                         │
+│  Workbook cover image + summary:                        │
+│  - 5 parts aligned to all 17 chapters                   │
+│  - Guided exercises, journal prompts, tracking logs     │
+│  - Personal decoder worksheets                          │
+│  - Body awareness journals & cycle trackers             │
+│  - 12 printable reference cards (3-3-3 Rule,            │
+│    Emergency Protocol, Body Decoder, etc.)              │
+│  - Safety planning & crisis resources                   │
+│                                                         │
+│  [Email input]  [Download Free Workbook]                │
+│                                                         │
+│  Design note: Show 1-2 sample workbook pages            │
+│  inline as visual preview (exercise page + printable    │
+│  card page) so visitors see the quality before           │
+│  downloading.                                           │
+│                                                         │
+├─────────────────────────────────────────────────────────┤
 │  TESTIMONIALS — Reader testimonials (when available)     │
 │  Video embeds from YouTube + written quotes              │
 └─────────────────────────────────────────────────────────┘
@@ -524,11 +587,20 @@ The lead magnet destination — where visitors download the free Decoder Cards P
 **Featured Decoder Cards on Other Pages:**
 
 In addition to the `/free` page, 1-2 decoder cards should appear as featured content in these locations:
-- **Home page** — In the newsletter signup section, show 1 card as a teaser with "Get all 12 free →"
+- **Home page** — In the free resources section, show 1 card as a teaser with "Get all 12 free →"
 - **Volume 1 detail page** (`/books/sovereignty/see`) — Show 2 cards as a preview of what's inside
 - **Blog/social posts** — Individual cards formatted as shareable images (1080x1080 for Instagram)
 
 The decoder card component should be reusable across the site — same visual treatment everywhere.
+
+**Featured Workbook on Other Pages:**
+
+The companion workbook should appear in these locations:
+- **Home page** — In the free resources section alongside the decoder cards (see home page template above)
+- **Volume 1 detail page** (`/books/sovereignty/see`) — Dedicated section between testimonials and "Next in Series" (see volume detail template above)
+- **Free resources page** (`/free`) — Full workbook section with sample pages and email capture
+
+The workbook component should be built as a reusable element — future volumes may receive their own companion workbooks. Design the component to accept a volume reference, workbook cover image, and description.
 
 ### 4F. About Page (`/about`)
 

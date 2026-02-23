@@ -2,7 +2,7 @@
 
 ## Digital-First, Low-Lift Launch Strategy
 
-This folder contains everything you need to launch the **Sovereignty Series**—a four-volume transformational journey from recognition to embodiment.
+This folder contains everything you need to launch the **Sovereignty Series**—an eight-volume transformational journey from recognition through embodiment and beyond.
 
 ---
 
@@ -14,6 +14,10 @@ This folder contains everything you need to launch the **Sovereignty Series**—
 | **2** | Heal | *Why did this shape me?* | Attachment healing, crossing out of survival |
 | **3** | Stand | *Who am I when I stop shrinking?* | Internal authority, self-trust |
 | **4** | Live | *How do I live from presence?* | Aura, erotic coherence, full expression |
+| **5** | Give | *How do I break the chain?* | Conscious parenting, generational cycles |
+| **6** | Serve | *How do I help without losing myself?* | Sustainable helping, boundaried presence |
+| **7** | Thrive | *Am I allowed to prosper?* | Financial recovery, career after trauma |
+| **8** | Become | *Who am I beyond survival?* | Quantum consciousness, full integration |
 
 Each volume builds on the previous, creating a natural staggered release strategy.
 
@@ -77,6 +81,10 @@ Each volume builds on the previous, creating a natural staggered release strateg
 | `13-astrological-release-strategy-2026.md` | Astrological timing for 2026 releases |
 | `14-designer-naming-spec.md` | Cover text hierarchy and naming for all 8 volumes |
 | `15-designer-brief.md` | **Complete designer brief — all 8 covers, specs, back cover layout** |
+| `16-website-designer-guide.md` | **Complete website redesign guide — sitemap, templates, color system, workbook integration** |
+| `17-times-square-campaign-guide.md` | Times Square billboard campaign guide |
+| `17-video-testimonials.md` | Video testimonial strategy |
+| `18-book-cover-design-guide.md` | **Cover design philosophy — 6 principles, kingfisher palette, typography** |
 
 ---
 
@@ -85,11 +93,13 @@ Each volume builds on the previous, creating a natural staggered release strateg
 ```
          FREE                    PAID                    FUTURE
     ┌─────────────┐        ┌─────────────────┐        ┌─────────────┐
-    │   Decoder   │        │   Vol 1  $4.99  │        │  Coaching   │
-    │   Cards     │───────▶│   Vol 2  $6.99  │───────▶│  Courses    │
-    │   (Email)   │        │   Vol 3  $8.99  │        │  Community  │
-    │             │        │   Vol 4  $9.99  │        │  Retreats   │
-    │             │        │   Bundles       │        │             │
+    │   Decoder   │        │   Vol 1-8       │        │  Coaching   │
+    │   Cards     │───────▶│   Individual +  │───────▶│  Courses    │
+    │   (Email)   │        │   Bundles       │        │  Community  │
+    │             │        │                 │        │  Retreats   │
+    │  Companion  │        │   Courses       │        │             │
+    │  Workbook   │        │   (Vol 1 first) │        │             │
+    │  (Email)    │        │                 │        │             │
     └─────────────┘        └─────────────────┘        └─────────────┘
          │                         │                        │
          └─────────────────────────┼────────────────────────┘
@@ -103,9 +113,10 @@ Each volume builds on the previous, creating a natural staggered release strateg
 
 **The funnel:**
 1. Social content → Substack signup
-2. Substack → Free Decoder Cards (email capture)
-3. Email list → Book purchases (staggered releases build anticipation)
-4. Book readers → Future offerings (coaching, courses, community, retreats)
+2. Substack → Free Decoder Cards + Companion Workbook (email capture)
+3. Email list → Book purchases (staggered releases across 8 volumes build anticipation)
+4. Book readers → Course enrollment (starting with Vol 1: See)
+5. Course students → Future offerings (coaching, community, retreats)
 
 ---
 
@@ -188,13 +199,17 @@ Each book chapter generates 4-6 weeks of content:
 Chapter → Newsletter → 3-5 Social Posts → Video Script (optional)
 ```
 
-Total content potential across all 4 volumes:
-- Vol 1: 11 chapters + appendices = ~60 weeks of content
-- Vol 2: 25 chapters + appendices = ~120 weeks of content
-- Vol 3: 19 chapters + appendices = ~100 weeks of content
-- Vol 4: 14 chapters + appendices = ~70 weeks of content
+Total content potential across all 8 volumes:
+- Vol 1 (See): 17 chapters + appendices = ~100 weeks of content
+- Vol 2 (Heal): 26 chapters + appendices = ~150 weeks of content
+- Vol 3 (Stand): 21 chapters + appendices = ~120 weeks of content
+- Vol 4 (Live): 14 chapters + appendices = ~80 weeks of content
+- Vol 5 (Give): 21 chapters + appendices = ~120 weeks of content
+- Vol 6 (Serve): 23 chapters + appendices = ~130 weeks of content
+- Vol 7 (Thrive): 22 chapters + appendices = ~120 weeks of content
+- Vol 8 (Become): 18 chapters + appendices = ~100 weeks of content
 
-**Total: 350+ weeks of content.** You'll never run out.
+**Total: 920+ weeks of content.** You'll never run out.
 
 ---
 
@@ -279,25 +294,29 @@ Every piece of content should:
 2. Capture an email (build asset)
 3. Help someone heal (build loyalty)
 
-Future offerings—coaching, courses, community, retreats—are the long-term product. The four volumes establish you as the definitive authority on the journey from survival to sovereignty to embodied leadership.
+Future offerings—coaching, courses, community, retreats—are the long-term product. The eight volumes establish you as the definitive authority on the journey from survival to sovereignty to embodied leadership and beyond.
 
 ---
 
 ## The Journey You're Guiding
 
 ```
-VOLUME 1                VOLUME 2              VOLUME 3              VOLUME 4
-Recognition             Liberation            Empowerment           Embodiment
-    │                       │                     │                     │
-    ▼                       ▼                     ▼                     ▼
-"I see what's          "I understand        "I trust myself"      "I live from
- happening"             why & I'm                                   presence"
-                        crossing out"
-    │                       │                     │                     │
-    └───────────────────────┴─────────────────────┴─────────────────────┘
-                                    │
-                              THE READER'S
-                              TRANSFORMATION
+Vol 1: SEE          Vol 2: HEAL         Vol 3: STAND        Vol 4: LIVE
+Recognition         Liberation          Empowerment         Embodiment
+"I see what's       "I understand       "I trust            "I live from
+ happening"          why & I'm           myself"             presence"
+                     crossing out"
+    │                    │                   │                    │
+    ▼                    ▼                   ▼                    ▼
+Vol 5: GIVE         Vol 6: SERVE        Vol 7: THRIVE       Vol 8: BECOME
+Legacy              Purpose             Prosperity          Integration
+"I break the        "I help without     "I'm allowed        "I was always
+ chain"              losing myself"      to thrive"          this"
+    │                    │                   │                    │
+    └────────────────────┴───────────────────┴────────────────────┘
+                                 │
+                           THE READER'S
+                           TRANSFORMATION
 ```
 
 ---
@@ -306,12 +325,14 @@ Recognition             Liberation            Empowerment           Embodiment
 
 1. Start with `01-platform-setup-guide.md`
 2. Work through files in order
-3. Launch Volume 1
+3. Launch Volume 1 (See) + Companion Workbook + Decoder Cards
 4. Run content calendar
-5. Launch Volume 2 (8 weeks later)
-6. Launch Volume 3 (8 weeks later)
-7. Launch Volume 4 (8 weeks later)
-8. Begin planning future offerings
+5. Launch Volume 2 (Heal) — 8 weeks later
+6. Launch Volume 3 (Stand) — 8 weeks later
+7. Launch Volume 4 (Live) — 8 weeks later
+8. Continue staggered releases for Volumes 5-8
+9. Launch Course 1 (See) when video production is ready
+10. Begin planning community and retreat offerings
 
-You've written four books. You're building something significant. Keep going.
+You've written eight books. You're building something extraordinary. Keep going.
 
