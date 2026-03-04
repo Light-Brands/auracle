@@ -1,6 +1,6 @@
-# Course 1: You Were Never Crazy
+# Course 1: See
 
-## See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work — A Course in Pattern Recognition
+## Recognizing Narcissistic Manipulation in Relationships, Family, and Work
 
 ---
 

@@ -2,9 +2,11 @@
 
 ## Bestseller-Driven Approach: Exaggerated Typography + The Kingfisher Palette
 
+> **Update (2026-03-04):** The finalized cover palette has evolved from the original Kingfisher-derived electric blue + orange + cream approach described below. The final covers use **rich per-volume background colors** (blues, greens, browns, dark pink, and white) with **white titles and subtitles** across all 8 volumes. Each volume has its own distinct background color. See `18-book-cover-design-guide.md` and `15-designer-brief.md` for the current direction.
+
 **Date:** 2026-02-22
 **Series:** The Sovereignty Series (8 volumes)
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 
 ---
 
@@ -146,7 +148,7 @@ while gaining readability and complementary energy.
 │    in Plain Sight                       │     Light-weight italic serif
 │                                         │
 │                                         │
-│    JENNIFER BROOKE LAWLESS              │  ← Dark charcoal (#1A1A1A)
+│    JENNIFER BROOKE LAWLESS, M.S.        │  ← White or light cream
 │                                         │
 │         ─── cream background ───        │     #F5F0E1
 └─────────────────────────────────────────┘
@@ -190,16 +192,16 @@ The cream background and electric blue title remain consistent across all 8 volu
 The orange subtitle is the constant accent. To mark the emotional arc of the series,
 **subtle background texture or tonal warmth** can shift per volume:
 
-| Vol | Title | Background Variation | Rationale |
-|:---:|:-----:|---------------------|-----------|
-| 1 | SEE | Pure cream, cool undertone | Crisis — clean, stark clarity |
-| 2 | HEAL | Cream with faintest warm blush | Healing — warmth beginning to enter |
-| 3 | STAND | Cream, steady and neutral | Authority — grounded, centered |
-| 4 | LIVE | Cream with warm golden undertone | Embodiment — presence, radiance |
-| 5 | GIVE | Cream with soft amber warmth | Nurturing — tender, earthy |
-| 6 | SERVE | Cream, clean and clear | Sustainable — clarity of purpose |
-| 7 | THRIVE | Cream with golden luminosity | Abundance — rich, expansive |
-| 8 | BECOME | Cream with subtle iridescent warmth | Transcendence — arrival, wholeness |
+| Vol | Title | Background Color | Rationale |
+|:---:|:-----:|-----------------|-----------|
+| 1 | SEE | Deep blue | Crisis — clarity, stark revelation |
+| 2 | HEAL | Warm earthy green | Healing — growth, grounding, hope |
+| 3 | STAND | Designer's choice | Authority — grounded, centered, steady |
+| 4 | LIVE | Dark pink | Embodiment — vitality, presence, warmth |
+| 5 | GIVE | Warm brown | Nurturing — tender, earthy, generational |
+| 6 | SERVE | Soft green | Sustainable — clarity of purpose, renewal |
+| 7 | THRIVE | Rich green | Abundance — prosperity, expansion |
+| 8 | BECOME | White | Transcendence — arrival, wholeness, light |
 
 The shift is subtle — all backgrounds read as "cream" at a glance, maintaining series
 cohesion. But when shelved together, the progression from cool to warm to luminous
@@ -317,9 +319,9 @@ hierarchy:
 ### Spine Design
 
 ```
-SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless, M.S.
  ↑                    ↑                                      ↑
- Electric blue     Orangey-red                          Dark charcoal
+ White              White                                White
  (bold)            (light italic)                       (regular)
 ```
 

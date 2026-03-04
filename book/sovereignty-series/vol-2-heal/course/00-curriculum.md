@@ -1,6 +1,6 @@
 # Course 2: Heal
 
-## Nervous System Recovery and Attachment Repair After Narcissistic Abuse — Learning Secure Attachment After Trauma
+## Nervous System Recovery and Attachment Repair After Narcissistic Abuse
 
 ---
 

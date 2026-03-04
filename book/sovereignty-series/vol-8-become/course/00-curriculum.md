@@ -1,6 +1,6 @@
 # Course 8: Become
 
-## Integration, Identity, and Stepping Into Your Whole Self — Becoming the Version You Were Always Meant to Be
+## Integration, Identity, and Stepping Into Your Whole Self
 
 ---
 

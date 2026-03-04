@@ -1,6 +1,6 @@
-# Course 3: Sovereignty
+# Course 3: Stand
 
-## Living From Internal Authority
+## Building Boundaries, Internal Authority, and Self-Trust After Trauma
 
 ---
 
