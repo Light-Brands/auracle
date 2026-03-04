@@ -1,6 +1,6 @@
 # Pre-Publication Legal Review — Vol 1: SEE
 
-**Manuscript:** *See: The Truth That Was Hidden in Plain Sight* (Volume One, The Sovereignty Series)
+**Manuscript:** *See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work* (Volume One, The Sovereignty Series)
 **Author:** Jennifer Brooke Lawless
 **Review Date:** February 18, 2026
 **Last Updated:** February 19, 2026 (review updated to reflect Author's Note reframe + "creative nonfiction" genre change)

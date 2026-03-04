@@ -205,4 +205,4 @@ When you're ready to move from recognition to healing, **Volume 2: Heal** teache
 
 **This is Volume 1 of The Sovereignty Series**
 
-For the complete book with all 60 patterns, decoder cards, and exercises, get *See: The Truth That Was Hidden in Plain Sight*
+For the complete book with all 60 patterns, decoder cards, and exercises, get *See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work*

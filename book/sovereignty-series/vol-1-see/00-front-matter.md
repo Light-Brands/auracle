@@ -1,6 +1,6 @@
 # See
 
-## The Truth That Was Hidden in Plain Sight
+## Recognizing Narcissistic Manipulation in Relationships, Family, and Work
 
 ### Volume One | The Sovereignty Series
 
@@ -52,14 +52,14 @@ First Edition
 
 *See* is **Volume One** of **The Sovereignty Series**—an eight-volume journey from recognition to reclamation. Each volume carries a single word. Yours is **SEE**.
 
-1. **SEE** — *See: The Truth That Was Hidden in Plain Sight* *(you are here)*
-2. **HEAL** — *Heal: The Body That Remembers the Way Home*
-3. **STAND** — *Stand: The Ground That Was Always Yours*
-4. **LIVE** — *Live: The Presence That Changes Everything*
-5. **GIVE** — *Give: The Chain That Ends With You*
-6. **SERVE** — *Serve: The Light That Doesn't Consume*
-7. **THRIVE** — *Thrive: The Life You Were Told You Couldn't Have*
-8. **BECOME** — *Become: The Self That Was Never Lost*
+1. **SEE** — *See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work* *(you are here)*
+2. **HEAL** — *Heal: Nervous System Recovery and Attachment Repair After Narcissistic Abuse*
+3. **STAND** — *Stand: Building Boundaries, Internal Authority, and Self-Trust After Trauma*
+4. **LIVE** — *Live: Reclaiming Presence, Intimacy, and Embodied Leadership*
+5. **GIVE** — *Give: Conscious Parenting and Breaking Generational Trauma Cycles*
+6. **SERVE** — *Serve: Sustainable Helping Without Burnout for Trauma-Informed Guides*
+7. **THRIVE** — *Thrive: Financial Recovery, Career Rebuilding, and Prosperity After Abuse*
+8. **BECOME** — *Become: Integration, Identity, and Stepping Into Your Whole Self*
 
 *This book is complete on its own. And when you're ready, there is more.*
 

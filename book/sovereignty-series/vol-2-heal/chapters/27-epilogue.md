@@ -161,7 +161,7 @@ And if you read Volume 1 (*See*), you now have both pieces: the recognition and 
 
 ## The Next Volume
 
-When you are ready—not rushed, but ready—**Volume 3: Stand — The Ground That Was Always Yours** awaits.
+When you are ready—not rushed, but ready—**Volume 3: Stand — Building Boundaries, Internal Authority, and Self-Trust After Trauma** awaits.
 
 That book is for those who have crossed the bridge and are asking:
 

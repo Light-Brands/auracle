@@ -54,7 +54,7 @@ That gap—between insight and embodiment—is where the real work lives.
 
 It's why I wrote the second book.
 
-**Heal: The Body That Remembers the Way Home** picks up where recognition ends. It's about healing at the nervous system level. About retraining your attachment patterns. About building relationships that regulate rather than activate.
+**Heal: Nervous System Recovery and Attachment Repair After Narcissistic Abuse** picks up where recognition ends. It's about healing at the nervous system level. About retraining your attachment patterns. About building relationships that regulate rather than activate.
 
 It's coming soon.
 
@@ -153,7 +153,7 @@ Two weeks.
 
 It's live.
 
-**Heal: The Body That Remembers the Way Home** is now available.
+**Heal: Nervous System Recovery and Attachment Repair After Narcissistic Abuse** is now available.
 
 → [Get it on Gumroad] (includes bonus worksheets)
 → [Get it on Amazon Kindle]

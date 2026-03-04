@@ -244,7 +244,7 @@ requires while maintaining the literary, premium positioning that cream enables.
 - The light weight is critical: it allows the orange (#E25822) to carry warmth and
   energy without the subtitle feeling louder than the title
 - Italic adds grace and movement to the poetic subtitle structure
-  (*"The Truth That Was Hidden in Plain Sight"*)
+  (*"Recognizing Narcissistic Manipulation in Relationships, Family, and Work"*)
 - Already specified in the Lightfield.institute design language
 - The "The [noun] that [clause]" structure reads beautifully in a refined serif italic
 
@@ -317,7 +317,7 @@ hierarchy:
 ### Spine Design
 
 ```
-SEE  |  The Truth That Was Hidden in Plain Sight  |  Jennifer Brooke Lawless
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
  ↑                    ↑                                      ↑
  Electric blue     Orangey-red                          Dark charcoal
  (bold)            (light italic)                       (regular)

@@ -2864,4 +2864,4 @@ That's where we go next: the neuroscience of trauma bonds.
 
 ---
 
-*The Decoder Playbook — Vol. 1: See — The Truth That Was Hidden in Plain Sight*
+*The Decoder Playbook — Vol. 1: See — Recognizing Narcissistic Manipulation in Relationships, Family, and Work*

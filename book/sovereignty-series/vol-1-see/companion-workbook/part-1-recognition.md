@@ -1,6 +1,6 @@
 # Part I: Recognition
 
-### Aligned with Chapters 1-3 of *See: The Truth That Was Hidden in Plain Sight*
+### Aligned with Chapters 1-3 of *See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
 
 ---
 

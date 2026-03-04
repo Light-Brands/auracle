@@ -1,6 +1,6 @@
 # See
 
-## The Truth That Was Hidden in Plain Sight
+## Recognizing Narcissistic Manipulation in Relationships, Family, and Work
 
 ---
 
@@ -206,14 +206,14 @@ When you're ready to move from healing to sovereignty, **[Volume 3: Stand](../vo
 - Living from sovereignty
 
 The complete series:
-- **Volume 1:** See — *The Truth That Was Hidden in Plain Sight*
-- **Volume 2:** Heal — *The Body That Remembers the Way Home*
-- **Volume 3:** Stand — *The Ground That Was Always Yours*
-- **Volume 4:** Live — *The Presence That Changes Everything*
-- **Volume 5:** Give — *The Chain That Ends With You*
-- **Volume 6:** Serve — *The Light That Doesn't Consume*
-- **Volume 7:** Thrive — *The Life You Were Told You Couldn't Have*
-- **Volume 8:** Become — *The Self That Was Never Lost*
+- **Volume 1:** See — *Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
+- **Volume 2:** Heal — *Nervous System Recovery and Attachment Repair After Narcissistic Abuse*
+- **Volume 3:** Stand — *Building Boundaries, Internal Authority, and Self-Trust After Trauma*
+- **Volume 4:** Live — *Reclaiming Presence, Intimacy, and Embodied Leadership*
+- **Volume 5:** Give — *Conscious Parenting and Breaking Generational Trauma Cycles*
+- **Volume 6:** Serve — *Sustainable Helping Without Burnout for Trauma-Informed Guides*
+- **Volume 7:** Thrive — *Financial Recovery, Career Rebuilding, and Prosperity After Abuse*
+- **Volume 8:** Become — *Integration, Identity, and Stepping Into Your Whole Self*
 
 ---
 

@@ -29,7 +29,7 @@ Each cover follows this exact text hierarchy:
 ### Volume 1: See
 
 **Title:** SEE
-**Subtitle:** *The Truth That Was Hidden in Plain Sight*
+**Subtitle:** *Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
 **Series Line:** The Sovereignty Series — Volume 1
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Every pattern you can name is a pattern that loses power over you."
@@ -40,7 +40,7 @@ Each cover follows this exact text hierarchy:
 ### Volume 2: Heal
 
 **Title:** HEAL
-**Subtitle:** *The Body That Remembers the Way Home*
+**Subtitle:** *Nervous System Recovery and Attachment Repair After Narcissistic Abuse*
 **Series Line:** The Sovereignty Series — Volume 2
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Secure attachment is not found—it is practiced."
@@ -51,7 +51,7 @@ Each cover follows this exact text hierarchy:
 ### Volume 3: Stand
 
 **Title:** STAND
-**Subtitle:** *The Ground That Was Always Yours*
+**Subtitle:** *Building Boundaries, Internal Authority, and Self-Trust After Trauma*
 **Series Line:** The Sovereignty Series — Volume 3
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "I am not small. I am learning to stand without fear."
@@ -62,7 +62,7 @@ Each cover follows this exact text hierarchy:
 ### Volume 4: Live
 
 **Title:** LIVE
-**Subtitle:** *The Presence That Changes Everything*
+**Subtitle:** *Reclaiming Presence, Intimacy, and Embodied Leadership*
 **Series Line:** The Sovereignty Series — Volume 4
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "My presence is erotic when it belongs to me."
@@ -73,7 +73,7 @@ Each cover follows this exact text hierarchy:
 ### Volume 5: Give
 
 **Title:** GIVE
-**Subtitle:** *The Chain That Ends With You*
+**Subtitle:** *Conscious Parenting and Breaking Generational Trauma Cycles*
 **Series Line:** The Sovereignty Series — Volume 5
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "The chain breaks with you. Not because you're perfect, but because you're aware."
@@ -84,7 +84,7 @@ Each cover follows this exact text hierarchy:
 ### Volume 6: Serve
 
 **Title:** SERVE
-**Subtitle:** *The Light That Doesn't Consume*
+**Subtitle:** *Sustainable Helping Without Burnout for Trauma-Informed Guides*
 **Series Line:** The Sovereignty Series — Volume 6
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Your healing is your credential. Your boundaries are your offering."
@@ -95,7 +95,7 @@ Each cover follows this exact text hierarchy:
 ### Volume 7: Thrive
 
 **Title:** THRIVE
-**Subtitle:** *The Life You Were Told You Couldn't Have*
+**Subtitle:** *Financial Recovery, Career Rebuilding, and Prosperity After Abuse*
 **Series Line:** The Sovereignty Series — Volume 7
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Your prosperity is not a betrayal of your healing. It is a fruit of it."
@@ -106,7 +106,7 @@ Each cover follows this exact text hierarchy:
 ### Volume 8: Become
 
 **Title:** BECOME
-**Subtitle:** *The Self That Was Never Lost*
+**Subtitle:** *Integration, Identity, and Stepping Into Your Whole Self*
 **Series Line:** The Sovereignty Series — Volume 8
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "You were never becoming someone new. You were always unveiling who you'd been all along."
@@ -173,7 +173,7 @@ From **external recognition** (truth) through **somatic healing** (body) to **re
 ### Spine Text (Paperback)
 
 ```
-SEE  |  The Truth That Was Hidden in Plain Sight  |  Jennifer Brooke Lawless
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
 ```
 
 When all 8 spines are lined up, the titles read:

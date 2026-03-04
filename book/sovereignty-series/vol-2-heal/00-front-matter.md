@@ -1,6 +1,6 @@
 # Heal
 
-## The Body That Remembers the Way Home
+## Nervous System Recovery and Attachment Repair After Narcissistic Abuse
 
 ### A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection
 

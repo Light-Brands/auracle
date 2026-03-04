@@ -106,43 +106,43 @@ One word on the cover. Maximum impact. The arc word **is** the title — bold, d
 
 | Vol | Title | Subtitle |
 |:---:|-------|----------|
-| 1 | **See** | *The Truth That Was Hidden in Plain Sight* |
-| 2 | **Heal** | *The Body That Remembers the Way Home* |
-| 3 | **Stand** | *The Ground That Was Always Yours* |
-| 4 | **Live** | *The Presence That Changes Everything* |
-| 5 | **Give** | *The Chain That Ends With You* |
-| 6 | **Serve** | *The Light That Doesn't Consume* |
-| 7 | **Thrive** | *The Life You Were Told You Couldn't Have* |
-| 8 | **Become** | *The Self That Was Never Lost* |
+| 1 | **See** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* |
+| 2 | **Heal** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* |
+| 3 | **Stand** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* |
+| 4 | **Live** | *Reclaiming Presence, Intimacy, and Embodied Leadership* |
+| 5 | **Give** | *Conscious Parenting and Breaking Generational Trauma Cycles* |
+| 6 | **Serve** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* |
+| 7 | **Thrive** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* |
+| 8 | **Become** | *Integration, Identity, and Stepping Into Your Whole Self* |
 
-### The Subtitle Poem
+### The Subtitle Progression
 
-Read the subtitles together as one continuous thought:
+Read the subtitles together as a journey map:
 
-> *The truth that was hidden in plain sight...*
-> *The body that remembers the way home...*
-> *The ground that was always yours...*
-> *The presence that changes everything...*
-> *The chain that ends with you...*
-> *The light that doesn't consume...*
-> *The life you were told you couldn't have...*
-> *The self that was never lost.*
+> *Recognizing narcissistic manipulation in relationships, family, and work...*
+> *Nervous system recovery and attachment repair after narcissistic abuse...*
+> *Building boundaries, internal authority, and self-trust after trauma...*
+> *Reclaiming presence, intimacy, and embodied leadership...*
+> *Conscious parenting and breaking generational trauma cycles...*
+> *Sustainable helping without burnout for trauma-informed guides...*
+> *Financial recovery, career rebuilding, and prosperity after abuse...*
+> *Integration, identity, and stepping into your whole self.*
 
-### The Noun Progression
+### The Topic Progression
 
-The subtitle nouns trace the full healing journey:
+The subtitles trace the full healing journey through concrete topics:
 
 ```
-Truth → Body → Ground → Presence → Chain → Light → Life → Self
+Recognition → Nervous System → Boundaries → Presence → Parenting → Helping → Prosperity → Integration
 ```
 
-From **external recognition** (truth) through **somatic healing** (body) to **reclaimed territory** (ground) to **embodied identity** (presence) through **generational break** (chain) to **sustainable purpose** (light) to **material rebuilding** (life) to **total integration** (self).
+From **naming the patterns** (recognition) through **body-level healing** (nervous system) to **self-trust** (boundaries) to **embodied living** (presence) through **generational repair** (parenting) to **sustainable service** (helping) to **material rebuilding** (prosperity) to **total integration** (identity).
 
 ### Why This Convention Works
 
 - **Unforgettable shelf presence** — eight single-word spines lined up together
 - The titles form a **mantra**: *See. Heal. Stand. Live. Give. Serve. Thrive. Become.*
-- Subtitles are **poetic and consistent** — the "The [noun] that" structure creates rhythm
+- Subtitles are **concrete and buyer-friendly** — each tells you exactly what the book covers
 - Maximum **commercial flexibility** — one word works on covers, social media, merch, tattoos
 - The convention **is** the philosophy: direct, sovereign, unapologetic
 

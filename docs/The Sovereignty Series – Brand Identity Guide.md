@@ -68,14 +68,14 @@ From **external recognition** (truth) through **somatic healing** (body) to **re
 
 | Vol | Title | Subtitle | Tagline | Emotional Arc |
 |:---:|:-----:|----------|---------|---------------|
-| 1 | **SEE** | *The Truth That Was Hidden in Plain Sight* | "Every pattern you can name is a pattern that loses power over you." | Crisis, decoding, revelation |
-| 2 | **HEAL** | *The Body That Remembers the Way Home* | "Secure attachment is not found — it is practiced." | Healing, crossing over, hope |
-| 3 | **STAND** | *The Ground That Was Always Yours* | "I am not small. I am learning to stand without fear." | Stability, groundedness, stillness |
-| 4 | **LIVE** | *The Presence That Changes Everything* | "My presence is erotic when it belongs to me." | Embodiment, presence, warmth |
-| 5 | **GIVE** | *The Chain That Ends With You* | "The chain breaks with you. Not because you're perfect, but because you're aware." | Nurturing, generational, tender |
-| 6 | **SERVE** | *The Light That Doesn't Consume* | "Your healing is your credential. Your boundaries are your offering." | Sustainable, clear, purposeful |
-| 7 | **THRIVE** | *The Life You Were Told You Couldn't Have* | "Your prosperity is not a betrayal of your healing. It is a fruit of it." | Prosperity, joy, expansion |
-| 8 | **BECOME** | *The Self That Was Never Lost* | "You were never becoming someone new. You were always unveiling who you'd been all along." | Integration, wholeness, arrival |
+| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | "Every pattern you can name is a pattern that loses power over you." | Crisis, decoding, revelation |
+| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | "Secure attachment is not found — it is practiced." | Healing, crossing over, hope |
+| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* | "I am not small. I am learning to stand without fear." | Stability, groundedness, stillness |
+| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* | "My presence is erotic when it belongs to me." | Embodiment, presence, warmth |
+| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* | "The chain breaks with you. Not because you're perfect, but because you're aware." | Nurturing, generational, tender |
+| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* | "Your healing is your credential. Your boundaries are your offering." | Sustainable, clear, purposeful |
+| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | "Your prosperity is not a betrayal of your healing. It is a fruit of it." | Prosperity, joy, expansion |
+| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | "You were never becoming someone new. You were always unveiling who you'd been all along." | Integration, wholeness, arrival |
 
 **Series line on all volumes:** The Sovereignty Series — Volume N
 **Author on all volumes:** Jennifer Brooke Lawless
@@ -170,7 +170,7 @@ Every cover follows the same text hierarchy:
 Standard spine format for each volume:
 
 ```
-SEE  |  The Truth That Was Hidden in Plain Sight  |  Jennifer Brooke Lawless
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
 ```
 
 When all 8 spines are shelved together, the titles read:

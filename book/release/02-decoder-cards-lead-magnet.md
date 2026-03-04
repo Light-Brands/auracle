@@ -267,7 +267,7 @@ These 12 cards are excerpted from **See: See**, which includes:
 
 ## Continue Your Healing
 
-When you're ready to move from recognition to secure attachment, **Heal: The Body That Remembers the Way Home** continues the journey with:
+When you're ready to move from recognition to secure attachment, **Heal: Nervous System Recovery and Attachment Repair After Narcissistic Abuse** continues the journey with:
 
 - Why insight alone doesn't heal
 - A 12-week secure attachment training program

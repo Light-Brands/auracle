@@ -348,7 +348,7 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 │  The Sovereignty Series · Volume 1                      │
 │                                                         │
 │  SEE                                                    │
-│  The Truth That Was Hidden in Plain Sight               │
+│  Recognizing Narcissistic Manipulation in Relationships, Family, and Work               │
 │                                                         │
 │  [Cover image — large, high-quality]                    │
 │                                                         │
@@ -503,7 +503,7 @@ The lead magnet destination — where visitors download free resources in exchan
 │  Named and Decoded                                      │
 │                                                         │
 │  A free quick-reference guide from                      │
-│  See: The Truth That Was Hidden in Plain Sight          │
+│  See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work          │
 │                                                         │
 │  [Email input]  [Get the Free Cards]                    │
 │                                                         │

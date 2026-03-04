@@ -1,6 +1,6 @@
 # Serve
 
-## The Light That Doesn't Consume
+## Sustainable Helping Without Burnout for Trauma-Informed Guides
 
 > *A Guide for Those Called to Help Others on This Path*
 
