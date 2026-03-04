@@ -93,49 +93,44 @@ Each volume should have its own identity while maintaining series cohesion throu
 
 **Volume 1: See** — Recognition
 
-Consider darker, more intense tones that suggest "decoding" and revelation:
+Consider deep blue tones that suggest clarity and revelation:
 
-- Primary: Deep charcoal or black (#1a1a1a)
-- Accent: Gold or amber (#d4a857) — suggests illumination, truth revealed
-- Text: White or cream for contrast
-- Mood: Dark to light, breaking through confusion
+- Primary: Deep blue — suggests clarity, depth, revelation
+- Text: White for contrast
+- Mood: Stark clarity, breaking through confusion
 
 **Volume 2: Heal** — Liberation
 
-Consider warmer, softer tones that suggest healing and transition:
+Consider warm, earthy green tones that suggest healing and growth:
 
-- Primary: Deep teal or forest green (#2d4a43) — suggests growth, calm
-- Accent: Warm gold or soft copper (#c5a47e) — continuity with Vol 1
-- Text: Cream or warm white
+- Primary: Warm earthy green — suggests growth, grounding, calm
+- Text: White — clean contrast
 - Mood: Crossing over, movement, hope
 
 **Volume 3: Stand** — Empowerment
 
-Consider grounded, authoritative tones that suggest standing firm:
+Use a **similar shade to HEAL** — these two volumes should read as a pair on the shelf:
 
-- Primary: Deep navy or midnight blue (#1a2a3a) — suggests depth, stability
-- Accent: Silver or platinum (#c0c0c0) — suggests clarity, self-trust
-- Secondary Accent: Warm gold (#d4a857) — series continuity
-- Text: White or silver
+- Primary: Warm earthy green (similar shade to Vol 2) — suggests steady grounding
+- Text: White — clean contrast
 - Mood: Stillness, authority, groundedness
 
 **Volume 4: Live** — Embodiment
 
-Consider radiant, coherent tones that suggest presence and integration:
+Consider dark pink tones that suggest vitality and embodied presence:
 
-- Primary: Deep plum or burgundy (#4a1a3a) — suggests depth, embodiment
-- Accent: Rose gold (#b76e79) — suggests warmth, life force
-- Secondary Accent: Gold (#d4a857) — series continuity
-- Text: Cream or rose gold
+- Primary: Dark pink — suggests vitality, embodiment, warmth
+- Text: White for contrast
 - Mood: Radiance, coherence, full expression
 
 **Series Cohesion:**
 - Use the same font family across all eight covers
-- Keep gold accent color consistent (appears on all volumes)
+- White titles and subtitles across all volumes for unity
 - Similar layout structure (title position, author name placement)
 - "The Sovereignty Series" subtitle on each
 - Single-word title dominates each cover — this is the brand
 - Volume number in consistent position
+- HEAL and STAND use similar shades to read as a pair on the shelf
 
 ---
 
@@ -315,7 +310,7 @@ series-mockup-all-eight.png
 **Title:** SEE
 **Subtitle:** Recognizing Narcissistic Manipulation in Relationships, Family, and Work
 **Series:** The Sovereignty Series — Volume 1
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Tagline:** "Every pattern you can name is a pattern that loses power over you."
 
 ### Volume 2
@@ -323,7 +318,7 @@ series-mockup-all-eight.png
 **Title:** HEAL
 **Subtitle:** Nervous System Recovery and Attachment Repair After Narcissistic Abuse
 **Series:** The Sovereignty Series — Volume 2
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Tagline (back cover):** "Secure attachment is not found—it is practiced."
 
 ### Volume 3
@@ -331,7 +326,7 @@ series-mockup-all-eight.png
 **Title:** STAND
 **Subtitle:** Building Boundaries, Internal Authority, and Self-Trust After Trauma
 **Series:** The Sovereignty Series — Volume 3
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Tagline (back cover):** "I am not small. I am learning to stand without fear."
 
 ### Volume 4
@@ -339,7 +334,7 @@ series-mockup-all-eight.png
 **Title:** LIVE
 **Subtitle:** Reclaiming Presence, Intimacy, and Embodied Leadership
 **Series:** The Sovereignty Series — Volume 4
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Tagline (back cover):** "My presence is erotic when it belongs to me."
 
 ### Volume 5
@@ -347,7 +342,7 @@ series-mockup-all-eight.png
 **Title:** GIVE
 **Subtitle:** Conscious Parenting and Breaking Generational Trauma Cycles
 **Series:** The Sovereignty Series — Volume 5
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Tagline (back cover):** "The chain breaks with you. Not because you're perfect, but because you're aware."
 
 ### Volume 6
@@ -355,7 +350,7 @@ series-mockup-all-eight.png
 **Title:** SERVE
 **Subtitle:** Sustainable Helping Without Burnout for Trauma-Informed Guides
 **Series:** The Sovereignty Series — Volume 6
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Tagline (back cover):** "Your healing is your credential. Your boundaries are your offering."
 
 ### Volume 7
@@ -363,7 +358,7 @@ series-mockup-all-eight.png
 **Title:** THRIVE
 **Subtitle:** Financial Recovery, Career Rebuilding, and Prosperity After Abuse
 **Series:** The Sovereignty Series — Volume 7
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Tagline (back cover):** "Your prosperity is not a betrayal of your healing. It is a fruit of it."
 
 ### Volume 8
@@ -371,7 +366,7 @@ series-mockup-all-eight.png
 **Title:** BECOME
 **Subtitle:** Integration, Identity, and Stepping Into Your Whole Self
 **Series:** The Sovereignty Series — Volume 8
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Tagline (back cover):** "You were never becoming someone new. You were always unveiling who you'd been all along."
 
 ---

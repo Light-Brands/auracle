@@ -4,7 +4,7 @@
 
 This guide captures the design philosophy and specific creative decisions for the 8-volume Sovereignty Series covers. It translates market research (see `bestseller-book-art-research.md`) into actionable direction and sits alongside the Designer Brief (`15-designer-brief.md`) as the "why" behind the "what."
 
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Series:** The Sovereignty Series — 8 Volumes
 **Genre:** Self-help / Personal Transformation / Narcissistic Abuse Recovery
 
@@ -40,34 +40,34 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 **Our decision:**
 - The single-word title is the **hero element** of every cover
 - Set bold and large — it should command the cover at any size
-- Title in **Electric Blue** (`#00BFFF`) — vivid, alive, the color of clarity and breakthrough
-- Subtitle in **Orange** (`#E0522D` / `#FB9543` range) — fire, transformation, warmth with intensity
+- Title in **White** — clean, commanding, maximum contrast against rich backgrounds
+- Subtitle in **White** — unified with titles for series cohesion
 - The title must be readable at 80px height (mobile thumbnail browsing)
 - Same font family across all 8 volumes — non-negotiable
 
 **The color logic:**
-- **Electric Blue titles** carry the breakthrough energy — the flash of the kingfisher diving. Each single word is an imperative command. Blue says: *clarity, illumination, truth*
-- **Orange subtitles** carry the warmth and human fire — the transformation underneath. Orange says: *courage, life force, embodied change*
-- This pairing comes directly from the kingfisher palette (see LightField Institute Brand Identity Guide) and creates high contrast on both dark and light backgrounds
-- The two colors together — electric blue and fiery orange — are complementary on the color wheel, creating natural visual tension and energy
+- **White titles** on rich, saturated backgrounds create bold contrast — the single word commands attention at any scale
+- **White subtitles** maintain the clean, unified look — no competition between text colors
+- The per-volume background colors (blues, greens, browns, dark pink, white) carry the emotional arc and series progression
+- White text on varied backgrounds is the unifying constant that makes 8 different covers read as one set
 
 **Typography hierarchy (all 8 volumes):**
 
 ```
 ┌─────────────────────────────────────────┐
 │                                         │
-│    The Sovereignty Series               │  ← Series name (small, cream or light)
-│    Volume N                             │  ← Volume marker (small, cream or light)
+│    The Sovereignty Series               │  ← Series name (small, white or light)
+│    Volume N                             │  ← Volume marker (small, white or light)
 │                                         │
 │                                         │
-│    SEE                                  │  ← TITLE — BOLD, LARGE, ELECTRIC BLUE
+│    SEE                                  │  ← TITLE — BOLD, LARGE, WHITE
 │                                         │     ALL CAPS, single word
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle — ORANGE, medium weight
+│    The Truth That Was Hidden            │  ← Subtitle — WHITE, medium weight
 │    in Plain Sight                       │     Mixed case, italic or light
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless              │  ← Author (small, legible, cream or white)
+│    Jennifer Brooke Lawless, M.S.        │  ← Author (small, legible, white or light cream)
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -77,7 +77,7 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 - Recommended: **Cinzel Black** or **Playfair Display Black** — serif fonts that feel native on cream and carry the literary, premium positioning (see `book-cover-design-strategy.md` for full font evaluation)
 - Avoid ornate display fonts — the single words need to hit like a command, not a flourish
 - The subtitle font should be **Cormorant Garamond Light Italic** — the light weight lets orange carry warmth without competing with the title
-- Author name: smallest but clearly legible, ALL CAPS letter-spaced in dark charcoal (`#1A1A1A`)
+- Author name: smallest but clearly legible, ALL CAPS letter-spaced in white or light cream
 - **Important:** The chosen cover title font will also be used for arc words at display scale on the website (`16-website-designer-guide.md`). The font selection is a cross-platform decision
 
 ---
@@ -95,7 +95,7 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 
 **The thumbnail test:**
 - Export at 80px height. Can you read the title? Can you identify the genre? Does it look premium? If any answer is no, simplify
-- The electric blue + orange color combination is specifically chosen for screen contrast — both colors pop on dark backgrounds and hold their saturation on backlit displays
+- White text on rich, saturated backgrounds provides strong contrast on all screen types — the combination pops on backlit displays and holds readability at any size
 
 **Dual-scale requirement:**
 - Covers must work at both thumbnail (phone browsing) AND full size (print, bookshelf, flatlay)
@@ -160,50 +160,47 @@ Releasing multiple editions (standard, deluxe, signed, ebook, audiobook) boosts 
 - Plan for future formats: hardcover editions, box sets, audiobook covers, and large-format social media assets
 
 **Format-specific notes:**
-- Ebook: The electric blue title must pop on the Kindle store's white background AND Amazon's dark mode
-- Print: The orange subtitle must hold its warmth in CMYK — test print proofs before final approval
-- Social: 1080x1080 cards should feature the title word and one volume-specific color element — nothing else. Clean, bold, shareable
+- Ebook: The white title must remain crisp and legible on all backgrounds; for Vol 8 (white background), use a contrasting title color or subtle background tint
+- Print: Rich background colors must hold their depth in CMYK — test print proofs before final approval
+- Social: 1080x1080 cards should feature the title word in white on the volume's background color — nothing else. Clean, bold, shareable
 - Gumroad: 1600x900 product images can use 3D mockup style — the cover on a book, not just the flat image
 
 ---
 
 ## Color System
 
-### The Core Palette (Kingfisher-Derived)
+### The Core Palette — Rich Backgrounds with White Typography
 
-| Role | Color | Hex | Usage on Covers |
-|------|-------|-----|-----------------|
-| **Title text** | Electric Blue | `#00BFFF` | All 8 title words — the commanding flash |
-| **Subtitle text** | Orange-Red | `#E25822` | All 8 subtitles — the fiery warmth beneath |
-| **Subtitle alt** | Warm Orange | `#FB9543` | Optional lighter orange for subtitle variation |
-| **Background** | Cream | `#F5F0E1` | All 8 volumes — warm, inviting, safe |
-| **Author name** | Dark Charcoal | `#1A1A1A` | Grounding anchor — clean, legible |
-| **Series line** | Dark Charcoal / Muted | `#1A1A1A` / `#8A8070` | Small, understated framing |
+| Role | Color | Usage on Covers |
+|------|-------|-----------------|
+| **Title text** | White | All 8 title words — clean, commanding, high contrast against rich backgrounds |
+| **Subtitle text** | White | All 8 subtitles — unified with titles for cohesion |
+| **Author name** | White or light cream | Legible against all background colors |
+| **Series line** | White or light cream | Small, understated framing |
+| **Backgrounds** | Blues, greens, browns, dark pink, white | Per-volume color — each volume has its own rich background tone |
 
-> **Web equivalent colors:** The website uses `#0EA5C3` (slightly deeper blue) and `#E0522D` (nearly identical orange) for UI elements. The cover colors above are calibrated for print and thumbnail visibility. See `16-website-designer-guide.md` for the full web color system and how the two calibrations relate.
+> **Design rationale:** White titles and subtitles provide maximum contrast and readability against the rich, varied background colors. The single-word title in white on a saturated or deep background creates a bold, premium look that pops at thumbnail size and feels cohesive as a set.
 
-### Background Approach — Cream with Subtle Arc
+### Background Approach — Rich Color Palette Per Volume
 
-> **Note:** This section has been updated to align with the Bestseller-Driven Cover Strategy (`book-cover-design-strategy.md`), which supersedes the original dark-to-light background progression.
+Each volume has its own **distinctive background color** drawn from a natural, grounded palette of blues, greens, browns, dark pink, and white. The colors progress through the series arc while maintaining shelf cohesion through shared warmth, saturation, and the consistent white typography system.
 
-All 8 volumes use a **cream background** (`#F5F0E1`) as the primary field. This decision was driven by three factors: (1) emotional safety for the target audience, (2) print quality and cost advantages, (3) differentiation from the 79% of bestsellers using white backgrounds. See `book-cover-design-strategy.md` for the full rationale.
+| Vol | Title | Background Color Direction | Mood |
+|:---:|:-----:|---------------------------|------|
+| 1 | **SEE** | Deep blue | Crisis — clarity, stark revelation |
+| 2 | **HEAL** | Warm earthy green | Healing — growth, grounding, hope |
+| 3 | **STAND** | Warm earthy green (similar shade to HEAL) | Authority — grounded, centered, steady |
+| 4 | **LIVE** | Dark pink | Embodiment — presence, vitality, warmth |
+| 5 | **GIVE** | Warm brown | Nurturing — tender, earthy, generational |
+| 6 | **SERVE** | Soft green | Sustainable — clarity of purpose, renewal |
+| 7 | **THRIVE** | Rich green | Abundance — prosperity, expansion |
+| 8 | **BECOME** | White | Transcendence — arrival, wholeness, light |
 
-The transformation arc is expressed through **subtle warmth shifts** in the cream rather than dramatic color changes:
+When shelved together, the books read as a unified set — the varied but harmonious backgrounds create visual interest while the consistent white typography and layout structure tie them together.
 
-| Vol | Title | Background Variation | Mood |
-|:---:|:-----:|---------------------|------|
-| 1 | **SEE** | Pure cream, cool undertone | Crisis — clean, stark clarity |
-| 2 | **HEAL** | Cream with faintest warm blush | Healing — warmth beginning to enter |
-| 3 | **STAND** | Cream, steady and neutral | Authority — grounded, centered |
-| 4 | **LIVE** | Cream with warm golden undertone | Embodiment — presence, radiance |
-| 5 | **GIVE** | Cream with soft amber warmth | Nurturing — tender, earthy |
-| 6 | **SERVE** | Cream, clean and clear | Sustainable — clarity of purpose |
-| 7 | **THRIVE** | Cream with golden luminosity | Abundance — rich, expansive |
-| 8 | **BECOME** | Cream with subtle iridescent warmth | Transcendence — arrival, wholeness |
+**HEAL / STAND pairing:** Volumes 2 and 3 should use **similar shades** of warm earthy green so they read as a natural pair when shelved side by side. These two volumes represent the core healing-to-grounding arc, and their visual closeness reinforces that they belong together.
 
-All backgrounds read as "cream" at a glance, maintaining series cohesion. When shelved together, the progression from cool to warm to luminous tells the arc story subtly.
-
-**Constant across all 8:** Electric blue (`#00BFFF`) titles + orange (`#E25822`) subtitles on cream. The text colors and background unify the series.
+**Constant across all 8:** White titles + white subtitles. The consistent typography color and layout structure unify the series regardless of background variation.
 
 ---
 
@@ -228,16 +225,16 @@ The title word should occupy approximately **40-60% of the cover's horizontal wi
 | Decision | Choice | Rationale |
 |----------|--------|-----------|
 | Cover art style | Typography-dominant / type-as-art | Single-word titles ARE the visual — no imagery needed |
-| Title color | Electric Blue `#00BFFF` | Clarity, breakthrough, the kingfisher flash |
-| Subtitle color | Orange `#E25822` | Fire, transformation, warmth — complementary to blue |
-| Background | Cream `#F5F0E1` with subtle per-volume warmth shifts | Emotional safety, print-friendly, differentiates from 79% white-background pack |
+| Title color | White | Maximum contrast against rich backgrounds, clean and commanding |
+| Subtitle color | White | Unified with titles for series cohesion |
+| Background | Per-volume rich colors (blues, greens, browns, dark pink, white) | Each volume has its own distinctive background; the varied palette creates visual interest while shelf cohesion comes from consistent white typography |
 | Title treatment | Bold, large, ALL CAPS, ~40-60% of cover width | Typography is the hero element — exaggerated scale |
 | AI art | No — human-created only | Values alignment, premium positioning |
 | Photography | No — illustration/abstract only | Industry trend, genre signal |
 | Phone-first | Yes — thumbnail readability is non-negotiable | 91% of Amazon purchases from thumbnails |
 | Genre signal | Sophisticated self-help, not clinical or woo | 1-2 second recognition window |
 | Series cohesion | Same fonts, same text colors, same cream background, same layout | 8 volumes must read as one system |
-| Web alignment | Cover font used for website arc words; cover blue for display-scale text | Readers should feel continuity between book and site |
+| Web alignment | Cover font used for website arc words; per-volume background colors for display-scale elements | Readers should feel continuity between book and site |
 
 ---
 

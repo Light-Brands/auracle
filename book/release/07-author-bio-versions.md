@@ -1,6 +1,6 @@
 # Author Bio Versions
 
-## Jennifer Brooke Lawless
+## Jennifer Brooke Lawless, M.S.
 
 Use these versions across platforms. Each volume has its own back-matter bio that evolves with the reader's journey.
 
@@ -22,7 +22,7 @@ Each volume has a dedicated author bio that matches where the reader is:
 
 *For: Amazon KDP, podcast introductions, event programs*
 
-Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica, where she offers healing sessions through Light Brands and Light Field Institute.
+Jennifer Brooke Lawless, M.S. holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica, where she offers healing sessions through Light Brands and Light Field Institute.
 
 ---
 
@@ -30,7 +30,7 @@ Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Ment
 
 *For: Gumroad, Substack, guest post bylines*
 
-Jennifer Brooke Lawless is a therapeut, writer, and survivor of narcissistic abuse. She holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University, with clinical experience spanning psychiatric care, family systems therapy, and couples work.
+Jennifer Brooke Lawless, M.S. is a therapist, writer, and survivor of narcissistic abuse. She holds degrees in Psychology and Mental Health Counseling, with clinical experience spanning psychiatric care, family systems therapy, and couples work.
 
 Her healing journey led her beyond traditional therapy—through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
@@ -44,7 +44,7 @@ Today, Jennifer lives in Costa Rica surrounded by community, where she offers he
 
 *For: Social media bios, Twitter/X*
 
-Author of See | MS Mental Health Counseling | Helping sensitive adults recognize control & build secure attachment | Costa Rica
+Author of See | M.S. Mental Health Counseling | Helping sensitive adults recognize control & build secure attachment | Costa Rica
 
 ---
 
@@ -52,7 +52,7 @@ Author of See | MS Mental Health Counseling | Helping sensitive adults recognize
 
 *For: Quick podcast introductions*
 
-Jennifer Brooke Lawless is the author of *See*. With degrees in Psychology and Mental Health Counseling—and clinical experience from psychiatric wards to family therapy—she helps emotionally sensitive adults move from survival to sovereign connection. She lives in Costa Rica.
+Jennifer Brooke Lawless, M.S. is the author of *See*. With degrees in Psychology and Mental Health Counseling—and clinical experience from psychiatric wards to family therapy—she helps emotionally sensitive adults move from survival to sovereign connection. She lives in Costa Rica.
 
 ---
 

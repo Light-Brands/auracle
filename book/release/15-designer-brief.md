@@ -2,7 +2,7 @@
 
 ## Complete Cover Design Package for All 8 Volumes
 
-**Author:** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Series:** The Sovereignty Series
 **Volumes:** 8
 **Trim Size:** 6" x 9"
@@ -83,13 +83,13 @@ Each front cover follows this exact structure:
 │    Volume N                             │  ← Volume marker (small)
 │                                         │
 │                                         │
-│    SEE                                  │  ← TITLE (largest, single word, ALL CAPS)
+│    SEE                                  │  ← TITLE (largest, single word, ALL CAPS, WHITE)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle (medium, mixed case)
+│    The Truth That Was Hidden            │  ← Subtitle (medium, mixed case, WHITE)
 │    in Plain Sight                       │
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless              │  ← Author (smallest, legible)
+│    Jennifer Brooke Lawless, M.S.        │  ← Author (smallest, legible)
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -107,7 +107,7 @@ Each front cover follows this exact structure:
 | 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* |
 | 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* |
 
-**Author on all volumes:** Jennifer Brooke Lawless
+**Author on all volumes:** Jennifer Brooke Lawless, M.S.
 
 ### The Two Through-Lines (Designer Should Know)
 
@@ -130,7 +130,7 @@ Each front cover follows this exact structure:
 Standard spine format for each volume:
 
 ```
-SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless, M.S.
 ```
 
 When all 8 spines are shelved together, the titles read:
@@ -288,7 +288,7 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 ### Back Cover Author Bio (Short — for all volumes)
 
-> **Jennifer Brooke Lawless** holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica.
+> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica.
 
 ### Back Cover Connect Info
 
@@ -339,33 +339,39 @@ The series moves from dark (crisis/recognition) through grounded tones (healing)
 | Vol | Title | Palette Direction | Emotional Arc |
 |:---:|:-----:|-------------------|---------------|
 | 1 | SEE | Dark — charcoal, deep gold | Crisis, decoding, revelation |
-| 2 | HEAL | Grounding — teal, warm copper | Healing, crossing over, hope |
-| 3 | STAND | Authoritative — navy, silver | Stability, groundedness, stillness |
+| 2 | HEAL | Grounding — warm teal, earthy copper | Healing, crossing over, hope |
+| 3 | STAND | Grounding — warm teal, muted copper | Stability, groundedness, stillness |
 | 4 | LIVE | Radiant — plum, rose gold | Embodiment, presence, warmth |
 | 5 | GIVE | Warm — earth tones, amber | Nurturing, generational, tender |
 | 6 | SERVE | Clean — sage, warm white | Sustainable, clear, purposeful |
 | 7 | THRIVE | Abundant — rich green, gold | Prosperity, joy, expansion |
 | 8 | BECOME | Transcendent — white, iridescent, light gold | Integration, wholeness, arrival |
 
-### Alternative Palette Idea: Kingfisher Colors
+### Finalized Palette Direction: Rich Backgrounds with White Typography
 
-As an additional source of inspiration, consider the colors of the kingfisher bird. The kingfisher's plumage offers a striking, nature-derived palette that could work beautifully across the series — moving from the darker, grounded tones to the more electric, transcendent ones:
+The series uses a palette of **blues, greens, browns, dark pink, and white** as per-volume background colors, with **white titles and subtitles** across all volumes. This creates bold contrast, strong shelf presence, and a cohesive set when the 8 spines are lined up together.
 
-| Color | Hex (Approx.) | Character |
-|-------|---------------|-----------|
-| **Cream** | #F5F0E1 | Soft, warm, grounding — subtitles, backgrounds, breathing room |
-| **Black** | #1A1A1A | Depth, authority, contrast — strong anchoring for early volumes |
-| **Indigo** | #2E0854 | Mystery, sovereignty, inner knowing — rich and regal |
-| **Electric light blue** | #00BFFF | Clarity, breakthrough, illumination — vivid and alive |
-| **Orangey-red** | #E25822 | Fire, transformation, life force — warmth with intensity |
+| Background Color Family | Character | Suggested Volumes |
+|------------------------|-----------|-------------------|
+| **Deep blue** | Clarity, revelation, depth | Vol 1 (SEE) |
+| **Warm earthy green** | Growth, grounding, healing | Vol 2 (HEAL), Vol 3 (STAND) — similar shades |
+| **Dark pink** | Vitality, embodiment, warmth | Vol 4 (LIVE) |
+| **Warm brown** | Nurturing, earth, tenderness | Vol 5 (GIVE) |
+| **Soft green** | Renewal, clarity of purpose | Vol 6 (SERVE) |
+| **Rich green** | Abundance, prosperity, expansion | Vol 7 (THRIVE) |
+| **White** | Transcendence, arrival, wholeness | Vol 8 (BECOME) |
 
-These five colors together carry the full arc of the series — from crisis (black) through deep inner work (indigo) to clarity (electric blue) and embodied vitality (orangey-red), with cream holding the space throughout. The designer could use them as a unified palette across all eight volumes or draw selectively from them to complement the per-volume progression suggested above.
+White titles and subtitles provide maximum readability against all background colors and unify the series as a set. The varied backgrounds carry the emotional arc from dark to light.
 
 ### Another Inspiration: lightfield.institute
 
 The website [lightfield.institute](https://lightfield.institute) has a color palette worth exploring for mood and tone. Their palette centers on teal (#14b8a6) and blue (#3b82f6), with a primary gradient that sweeps from teal to blue at 135 degrees. They also use a "spiritual gradient" that moves from teal through purple (#a855f7) to amber (#f59e0b). The backgrounds are deep near-black (#0a0f0f in dark mode) with soft neutral grays for text, pairing Cormorant Garamond (serif) with Inter (sans-serif). The overall effect is contemplative, luminous, and grounded without being clinical. It carries a sense of quiet authority and inner radiance that aligns well with the themes of this series. Not a directive — just a reference point the designer might find useful for feel and atmosphere.
 
 ---
+
+### HEAL / STAND Shelf Pairing
+
+Volumes 2 (HEAL) and 3 (STAND) should use **similar shades** — close in tone, warmth, and palette so they read as a natural pair when shelved side by side. These two volumes represent the core healing-to-grounding arc, and their visual similarity reinforces that they belong together.
 
 ### Required Series Cohesion
 
@@ -483,6 +489,78 @@ mockup-bundle-complete-series.png
 vol1-see-source.[psd/ai]
 vol2-heal-source.[psd/ai]
 ... (etc.)
+```
+
+---
+
+## Companion Workbook Covers (x8)
+
+Each volume has an accompanying **companion workbook**. The workbook covers should look like the main volume covers — same background color, same typography, same layout — with a clear visual marker denoting it as a companion workbook.
+
+### Workbook Cover Requirements
+
+- **Identical design to the main volume cover** — same background color, same title treatment, same layout structure
+- **Add a "Companion Workbook" designation** — placed below the subtitle or in the series line area, clearly visible but secondary to the title
+- **Same white title and subtitle text** as the main covers
+- **Same author name:** Jennifer Brooke Lawless, M.S.
+
+### Suggested Workbook Designation Treatment
+
+```
+┌─────────────────────────────────────────┐
+│                                         │
+│    The Sovereignty Series               │  ← Series name (small)
+│    Volume N                             │  ← Volume marker (small)
+│                                         │
+│                                         │
+│    SEE                                  │  ← TITLE (same as main cover)
+│                                         │
+│    The Truth That Was Hidden            │  ← Subtitle (same as main cover)
+│    in Plain Sight                       │
+│                                         │
+│    ── Companion Workbook ──             │  ← Workbook designation (white, small,
+│                                         │     with decorative rules or lighter weight)
+│                                         │
+│    Jennifer Brooke Lawless, M.S.        │  ← Author
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+**Design notes:**
+- The workbook designation should be subtle enough that the cover still reads as part of the series, but clear enough that it's obviously a workbook and not the main volume
+- Consider using a lighter font weight, smaller size, or a decorative rule above and below "Companion Workbook" to differentiate
+- When shelved together (main volume + workbook side by side), they should look like a matched pair
+- The spine should also include "Companion Workbook" or "Workbook" after the title
+
+### Workbook Deliverables Per Volume (x8)
+
+| Deliverable | Format | Dimensions | Purpose |
+|-------------|--------|------------|---------|
+| **Ebook front cover** | JPEG or TIFF, RGB, 300 DPI | 2560 x 1600 px | Amazon Kindle + Gumroad |
+| **Paperback full wrap** | PDF, CMYK, 300 DPI | Same formula as main volumes | Amazon KDP Print |
+
+### Workbook File Naming Convention
+
+```
+# Ebook Covers
+vol1-see-workbook-cover-ebook-2560x1600.jpg
+vol2-heal-workbook-cover-ebook-2560x1600.jpg
+vol3-stand-workbook-cover-ebook-2560x1600.jpg
+vol4-live-workbook-cover-ebook-2560x1600.jpg
+vol5-give-workbook-cover-ebook-2560x1600.jpg
+vol6-serve-workbook-cover-ebook-2560x1600.jpg
+vol7-thrive-workbook-cover-ebook-2560x1600.jpg
+vol8-become-workbook-cover-ebook-2560x1600.jpg
+
+# Paperback Full Wraps
+vol1-see-workbook-cover-print-fullwrap.pdf
+vol2-heal-workbook-cover-print-fullwrap.pdf
+vol3-stand-workbook-cover-print-fullwrap.pdf
+vol4-live-workbook-cover-print-fullwrap.pdf
+vol5-give-workbook-cover-print-fullwrap.pdf
+vol6-serve-workbook-cover-print-fullwrap.pdf
+vol7-thrive-workbook-cover-print-fullwrap.pdf
+vol8-become-workbook-cover-print-fullwrap.pdf
 ```
 
 ---
