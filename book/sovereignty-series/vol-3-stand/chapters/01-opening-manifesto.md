@@ -1,6 +1,6 @@
 # Chapter 1: The Opening Manifesto
 
-## The Ground That Was Always Yours
+## Building Boundaries, Internal Authority, and Self-Trust After Trauma
 
 ---
 

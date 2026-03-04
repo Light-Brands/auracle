@@ -1,6 +1,6 @@
 # Front Matter
 
-## Volume 6: Serve — The Light That Doesn't Consume
+## Volume 6: Serve — Sustainable Helping Without Burnout for Trauma-Informed Guides
 
 > *A Guide for Those Called to Help Others on This Path*
 

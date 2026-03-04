@@ -1,6 +1,6 @@
 # Thrive
 
-## The Life You Were Told You Couldn't Have
+## Financial Recovery, Career Rebuilding, and Prosperity After Abuse
 
 > *A Guide for Those Ready to Thrive, Not Just Survive*
 

@@ -1,6 +1,6 @@
 # Front Matter
 
-## Volume 5: Give — The Chain That Ends With You
+## Volume 5: Give — Conscious Parenting and Breaking Generational Trauma Cycles
 
 > *A Guide for Those Ready to Give Their Children What They Never Received*
 

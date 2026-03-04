@@ -1,6 +1,6 @@
 # Course 8: Become
 
-## The Self That Was Never Lost — Becoming the Version You Were Always Meant to Be
+## Integration, Identity, and Stepping Into Your Whole Self — Becoming the Version You Were Always Meant to Be
 
 ---
 
@@ -154,21 +154,21 @@ The life you came here to live. The series complete.
 ## The Complete Sovereignty Arc
 
 ```
-Course 1: SEE       → See: The Truth That Was Hidden in Plain Sight
+Course 1: SEE       → See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work
          ↓
-Course 2: HEAL      → Heal: The Body That Remembers the Way Home
+Course 2: HEAL      → Heal: Nervous System Recovery and Attachment Repair After Narcissistic Abuse
          ↓
-Course 3: STAND     → Stand: The Ground That Was Always Yours
+Course 3: STAND     → Stand: Building Boundaries, Internal Authority, and Self-Trust After Trauma
          ↓
-Course 4: LIVE      → Live: The Presence That Changes Everything
+Course 4: LIVE      → Live: Reclaiming Presence, Intimacy, and Embodied Leadership
          ↓
-Course 5: GIVE      → Give: The Chain That Ends With You
+Course 5: GIVE      → Give: Conscious Parenting and Breaking Generational Trauma Cycles
          ↓
-Course 6: SERVE     → Serve: The Light That Doesn't Consume
+Course 6: SERVE     → Serve: Sustainable Helping Without Burnout for Trauma-Informed Guides
          ↓
-Course 7: THRIVE    → Thrive: The Life You Were Told You Couldn't Have
+Course 7: THRIVE    → Thrive: Financial Recovery, Career Rebuilding, and Prosperity After Abuse
          ↓
-Course 8: BECOME    → Become: The Self That Was Never Lost
+Course 8: BECOME    → Become: Integration, Identity, and Stepping Into Your Whole Self
 
 Total: ~80 hours | 195 lessons | 8 transformational courses
 ```

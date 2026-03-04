@@ -1,6 +1,6 @@
 # Course 4: Live
 
-## The Presence That Changes Everything — Aura, Erotic Coherence & Living From Presence
+## Reclaiming Presence, Intimacy, and Embodied Leadership — Aura, Erotic Coherence & Living From Presence
 
 ---
 

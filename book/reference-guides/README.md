@@ -77,7 +77,7 @@ BECOME  (Vol 8) → Embody the infinite self
 → **[Volume 7 Guide](./vol-7-quick-reference.md)**: Scarcity Nervous System, Financial Sovereignty, Wealth Without Guilt
 
 ### If You're Ready for Full Integration
-→ **[Volume 8 Guide](./vol-8-quick-reference.md)**: Trust vs Management, The Whisper Beneath Thought, The Self That Was Never Lost
+→ **[Volume 8 Guide](./vol-8-quick-reference.md)**: Trust vs Management, The Whisper Beneath Thought, Integration, Identity, and Stepping Into Your Whole Self
 
 ---
 
@@ -138,13 +138,13 @@ Share individual guides with others who might benefit. These summaries stand alo
 
 These guides are companions to the complete books. For the full teachings, stories, exercises, and deep dives:
 
-- **Volume 1:** *See: The Truth That Was Hidden in Plain Sight*
-- **Volume 2:** *Heal: The Body That Remembers the Way Home*
+- **Volume 1:** *See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
+- **Volume 2:** *Heal: Nervous System Recovery and Attachment Repair After Narcissistic Abuse*
 - **Volume 3:** *Sovereignty: Living From Internal Authority*
 - **Volume 4:** *Embodied Leadership: Aura, Erotic Coherence & Living From Presence*
-- **Volume 5:** *Give: The Chain That Ends With You*
-- **Volume 6:** *Serve: The Light That Doesn't Consume*
-- **Volume 7:** *Thrive: The Life You Were Told You Couldn't Have*
+- **Volume 5:** *Give: Conscious Parenting and Breaking Generational Trauma Cycles*
+- **Volume 6:** *Serve: Sustainable Helping Without Burnout for Trauma-Informed Guides*
+- **Volume 7:** *Thrive: Financial Recovery, Career Rebuilding, and Prosperity After Abuse*
 - **Volume 8:** *Quantum You: Becoming the Version You Were Always Meant to Be*
 
 ---

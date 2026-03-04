@@ -78,9 +78,9 @@ This book is Volume 3 of an eight-volume series:
 
 | Volume | Title | Core Question |
 |--------|-------|---------------|
-| **1** | See — The Truth That Was Hidden in Plain Sight | *What is happening to me?* |
-| **2** | Heal — The Body That Remembers the Way Home | *Why did this shape me — and how do I cross out of it?* |
-| **3** | Stand — The Ground That Was Always Yours | *Who am I when I stop shrinking?* |
+| **1** | See — Recognizing Narcissistic Manipulation in Relationships, Family, and Work | *What is happening to me?* |
+| **2** | Heal — Nervous System Recovery and Attachment Repair After Narcissistic Abuse | *Why did this shape me — and how do I cross out of it?* |
+| **3** | Stand — Building Boundaries, Internal Authority, and Self-Trust After Trauma | *Who am I when I stop shrinking?* |
 
 Each volume builds on the previous. You can read this book alone, but you will go deeper if you've completed Volume 2 first.
 

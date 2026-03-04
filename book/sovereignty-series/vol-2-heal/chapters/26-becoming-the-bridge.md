@@ -302,7 +302,7 @@ This book has taken you from insight to embodiment. From survival to regulation.
 
 What comes next is living it.
 
-**Volume 3: Stand — The Ground That Was Always Yours** continues this journey:
+**Volume 3: Stand — Building Boundaries, Internal Authority, and Self-Trust After Trauma** continues this journey:
 
 - Installing internal authority fully
 - Aura boundaries and field regulation

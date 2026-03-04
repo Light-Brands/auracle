@@ -2,7 +2,7 @@
 
 ## By Jennifer Brooke Lawless, M.S.
 
-### A Free Resource for Readers of *The Truth That Was Hidden in Plain Sight*
+### A Free Resource for Readers of *Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
 
 ---
 

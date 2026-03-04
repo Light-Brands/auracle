@@ -1,6 +1,6 @@
 # Course 1: You Were Never Crazy
 
-## See: The Truth That Was Hidden in Plain Sight — A Course in Pattern Recognition
+## See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work — A Course in Pattern Recognition
 
 ---
 

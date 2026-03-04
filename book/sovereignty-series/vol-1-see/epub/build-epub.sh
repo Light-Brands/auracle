@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Build EPUB for Vol 1: See - The Truth That Was Hidden in Plain Sight
+# Build EPUB for Vol 1: See - Recognizing Narcissistic Manipulation in Relationships, Family, and Work
 #
 # Usage: bash build-epub.sh
 #

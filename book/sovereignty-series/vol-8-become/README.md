@@ -1,6 +1,6 @@
 # Become
 
-## The Self That Was Never Lost
+## Integration, Identity, and Stepping Into Your Whole Self
 
 ---
 

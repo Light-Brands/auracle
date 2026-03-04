@@ -98,14 +98,14 @@ Each front cover follows this exact structure:
 
 | Vol | Title | Subtitle |
 |:---:|:-----:|----------|
-| 1 | **SEE** | *The Truth That Was Hidden in Plain Sight* |
-| 2 | **HEAL** | *The Body That Remembers the Way Home* |
-| 3 | **STAND** | *The Ground That Was Always Yours* |
-| 4 | **LIVE** | *The Presence That Changes Everything* |
-| 5 | **GIVE** | *The Chain That Ends With You* |
-| 6 | **SERVE** | *The Light That Doesn't Consume* |
-| 7 | **THRIVE** | *The Life You Were Told You Couldn't Have* |
-| 8 | **BECOME** | *The Self That Was Never Lost* |
+| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* |
+| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* |
+| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* |
+| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* |
+| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* |
+| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* |
+| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* |
+| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* |
 
 **Author on all volumes:** Jennifer Brooke Lawless
 
@@ -130,7 +130,7 @@ Each front cover follows this exact structure:
 Standard spine format for each volume:
 
 ```
-SEE  |  The Truth That Was Hidden in Plain Sight  |  Jennifer Brooke Lawless
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
 ```
 
 When all 8 spines are shelved together, the titles read:

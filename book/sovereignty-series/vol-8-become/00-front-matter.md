@@ -1,6 +1,6 @@
 # Front Matter
 
-## Become: The Self That Was Never Lost
+## Become: Integration, Identity, and Stepping Into Your Whole Self
 
 ---
 
