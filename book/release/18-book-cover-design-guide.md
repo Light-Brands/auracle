@@ -41,16 +41,18 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 - The single-word title is the **hero element** of every cover
 - Set bold and large — it should command the cover at any size
 - Title in **White** — clean, commanding, maximum contrast against rich backgrounds
-- Subtitle in **White** — unified with titles for series cohesion
+- Subtitle in **off-white / warm white** — slightly softer than the title, creating hierarchy
+- **Subtle gold accents** — thin rules, small decorative marks, or accent details that add warmth and premium feel
 - The title must be readable at 80px height (mobile thumbnail browsing)
 - Same font family across all 8 volumes — non-negotiable
 - **All 8 titles must be the same size** — equal visual weight across every cover, regardless of character count. SEE, HEAL, STAND, LIVE, GIVE, SERVE, THRIVE, and BECOME should all occupy the same scale on their respective covers
 
 **The color logic:**
 - **White titles** on rich, saturated backgrounds create bold contrast — the single word commands attention at any scale
-- **White subtitles** maintain the clean, unified look — no competition between text colors
+- **Off-white subtitles** sit just below the title in visual hierarchy — present but not competing
+- **Subtle gold accents** add warmth and premium quality — the gold connects to the series' themes of sovereignty and inner value
 - The per-volume background colors (blues, greens, browns, dark pink, white) carry the emotional arc and series progression
-- White text on varied backgrounds is the unifying constant that makes 8 different covers read as one set
+- White/off-white text on varied backgrounds is the unifying constant that makes 8 different covers read as one set
 
 **Typography hierarchy (all 8 volumes):**
 
@@ -64,11 +66,13 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 │    SEE                                  │  ← TITLE — BOLD, LARGE, WHITE
 │                                         │     ALL CAPS, single word
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle — WHITE, medium weight
+│    ──────────────────────               │  ← Subtle gold accent rule (optional)
+│                                         │
+│    The Truth That Was Hidden            │  ← Subtitle — OFF-WHITE, medium weight
 │    in Plain Sight                       │     Mixed case, italic or light
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author (small, legible, white or light cream)
+│    Jennifer Brooke Lawless, M.S.        │  ← Author (small, legible, off-white)
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -175,12 +179,13 @@ Releasing multiple editions (standard, deluxe, signed, ebook, audiobook) boosts 
 | Role | Color | Usage on Covers |
 |------|-------|-----------------|
 | **Title text** | White | All 8 title words — clean, commanding, high contrast against rich backgrounds |
-| **Subtitle text** | White | All 8 subtitles — unified with titles for cohesion |
-| **Author name** | White or light cream | Legible against all background colors |
-| **Series line** | White or light cream | Small, understated framing |
+| **Subtitle text** | Off-white / warm white | All 8 subtitles — slightly softer than titles, creating hierarchy |
+| **Author name** | Off-white / warm white | Secondary text — legible against all background colors |
+| **Series line** | Off-white / warm white | Small, understated framing |
+| **Gold accents** | Subtle gold | Decorative elements — rules, dividers, or small accent details that add warmth and premium feel |
 | **Backgrounds** | Blues, greens, browns, dark pink, white | Per-volume color — each volume has its own rich background tone |
 
-> **Design rationale:** White titles and subtitles provide maximum contrast and readability against the rich, varied background colors. The single-word title in white on a saturated or deep background creates a bold, premium look that pops at thumbnail size and feels cohesive as a set.
+> **Design rationale:** White titles command the cover with maximum contrast. Subtitles and secondary text in a softer off-white create natural visual hierarchy without introducing a competing color. Subtle gold accents add warmth and a premium, handcrafted quality — think thin rules, small decorative marks, or accent details rather than large gold elements. The gold should whisper, not shout.
 
 ### Background Approach — Rich Color Palette Per Volume
 
@@ -199,7 +204,7 @@ Each volume has its own **distinctive background color** drawn from a natural, g
 
 When shelved together, the books read as a unified set — the varied but harmonious backgrounds create visual interest while the consistent white typography and layout structure tie them together.
 
-**Constant across all 8:** White titles + white subtitles. The consistent typography color and layout structure unify the series regardless of background variation.
+**Constant across all 8:** White titles + off-white subtitles + subtle gold accents. The consistent typography and accent system unify the series regardless of background variation.
 
 ---
 
@@ -225,7 +230,8 @@ The title word should occupy approximately **40-60% of the cover's horizontal wi
 |----------|--------|-----------|
 | Cover art style | Typography-dominant / type-as-art | Single-word titles ARE the visual — no imagery needed |
 | Title color | White | Maximum contrast against rich backgrounds, clean and commanding |
-| Subtitle color | White | Unified with titles for series cohesion |
+| Subtitle color | Off-white / warm white | Softer than title — creates visual hierarchy |
+| Accent | Subtle gold | Thin rules, small decorative marks — warmth and premium feel |
 | Background | Per-volume rich colors (blues, greens, browns, dark pink, white) | Each volume has its own distinctive background; the varied palette creates visual interest while shelf cohesion comes from consistent white typography |
 | Title treatment | Bold, large, ALL CAPS, ~40-60% of cover width | Typography is the hero element — exaggerated scale |
 | AI art | No — human-created only | Values alignment, premium positioning |

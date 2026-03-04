@@ -85,7 +85,7 @@ Each front cover follows this exact structure:
 │                                         │
 │    SEE                                  │  ← TITLE (largest, single word, ALL CAPS, WHITE)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle (medium, mixed case, WHITE)
+│    The Truth That Was Hidden            │  ← Subtitle (medium, mixed case, OFF-WHITE)
 │    in Plain Sight                       │
 │                                         │
 │                                         │
@@ -376,6 +376,7 @@ These elements must be consistent across all 8 covers:
 - Same font family for titles
 - Same font family for subtitles
 - **All 8 titles must be the same size** — equal visual weight across every cover, regardless of character count
+- **White titles, off-white/warm white subtitles and secondary text, subtle gold accents**
 - Consistent layout structure (title position, author placement, series line position)
 - "The Sovereignty Series" + volume number on each
 - Single-word title as the dominant visual element — this is the brand

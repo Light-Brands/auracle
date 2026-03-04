@@ -166,9 +166,10 @@ From **external recognition** (truth) through **somatic healing** (body) to **re
 ### Typography Hierarchy
 
 1. **TITLE** — Largest, most prominent. ALL CAPS. White. Single word — maximum visual impact.
-2. **Subtitle** — Medium size, italic or lighter weight. White. Mixed case. "The [noun] that [clause]" structure.
-3. **Series/Volume line** — Small, white or light cream, consistent across all 8 covers.
-4. **Author name** — Smallest but clearly legible. White or light cream. Consider ALL CAPS.
+2. **Subtitle** — Medium size, italic or lighter weight. Off-white / warm white. Mixed case. "The [noun] that [clause]" structure.
+3. **Series/Volume line** — Small, off-white / warm white, consistent across all 8 covers.
+4. **Author name** — Smallest but clearly legible. Off-white / warm white. Consider ALL CAPS.
+5. **Accent details** — Subtle gold. Thin rules, dividers, or small decorative marks that add warmth and premium feel.
 
 ### Spine Text (Paperback)
 
