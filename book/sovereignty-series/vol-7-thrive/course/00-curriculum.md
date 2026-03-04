@@ -1,6 +1,6 @@
-# Course 7: The Return
+# Course 7: Thrive
 
-## Money, Work & Building a Life After Survival Mode
+## Financial Recovery, Career Rebuilding, and Prosperity After Abuse
 
 ---
 

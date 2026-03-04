@@ -1,6 +1,6 @@
 # Course 5: Give
 
-## Conscious Parenting and Breaking Generational Trauma Cycles — Parenting After Trauma
+## Conscious Parenting and Breaking Generational Trauma Cycles
 
 ---
 

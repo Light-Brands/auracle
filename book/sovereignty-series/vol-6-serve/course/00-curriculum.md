@@ -1,6 +1,6 @@
-# Course 6: The Guide
+# Course 6: Serve
 
-## Holding Others' Healing Without Losing Your Own
+## Sustainable Helping Without Burnout for Trauma-Informed Guides
 
 ---
 
