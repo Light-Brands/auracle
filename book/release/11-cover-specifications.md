@@ -109,9 +109,9 @@ Consider warm, earthy green tones that suggest healing and growth:
 
 **Volume 3: Stand** — Empowerment
 
-Use a **similar shade to HEAL** — these two volumes should read as a pair on the shelf:
+Designer's choice — distinct from HEAL's green:
 
-- Primary: Warm earthy green (similar shade to Vol 2) — suggests steady grounding
+- Primary: Designer's choice — suggests stability, authority, grounding
 - Text: White — clean contrast
 - Mood: Stillness, authority, groundedness
 
@@ -130,7 +130,6 @@ Consider dark pink tones that suggest vitality and embodied presence:
 - "The Sovereignty Series" subtitle on each
 - Single-word title dominates each cover — this is the brand
 - Volume number in consistent position
-- HEAL and STAND use similar shades to read as a pair on the shelf
 
 ---
 

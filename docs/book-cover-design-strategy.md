@@ -2,7 +2,7 @@
 
 ## Bestseller-Driven Approach: Exaggerated Typography + The Kingfisher Palette
 
-> **Update (2026-03-04):** The finalized cover palette has evolved from the original Kingfisher-derived electric blue + orange + cream approach described below. The final covers use **rich per-volume background colors** (blues, greens, browns, dark pink, and white) with **white titles and subtitles** across all 8 volumes. HEAL and STAND use similar shades of warm earthy green. See `18-book-cover-design-guide.md` and `15-designer-brief.md` for the current direction.
+> **Update (2026-03-04):** The finalized cover palette has evolved from the original Kingfisher-derived electric blue + orange + cream approach described below. The final covers use **rich per-volume background colors** (blues, greens, browns, dark pink, and white) with **white titles and subtitles** across all 8 volumes. Each volume has its own distinct background color. See `18-book-cover-design-guide.md` and `15-designer-brief.md` for the current direction.
 
 **Date:** 2026-02-22
 **Series:** The Sovereignty Series (8 volumes)
@@ -196,7 +196,7 @@ The orange subtitle is the constant accent. To mark the emotional arc of the ser
 |:---:|:-----:|-----------------|-----------|
 | 1 | SEE | Deep blue | Crisis — clarity, stark revelation |
 | 2 | HEAL | Warm earthy green | Healing — growth, grounding, hope |
-| 3 | STAND | Warm earthy green (similar shade to HEAL) | Authority — grounded, centered, steady |
+| 3 | STAND | Designer's choice | Authority — grounded, centered, steady |
 | 4 | LIVE | Dark pink | Embodiment — vitality, presence, warmth |
 | 5 | GIVE | Warm brown | Nurturing — tender, earthy, generational |
 | 6 | SERVE | Soft green | Sustainable — clarity of purpose, renewal |

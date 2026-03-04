@@ -340,7 +340,7 @@ The series moves from dark (crisis/recognition) through grounded tones (healing)
 |:---:|:-----:|-------------------|---------------|
 | 1 | SEE | Dark — charcoal, deep gold | Crisis, decoding, revelation |
 | 2 | HEAL | Grounding — warm teal, earthy copper | Healing, crossing over, hope |
-| 3 | STAND | Grounding — warm teal, muted copper | Stability, groundedness, stillness |
+| 3 | STAND | Grounding — warm brown, muted copper | Stability, groundedness, stillness |
 | 4 | LIVE | Radiant — plum, rose gold | Embodiment, presence, warmth |
 | 5 | GIVE | Warm — earth tones, amber | Nurturing, generational, tender |
 | 6 | SERVE | Clean — sage, warm white | Sustainable, clear, purposeful |
@@ -354,7 +354,8 @@ The series uses a palette of **blues, greens, browns, dark pink, and white** as 
 | Background Color Family | Character | Suggested Volumes |
 |------------------------|-----------|-------------------|
 | **Deep blue** | Clarity, revelation, depth | Vol 1 (SEE) |
-| **Warm earthy green** | Growth, grounding, healing | Vol 2 (HEAL), Vol 3 (STAND) — similar shades |
+| **Warm earthy green** | Growth, grounding, healing | Vol 2 (HEAL) |
+| **Warm brown** | Stability, authority, earth | Vol 3 (STAND) |
 | **Dark pink** | Vitality, embodiment, warmth | Vol 4 (LIVE) |
 | **Warm brown** | Nurturing, earth, tenderness | Vol 5 (GIVE) |
 | **Soft green** | Renewal, clarity of purpose | Vol 6 (SERVE) |
@@ -369,15 +370,12 @@ The website [lightfield.institute](https://lightfield.institute) has a color pal
 
 ---
 
-### HEAL / STAND Shelf Pairing
-
-Volumes 2 (HEAL) and 3 (STAND) should use **similar shades** — close in tone, warmth, and palette so they read as a natural pair when shelved side by side. These two volumes represent the core healing-to-grounding arc, and their visual similarity reinforces that they belong together.
-
 ### Required Series Cohesion
 
 These elements must be consistent across all 8 covers:
 - Same font family for titles
 - Same font family for subtitles
+- **All 8 titles must be the same size** — equal visual weight across every cover, regardless of character count
 - Consistent layout structure (title position, author placement, series line position)
 - "The Sovereignty Series" + volume number on each
 - Single-word title as the dominant visual element — this is the brand

@@ -190,7 +190,7 @@ The series should move from darker tones (recognition, crisis) to lighter/warmer
 |:---:|:-----:|---------------------------|
 | 1 | SEE | Deep blue — clarity, revelation |
 | 2 | HEAL | Warm earthy green — growth, grounding |
-| 3 | STAND | Warm earthy green (similar shade to HEAL) — steady, centered |
+| 3 | STAND | Designer's choice — steady, centered |
 | 4 | LIVE | Dark pink — vitality, embodiment |
 | 5 | GIVE | Warm brown — nurturing, earth |
 | 6 | SERVE | Soft green — renewal, purpose |
@@ -199,14 +199,11 @@ The series should move from darker tones (recognition, crisis) to lighter/warmer
 
 **Title and subtitle text:** White across all 8 volumes for maximum contrast and series cohesion.
 
-### HEAL / STAND Shelf Pairing
-
-Volumes 2 (HEAL) and 3 (STAND) should use **similar shades** — close in tone, warmth, and palette so they read as a natural pair when shelved side by side. These two volumes represent the core healing-to-grounding arc, and their visual similarity reinforces that they belong together. The designer should treat them as a tonal pair within the broader series progression.
-
 ### Series Cohesion Requirements
 
 - Same font family across all 8 covers
-- Consistent gold accent color on all volumes
+- **All 8 titles must be the same size** — equal visual weight regardless of character count
+- White titles and subtitles across all volumes
 - Identical layout structure (title position, author placement)
 - "The Sovereignty Series" subtitle on each
 - Volume number in consistent position

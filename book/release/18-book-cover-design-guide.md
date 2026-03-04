@@ -44,6 +44,7 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 - Subtitle in **White** — unified with titles for series cohesion
 - The title must be readable at 80px height (mobile thumbnail browsing)
 - Same font family across all 8 volumes — non-negotiable
+- **All 8 titles must be the same size** — equal visual weight across every cover, regardless of character count. SEE, HEAL, STAND, LIVE, GIVE, SERVE, THRIVE, and BECOME should all occupy the same scale on their respective covers
 
 **The color logic:**
 - **White titles** on rich, saturated backgrounds create bold contrast — the single word commands attention at any scale
@@ -189,7 +190,7 @@ Each volume has its own **distinctive background color** drawn from a natural, g
 |:---:|:-----:|---------------------------|------|
 | 1 | **SEE** | Deep blue | Crisis — clarity, stark revelation |
 | 2 | **HEAL** | Warm earthy green | Healing — growth, grounding, hope |
-| 3 | **STAND** | Warm earthy green (similar shade to HEAL) | Authority — grounded, centered, steady |
+| 3 | **STAND** | Designer's choice | Authority — grounded, centered, steady |
 | 4 | **LIVE** | Dark pink | Embodiment — presence, vitality, warmth |
 | 5 | **GIVE** | Warm brown | Nurturing — tender, earthy, generational |
 | 6 | **SERVE** | Soft green | Sustainable — clarity of purpose, renewal |
@@ -197,8 +198,6 @@ Each volume has its own **distinctive background color** drawn from a natural, g
 | 8 | **BECOME** | White | Transcendence — arrival, wholeness, light |
 
 When shelved together, the books read as a unified set — the varied but harmonious backgrounds create visual interest while the consistent white typography and layout structure tie them together.
-
-**HEAL / STAND pairing:** Volumes 2 and 3 should use **similar shades** of warm earthy green so they read as a natural pair when shelved side by side. These two volumes represent the core healing-to-grounding arc, and their visual closeness reinforces that they belong together.
 
 **Constant across all 8:** White titles + white subtitles. The consistent typography color and layout structure unify the series regardless of background variation.
 
