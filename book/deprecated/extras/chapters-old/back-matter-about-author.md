@@ -44,7 +44,7 @@ What followed was a three-year quest across the globe in search of spiritual com
 
 **Costa Rica & Mexico** — Where she found her spiritual home
 
-The turning point came when she met **Diego Dosal Stieglitz**, visionary spiritual leader and co-creator of transformative experiences at Zunya, Amate events, and the Ekah Collective. Diego introduced her to **Angelina Ataide** (Angel), founder of **Escola da Aura**.
+The turning point came when she met **G**, visionary spiritual leader and co-creator of transformative experiences at Zunya, Amate events, and the Ekah Collective. G introduced her to **Angelina Ataide** (Angel), founder of **Escola da Aura**.
 
 In that moment, Jennifer's path became crystal clear. She had found the modality that would become her life's work.
 
@@ -79,7 +79,7 @@ Jennifer's journey with Escola da Aura has taken her deep into the practice of a
 
 ## Living in Community
 
-Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (their tech wizard), and is neighbors with Diego, Karlita (an incredible chef), and their family. Angelina, Dara, and Peggy are also part of the community.
+Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (their tech wizard), and is neighbors with G, Karlita (an incredible chef), and their family. Angelina, Dara, and Peggy are also part of the community.
 
 Living in community starts with an open heart, and Jennifer is grateful every day for the soul family that surrounds her—including the howler monkeys.
 

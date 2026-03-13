@@ -78,11 +78,11 @@ This was where I learned to think freely and reconnect with natural rhythms.
 
 ### Costa Rica & Mexico: Finding My Path
 
-The turning point came when I met **Diego Dosal Stieglitz**, visionary spiritual leader from Mexican high society and founder of Zunya, Costa Rica.
+The turning point came when I met **G**, visionary spiritual leader from Mexican high society and founder of Zunya, Costa Rica.
 
-Diego introduced me to **Angelina Ataíde** (affectionately known as Angel), a Portuguese spiritual teacher and founder of **Escola da Aura**, centered in the chapadas region of Brazil. In that moment, my path became crystal clear. I had found my spiritual home and the modality that would become my life's work.
+G introduced me to **Angelina Ataíde** (affectionately known as Angel), a Portuguese spiritual teacher and founder of **Escola da Aura**, centered in the chapadas region of Brazil. In that moment, my path became crystal clear. I had found my spiritual home and the modality that would become my life's work.
 
-I also experienced powerful **Transitions** events in Mexico with Diego—immersive experiences that facilitated profound shadow work and transformation.
+I also experienced powerful **Transitions** events in Mexico with G—immersive experiences that facilitated profound shadow work and transformation.
 
 ---
 
@@ -127,7 +127,7 @@ Living in community starts with an open heart, and I'm grateful every day for th
 
 ### Transformative Events
 
-Together, Diego (coach), Karlita (chef), Daniel (tech), and I host transformative soul events at Zunya, Costa Rica. These experiences combine energy healing, immersive meditation, aura readings, gourmet cuisine, and cutting-edge technology to create life-changing experiences.
+Together, G (coach), Karlita (chef), Daniel (tech), and I host transformative soul events at Zunya, Costa Rica. These experiences combine energy healing, immersive meditation, aura readings, gourmet cuisine, and cutting-edge technology to create life-changing experiences.
 
 The supreme pleasure of hosting—offering deep immersive meditation, holding space, and providing aura readings—has become my sacred work. We've hosted events in Nicaragua, Mexico, Morocco, Portugal, and Costa Rica.
 
@@ -144,7 +144,7 @@ The supreme pleasure of hosting—offering deep immersive meditation, holding sp
 - **Peggy Butkus**: Kundalini awakening and deep transformational coaching
 - **Shira Beth Brenner**: Astrology and spiritual guidance
 - **Angelina Ataíde**: Aura therapy and spiritual mastery
-- **Diego Dosal Stieglitz**: Visionary leadership and transformative event creation
+- **G**: Visionary leadership and transformative event creation
 - **Kaypacha**: Astrology for the Soul
 - **Deborah Rosene, Psy.D.**: Qi Gong and Tai Chi
 
