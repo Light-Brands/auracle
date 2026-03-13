@@ -6,9 +6,9 @@
 
 ## Overview
 
-This assessment maps **42+ distinct concepts** from a coaching conversation thread into the Sovereignty Series (8 volumes). The material centers on two vignettes — a sales-call role with a friend (Shira) and a visionary-builder collaboration — and expands into universal relational patterns, neuroscience, and resolution frameworks.
+This assessment maps **55+ distinct concepts** from a coaching conversation thread into the Sovereignty Series (8 volumes). The material centers on two vignettes — a sales-call role with a friend (Shira) and a visionary-builder collaboration — and expands into universal relational patterns, neuroscience, exit dynamics, and resolution frameworks.
 
-The content is **near book-ready** in most sections. Tone is instructional, non-accusatory, and structured around pattern recognition rather than personal complaint.
+The raw file now contains **12 parts** across ~1,400 lines. The content is **near book-ready** in most sections. Tone is instructional, non-accusatory, and structured around pattern recognition rather than personal complaint.
 
 ---
 
@@ -124,27 +124,61 @@ The content is **near book-ready** in most sections. Tone is instructional, non-
 
 ---
 
+### Additional Concepts (Parts 7–12)
+
+| # | Concept | Part | Volume Placement |
+|---|---------|------|-----------------|
+| 39 | System pattern recognition / pattern intelligence | Part 7 | Vol 4 Ch 17, Vol 8 Ch 17 |
+| 40 | "You don't just experience situations — you map them" | Part 7 | Vol 8 Ch 2 |
+| 41 | Shadow of pattern intelligence: analysis before emotional closure | Part 7 | Vol 4 Ch 18 (Shadow of Healer) |
+| 42 | "Win the ending" — narrative correction impulse | Part 8 | Vol 3 Ch 6 (When Triggers Return) |
+| 43 | Two exit styles: Quiet Withdrawal vs Narrative Repair | Part 8 | Vol 3 Ch 13, Vol 4 Ch 17 |
+| 44 | "Don't apologize" sovereignty principle | Part 12 | Vol 3 Ch 4 (Sovereignty Without Force) |
+| 45 | Competent Empath Containment pattern | Part 9 | Vol 4 Ch 17 (primary archetype section) |
+| 46 | The invisible contract (their side / your side) | Part 9 | Vol 4 Ch 17 |
+| 47 | "I feel small working for her" — misplacement of power signal | Part 9 | Vol 3 Ch 17 (Sovereignty at Work) |
+| 48 | Subtle parentification in work contexts | Part 9 | Vol 3 Ch 17, Vol 4 Ch 17 |
+| 49 | Guilt + irritation as hallmark signal of containment | Part 10 | Vol 3 Ch 6, Vol 4 Ch 5 |
+| 50 | The two named cycles (her: uncertainty→anxiety→control→spill→affection / your: help→containment→resentment→exit) | Part 10 | Vol 4 Ch 17 |
+| 51 | Irritation as boundary formation, not hostility | Part 11 | Vol 3 Ch 6 |
+| 52 | Over-functioning → withdrawal cycle | Part 11 | Vol 3 Ch 6, Vol 4 Ch 17 |
+| 53 | "Does this structure actually work for me?" — the sovereignty shift | Part 11 | Vol 3 Ch 2 |
+| 54 | Three sovereignty scripts for re-engagement (repair/processing/defensive) | Part 12 | Vol 3 Ch 17 |
+| 55 | Power dynamic after exit — silence as calm authority | Part 12 | Vol 3 Ch 4 |
+| 56 | "Transactional about time vs relational about time" — business incompatibility frame | Part 12 | Vol 7 (THRIVE) |
+| 57 | "Calm exits are quiet power, not explosive power" | Part 12 | Vol 3 Ch 13 |
+
+---
+
 ## Asset Summary
 
 | Asset Type | Count | Details |
 |---|---|---|
 | Vignettes | 2 | Sales-call role (Shira), visionary-builder collaboration |
-| Pattern maps | 2 | Stabilizer dynamic, cross-relationship pattern |
+| Pattern maps | 3 | Stabilizer dynamic, cross-relationship pattern, competent empath containment |
 | Neuroscience sidebars | 1 | Amygdala, threat detection, regulation strategies |
-| Field notes | 2 | Irritation signal, structural reliance recognition |
+| Field notes | 3 | Irritation signal, structural reliance recognition, irritation as boundary formation |
 | Visual diagrams | 1 | Three regulation styles (Contact / Autonomy / Balanced) |
-| Sovereignty scripts | 2 | "Please identify the exact page..." + early boundary naming |
-| Book-language formulations | 3 | Over-functioning under abstract critique, self-abandonment through excellence, performing legitimacy |
-| Teaching pairs | 1 | Internal clarity vs external validation |
+| Sovereignty scripts | 5 | "Please identify the exact page..." + early boundary naming + 3 re-engagement scripts (repair/processing/defensive) |
+| Sovereignty principles | 2 | "Don't apologize" principle, silence as calm authority |
+| Book-language formulations | 5 | Over-functioning under abstract critique, self-abandonment through excellence, performing legitimacy, competent empath containment, calm exits as quiet power |
+| Named cycles | 2 | Her cycle (uncertainty→anxiety→control→spill→affection), Your cycle (help→containment→resentment→exit) |
+| Exit style taxonomy | 1 | Type A (Quiet Withdrawal) vs Type B (Narrative Repair) |
+| Teaching pairs | 2 | Internal clarity vs external validation; transactional time vs relational time |
 | Cross-volume arcs | 1 | Recognition → understanding → response → origin → resolution |
+
+**Total raw file:** 12 parts, ~1,400 lines
 
 ---
 
 ## Recommendations
 
-1. **Primary integration target:** Vol 4 Ch 17 (Group Dynamics) for the Stabilizer archetype and regulation collision material
-2. **Secondary target:** Vol 3 Ch 17 (Sovereignty at Work) for the collaboration lifecycle and over-functioning material
-3. **Resolution anchor:** Vol 3 Ch 2 (Installing Internal Authority) for the internal clarity vs external validation distinction
-4. **Integration capstone:** Vol 8 Ch 2 or Ch 17 for the cross-relationship pattern recognition
-5. **Anonymization:** All names already use single-letter format (G for Diego, confirmed replaced across all files)
-6. **Tone:** Material is already instructional and non-accusatory; minimal editorial adjustment needed for manuscript integration
+1. **Primary integration target:** Vol 4 Ch 17 (Group Dynamics) for the Stabilizer archetype, competent empath containment, and regulation collision material
+2. **Secondary target:** Vol 3 Ch 17 (Sovereignty at Work) for the collaboration lifecycle, over-functioning, and parentification material
+3. **Resolution anchor:** Vol 3 Ch 2 (Installing Internal Authority) for the internal clarity vs external validation distinction and "does this structure work for me?" shift
+4. **Sovereignty practices:** Vol 3 Ch 4 (Sovereignty Without Force) for "don't apologize" principle and silence as authority
+5. **Trigger material:** Vol 3 Ch 6 (When Triggers Return) for irritation as boundary formation, guilt+irritation signal, narrative repair impulse
+6. **Integration capstone:** Vol 8 Ch 2 or Ch 17 for cross-relationship pattern recognition and pattern intelligence as identity
+7. **Business sovereignty:** Vol 7 (THRIVE) for transactional vs relational time, business incompatibility framing
+8. **Anonymization:** All names use single-letter format (G for Diego, confirmed replaced across all files)
+9. **Tone:** Material is already instructional and non-accusatory; minimal editorial adjustment needed for manuscript integration
