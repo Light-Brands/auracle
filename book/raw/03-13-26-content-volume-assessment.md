@@ -6,9 +6,9 @@
 
 ## Overview
 
-This assessment maps **55+ distinct concepts** from a coaching conversation thread into the Sovereignty Series (8 volumes). The material centers on two vignettes — a sales-call role with a friend (Shira) and a visionary-builder collaboration — and expands into universal relational patterns, neuroscience, exit dynamics, and resolution frameworks.
+This assessment maps **70 distinct concepts** from a coaching conversation thread into the Sovereignty Series (8 volumes). The material centers on two vignettes — a sales-call role with a friend (Shira) and a visionary-builder collaboration — and expands into universal relational patterns, neuroscience, exit dynamics, and resolution frameworks.
 
-The raw file now contains **12 parts** across ~1,400 lines. The content is **near book-ready** in most sections. Tone is instructional, non-accusatory, and structured around pattern recognition rather than personal complaint.
+The raw file now contains **13 parts** across ~1,600 lines. The content is **near book-ready** in most sections. Tone is instructional, non-accusatory, and structured around pattern recognition rather than personal complaint.
 
 ---
 
@@ -148,6 +148,24 @@ The raw file now contains **12 parts** across ~1,400 lines. The content is **nea
 | 56 | "Transactional about time vs relational about time" — business incompatibility frame | Part 12 | Vol 7 (THRIVE) |
 | 57 | "Calm exits are quiet power, not explosive power" | Part 12 | Vol 3 Ch 13 |
 
+### Additional Concepts (Part 13)
+
+| # | Concept | Part | Volume Placement |
+|---|---------|------|-----------------|
+| 58 | Relational testing pattern ("I tested her and she failed") | Part 13 | Vol 4 Ch 17, Vol 8 Ch 2 |
+| 59 | The courtroom trap — explaining evidence = debate = stuck | Part 13 | Vol 3 Ch 17 |
+| 60 | Full nervous system power-protection cycle (enter generously → absorb → feel superior → irritated → dramatic exit) | Part 13 | Vol 4 Ch 17, Vol 8 Ch 17 |
+| 61 | Locus of control: self-directed fluidity vs externally negotiated fluidity | Part 13 | Vol 3 Ch 17, Vol 7 (THRIVE) |
+| 62 | Autonomy sensitivity pattern (tolerated: intensity when in control / not tolerated: dependency energy) | Part 13 | Vol 3 Ch 2, Vol 4 Ch 5 |
+| 63 | "Process anger here, exit clean there" principle | Part 13 | Vol 3 Ch 6 |
+| 64 | Dysregulated leadership (not malicious, just unstructured) | Part 13 | Vol 4 Ch 17, Vol 7 (THRIVE) |
+| 65 | The deeper question: leaving because it doesn't fit, or because she wasn't strong enough? | Part 13 | Vol 8 Ch 2 (End of Pretending) |
+| 66 | "You didn't win" — ego bruise after calm exit | Part 13 | Vol 3 Ch 13 |
+| 67 | Relief vs validation-seeking as internal compass | Part 13 | Vol 3 Ch 2 |
+| 68 | "Strong exits are boring" — exit as structure, not psychology | Part 13 | Vol 3 Ch 13 |
+| 69 | "Leave clean vs leave understood" — the final sovereignty choice | Part 13 | Vol 3 Ch 13, Vol 8 Ch 17 |
+| 70 | Refined exit message template (emotional intensity language without accusation) | Part 13 | Vol 3 Ch 17 |
+
 ---
 
 ## Asset Summary
@@ -160,14 +178,16 @@ The raw file now contains **12 parts** across ~1,400 lines. The content is **nea
 | Field notes | 3 | Irritation signal, structural reliance recognition, irritation as boundary formation |
 | Visual diagrams | 1 | Three regulation styles (Contact / Autonomy / Balanced) |
 | Sovereignty scripts | 5 | "Please identify the exact page..." + early boundary naming + 3 re-engagement scripts (repair/processing/defensive) |
-| Sovereignty principles | 2 | "Don't apologize" principle, silence as calm authority |
-| Book-language formulations | 5 | Over-functioning under abstract critique, self-abandonment through excellence, performing legitimacy, competent empath containment, calm exits as quiet power |
-| Named cycles | 2 | Her cycle (uncertainty→anxiety→control→spill→affection), Your cycle (help→containment→resentment→exit) |
+| Sovereignty principles | 4 | "Don't apologize", silence as calm authority, "process anger here exit clean there", "strong exits are boring" |
+| Book-language formulations | 7 | Over-functioning under abstract critique, self-abandonment through excellence, performing legitimacy, competent empath containment, calm exits as quiet power, dysregulated leadership, locus of control |
+| Named cycles | 3 | Her cycle (uncertainty→anxiety→control→spill→affection), Your cycle (help→containment→resentment→exit), Full power-protection cycle (enter generously→absorb→superior→irritated→dramatic exit) |
 | Exit style taxonomy | 1 | Type A (Quiet Withdrawal) vs Type B (Narrative Repair) |
-| Teaching pairs | 2 | Internal clarity vs external validation; transactional time vs relational time |
+| Exit message templates | 1 | Refined template with emotional intensity language without accusation |
+| Teaching pairs | 3 | Internal clarity vs external validation; transactional vs relational time; leave clean vs leave understood |
+| Deep questions | 2 | "Leaving because it doesn't fit, or because she wasn't strong enough?"; "Relief or validation-seeking?" |
 | Cross-volume arcs | 1 | Recognition → understanding → response → origin → resolution |
 
-**Total raw file:** 12 parts, ~1,400 lines
+**Total raw file:** 13 parts, ~1,600 lines
 
 ---
 
