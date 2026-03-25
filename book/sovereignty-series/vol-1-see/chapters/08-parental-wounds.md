@@ -499,9 +499,9 @@ When these systems compound — a Jewrican family, a Jewish-Hispanic household �
 >
 > In my family, there was a phrase that ended every conversation before it started: *shalom bayit* — peace in the home. It was a religious obligation. A value so deep it was woven into who we were as Jews.
 >
-> The problem was that "peace" meant silence. My father's temper wasn't abuse — it was stress. His controlling every decision wasn't pathology — it was leadership. My mother's anxiety wasn't a response to his behavior — it was just "how she is." And my job — my sacred obligation — was to not disrupt the peace.
+> The problem was that "peace" meant silence. D's temper wasn't abuse — it was stress. His controlling every decision wasn't pathology — it was leadership. My mother's anxiety wasn't a response to his behavior — it was just "how she is." And my job — my sacred obligation — was to not disrupt the peace.
 >
-> When I finally told my mother I was seeing a therapist, she didn't ask why. She asked: "What are you telling them about us?" As if the family's reputation at shul mattered more than whether I was okay.
+> When I finally told my mother I was seeing K, she didn't ask why. She asked: "What are you telling them about us?" As if the family's reputation at shul mattered more than whether I was okay.
 >
 > When I told her I was leaving my husband, she said: "After everything this family has been through — the camps, your grandparents, everything — you're going to be the one who breaks it apart?"
 >

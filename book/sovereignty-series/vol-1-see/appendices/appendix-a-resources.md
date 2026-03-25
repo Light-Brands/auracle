@@ -362,7 +362,7 @@ Regardless of documentation status, you have rights and deserve safety:
 
 Before I share this checklist, I want you to know: I did this too.
 
-For months before I left, I quietly sent things I wanted to keep to my parents' home. I had a plan with my therapist—we talked through exactly when and how I would leave. My mom had told me: *when you try to leave, they could try to kill you.*
+For months before I left, I quietly sent things I wanted to keep to my parents' home. I had a plan with K—we talked through exactly when and how I would leave. My mom had told me: *when you try to leave, they could try to kill you.*
 
 That didn't happen. But I was cautious anyway.
 
