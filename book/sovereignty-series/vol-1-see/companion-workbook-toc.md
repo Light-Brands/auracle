@@ -159,7 +159,7 @@
 - Curated list aligned with each chapter's themes
 
 #### F. Printable Cards (12 cards)
-- The 3-3-3 Rule, 72-Hour Test, Master Question, Emergency Protocol, Whose Needs Are Being Centered?, Body Decoder, Quick Grounding, The Wolf Test, Universal Response Bank, Sovereignty Statement, **What Healthy Looks Like** (NEW), **When You Want to Go Back** (NEW)
+- The 3-3-3 Rule, 72-Hour Test, Master Question, Emergency Protocol, Whose Needs Are Being Centered?, Body Decoder, Quick Grounding, The Wolf Test, Universal Response Bank, Sovereignty Statement, What Healthy Looks Like, When You Want to Go Back
 
 ---
 

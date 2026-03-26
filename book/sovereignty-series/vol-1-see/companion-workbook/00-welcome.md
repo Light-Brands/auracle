@@ -68,7 +68,7 @@ Some of these exercises will feel straightforward. Others will take you to place
 
 **When this happens:**
 - Close the workbook
-- Use the grounding techniques on page [Appendix C]
+- Use the grounding techniques in Appendix C
 - Do something that connects you to the present: walk, cook, hold something cold, call someone safe
 - Come back when you're ready. The workbook will wait.
 

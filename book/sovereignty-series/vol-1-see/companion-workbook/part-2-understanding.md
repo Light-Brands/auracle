@@ -560,6 +560,8 @@ _______________________________________________
 
 Chapter 5 describes three primary types and four additional types. Based on what you've explored in this section, which type or combination of types best describes your person? You may choose more than one.
 
+> **See these types on screen:** Appendix G in the book — *The Pattern on Screen* — shows each narcissist type and role through well-known characters from film, television, and literature. If you're having trouble identifying your person's type, seeing the patterns in fictional characters may help clarify what you're recognizing.
+
 - [ ] Grandiose (openly superior, needs admiration, you felt invisible)
 - [ ] Covert/Vulnerable (plays the victim, uses sensitivity to manipulate, you felt responsible)
 - [ ] Communal (gives to control, keeps score, you felt indebted)

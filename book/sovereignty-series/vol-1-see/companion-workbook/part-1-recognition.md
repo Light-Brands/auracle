@@ -491,6 +491,14 @@ You do not need to complete this in one sitting. Some people take days. Some tak
 | D-2 | Breadcrumbing | | | |
 | D-3 | Digital Surveillance | | | |
 | D-4 | Social Media Triangulation | | | |
+| S-1 | The Substance Shield | | | |
+| S-2 | Lowering Your Defenses | | | |
+| S-3 | The Functional Facade | | | |
+| S-4 | Weaponizing Your Use | | | |
+| P-1 | Territorial Hovering | | | |
+| P-2 | Ownership Entitlement | | | |
+| P-3 | Collaborative Threat Response | | | |
+| P-4 | The Reaction Flip (DARVO) | | | |
 
 **After completing the worksheet:**
 
@@ -705,6 +713,8 @@ _______________________________________________
 _______________________________________________
 
 If you could say one sentence to your past self -- the version of you who was living inside these patterns without a name for them -- what would you say?
+
+> **Want to see these patterns in action?** Appendix G in the book — *The Pattern on Screen* — identifies narcissistic types and roles in well-known films, television, and literature. Seeing the patterns in fictional characters can sharpen your ability to recognize them in real life. Fiction gives you distance. Distance gives you clarity.
 
 _______________________________________________
 

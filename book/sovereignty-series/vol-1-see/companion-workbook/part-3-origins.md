@@ -253,7 +253,11 @@ Sit with it for a moment. Read it back to yourself. Notice what happens in your 
 
 ### Exercise 7B: Your Parent's Wound Archetype
 
-Chapter 8 identifies six parental wound archetypes. These aren't diagnoses — they're patterns. Your parent may fit one clearly, or they may be a combination. Read through each description and mark whatever resonates.
+Chapter 8 identifies multiple parental wound archetypes — for both mother wounds and father wounds. These aren't diagnoses — they're patterns. Your parent may fit one clearly, or they may be a combination. Some archetypes appear in both sections because they show up differently depending on the parent.
+
+Read through each description and mark whatever resonates. You may find that your mother and father each carry a different wound type.
+
+---
 
 **The Engulfing Parent**
 
@@ -309,9 +313,76 @@ They didn't have their own life — they had yours. Your appearance, your achiev
 - [ ] I couldn't answer "What do you want?" because my wants were never the point
 - [ ] I felt like I was living someone else's life
 
-**My primary parent wound archetype:** _______________________________________________
+**The Rage-Based Parent**
 
-**How I see this playing out in my adult relationships:**
+Anger was the atmosphere. Not occasional frustration — a constant charge in the air that everyone organized around. You learned to read the room before you could read a book.
+
+- [ ] I could sense their mood before they walked through the door
+- [ ] The household revolved around not setting them off
+- [ ] I learned to be small, quiet, and pre-emptively compliant
+- [ ] I flinch at raised voices, sudden movements, or unexpected changes in tone
+
+**The Addicted / Unpredictable Parent**
+
+You never knew which version of them you were getting. The substance changed them — or maybe revealed them. Either way, you learned that consistency was a fantasy.
+
+- [ ] I became hypervigilant — scanning for which version of them was coming home
+- [ ] Good days felt dangerous because I knew they wouldn't last
+- [ ] I became the parent — managing their moods, covering for them, holding things together
+- [ ] I learned that hope is what hurts the most
+
+**The Authoritarian Parent**
+
+Obedience was the only currency. Questions were defiance. Boundaries were disrespect. Their word was law — not because it was wise, but because it was theirs.
+
+- [ ] My opinions didn't exist until they were approved
+- [ ] Compliance was rewarded; independence was punished
+- [ ] I struggle to trust my own decisions because I was never allowed to make any
+- [ ] "Because I said so" was the only explanation I ever got
+
+**The Achievement-Obsessed Parent**
+
+Love was a scoreboard. What mattered was performance — grades, trophies, visible success. You weren't celebrated for who you were, but for what you produced.
+
+- [ ] Rest felt like failure; slowing down triggered anxiety
+- [ ] I was praised for accomplishments but invisible otherwise
+- [ ] I still can't separate my worth from my productivity
+- [ ] Second place was the same as last place
+
+**The Enmeshed / "Best Friend" Parent**
+
+They treated you as a peer, a confidant, a co-parent. The boundary between parent and child dissolved — and you carried adult weight before you had adult resources.
+
+- [ ] They told me things no child should know — about their marriage, their finances, their pain
+- [ ] I was their emotional support system before I had language for my own emotions
+- [ ] Closeness felt like a trap disguised as trust
+- [ ] I struggle to tell the difference between intimacy and enmeshment
+
+**The Idealizing / Pedestaling Parent**
+
+They didn't see you — they saw a projection. You were perfect, special, destined for greatness. The pressure of the pedestal was its own cage.
+
+- [ ] I couldn't be ordinary without disappointing them
+- [ ] Their pride in me felt like ownership, not celebration
+- [ ] Failure wasn't just failure — it was personal betrayal
+- [ ] I learned to perform their version of me instead of discovering my own
+
+**The Financially Weaponizing Parent**
+
+Money was never just money — it was control, leverage, and proof of who held the power. Generosity came with strings. Independence meant ingratitude.
+
+- [ ] Financial help always came with expectations or reminders
+- [ ] I was made to feel guilty about money — for needing it, spending it, or having my own
+- [ ] Their financial support was a leash, not a gift
+- [ ] I struggle to feel safe about money, even when I have enough
+
+---
+
+**My primary mother wound archetype:** _______________________________________________
+
+**My primary father wound archetype:** _______________________________________________
+
+**How I see these playing out in my adult relationships:**
 
 _______________________________________________
 

@@ -135,6 +135,14 @@ Ask these questions:
 
 ---
 
+## From the Book: Appendix G — The Pattern on Screen
+
+If you want to deepen your pattern recognition, don't miss **Appendix G** in the book: *The Pattern on Screen — Narcissism in Film, Television, and Literature.* It identifies every narcissist type and the 12 identity roles through well-known characters from film, TV, and literature.
+
+Seeing these patterns in fictional characters strengthens your ability to spot them in real life. Fiction gives you distance. Distance gives you clarity. Use it alongside the workbook exercises in Sections 3 (Pattern Naming), 5C (Role Identification), and 5D (Type Identification).
+
+---
+
 ## Continue the Series
 
 When you're ready to move from recognition to healing:
