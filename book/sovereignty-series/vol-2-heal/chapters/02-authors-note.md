@@ -54,11 +54,11 @@ The result: we can explain our wounds with precision. We just can't stop living 
 
 I remember the exact conversation that changed everything.
 
-I was in my therapist's office, explaining—again—why someone in my life had behaved the way they did. I was articulate. I had context. I could trace the lineage of their wounds, their defenses, their unconscious patterns.
+I was in K's office, explaining—again—why someone in my life had behaved the way they did. I was articulate. I had context. I could trace the lineage of their wounds, their defenses, their unconscious patterns.
 
 I could explain their childhood trauma. I could name the attachment style. I could identify the defense mechanism. I could even feel compassion for why they were the way they were.
 
-My therapist listened, then said something quiet:
+K listened, then said something quiet:
 
 *"You understand them perfectly. But do you know how you feel?"*
 

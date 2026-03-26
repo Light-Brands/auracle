@@ -178,7 +178,7 @@ Translate to your situation. The principles are universal.
 
 ## A Note on Names
 
-The people in this series are real. They are identified by single letters — not to protect them, but because their names were never the point. The patterns are. When you encounter W, or X, or N, or E in these pages, know that these are real people who did real things. The letter is all they get. You'll know yours.
+The people in this series are real. They are identified by single letters — not to protect them, but because their names were never the point. The patterns are. When you encounter W, or X, or N, or E, or D, or K in these pages, know that these are real people who did real things. The letter is all they get. You'll know yours.
 
 ---
 

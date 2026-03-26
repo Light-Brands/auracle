@@ -188,7 +188,7 @@ Physical signs of contraction include:
 
 Your body is telling the truth about this relationship. Listen to it.
 
-> **Field Note:** *"My therapist asked me to describe myself before the relationship. I used words like 'bold,' 'opinionated,' 'takes up space.' Then she asked me to describe myself now. I couldn't finish the sentence. I'd become a whisper of who I was. There were times I literally lost my voice — weeks at a time where the words just wouldn't come. Not laryngitis. Not a cold. My body silencing itself because the environment had taught it that speaking was dangerous."*
+> **Field Note:** *"K asked me to describe myself before the relationship. I used words like 'bold,' 'opinionated,' 'takes up space.' Then she asked me to describe myself now. I couldn't finish the sentence. I'd become a whisper of who I was. There were times I literally lost my voice — weeks at a time where the words just wouldn't come. Not laryngitis. Not a cold. My body silencing itself because the environment had taught it that speaking was dangerous."*
 
 ### The Foggy Mind
 
@@ -569,7 +569,7 @@ Your throat tightens. Words get stuck. You might clear your throat frequently or
 
 Something in your stomach feels unsettled. Not quite nausea, but an unease—sometimes manifesting as acid reflux or a churning sensation. Your gut is processing information your conscious mind hasn't accepted yet.
 
-> **Field Note:** *"I went through an entire bottle of antacids every week. The doctor wanted to put me on medication. The churning stopped three days after I went no-contact with my father. My gut had been keeping score of every lie."*
+> **Field Note:** *"I went through an entire bottle of antacids every week. The doctor wanted to put me on medication. The churning stopped three days after I went no-contact with D. My gut had been keeping score of every lie."*
 
 ### The Eye Avoidance
 
@@ -585,7 +585,7 @@ There's also the quality of attention. In healthy eye contact, you feel *seen*�
 
 > **Field Note:** *"I used to think I was just shy. Then I noticed I could hold eye contact easily with everyone except her. With her, I looked at the floor, the wall, my hands—anywhere but directly at her. My eyes knew what my heart was trying to hide from."*
 
-> **Field Note:** *"Her eyes never moved. That's the only way I can describe it. Normal people look at your eyes, your mouth, glance away to think. She just... stared. Fixed. Like she was looking through me to something behind my face. I felt like prey being tracked. My therapist called it 'the predator gaze.' My body had been responding to it for years before I had words for why."*
+> **Field Note:** *"Her eyes never moved. That's the only way I can describe it. Normal people look at your eyes, your mouth, glance away to think. She just... stared. Fixed. Like she was looking through me to something behind my face. I felt like prey being tracked. K called it 'the predator gaze.' My body had been responding to it for years before I had words for why."*
 
 ### The Freeze Frame
 

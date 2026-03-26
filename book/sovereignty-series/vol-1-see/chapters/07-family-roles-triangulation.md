@@ -229,11 +229,11 @@ In individualist systems, these are called "flying monkeys" — people recruited
 >
 > I went back the next Sunday. Papi smiled like nothing happened. "Ahí está mi hija." Everyone relaxed. The system had corrected itself.
 >
-> I realized: I wasn't fighting my father. I was fighting the whole table.
+> I realized: I wasn't fighting D. I was fighting the whole table.
 
 > **Field Note: "The Open Secret"**
 >
-> I came out to my mother when I was sixteen. She cried for three days. Then she told me she loved me but that we would never discuss it again. "No se lo digas a tu padre."
+> I came out to my mother when I was sixteen. She cried for three days. Then she told me she loved me but that we would never discuss it again. "No se lo digas a D."
 >
 > I became the family's open secret. Everyone knew. No one spoke about it. I held this invisible weight — the thing that was true about me but couldn't exist in the family's reality.
 >
