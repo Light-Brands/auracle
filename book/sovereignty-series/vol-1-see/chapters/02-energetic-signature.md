@@ -188,7 +188,7 @@ Physical signs of contraction include:
 
 Your body is telling the truth about this relationship. Listen to it.
 
-> **Field Note:** *"K — my therapist — asked me to describe myself before the relationship. I used words like 'bold,' 'opinionated,' 'takes up space.' Then she asked me to describe myself now. I couldn't finish the sentence. I'd become a whisper of who I was. There were times I literally lost my voice — weeks at a time where the words just wouldn't come. Not laryngitis. Not a cold. My body silencing itself because the environment had taught it that speaking was dangerous."*
+> **Field Note:** *"K asked me to describe myself before the relationship. I used words like 'bold,' 'opinionated,' 'takes up space.' Then she asked me to describe myself now. I couldn't finish the sentence. I'd become a whisper of who I was. There were times I literally lost my voice — weeks at a time where the words just wouldn't come. Not laryngitis. Not a cold. My body silencing itself because the environment had taught it that speaking was dangerous."*
 
 ### The Foggy Mind
 
@@ -569,7 +569,7 @@ Your throat tightens. Words get stuck. You might clear your throat frequently or
 
 Something in your stomach feels unsettled. Not quite nausea, but an unease—sometimes manifesting as acid reflux or a churning sensation. Your gut is processing information your conscious mind hasn't accepted yet.
 
-> **Field Note:** *"I went through an entire bottle of antacids every week. The doctor wanted to put me on medication. The churning stopped three days after I went no-contact with D — my father. My gut had been keeping score of every lie."*
+> **Field Note:** *"I went through an entire bottle of antacids every week. The doctor wanted to put me on medication. The churning stopped three days after I went no-contact with D. My gut had been keeping score of every lie."*
 
 ### The Eye Avoidance
 

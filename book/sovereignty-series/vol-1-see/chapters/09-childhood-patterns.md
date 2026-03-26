@@ -295,7 +295,7 @@ The culture didn't do this to you. The narcissist used the culture as a delivery
 >
 > The guilt wasn't just personal. It was historical. It was economic. It was cultural. My freedom was built on their pain. Claiming more of it felt like spitting on their sacrifice.
 >
-> It took years of therapy — with K, a Latina therapist who understood — to learn that gratitude and boundaries aren't mutually exclusive. That the freedom they crossed a desert for was supposed to include freedom from *them* too.
+> It took years of therapy — with K — a Latina who understood — to learn that gratitude and boundaries aren't mutually exclusive. That the freedom they crossed a desert for was supposed to include freedom from *them* too.
 
 **If your family treated your identity as something to be *tolerated* rather than celebrated**, you learned that the most fundamental parts of yourself come with conditions. This trains you to accept conditional love from partners. You've been practicing gratitude for the bare minimum since you were a teenager. A partner who "accepts" you while controlling you feels normal — because that's what acceptance has always looked like.
 

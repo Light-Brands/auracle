@@ -532,7 +532,7 @@ People who regularly face dysregulating others develop creative survival strateg
 
 **Looking past them:** Some people learn to soften their focus and look just past the difficult person—at a point on the wall, a window, the nature outside. This reduces the intensity of the gaze-lock while maintaining the appearance of engagement. It's a way to stay in the room without being destroyed by it.
 
-> **Field Note:** *"I learned to look at the tree outside the window behind D's head — my father — during his lectures. He thought I was being attentive. Really, I was escaping into the oak tree. It saved me."*
+> **Field Note:** *"I learned to look at the tree outside the window behind D's head during his lectures. He thought I was being attentive. Really, I was escaping into the oak tree. It saved me."*
 
 **Watching yourself on video calls:** Some people in regular contact with dysregulating individuals have discovered that looking at their own video image—rather than the other person's face—helps them manage the interaction. They can maintain apparent engagement while avoiding the direct gaze that triggers their nervous system.
 
