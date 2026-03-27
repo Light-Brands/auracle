@@ -58,7 +58,7 @@
 - 🤝 Partner-Facing Repair Guide
 - 🎁 Gift-Giving as Regulation
 - 📖 Rapid Enmeshment Case Vignettes
-- 🤫 The Silence After the Ending (Ch 14 coda)
+- 🤫 The Silence After the Ending (Ch 14 lines 648-685 — already integrated)
 
 ### Volume 3: Stand (High Priority)
 - 🔄 Reflexive Counterbalancing Pattern
