@@ -14,6 +14,7 @@
 | `vol-4-live-additions.md` | Volume 4: Live | **HIGH** | Ready |
 | `vol-1-see-additions.md` | Volume 1: See | Medium | Ready |
 | `vol-5-6-7-additions.md` | Volumes 5, 6, 7 | Medium | Ready |
+| `vol-3-boundary-escalation-additions.md` | Volumes 2 & 3: Heal & Stand | **HIGH** | Ready |
 
 ---
 
@@ -57,6 +58,7 @@
 - 🤝 Partner-Facing Repair Guide
 - 🎁 Gift-Giving as Regulation
 - 📖 Rapid Enmeshment Case Vignettes
+- 🤫 The Silence After the Ending (Ch 14 coda)
 
 ### Volume 3: Stand (High Priority)
 - 🔄 Reflexive Counterbalancing Pattern
@@ -65,6 +67,10 @@
 - 🔁 Replacement Identity Framework
 - ⚖️ Allowing Imbalance (Tolerating Asymmetry)
 - 🏠 Spatial/Territory Sovereignty
+- 📈 Graduated Boundary Escalation (4-level progression)
+- 🔀 Training the Channel, Not Correcting the Person
+- 🔍 Anxiety as Content Transfer (decoder insert)
+- 🔥 When the Boundary Carries Heat (irritated-but-clean communication)
 
 ### Volume 4: Live (High Priority)
 - 📚 Chapter 21 Enhancement (The Myth of Balance)
@@ -103,6 +109,11 @@ These can be dropped directly into relevant chapters:
 8. "A replacement identity isn't about changing who you are—it's about withdrawing from roles that were never yours to carry."
 9. "When spiritual communities measure progress, they reproduce the same power dynamics they claim to transcend."
 10. "Control requires isolation. Collapse happens through connection."
+11. "Boundaries don't need to start at full volume. They only need to be consistent."
+12. "You are not correcting the person. You are reshaping what the relationship looks like."
+13. "When someone sends you fear disguised as information, they are not sharing facts. They are transferring anxiety."
+14. "Sharpness invites defense. Clarity invites change."
+15. "Closure is not something another person gives you. It is something you recognize."
 
 ---
 
@@ -115,5 +126,5 @@ These can be dropped directly into relevant chapters:
 
 ---
 
-*Last Updated: December 30, 2025*
+*Last Updated: March 27, 2026*
 
