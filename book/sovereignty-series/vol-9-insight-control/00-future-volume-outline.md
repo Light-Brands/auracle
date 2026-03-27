@@ -3,7 +3,7 @@
 
 **Status:** HELD FOR FUTURE DEVELOPMENT
 **Source Material:** `/book/raw/12-29-25.md` (Lines ~13195-18970)
-**Primary Source:** Prosper Solar / Powur case — documented workplace abuse (wage theft, sexual harassment, retaliation, coercive control) with 5 female contractor witness statements
+**Primary Sources:** (1) Prosper Solar / Powur case — documented workplace abuse (wage theft, sexual harassment, retaliation, coercive control) with 5 female contractor witness statements; (2) Spiritual community case — same systemic patterns, same collapse through women comparing notes
 
 ---
 
@@ -11,7 +11,7 @@
 
 A volume for those who have completed the sovereignty journey and now need to recognize when **any system** — for-profit workplaces, mission-driven startups, MLM structures, spiritual communities, or helping relationships — becomes a system of control. This is not just about bad individuals. It is about how **organizational structures enable, protect, and reproduce abuse** through platform shielding, financial opacity, infrastructure-based isolation, and delegated authority without oversight.
 
-The primary source material comes from a documented **for-profit workplace case** — a solar sales company operating through a larger platform — not a spiritual community. The patterns are the same in both contexts. The mechanics of control don't require spiritual language to operate. They require centralized access, ambiguity, and consequences for questioning.
+The source material comes from **two lived experiences** — a documented **for-profit workplace case** (a solar sales company operating through a larger platform) and a **spiritual community** where the same patterns emerged. In both cases, the system collapsed the same way: five women compared notes, recognized the shared pattern, and the silence broke. The mechanics of control don't require spiritual language OR business language to operate. They require centralized access, ambiguity, and consequences for questioning. Both contexts proved it.
 
 **Core Question:** *"How does insight—the very thing that freed you—become the tool that binds you again?"*
 
@@ -221,11 +221,10 @@ The primary source material comes from a documented **for-profit workplace case*
 ## Development Notes
 
 **Source material origins:**
-- Primary case: Prosper Solar / Craig Stratton — for-profit solar sales company operating through Powur platform
-- 5 female contractor witness statements documenting wage theft, sexual harassment, retaliation, coercive control
-- Legally actionable violations: Title VII, FLSA, witness retaliation
-- Patterns were derived from documented workplace abuse, not spiritual community dynamics
-- The "conscious/spiritual" framing describes how these environments *disguise* exploitation, not where the content originated
+- **Workplace case:** Prosper Solar / Craig Stratton — for-profit solar sales company operating through Powur platform. 5 female contractor witness statements documenting wage theft, sexual harassment, retaliation, coercive control. Legally actionable violations: Title VII, FLSA, witness retaliation.
+- **Spiritual community case:** A separate experience where the same systemic patterns emerged — and collapsed the same way: five women compared notes, recognized the shared pattern, and identified the "bad apple."
+- Both cases demonstrate the identical collapse mechanic: isolation sustains the system, connection breaks it
+- The patterns apply equally to for-profit workplaces and spiritual communities — the content is grounded in both, not theoretical about either
 
 **Why this deserves its own volume:**
 - Distinct audience (post-healing, often helpers themselves, or people in exploitative work systems)
