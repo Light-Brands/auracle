@@ -65,11 +65,12 @@ Trauma doesn't just live in your mind; it lives in your body. After years in a d
 - Headaches and migraines
 - Sleep disruption (trouble falling asleep, staying asleep, or waking unrefreshed)
 - Startled responses to sounds or sudden movements
-- Chronic pain without clear medical cause
+- Chronic pain without clear medical cause (fibromyalgia, joint pain, nerve sensitivity)
 - Immune system dysregulation (frequent illness, autoimmune flares)
-- Hormonal imbalances
+- Hormonal imbalances (menstrual cycle disruption, irregular periods, worsened PMS)
 - Racing heart or palpitations
 - High blood pressure
+- Blood sugar instability (insulin resistance, metabolic disruption from chronic cortisol elevation)
 - Shortness of breath or sighing frequently
 - Temperature dysregulation
 
@@ -114,6 +115,10 @@ Your symptoms are not failures. They're evidence of a nervous system that learne
 **Sleep disruption:** Your system doesn't believe it's safe to be unconscious.
 
 **Digestive issues:** Blood flow was diverted from digestion to muscles for survival response.
+
+**Hormonal and menstrual disruption:** Chronic stress hijacks your HPA axis, disrupting the hormones that regulate your cycle, metabolism, and mood.
+
+**Blood sugar instability:** Sustained cortisol elevation signals your body to store energy and resist insulin—a survival adaptation that outlasts the relationship.
 
 **Emotional flooding:** Your system is trying to discharge stored activation.
 
