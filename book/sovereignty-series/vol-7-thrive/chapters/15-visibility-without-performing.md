@@ -399,6 +399,45 @@ Some criticism. Some rejection. Some misunderstanding. Is this worth it?
 
 ---
 
+## Positioning as a Filter
+
+There is another form of visibility that goes beyond content — the way you position yourself to the world.
+
+Many trauma survivors default to availability: "We can help." "I'm here for you." "Let me know how I can support."
+
+This sounds generous. But it signals openness to anyone — including those who will consume your time and energy without ever committing.
+
+**Sovereign positioning sounds different:**
+
+Instead of "We can help," it says: "We work with serious operators doing serious things."
+
+Here are three levels of positioning that filter before you ever have a conversation:
+
+**Clear and strong:**
+*"We partner with funded teams and high-capacity founders to design and build investor-ready platforms, infrastructure, and growth systems. We typically work with teams who are already in motion and looking to accelerate — not early-stage exploration."*
+
+**Warm but selective:**
+*"We work with founders and teams who are already building and are ready to scale — helping them structure their platform, positioning, and investor readiness. Our work is hands-on and high-touch, so we're selective about who we partner with."*
+
+**Highest authority:**
+*"We partner with a small number of teams each quarter to build investor-grade platforms and positioning systems. This is not exploratory — we work with founders who are clear, committed, and already in motion."*
+
+**What this does immediately:**
+
+The people who would waste your time — who want free work, who have no budget, who want to "explore" indefinitely — they self-select out. They read the positioning and know it's not for them.
+
+The right people — the operators, the builders, the ones who understand value — they lean in. They see the clarity and recognize it as competence.
+
+**The deeper shift:**
+
+You move from "Let me help you" to "Earn access to me."
+
+This is not arrogance. This is alignment. You stop explaining yourself to people who aren't qualified to assess you. You stop convincing. You start qualifying.
+
+**One line to anchor this:** *"I don't convince. I qualify."*
+
+---
+
 ## The Right People Are Waiting
 
 Here's what changes when you're authentically visible:

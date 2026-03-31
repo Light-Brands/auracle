@@ -325,6 +325,66 @@ She wasn't ungrateful. She was discerning. The irritation was boundary intellige
 
 ---
 
+### Pattern 11: The Extractor Dynamic
+
+**Definition:** A relational pattern in which someone approaches a builder, system, or professional not to collaborate or build, but to extract value without meeting the structure required to access it. When boundaries are introduced — cost, scope, clarity — the extractor does not step back with understanding. They attempt to redefine reality so that commitment is not required.
+
+**Mechanism:**
+1. Initial approach mimics opportunity — urgency, references to scale, hints of access or potential
+2. The extractor does not engage with what is offered — they attempt to reshape it
+3. When structure is introduced (pricing, scope, timeline), something shifts: dismissiveness, correction, or defensiveness
+4. If the boundary holds, the extractor may escalate: questioning the model, offering unsolicited advice, positioning themselves as more experienced, or implying the approach is wrong
+5. The goal is not alignment — it is access without commitment
+
+**Where this appears:**
+- Business development and inbound inquiries
+- Fundraising and investor conversations
+- Partnership proposals without clear terms
+- Professional networking where one party seeks free consulting
+- Any interaction where value is requested but commitment is avoided
+
+**Key distinction from other patterns:**
+
+Unlike the Emotional Compensation Loop (Pattern 7), the extractor does not use warmth to maintain attachment. They use urgency and reframing. Unlike Benevolent Authority Framing (Pattern 10), the extractor does not hold elevated language — they often shift to dismissiveness when the frame is not accepted.
+
+**The tell:** The extractor's reaction to the boundary reveals everything. A genuine prospect who cannot afford something says: "Not a fit right now, thank you." The extractor says: "That's not how it should work."
+
+**Body signals:**
+- Feeling the need to defend or explain your model
+- Energy drain after the interaction despite no work being done
+- The impulse to prove legitimacy
+- Tightness or irritation when your structure is dismissed
+
+**What the extractor avoids:**
+- Risk
+- Commitment
+- Responsibility
+- Clear agreements
+
+**What they seek:**
+- Outcomes without structure
+- Value without investment
+- Access without alignment
+
+**The builder's test:** This moment tests self-trust, not skill. Will you explain your value repeatedly, defend your structure, try to convince? Or will you recognize: this person is not here to build with you.
+
+**Instant disqualifiers:**
+- "We don't want to pay upfront"
+- "Equity only"
+- "We'll pay after success"
+- "We just need help getting investors"
+- Gives advice instead of asking questions
+- Pushes calls before establishing mutual fit
+
+**Decoder line:** *"If they cannot meet you in structure, they are not ready for what you build."*
+
+**Cross-references:**
+- Vol 7, Chapter 14: Building a Business From Sovereignty — individual business version of this pattern
+- Vol 7, Chapter 16: Pricing, Charging & Receiving — the discount reflex and price pushback dynamics
+- Vol 3, Chapter 16: Sovereignty With Family of Origin — same extraction dynamic in family systems
+
+---
+
 ## Chapter 7 Integration: The Visionary-Builder Dynamic
 
 *(Insert as a new case study section within Chapter 7: Mentorship That Becomes Control)*
@@ -521,6 +581,63 @@ She realized then: not every ending comes with explanation. Some come wrapped in
 And in that moment, the responsibility shifted. If she wanted clarity, she would have to create it herself. Not from what was said. But from what she had lived.
 
 This was the beginning of understanding: the difference between an ending that sounds complete and one that actually is.
+
+---
+
+### Vignette 9: The Silence After the Ending
+
+*(Add to existing vignettes in Appendix C — companion to Vignette 8)*
+
+---
+
+The dynamic had already ended. She knew it. He probably knew it too.
+
+But no message came. No follow-up. No final conversation.
+
+For days, her mind reached for something to complete the loop. *Why hasn't he responded? What is he thinking? Is he avoiding it? What will the conversation be like?*
+
+She recognized this as leftover activation — the nervous system seeking a closing scene that real life does not always provide.
+
+She had already closed her role. Set her boundary. Clarified her position. There was nothing pending on her side.
+
+But the body expected a resolution moment. A shared understanding. An ending that matched the intensity of the dynamic itself.
+
+It never came.
+
+And slowly, she realized: that was also an ending. Not worse. Not incomplete. Just quiet.
+
+She said to herself: *"Whether we speak or not, this is already complete."*
+
+Something settled. Not immediately — but in layers.
+
+The mind stopped reaching. The body stopped bracing.
+
+What remained was not unfinished business. It was simply the space after two paths had already separated.
+
+She learned something important in that silence:
+
+**Closure is not something another person gives you. It is something you recognize.**
+
+And once she recognized it, she stopped waiting.
+
+---
+
+**The pattern this vignette illustrates:**
+
+Many people who exit manipulative or misaligned dynamics discover that the ending does not arrive with a conversation. There is no apology, no acknowledgment, no shared narrative.
+
+This absence can feel like incompletion. The mind interprets silence as something unresolved.
+
+But the sovereign recognition is: **the system has already stopped moving.** The roles are dissolved. The emotional charge has been processed internally.
+
+The silence is not avoidance. It is the natural state after a dynamic has run its course.
+
+**Decoder line:** *"Not every ending needs a final conversation. Some endings are complete the moment you stop participating in the dynamic."*
+
+**Cross-references:**
+- Vol 3, Chapter 10: The Voice of Internal Authority — "The Silence After the Ending" section
+- Vol 9, Vignette 8: The Message That Didn't Say It — the exit message without accountability
+- Vol 9, Chapter 15: The Exit — why some people exit without full accountability
 
 ---
 
