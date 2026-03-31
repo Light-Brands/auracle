@@ -486,6 +486,104 @@ What remained was a sad peace. And space for something new.
 
 ---
 
+## When They Send Their Anxiety to You
+
+There is a specific pattern that many people recognize but struggle to name.
+
+A parent sends a message — an article about danger, a news clip about violence, a warning about something frightening happening somewhere in the world. It arrives without context, without conversation, just the fear itself, dropped into your phone.
+
+This is not information.
+
+This is anxiety looking for a place to land.
+
+**What is actually happening:**
+
+The parent reads something frightening. They feel fear. Instead of processing that fear internally — or recognizing it as their own — they send it to you. To warn you. To protect you. To discharge the feeling.
+
+The intention may be care. But the impact is transfer.
+
+You receive their fear in your body. Your chest tightens. Your mood shifts. You are now carrying something that was never yours.
+
+**The pattern underneath:**
+
+This is not about the article. It is about a family member using you to regulate their nervous system. They feel afraid, and sending the fear to you provides relief — for them.
+
+For you, it does the opposite.
+
+**Why it repeats:**
+
+If you engage — argue, explain, reassure — you complete the loop. Their anxiety was discharged. You absorbed it. The pattern is reinforced.
+
+If you explain why you don't want to receive it, they may hear: "You're doing something wrong." And the guilt cycle begins.
+
+The pattern continues because the function is served.
+
+---
+
+### The Graduated Response
+
+You do not need to have a perfect response. You need a consistent one.
+
+**Playful (for first occurrences):**
+
+*"Not accepting scary news subscriptions anymore."*
+
+This is light, warm, and does not escalate. It signals "I see you" without engaging the content.
+
+**Neutral (for repetition):**
+
+*"I know you're sending these because you care, but I've asked not to receive scary articles. It doesn't feel good for me, so please stop sending them."*
+
+**Firm (for persistent patterns):**
+
+*"I've asked a few times not to receive articles like this. It actually stresses me out, so I need you to respect that and not send them anymore."*
+
+**Final (when the boundary is still not met):**
+
+*"I'm not going to respond to messages like this anymore. Please stop sending them."*
+
+**The key is not sharper words. The key is repetition.**
+
+You say the same thing, in the same tone, every time. You do not debate. You do not explain further. You do not engage the content of the article.
+
+You are not training the person. You are training the channel.
+
+---
+
+### What Not to Do
+
+The urge will come to:
+- Send a scary article back so they feel what you feel
+- Diagnose their anxiety out loud
+- Explain why their behavior is harmful
+- Try to wake them up
+
+None of these will produce what you actually want, which is: peace and a respected boundary.
+
+**The internal anchor:**
+
+*"Their anxiety is not my assignment."*
+
+This is not cold. This is the recognition that you cannot regulate another person's nervous system, and you are not obligated to receive their fear.
+
+---
+
+### What Silence Communicates
+
+Sometimes the most sovereign response to an anxiety transfer is no response at all.
+
+Not as punishment. Not as withdrawal.
+
+As non-participation.
+
+You do not absorb. You do not engage. You do not carry what was never yours.
+
+And in that silence, something important is communicated:
+
+*"I am not available for this level of interaction."*
+
+---
+
 ## Minimal Contact as Sovereignty
 
 For some, minimal contact is the sovereign choice:

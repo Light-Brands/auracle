@@ -97,6 +97,7 @@ The source material comes from **two lived experiences** — a documented **for-
 - Pattern 8: Premature Bonding — connection language used to stabilize anxiety before the other person has chosen
 - Pattern 9: Emotional Spillover + Relational Pull — when someone's instability creates anchoring pressure disguised as gratitude
 - Pattern 10: Benevolent Authority Framing — warm, elevated language coexists with implicit hierarchy; feedback never gets specific enough to act on
+  - Pattern 11: The Extractor Dynamic — someone oriented toward getting, not building; wants outcomes without structure, value without investment, access without alignment; reacts to boundaries by attempting to redefine reality rather than stepping back with clarity
 
 **Chapter 9: Hierarchy & Rank in Mission-Driven Systems**
 - When rank is implied, never stated — and criteria are vague

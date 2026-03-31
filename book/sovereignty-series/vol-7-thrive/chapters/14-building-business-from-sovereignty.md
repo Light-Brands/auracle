@@ -273,6 +273,182 @@ As you heal, your client base will shift. The problem clients will sense the cha
 
 ---
 
+## The Extractor vs The Operator
+
+At a certain point in your path, you begin to notice something.
+
+Not everyone who approaches you is looking to build.
+
+Some are looking to take.
+
+---
+
+### Field Note: The Conversation That Told You Everything
+
+It started simply.
+
+A message. A short introduction. A request for help.
+
+They were "raising capital." They "just needed the right partner."
+
+It sounded familiar. Promising, even.
+
+So you responded clearly. Shared what you build. How you work. What you've done. Structure. Examples. Reality.
+
+The shift happened almost instantly.
+
+The questions never came. No curiosity about the work. No attempt to understand the process.
+
+Instead, the tone changed. The urgency turned into instruction. How it should be done. What shouldn't be charged. How the model really works.
+
+There was no engagement with what was offered. Only an attempt to redefine it.
+
+And then it became clear. This was never a conversation about building something together. It was a conversation about access.
+
+Not: "How do we work together?"
+
+But: "How do I get what I need without meeting what's required?"
+
+The ending was just as fast as the beginning. A boundary was set. The tone tightened. The conversation dissolved.
+
+Nothing was lost. But something was learned.
+
+Not every opportunity is an opportunity. Some are filters.
+
+And once you see the pattern, you can't unsee it.
+
+---
+
+### The Extractor
+
+The extractor appears as opportunity.
+
+They speak with urgency. They reference big outcomes. They hint at scale, access, or potential.
+
+At first, it sounds promising.
+
+But beneath the surface, the structure is missing.
+
+They are not asking what is required, what it costs, or what it takes to execute. They are asking, implicitly: "What can I get from you without committing anything in return?"
+
+**How they speak:**
+- "We just need..."
+- "This could be huge..."
+- "You should do it this way..."
+- "We don't have budget right now..."
+
+When structure is introduced — cost, scope, clarity — something shifts. They become dismissive, corrective, or defensive. Not because the offer is unclear. But because it requires commitment they cannot meet.
+
+**The turn.** The most telling moment is not the ask. It is the reaction to the boundary.
+
+When you say "This is how we work" or "This is the structure" or "This is the investment" — the extractor does not step back with clarity.
+
+They attempt to redefine reality. They may question your model, offer unsolicited advice, position themselves as more experienced, or imply that your approach is wrong. Not from understanding. But from inability to participate.
+
+**What they avoid:**
+- Risk
+- Commitment
+- Responsibility
+
+**What they want:**
+- Outcomes without structure
+- Value without investment
+- Access without alignment
+
+---
+
+### The Operator
+
+The operator feels different immediately.
+
+There is no urgency to impress. There is clarity.
+
+They ask: "What does this cost?" "What does the timeline look like?" "What do you need from us to move forward?"
+
+They engage with what you've actually presented. They do not override your model, redefine your process, or challenge your structure prematurely.
+
+They are not trying to control the interaction. They are trying to understand it.
+
+**How they move:**
+
+The operator listens, asks, and decides. They respect time, structure, and expertise.
+
+Even if they say no, they say it cleanly: "Not a fit right now, thank you."
+
+---
+
+### The Real Difference
+
+The difference is not experience. It is orientation.
+
+The extractor is oriented toward **getting.**
+
+The operator is oriented toward **building.**
+
+---
+
+### The Builder's Test
+
+For the builder, this moment is a test.
+
+Not of skill. But of self-trust.
+
+Will you explain your value repeatedly, defend your structure, try to convince them?
+
+Or will you recognize: this person is not here to build with me.
+
+---
+
+### The Shift
+
+At a certain level, something changes.
+
+You stop engaging with everyone. You start selecting.
+
+You realize: not every conversation deserves your energy. And more importantly — not every person is capable of meeting you where you are.
+
+---
+
+### Instant Disqualifiers
+
+Exit immediately if you hear:
+- "We don't want to pay upfront"
+- "Equity only"
+- "We'll pay after success"
+- "We just need help getting investors"
+
+These people burn time, not build companies.
+
+---
+
+### Your Qualifying Standard
+
+Before engaging deeper, ask yourself: **Is this person already operating at my level?**
+
+If not — do not lower yourself to meet them.
+
+You can also ask a single qualifying question early:
+
+*"What stage are you at, and what kind of support are you specifically looking for?"*
+
+How they respond tells you everything.
+
+**Bad response:** "We need investors." — Out.
+
+**Mid response:** "We're early, exploring options." — Maybe, but don't invest much energy.
+
+**Good response:** "We're raising X, have Y in place, looking for Z — what does working together look like?" — This is your person.
+
+---
+
+### One Line to Remember
+
+**If they cannot meet you in structure, they are not ready for what you build.**
+
+The extractor will always exist. But they only consume your energy if you engage. The operator is quieter, more grounded, less performative. But when you find them, everything moves forward — cleanly, quickly, naturally.
+
+---
+
 ## A Practice: The Business Values Audit
 
 Before building (or to assess what you've built):
