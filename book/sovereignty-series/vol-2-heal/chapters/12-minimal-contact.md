@@ -540,6 +540,35 @@ If you're coparenting with someone you need distance from:
 
 ---
 
+## The Psychological Vacuum: What Happens Inside Them
+
+You know what withdrawal feels like on your side—the grief, the doubt, the phantom pull back toward the relationship. But understanding what happens on *their* side can fundamentally change how you interpret their behavior after you create distance.
+
+When you withdraw your emotional presence, the narcissist doesn't just lose a relationship. They lose their **regulation system.**
+
+Most people can tolerate solitude. They may not enjoy it, but they can sit with themselves, self-soothe, find meaning in their own company. The narcissist often cannot. They've built their entire psychological architecture around external input—attention, admiration, emotional reactions, even conflict. Remove that input, and what remains is a vacuum.
+
+**What the vacuum looks like from the inside:**
+
+- **An inability to regulate their own sense of worth.** Without your reactions mirroring them back to themselves, they lose access to who they believe they are. The grandiose self-image requires a live audience.
+- **Internal emptiness that has no name.** Not sadness exactly. Not loneliness in the way you'd experience it. A blankness. A nothing. This is the void the false ideal was built to cover.
+- **Panic that mimics withdrawal.** Their nervous system, accustomed to your emotional energy, goes into something that resembles the withdrawal of an addict losing their substance. The frantic texts, the sudden appearances, the hoovering—these aren't love. They're a nervous system in crisis.
+- **Frantic seeking of replacement supply.** New relationships formed quickly, often recklessly. Not because they've moved on—but because the vacuum is intolerable.
+
+**Why this matters for you:**
+
+When they call after months of silence, when they show up unexpectedly, when they cycle through anger and sweetness trying to draw you back in—you now have a different lens. That behavior isn't about missing *you*. It's about escaping the vacuum that your absence created.
+
+This distinction is crucial: **Their pursuit is not evidence of love. It's evidence of dependency.**
+
+When you go no contact, you suffer withdrawal too. But your withdrawal is the grief of losing someone you genuinely loved. Theirs is the panic of losing a function they cannot perform for themselves.
+
+You are healing. They are scrambling.
+
+This isn't written to provoke satisfaction at their pain. It's written so you stop interpreting their desperation as devotion—and stop letting that misinterpretation pull you back.
+
+---
+
 ## For Those Who Can't Choose Yet
 
 If you can't decide:

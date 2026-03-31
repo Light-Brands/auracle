@@ -426,6 +426,35 @@ Recognizing the type helps you understand your specific healing work.
 
 ---
 
+## The Terror Beneath the Types
+
+Before you meet each type, there's something worth understanding about what drives all of them.
+
+Beneath the grandiosity, the victimhood, the charm, the rage—beneath every mask and every tactic—there is a terror. It's not the kind of fear that generates empathy easily, because it's wrapped in so much harm. But recognizing it gives you critical intelligence about why they do what they do.
+
+**The narcissist is terrified of being abandoned.**
+
+Not in the way you might fear abandonment—with sadness, with grief, with the ache of losing someone you love. Their fear is structural. If the people who provide their supply leave, the false ideal has no audience. And without an audience, the false ideal collapses. And beneath the false ideal, there is nothing they know how to be.
+
+This is why they pursue so relentlessly. This is why they hoover—returning after weeks, months, even years of silence. This is why the discard-and-return cycle exists at all. They're not cycling because they love you and can't stay away. They're cycling because **losing access to you threatens their psychological survival.**
+
+**What this looks like in practice:**
+
+- The partner who discards you, then panics when you actually move on
+- The parent who pushes you away, then rages when you stop calling
+- The friend who ghosts, then reappears the moment you seem happy without them
+- The ex who shows no remorse until you start dating someone else
+
+Each of these is the same mechanism: **they didn't want you until your absence threatened the supply.**
+
+Their projected confidence—the certainty, the dominance, the "I don't need anyone" performance—is a defense against this terror. The louder they declare their independence, the more dependent they often are on your emotional presence.
+
+> **Why this matters for you:** This isn't written so you'll feel sorry for them. It's written so you'll stop being confused by their behavior. When you understand that their pursuit is driven by panic rather than love, you stop interpreting hoovering as proof that they care. You start seeing it for what it is: a survival response from someone who cannot tolerate the vacuum your absence creates.
+
+This terror is the engine beneath every type you're about to read. The types are just different strategies for managing the same underlying dread.
+
+---
+
 ## The Three Primary Types
 
 ### 1. The Grandiose Narcissist
@@ -944,6 +973,34 @@ Each type creates specific wounds. Here's where to focus your healing:
 **After Somatic:** Rebuild a loving relationship with your body. Your worth isn't tied to appearance. Your body is your home, not your product.
 
 **After Malignant:** Safety first, always. Trauma processing with professional support. Learning to trust again, slowly, with evidence.
+
+---
+
+## The Fatal Misjudgment: Why They Cannot See Your Worth
+
+There's something every type of narcissist shares—a blind spot so fundamental it shapes the entire relationship:
+
+**They mistake your kindness for weakness.**
+
+Your patience? They read it as passivity. Your willingness to understand? They interpret it as inability to leave. Your empathy? They see it as a lever—something to pull when they need more from you.
+
+This isn't a failure of communication. It's a failure of perception.
+
+You may have spent years thinking, *"If only they understood how much I love them, they'd stop hurting me."* But the narcissist doesn't experience your love the way you intend it. They experience it as **proof that their strategy is working.** Every time you stay after a betrayal, every time you forgive without accountability, every time you explain your pain hoping they'll finally hear it—they don't register devotion. They register leverage.
+
+This is why more love doesn't produce better treatment. From their framework, more love means more tolerance, which means more room to operate.
+
+**The misjudgment runs deeper than you think:**
+
+- Your emotional intelligence, which allows you to see their wounds beneath their behavior, they experience as permission to keep wounding
+- Your loyalty, which keeps you present through cycles of harm, they interpret as inability to survive without them
+- Your forgiveness, offered because you genuinely believe in their capacity to grow, they file as evidence that consequences don't apply
+
+This is not your fault. You offered something real. They couldn't recognize it because recognizing it would require the very empathy they lack.
+
+> **BODY CHECK:** Notice if you're feeling a familiar ache right now—the grief of having been deeply misread by someone you loved deeply. That ache is valid. It's the cost of offering genuine connection to someone who could only see it as a resource.
+
+**Why this matters for your healing:** When you understand that they literally cannot perceive your love as strength, you stop trying to love harder. You stop believing that a better explanation, a more vulnerable moment, a more patient conversation will finally break through. The wall isn't between you and them. It's inside them. And no amount of your love can dismantle it from the outside.
 
 ---
 
