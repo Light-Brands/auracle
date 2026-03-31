@@ -214,6 +214,36 @@ None of these responses give you closure. They give you more material to process
 
 ---
 
+## What They Cannot Replace
+
+Here's something you may not have considered:
+
+When you leave—truly leave—you don't just take yourself away. You take something irreplaceable.
+
+The narcissist will find new supply. They always do. Someone new to charm, to impress, to extract attention from. But what they cannot replicate is the specific quality of what you offered: the depth of your attunement, the patience of your loyalty, the way you held their contradictions without flinching.
+
+You weren't just a source of attention. You were a **regulation system**. You managed their moods, absorbed their anxiety, reflected back the version of themselves they needed to believe in. You performed a psychological function no casual replacement can fulfill.
+
+This is why, after you leave, they often cycle through new relationships quickly—burning through people who don't last. Not because those people are flawed. Because those people aren't you. They don't have your capacity. They don't tolerate what you tolerated. They leave sooner.
+
+**What this means for you:**
+
+You may still be waiting for them to "realize what they lost." And they may, in fact, realize it. They may feel the absence. They may even name it.
+
+But realization is not the same as change.
+
+They can miss the function you served without ever understanding the person who served it. They can grieve losing access to you without ever grasping what access cost you.
+
+> **BODY CHECK:** If you're reading this and feeling a pull—a thought like *"Maybe if they realize, they'll change"*—notice what happens in your chest. Is there a softening? A leaning forward? That pull is the old hope. It's not information about their capacity. It's information about your longing. You can hold that longing and still know the truth.
+
+**The truth is this:** Their loss doesn't require your return. Their pain doesn't obligate your presence. You can acknowledge that something real was lost—on both sides—without going back to lose yourself again.
+
+The irreplaceability of what you offered is not a reason to return.
+
+It's proof of what you're worth.
+
+---
+
 ## What a Clean Ending Actually Is
 
 A clean ending is:
