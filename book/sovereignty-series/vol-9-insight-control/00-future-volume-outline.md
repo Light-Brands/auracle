@@ -1,7 +1,7 @@
 # Volume 9: When Insight Becomes Control
 ## Future Development Outline
 
-**Status:** HELD FOR FUTURE DEVELOPMENT
+**Status:** ACTIVE — Hybrid Companion (standalone title, "From the Author of The Sovereignty Series")
 **Source Material:** `/book/raw/12-29-25.md` (Lines ~13195-18970)
 **Primary Sources:** (1) Prosper Solar / Powur case — documented workplace abuse (wage theft, sexual harassment, retaliation, coercive control) with 5 female contractor witness statements; (2) Spiritual community case — same systemic patterns, same collapse through women comparing notes
 
