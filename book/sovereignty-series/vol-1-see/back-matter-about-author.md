@@ -4,25 +4,27 @@
 
 <div align="center">
 
-## Jennifer Brooke Lawless
+## Jennifer Brooke Lawless, M.S.
 
 </div>
 
 ---
 
-Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
+Jennifer Brooke Lawless, M.S., studied psychology and communications at Boston University and earned her Master's in Mental Health Counseling at Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
 
 But none of her training prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
 
-For years, she stayed in narcissistic relationships, mistaking intensity for intimacy and approval-seeking for connection. She was told she was "too sensitive"—when she was actually too perceptive. The confusion was real. The self-doubt was constant. She needed someone to explain what was happening.
+For years, she stayed in narcissistic relationships, mistaking intensity for intimacy and approval-seeking for connection. She was told she was "too sensitive," when she was actually too perceptive. The confusion was real. The self-doubt was constant. She needed someone to explain what was happening.
 
 She couldn't find that book. So she wrote it.
 
-*See* is the guide she wished she'd had—written for everyone still wondering if they're the problem.
+*See* is the guide she wished she'd had, written for everyone still wondering if they're the problem.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi — still doing the work, one conversation at a time.
+*See* is the first step. What comes after recognition, the healing and the reclaiming of your own authority, is its own journey.
+
+Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi, still doing the work, one conversation at a time.
 
 ---
 
@@ -30,6 +32,7 @@ Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi �
 
 - LightField.Institute
 - @jae.lawless
+- HolisticLawless@gmail.com
 
 ---
 
