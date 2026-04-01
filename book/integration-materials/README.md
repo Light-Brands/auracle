@@ -21,7 +21,8 @@
 ## Future Development
 | File | Description | Status |
 |------|-------------|--------|
-| `../vol-9-insight-control/00-future-volume-outline.md` | "When Insight Becomes Control" full outline | Held for future |
+| `../vol-9-insight-control/00-future-volume-outline.md` | "When Insight Becomes Control" full outline | **Active — Hybrid Companion** |
+| `../vol-9-insight-control/00-front-matter.md` | Companion front matter (standalone, "From the Author of The Sovereignty Series") | **Active** |
 
 ---
 
