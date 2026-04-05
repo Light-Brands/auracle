@@ -8,7 +8,7 @@
 
 *Spiritual guide, aura reader, rose meditation guide & researcher of consciousness in the auric and biofield.*
 
-*Founder of Light Field Institute*
+*Founder of Light Brands*
 
 </div>
 
@@ -87,7 +87,7 @@ Living in community starts with an open heart, and Jennifer is grateful every da
 
 ## The Work
 
-Through **Light Field Institute**, Jennifer offers:
+Through **Light Brands**, Jennifer offers:
 
 **Aura Readings**
 - General readings that touch the soul using clairvoyant techniques
@@ -151,7 +151,7 @@ To help others discover their highest potential and walk the path of healing and
 
 ## Connect with Jennifer
 
-**Light Field Institute**
+**Light Brands**
 - Website: theauracle.com
 - Aura readings, integration sessions, and spiritual guidance
 - Instagram: @jae.lawless

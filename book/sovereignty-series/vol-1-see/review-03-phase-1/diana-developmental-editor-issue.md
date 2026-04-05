@@ -361,7 +361,7 @@ These questions address thematic development and emotional payoff.
 
 ### Q19: Spiritual/Energetic Language Level
 
-**Current State:** Terms like "energetic signature," "energy vampires," "sovereignty," and "Light Field Institute" appear but aren't dominant.
+**Current State:** Terms like "energetic signature," "energy vampires," "sovereignty," and "Light Brands" appear but aren't dominant.
 
 **The Question:** Should this book lean MORE or LESS into spiritual language?
 

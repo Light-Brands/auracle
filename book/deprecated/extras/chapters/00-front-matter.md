@@ -24,7 +24,7 @@
 
 *Spiritual guide, aura reader, rose meditation guide & researcher of consciousness in the auric and biofield.*
 
-*Founder of Light Field Institute*
+*Founder of Light Brands*
 
 ---
 
@@ -48,7 +48,7 @@ The patterns described in this book are archetypal and universal. Any resemblanc
 
 First Edition: 2024
 
-**Contact:** lightfield.institute
+**Contact:** LightBrands.ai
 
 ---
 

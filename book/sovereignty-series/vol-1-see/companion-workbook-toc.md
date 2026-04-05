@@ -6,7 +6,7 @@
 
 > This workbook is designed to be used alongside Volume 1. It expands on the
 > light prompts in the book with guided exercises, pattern-mapping tools, and
-> space to do the deeper work at your own pace. Download it free at LightField.Institute.
+> space to do the deeper work at your own pace.
 
 ---
 

@@ -1,4 +1,4 @@
-# LightField Institute — Brand Identity Guide
+# Auracle — Brand Identity Guide
 
 ## 1. Brand Essence
 
@@ -8,7 +8,7 @@ To create a body of published work, healing practice, and education that helps s
 
 ### Mission
 
-LightField Institute publishes transformational book series, offers one-on-one healing sessions, and delivers structured courses — bridging clinical psychology, somatic healing, and energy work into a single, integrated practice.
+Auracle publishes transformational book series, offers one-on-one healing sessions, and delivers structured courses — bridging clinical psychology, somatic healing, and energy work into a single, integrated practice.
 
 ### Core Values
 
@@ -16,18 +16,18 @@ LightField Institute publishes transformational book series, offers one-on-one h
 - **Embodiment:** Insight alone doesn't heal. The body must learn something new. We prioritize somatic and nervous system work alongside cognitive understanding.
 - **Integrity:** We teach from lived experience and clinical training. No shortcuts, no spiritual bypassing, no false promises.
 - **Clarity:** We name things precisely. Patterns, tactics, dynamics — when you can name it, it loses power over you.
-- **Luminosity:** The "light field" is both literal (the human biofield) and metaphorical (the clarity that comes from doing the work). We move toward light, not away from darkness.
+- **Luminosity:** The light field is both literal (the human biofield) and metaphorical (the clarity that comes from doing the work). We move toward light, not away from darkness.
 
 ### Positioning Statement
 
-LightField Institute is the research, publishing, and practice home of Jennifer Brooke Lawless — a therapist, writer, and energy practitioner who bridges clinical psychology and energetic healing. The Institute houses multiple book series, healing sessions, and educational programs, all united by one premise: **you were never broken; you were decoded, and now you are choosing.**
+Auracle is the research, publishing, and practice home of Jennifer Brooke Lawless — a therapist, writer, and energy practitioner who bridges clinical psychology and energetic healing. Auracle houses multiple book series, healing sessions, and educational programs, all united by one premise: **you were never broken; you were decoded, and now you are choosing.**
 
 ---
 
 ## 2. Brand Architecture
 
 ```
-LightField Institute (umbrella brand)
+Auracle (umbrella brand)
 ├── The Sovereignty Series (book series — 8 volumes)
 │   SEE · HEAL · STAND · LIVE · GIVE · SERVE · THRIVE · BECOME
 │
@@ -36,7 +36,7 @@ LightField Institute (umbrella brand)
 │
 ├── Future Series (book series — TBD)
 │
-├── The Auracle (sessions page — /the-auracle)
+├── The Auracle (sessions page)
 │   Jennifer's practitioner identity and session booking destination
 │   100+ readings completed
 │   60-min readings, $200 each: Thematic · Couples · Business · Group
@@ -65,10 +65,9 @@ All testimonials must be real. Currently available: approximately 4 video testim
 
 ### The Auracle — Brand Consolidation
 
-"The Auracle" is a memorable word-of-mouth name combining "oracle" and "aura." It carries real recognition — people already refer others to "The Auracle" by name. Rather than maintaining it as a separate brand with its own visual identity, The Auracle lives as a **dedicated page within LightField Institute** where all session bookings originate.
+"The Auracle" is a memorable word-of-mouth name combining "oracle" and "aura." It carries real recognition — people already refer others to "The Auracle" by name. Rather than maintaining it as a separate brand with its own visual identity, The Auracle lives as a **dedicated page within the Auracle brand** where all session bookings originate.
 
 **What The Auracle IS:**
-- A page at `lightfield.institute/the-auracle`
 - Jennifer's practitioner title — "Jennifer Brooke Lawless, The Auracle"
 - The destination people land on when friends say "go see The Auracle"
 - A customer acquisition channel powered by word-of-mouth
@@ -77,24 +76,24 @@ All testimonials must be real. Currently available: approximately 4 video testim
 - A separate brand with its own logo, palette, or visual identity
 - A rose-pink, golden-sun, "gentle sacred" aesthetic (retired)
 - A standalone website or social media presence
-- A competing brand alongside LightField Institute
+- A competing brand alongside Auracle
 
-**The Auracle page uses LightField's visual identity** — kingfisher palette, Cormorant Garamond + Inter typography, cream backgrounds, indigo immersive sections. No separate design system.
+**The Auracle page uses Auracle's visual identity** — kingfisher palette, Cormorant Garamond + Inter typography, cream backgrounds, indigo immersive sections. No separate design system.
 
 **Booking flow:** Connect-first, not transactional. Visitors read about session types, then reach out via WhatsApp or email to connect with Jennifer personally before booking. This filters for readiness, builds relationship before the session, and positions the work as premium and personal — not commodity.
 
-### Why "LightField Institute"
+### Why "Auracle"
 
-The name bridges every pillar of the platform:
+The name combines "oracle" and "aura" — two pillars of the work. It bridges every facet of the platform:
 
-| Pillar | How "Light Field" Connects |
+| Pillar | How "Auracle" Connects |
 |--------|---------------------------|
-| **The Sovereignty Series** | Your field of personal power, agency, and self-authority |
-| **The Energy Series** | Your literal biofield — the human energy field you learn to read, clear, and protect |
-| **The Auracle (Sessions)** | Aura reading and energy work — observing and healing the light field |
-| **Future work** | The "field" metaphor scales to any domain of consciousness |
+| **The Sovereignty Series** | The inner oracle — your own knowing, agency, and self-authority |
+| **The Energy Series** | Your literal aura — the human energy field you learn to read, clear, and protect |
+| **The Auracle (Sessions)** | Aura reading and energy work — the practitioner identity people already know |
+| **Future work** | The "oracle" metaphor scales to any domain of consciousness |
 
-"Institute" conveys authority, research-backed credibility, and a container larger than any single book. It positions Jennifer not as an author selling books, but as the founder of a body of work.
+The name carries real word-of-mouth recognition and positions Jennifer not as an author selling books, but as the founder of a body of work.
 
 ---
 
@@ -124,17 +123,16 @@ They've done some work. They can name what happened to them. But their nervous s
 
 ### 4A. Logo & Wordmark
 
-**Primary mark:** "LightField Institute" as a clean wordmark. The existing sparkle/star logo element from the current site should be refined and rendered in electric blue or indigo.
+**Primary mark:** "Auracle" as a clean wordmark. The existing sparkle/star logo element from the current site should be refined and rendered in electric blue or indigo.
 
 **Logo rules:**
-- The wordmark uses the heading typeface (Cormorant Garamond) for "LightField" and the body typeface (Inter) for "Institute"
-- "LightField" is one word, no space, capital L and F
-- Minimum clear space: the height of the "L" on all sides
+- The wordmark uses the heading typeface (Cormorant Garamond) for "Auracle"
+- Minimum clear space: the height of the "A" on all sides
 - The sparkle element can be used as a standalone icon (favicon, app icon, social avatar)
 
 ### 4B. Color Palette — Inspired by the Kingfisher
 
-The entire visual system is drawn from the common kingfisher (*Alcedo atthis*) — a bird whose plumage is electric blue along the back, deep indigo on the wings, fiery orange-red on the breast, and soft cream at the throat. The colors are not produced by pigment but by structural refraction of light — fitting for a brand called LightField.
+The entire visual system is drawn from the common kingfisher (*Alcedo atthis*) — a bird whose plumage is electric blue along the back, deep indigo on the wings, fiery orange-red on the breast, and soft cream at the throat. The colors are not produced by pigment but by structural refraction of light — fitting for a brand rooted in aura and light.
 
 #### Primary Colors
 
@@ -252,7 +250,7 @@ Energy:       linear-gradient(135deg, #0EA5C312, #13417C12) — blue wash (subtl
 
 ## 6. Brand Personality
 
-If LightField Institute were a person, they would be:
+If Auracle were a person, they would be:
 
 - A therapist who has done their own deep work and speaks from experience, not theory
 - Someone who can hold space without absorbing your pain
@@ -271,7 +269,7 @@ If LightField Institute were a person, they would be:
 
 ### We ARE:
 
-- An institute — a body of research, practice, and published work
+- A body of research, practice, and published work
 - A sanctuary — a warm, luminous space to explore difficult truths
 - A bookshelf — a growing library organized by series and journey
 - A practitioner's home — where you come to work with Jennifer directly, through The Auracle
@@ -285,9 +283,9 @@ If LightField Institute were a person, they would be:
 
 Her healing journey led her beyond traditional therapy — through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
-Jennifer lives in Costa Rica, where she offers healing sessions and integration work as The Auracle — her practitioner identity within LightField Institute. The Sovereignty Series was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
+Jennifer lives in Costa Rica, where she offers healing sessions and integration work as The Auracle. The Sovereignty Series was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
-**Connect:** LightField.institute | @jae.lawless | LightFieldInstitute@gmail.com
+**Connect:** @jae.lawless
 
 ---
 
@@ -297,7 +295,7 @@ Jennifer lives in Costa Rica, where she offers healing sessions and integration 
 
 | Touchpoint | Treatment |
 |------------|-----------|
-| **Website** (lightfield.institute) | Cream-first with indigo immersive sections. See the Website Designer Guide for full specification. |
+| **Website** | Cream-first with indigo immersive sections. See the Website Designer Guide for full specification. |
 | **Substack / Newsletter** | Cream background, Cormorant Garamond headers, Inter body. Arc words as section dividers. |
 | **Social media** | 1080x1080 cards on cream or indigo backgrounds. Arc words large and centered. Orange-red for Sovereignty content, electric blue for Energy content. |
 | **Email** | Clean, text-forward. Cream background. Minimal graphics. The writing IS the brand. |
@@ -312,17 +310,17 @@ Jennifer lives in Costa Rica, where she offers healing sessions and integration 
 
 ### Co-branding
 
-LightField Institute is the umbrella brand. Individual series (Sovereignty, Energy) are sub-brands with their own accent colors but share the Institute's typography, layout structure, and voice. The series name always appears alongside the Institute mark:
+Auracle is the umbrella brand. Individual series (Sovereignty, Energy) are sub-brands with their own accent colors but share Auracle's typography, layout structure, and voice. The series name always appears alongside the Auracle mark:
 
 ```
-LightField Institute presents
+Auracle presents
 The Sovereignty Series
 ```
 
 Or in compact form:
 
 ```
-The Sovereignty Series — A LightField Institute Publication
+The Sovereignty Series — An Auracle Publication
 ```
 
 ---
@@ -331,9 +329,8 @@ The Sovereignty Series — A LightField Institute Publication
 
 ### The Name
 
-- **Full:** LightField Institute (preferred for formal contexts)
-- **Short:** LightField (acceptable in casual contexts after first full mention)
-- **Never:** Light Field (two words), Lightfield (no capital F), LFI (no abbreviation)
+- **Full:** Auracle (preferred for all contexts)
+- **Never:** "The Auracle" when referring to the umbrella brand (reserve "The Auracle" for the practitioner identity / sessions page)
 
 ### Color Integrity
 
@@ -380,4 +377,4 @@ The Sovereignty Series — A LightField Institute Publication
 
 ---
 
-*This document is the single source of truth for the LightField Institute brand identity. It should be shared alongside the series-specific brand guides and the Website Designer Guide (16-website-designer-guide.md) to ensure all visual and verbal expressions of the brand are aligned.*
+*This document is the single source of truth for the Auracle brand identity. It should be shared alongside the series-specific brand guides and the Website Designer Guide (16-website-designer-guide.md) to ensure all visual and verbal expressions of the brand are aligned.*

@@ -67,7 +67,7 @@ export default function SettingsPage() {
     twoFactorEnabled: false,
     sessionTimeout: '24',
     loginNotifications: true,
-    allowedDomains: ['lightfield.institute'],
+    allowedDomains: ['lightbrands.ai'],
   });
 
   const timezoneOptions = [
@@ -678,7 +678,7 @@ export default function SettingsPage() {
                     <div className="space-y-4">
                       <SacredInput
                         label="API Endpoint"
-                        value="https://api.lightfield.institute/v1"
+                        value="https://api.lightbrands.ai/v1"
                         helpText="Base URL for API access"
                         disabled
                       />

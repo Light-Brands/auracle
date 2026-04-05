@@ -353,4 +353,3 @@ Study these workbooks for design inspiration:
 
 *Prepared for the design team by Jennifer Brooke Lawless, M.S.*
 *The Sovereignty Series — Volume 1 Companion Workbook*
-*LightField.Institute*

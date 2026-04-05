@@ -1,4 +1,4 @@
-# Testimonials — LightField Institute
+# Testimonials — Light Brands
 
 ## All Testimonials: Video, Written, and Screenshot
 

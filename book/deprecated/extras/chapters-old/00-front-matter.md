@@ -24,7 +24,7 @@
 
 *Spiritual guide, aura reader, rose meditation guide & researcher of consciousness in the auric and biofield.*
 
-*Founder of Light Field Institute*
+*Founder of Light Brands*
 
 ---
 

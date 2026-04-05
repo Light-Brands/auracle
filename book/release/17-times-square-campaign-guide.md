@@ -32,7 +32,7 @@ Create a set of photorealistic composites that place The Sovereignty Series book
 | Author holding book shots | Photo | Jennifer in Times Square holding the physical book |
 | QR code billboard composites | Photo | Billboards featuring QR code alongside or integrated with the cover |
 | Video walkthrough | Video | Camera movement through Times Square revealing the billboards |
-| Website gallery assets | Photo/Video | Optimized versions for the LightField.institute website |
+| Website gallery assets | Photo/Video | Optimized versions for the website |
 | Social media cuts | Photo/Video | Platform-specific crops and edits |
 
 ---
@@ -132,7 +132,7 @@ The billboard displays one volume's cover art, enlarged and adapted for the land
 │                                    in Plain Sight               │
 │                                                                 │
 │   The Sovereignty Series           Jennifer Brooke Lawless      │
-│   Volume 1                         LightField.institute         │
+│   Volume 1                                                      │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -149,7 +149,7 @@ The billboard shows a large 3D mockup of the physical book, angled, on a dark or
 │                    │   SEE    │      is a pattern that loses     │
 │                    │          │      power over you."            │
 │                    │          │                                  │
-│                    └──────────┘     LightField.institute         │
+│                    └──────────┘                                  │
 │                        (3D book)                                │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
@@ -167,7 +167,7 @@ The billboard shows all 8 volumes (or the first 4) side by side, spines or cover
 │                                                                 │
 │   See. Heal. Stand. Live. Give. Serve. Thrive. Become.          │
 │                                                                 │
-│   THE SOVEREIGNTY SERIES            LightField.institute        │
+│   THE SOVEREIGNTY SERIES                                        │
 │   Jennifer Brooke Lawless                                       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
@@ -186,7 +186,7 @@ The billboard features Jennifer's author photo alongside the book:
 │   [fills left half   ]     "From survival to sovereignty —      │
 │                             one truth at a time."               │
 │                                                                 │
-│                            LightField.institute                 │
+│                                                                 │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -264,7 +264,7 @@ If Jennifer travels to Times Square for original photography:
 |----------------|-----|---------|
 | **Free download** (primary) | Decoder Cards lead magnet landing page | Email list capture — the main funnel entry point |
 | **Volume 1 purchase** | Amazon or Gumroad product page for SEE | Direct-to-purchase for impulse buyers |
-| **Series landing page** | LightField.institute/books/sovereignty | Full series overview with all purchase options |
+| **Series landing page** | /books/sovereignty | Full series overview with all purchase options |
 | **Linktree / link hub** | Single page with all key links | Catch-all: buy, subscribe, learn more, sessions |
 
 **Recommendation:** Use the free Decoder Cards lead magnet as the primary QR destination. The QR code should feel like a gift ("Scan for a free toolkit"), not a sales pitch.
@@ -320,7 +320,7 @@ A short video (15-60 seconds) that simulates walking through Times Square and "d
 3. Pan across to reveal a second billboard showing HEAL
 4. Cut to wider shot showing multiple billboards with the series
 5. Final shot: Jennifer standing in frame, looking up at her billboard, then turning to camera with a confident smile
-6. End card: series logo + LightField.institute + QR code
+6. End card: series logo + QR code
 
 **Production approaches:**
 
@@ -370,7 +370,7 @@ These are useful for Instagram Reels, TikTok, and website micro-interactions.
 
 ## 7. Website Integration
 
-### 7A. Where These Assets Live on LightField.institute
+### 7A. Where These Assets Live on the Website
 
 | Page | Asset | Treatment |
 |------|-------|-----------|
@@ -532,7 +532,7 @@ ts-video-project-aftereffects.aep
 - [ ] Create mobile-specific vertical video crops
 - [ ] Prepare press kit package (high-res downloads)
 
-### Phase 5 — Integrate into LightField.institute
+### Phase 5 — Integrate into Website
 
 - [ ] Add Times Square gallery section to homepage
 - [ ] Add billboard composites to series landing page (/books/sovereignty)
@@ -553,7 +553,7 @@ All Times Square campaign assets must remain consistent with the established bra
 | **Color palette** | Series accent color: orange-red `#E0522D`. Volume-specific palettes per brand guide. |
 | **Series name** | "The Sovereignty Series" — always use full name |
 | **Author name** | "Jennifer Brooke Lawless" — always use full name |
-| **Website URL** | LightField.institute — this should appear on billboard composites |
+| **Website URL** | LightBrands.ai — this should appear on billboard composites |
 | **Taglines** | Use only approved series taglines (see Brand Identity Guide) |
 | **Tone** | Aspirational but grounded. Never flashy or salesy. The billboards should feel like a natural extension of the book's authority, not a gimmick. |
 

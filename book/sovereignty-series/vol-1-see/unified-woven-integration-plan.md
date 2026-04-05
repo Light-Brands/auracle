@@ -1404,7 +1404,7 @@ The book itself should contain only:
 
 ### Tier 2: What moves to a living online resource
 
-Everything with a phone number, URL, app name, or specific organization becomes a **companion resource page** hosted at the author's domain (e.g., lightfield.institute/resources or similar). The book references this page exactly once, in a format like:
+Everything with a phone number, URL, app name, or specific organization becomes a **companion resource page** hosted at the author's domain. The book references this page exactly once, in a format like:
 
 > **For current crisis hotlines, support communities, apps, legal resources, and financial assistance programs — including resources specific to LGBTQ+, immigrant, disabled, and culturally diverse survivors — visit [companion URL].**
 >

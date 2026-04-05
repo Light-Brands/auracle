@@ -252,7 +252,7 @@ The title word should occupy approximately **40-60% of the cover's horizontal wi
 | **Designer Brief** (`15-designer-brief.md`) | Technical specs, dimensions, deliverables, back cover copy | Building the actual files |
 | **Website Designer Guide** (`16-website-designer-guide.md`) | Website visual system, pages, components | Ensuring cover and web designs align |
 | **Sovereignty Series Brand Guide** | Full brand identity — voice, tone, volume reference | Series context and brand alignment |
-| **LightField Institute Brand Guide** | Umbrella brand — palette, typography, positioning | Parent brand consistency |
+| **Light Brands Brand Guide** | Umbrella brand — palette, typography, positioning | Parent brand consistency |
 | **Bestseller Book Art Research** | Market trends, data, competitive landscape | Understanding the market context |
 | **Cover Specifications** (`11-cover-specifications.md`) | Platform-specific technical requirements | Technical compliance (superseded by Designer Brief) |
 

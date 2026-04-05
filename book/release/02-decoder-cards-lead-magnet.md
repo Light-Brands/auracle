@@ -282,9 +282,7 @@ When you're ready to move from recognition to secure attachment, **Heal: Nervous
 ## Connect with Jennifer
 
 - **Website:** LightBrands.ai
-- **Sessions & Books:** LightField.Institute
 - **Instagram:** @jae.lawless
-- **Email:** LightFieldInstitute@gmail.com
 
 ---
 
@@ -306,7 +304,7 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner and her spiritual community. She offers sessions through Light Field Institute and is a cofounder of Light Brands.
+Today, Jennifer lives in Costa Rica with her partner and her spiritual community. She is a cofounder of Light Brands.
 
 *Your sensitivity is not your weakness. It's your superpower.*
 

@@ -247,7 +247,7 @@ requires while maintaining the literary, premium positioning that cream enables.
   energy without the subtitle feeling louder than the title
 - Italic adds grace and movement to the poetic subtitle structure
   (*"Recognizing Narcissistic Manipulation in Relationships, Family, and Work"*)
-- Already specified in the Lightfield.institute design language
+- Already specified in the Auracle design language
 - The "The [noun] that [clause]" structure reads beautifully in a refined serif italic
 
 ### Author Name
