@@ -327,3 +327,5 @@ Sometimes the third person isn't a messenger or a weapon—they're an *audience*
 
 *The roles were assigned. The triangles were constructed. None of it was about who you actually are.*
 
+> *How to hold sovereignty when you return to these roles — and what happens when the system resists your change — is explored in Volume 3, Chapter 16: Sovereignty With Family of Origin.*
+

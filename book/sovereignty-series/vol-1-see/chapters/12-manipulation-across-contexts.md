@@ -740,3 +740,5 @@ See Chapters 6-8 for detailed family navigation.
 
 *The pattern is portable. So is your ability to recognize it.*
 
+> *For how religious and cultural identity operates specifically within family systems — including interfaith dynamics, identity assertion, and navigating a partner's conversion — see Volume 3, Chapter 16: Sovereignty With Family of Origin.*
+

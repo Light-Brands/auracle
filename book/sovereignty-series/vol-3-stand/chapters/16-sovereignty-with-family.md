@@ -6,6 +6,8 @@
 
 There is perhaps no greater test of sovereignty than returning to the system where you first learned to abandon yourself.
 
+In the previous chapter, we explored sovereignty in intimate partnership — staying yourself while being deeply seen. Here, we turn to the system that came before any partnership: the family of origin. And in the chapters that follow, we'll carry these same skills into the workplace (Chapter 17) and into navigating other people's dysregulation (Chapter 18) — because the pattern is the same everywhere. Only the context changes.
+
 Your family of origin is not just a group of people. It is a nervous system ecosystem — a set of patterns, expectations, and roles that existed before you had language to name them.
 
 When you return sovereign, the system notices.
@@ -48,6 +50,20 @@ Progress.
 
 ---
 
+## A Note on Cultural Context
+
+This chapter operates from multiple cultural frameworks simultaneously.
+
+If you come from a culture where family identity is inseparable from personal identity — Jewish families, Hispanic families, immigrant families, collectivist cultures of any kind — the strategies here may need adaptation.
+
+In individualist cultures, sovereignty often looks like separation: distance, reduced contact, independence. In collectivist cultures, separation can mean cultural exile — loss of community, loss of identity, loss of belonging that extends far beyond one relationship.
+
+Sovereignty in collectivist systems does not always mean leaving. It can mean staying — but differently. Holding your center while remaining inside the circle. Asserting identity without severing connection.
+
+This chapter includes both paths. Take what fits your system.
+
+---
+
 ## Why Family Systems Resist Change
 
 Family systems are homeostatic — they seek stability.
@@ -66,6 +82,8 @@ When you change, you destabilize the system. The system responds by:
 The family doesn't resist your sovereignty because they want to hurt you. They resist because the system is seeking equilibrium — even if that equilibrium was harmful.
 
 Understanding this changes everything. Their resistance is not evidence that you're wrong. It is evidence that you've changed.
+
+> *For a deeper exploration of how early authority patterns become nervous system templates — and why returning to the family system reactivates them — see Volume 1, Chapter 8: Parental Wounds.*
 
 ---
 
@@ -88,6 +106,8 @@ These roles were not chosen. They were adapted into.
 And the system has been organized around them for years — sometimes decades.
 
 When you stop performing your function, the system loses its equilibrium. This is why your change is felt as threat, even if no one can articulate why.
+
+> *For a full mapping of family roles — Golden Child, Scapegoat, Peacekeeper, and others — see Volume 1, Chapter 7: Family Roles & Triangulation. This chapter addresses what happens when you stop performing that role.*
 
 ---
 
@@ -391,6 +411,8 @@ This guilt is not conscience — it is conditioning.
 
 **The response:** Feel the guilt. Hold the boundary anyway. The guilt fades with practice.
 
+> *If guilt after boundaries is your central struggle, see Volume 2, Chapter 13: Guilt After Distance, which explores why boundaries feel like betrayal — and how to hold them without collapsing back into the system.*
+
 ---
 
 ## Field Note: The Guilt Wave
@@ -585,6 +607,8 @@ One person belongs automatically. The other belongs conditionally.
 This is not always intentional. Often the person doing it has no awareness that they are doing it. Their tradition feels universal to them — not dominant, just normal. They are not withholding recognition. They simply never consider that it is needed.
 
 **But impact does not require intent.**
+
+> *For how religious and cultural identity becomes a tool of manipulation in systems where faith is used as leverage, see Volume 1, Chapter 12: Manipulation Across Contexts — particularly the sections on religious community authority and spiritual settings.*
 
 And when the pattern repeats — year after year, holiday after holiday, moment after moment — the message accumulates:
 
@@ -998,6 +1022,8 @@ As you differentiate from your family of origin, you can also build a **chosen f
 
 Your need for belonging is valid. Your family of origin doesn't have to meet it.
 
+> *For readers from collectivist cultures where "building chosen family" carries different costs — cultural exile, community loss, loss of identity — see Volume 1, Chapter 10: Breaking Free from Family Systems, which includes strategies for sovereignty within community rather than separate from it.*
+
 ---
 
 ## Field Note: The Found Belonging
@@ -1013,6 +1039,8 @@ Not instead of. Not to replace. But alongside. And sometimes, more real.
 She didn't abandon her family of origin. She just stopped requiring them to be something they couldn't be.
 
 And she found belonging elsewhere.
+
+> *The internal work of differentiation — becoming your own person while staying in relationship — is explored in Volume 2, Chapter 20: Differentiation Without Disconnection. This chapter shows what it looks like to live differentiated with family present.*
 
 ---
 
@@ -1152,6 +1180,6 @@ That is growing up.
 
 ---
 
-**[Continue to Chapter 16: Sovereignty at Work →](./16-sovereignty-at-work.md)**
+**[Continue to Chapter 17: Sovereignty at Work →](./17-sovereignty-at-work.md)**
 
 
