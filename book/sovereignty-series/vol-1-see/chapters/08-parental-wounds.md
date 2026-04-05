@@ -1235,3 +1235,5 @@ And in that acceptance, you finally become free.
 
 *The parent you needed isn't the parent you got. The grief is real. And so is your capacity to become what they couldn't be—for yourself.*
 
+> *When you return to your family after healing, state-dependent memory may reactivate old parental patterns. For navigating family visits, holidays, and in-law dynamics while staying sovereign, see Volume 3, Chapter 16: Sovereignty With Family of Origin.*
+

@@ -38,6 +38,44 @@ Cuddy, A. (2015). *Presence*. Little, Brown and Company.
 
 ---
 
+## Interfaith Family and Cultural Identity Resources
+
+### For Interfaith Couples and Families
+
+**18Doors** (formerly InterfaithFamily)
+Support for interfaith couples and families, particularly Jewish/non-Jewish partnerships.
+18doors.org
+
+**InterfaithFamily.com**
+Resources for navigating holidays, lifecycle events, and extended family dynamics across faith traditions.
+
+**The Interfaith Families Project**
+Community-based support for families navigating multiple traditions.
+
+### Books on Interfaith and Cultural Family Dynamics
+
+Petsonk, J. & Remsen, J. (1988). *The Intermarriage Handbook*. William Morrow.
+
+Riley, N. (2013). *'Til Faith Do Us Part: How Interfaith Marriage Is Transforming America*. Oxford University Press.
+
+Miller, S.K. (2013). *Being Both: Embracing Two Religions in One Interfaith Family*. Beacon Press.
+
+### For Partners Navigating Conversion
+
+**Choosing Judaism** (choosingjudaism.org) — Peer support for those exploring conversion.
+
+**Your Local Beit Din or Rabbi** — Conversion is a personal journey; a supportive rabbi can help navigate family dynamics alongside spiritual growth.
+
+### Counseling Specialties to Seek
+
+When navigating interfaith family dynamics, look for therapists or counselors with experience in:
+- Intercultural or interfaith couples therapy
+- Family systems work with religious identity
+- Cultural identity integration
+- Minority stress and identity resilience
+
+---
+
 ## Somatic and Body-Based Resources
 
 ### Modalities to Explore

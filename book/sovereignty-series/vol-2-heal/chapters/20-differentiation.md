@@ -654,3 +654,5 @@ Consider a relationship where you tend toward enmeshment:
 
 *"Differentiation is not distance—it's integrity."*
 
+> *The internal work of differentiation is explored here. What it looks like to live differentiated — in family visits, holiday dynamics, and interfaith relationships — is practiced in Volume 3, Chapter 16: Sovereignty With Family of Origin.*
+
