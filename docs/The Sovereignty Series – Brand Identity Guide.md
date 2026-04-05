@@ -7,7 +7,7 @@
 An 8-volume nonfiction series about healing from narcissistic abuse and building personal sovereignty. The series follows a transformational arc from recognition through embodiment to transcendence.
 
 **Author:** Jennifer Brooke Lawless
-**Publisher:** LightField Institute
+**Publisher:** Auracle
 **Trim Size:** 6" x 9" paperback / Kindle ebook / Gumroad digital
 **Volumes:** 8
 
@@ -86,7 +86,7 @@ From **external recognition** (truth) through **somatic healing** (body) to **re
 
 ### 5A. Series Accent Color
 
-Within the LightField Institute palette, The Sovereignty Series owns **orange-red** (`#E0522D`).
+Within the Auracle palette, The Sovereignty Series owns **orange-red** (`#E0522D`).
 
 This color represents fire, truth, the courage to see and stand. It is used for:
 - CTA buttons on Sovereignty-related pages
@@ -401,14 +401,14 @@ For full technical specifications including spine widths, bleed requirements, an
 | Document | Scope | Status |
 |----------|-------|--------|
 | **This guide** | Sovereignty Series brand identity — voice, visual identity, all 8 volumes | Primary brand reference |
-| **LightField Institute Brand Identity Guide** | Umbrella brand identity — applies to all series and offerings | Parent brand reference |
+| **Auracle Brand Identity Guide** | Umbrella brand identity — applies to all series and offerings | Parent brand reference |
 | **Designer Brief** (`15-designer-brief.md`) | Technical cover design specifications, deliverables, dimensions | Technical spec for cover designer |
 | **Designer Naming Spec** (`14-designer-naming-spec.md`) | Cover text hierarchy and naming | Superseded by Designer Brief |
 | **Cover Specifications** (`11-cover-specifications.md`) | Platform technical requirements | Superseded by Designer Brief |
 | **Website Designer Guide** (`16-website-designer-guide.md`) | Website redesign specification | Web designer reference |
 
-**Hierarchy:** LightField Institute Brand Identity Guide → This Guide → Designer Brief → Cover Specifications
+**Hierarchy:** Auracle Brand Identity Guide → This Guide → Designer Brief → Cover Specifications
 
 ---
 
-*This document is the single source of truth for The Sovereignty Series brand identity. It should be shared with designers, marketers, and collaborators alongside the LightField Institute Brand Identity Guide to ensure both the series-specific and umbrella brand expressions are aligned.*
+*This document is the single source of truth for The Sovereignty Series brand identity. It should be shared with designers, marketers, and collaborators alongside the Auracle Brand Identity Guide to ensure both the series-specific and umbrella brand expressions are aligned.*

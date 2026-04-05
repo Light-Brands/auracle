@@ -21,7 +21,7 @@ ISBN 978-X-XXXX-XXXX-X (libro electrónico)
 
 Primera edición
 
-**Aviso legal:** Este libro está diseñado para proporcionar información y educación sobre patrones de comportamiento narcisista y estrategias de recuperación. Se vende con el entendimiento de que el editor y la autora no están prestando servicios psicológicos, médicos u otros servicios profesionales. Si se necesita asistencia especializada o asesoramiento, se debe buscar los servicios de un profesional competente. La autora ofrece sesiones de asesoramiento privado en línea a través de Light Field Institute. La autora y el editor no tendrán responsabilidad alguna ante ninguna persona o entidad con respecto a cualquier pérdida o daño causado, o presuntamente causado, directa o indirectamente, por la información contenida en este libro.
+**Aviso legal:** Este libro está diseñado para proporcionar información y educación sobre patrones de comportamiento narcisista y estrategias de recuperación. Se vende con el entendimiento de que el editor y la autora no están prestando servicios psicológicos, médicos u otros servicios profesionales. Si se necesita asistencia especializada o asesoramiento, se debe buscar los servicios de un profesional competente. La autora y el editor no tendrán responsabilidad alguna ante ninguna persona o entidad con respecto a cualquier pérdida o daño causado, o presuntamente causado, directa o indirectamente, por la información contenida en este libro.
 
 **Recursos de crisis:** Consulte el Apéndice A: Recursos para líneas de crisis 24/7, recursos internacionales y servicios de apoyo especializados.
 
@@ -13713,7 +13713,6 @@ A medida que sanas, considera:
 ## Recursos adicionales de The Auracle
 
 **Conecta con Jae y la comunidad de The Auracle:**
-- Sitio web: lightfield.institute
 - Lecturas de aura y sesiones de guía espiritual
 - Cursos de Rose Meditation
 - Apoyo comunitario
@@ -15508,7 +15507,6 @@ Hoy, Jennifer vive en Costa Rica con su pareja Daniel y su gata Lumi — aún ha
 
 **Conecta con Jennifer**
 
-- LightField.Institute
 - @jae.lawless
 
 ---

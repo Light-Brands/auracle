@@ -538,7 +538,7 @@ Many readers are dealing with narcissistic bosses, colleagues, or workplace cult
 ### Q19: The Spiritual/Energetic Language — How Far Should It Go?
 
 **Current State:**
-The book uses terms like "energetic signature," "energy vampires," "sovereignty," and "Light Field Institute" (your practice). This language appears throughout but isn't the dominant frame.
+The book uses terms like "energetic signature," "energy vampires," "sovereignty," and "Light Brands" (your practice). This language appears throughout but isn't the dominant frame.
 
 **The Question:**
 Should this book lean MORE into spiritual/energetic language, LESS, or stay right where it is?

@@ -372,7 +372,7 @@ This is not a race. This is a homecoming.
    - Why this book exists
 
 2. **Services & Resources** (20-30 lines)
-   - Light Field Institute offerings
+   - Light Brands offerings
    - Website and contact
    - How to connect
 

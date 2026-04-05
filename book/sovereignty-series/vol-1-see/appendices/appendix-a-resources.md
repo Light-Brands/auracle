@@ -6,7 +6,7 @@
 
 This appendix contains two kinds of resources: **timeless wisdom** that doesn't expire, and **current crisis information** that may change over time. The wisdom — the safety planning, the therapist questions, the 90-day protocol, the healing signs — will be true whether you read this book today or twenty years from now.
 
-**For current crisis hotlines, support communities, apps, legal resources, and financial assistance programs — including resources specific to LGBTQ+, immigrant, disabled, and culturally diverse survivors — visit the online companion resource at lightfield.institute/resources.**
+**For current crisis hotlines, support communities, apps, legal resources, and financial assistance programs — including resources specific to LGBTQ+, immigrant, disabled, and culturally diverse survivors — visit the online companion resource.**
 
 *This online resource is maintained and updated regularly so the information you find there is current, even if this book was published years ago.*
 
@@ -601,7 +601,6 @@ As you heal, consider:
 ## Additional Resources from The Auracle
 
 **Connect with Jae and The Auracle Community:**
-- Website: lightfield.institute
 - Aura readings and spiritual guidance sessions
 - Rose Meditation courses
 - Community support

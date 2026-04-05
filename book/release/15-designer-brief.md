@@ -294,10 +294,10 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 The back cover should include two simple lines beneath the author bio:
 
-- **LightField.Institute**
+- **LightBrands.ai**
 - **@jae.lawless**
 
-**Branding note:** LightBrands.ai is the broader brand umbrella but lives on the website, not on the book. The designer should be aware of it for visual cohesion — the book's back cover points readers to LightField.Institute (sessions and books) and Instagram, while LightBrands.ai connects the full ecosystem online. If the designer visits LightBrands.ai for brand reference, the visual language there should feel like it belongs to the same family as these covers.
+**Branding note:** LightBrands.ai is the broader brand umbrella. The book's back cover points readers to LightBrands.ai and Instagram. If the designer visits LightBrands.ai for brand reference, the visual language there should feel like it belongs to the same family as these covers.
 
 ---
 
@@ -364,9 +364,9 @@ The series uses a palette of **blues, greens, browns, dark pink, and white** as 
 
 White titles and subtitles provide maximum readability against all background colors and unify the series as a set. The varied backgrounds carry the emotional arc from dark to light.
 
-### Another Inspiration: lightfield.institute
+### Another Inspiration: Color Palette Reference
 
-The website [lightfield.institute](https://lightfield.institute) has a color palette worth exploring for mood and tone. Their palette centers on teal (#14b8a6) and blue (#3b82f6), with a primary gradient that sweeps from teal to blue at 135 degrees. They also use a "spiritual gradient" that moves from teal through purple (#a855f7) to amber (#f59e0b). The backgrounds are deep near-black (#0a0f0f in dark mode) with soft neutral grays for text, pairing Cormorant Garamond (serif) with Inter (sans-serif). The overall effect is contemplative, luminous, and grounded without being clinical. It carries a sense of quiet authority and inner radiance that aligns well with the themes of this series. Not a directive — just a reference point the designer might find useful for feel and atmosphere.
+A color palette worth exploring for mood and tone centers on teal (#14b8a6) and blue (#3b82f6), with a primary gradient that sweeps from teal to blue at 135 degrees, and a "spiritual gradient" that moves from teal through purple (#a855f7) to amber (#f59e0b). The backgrounds are deep near-black (#0a0f0f in dark mode) with soft neutral grays for text, pairing Cormorant Garamond (serif) with Inter (sans-serif). The overall effect is contemplative, luminous, and grounded without being clinical. It carries a sense of quiet authority and inner radiance that aligns well with the themes of this series. Not a directive — just a reference point the designer might find useful for feel and atmosphere.
 
 ---
 

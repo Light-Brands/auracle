@@ -1,33 +1,20 @@
-# Website Designer Guide — LightField Institute
+# Website Designer Guide — Auracle
 
 ## A Multi-Series Author Platform for Jennifer Brooke Lawless
 
-**Site:** LightField.institute
+**Brand:** Auracle (under Light Brands)
 **Author:** Jennifer Brooke Lawless
 **Current State:** Sessions-focused single-page site (dark theme, healing sessions, aura reading)
 **Goal:** Full redesign from scratch as a multi-series author platform that integrates books, sessions, courses, and community — with a kingfisher-inspired palette (cream, electric blue, dark indigo, orange-red, black text) that is vivid, precise, and alive
 
 ---
 
-## 1. Site Identity & Naming Recommendation
-
-### Why Keep LightField.institute
-
-The name "Light Field" naturally bridges every pillar of this platform:
-
-| Pillar | How "Light Field" Connects |
-|--------|---------------------------|
-| **The Sovereignty Series** | Your field of personal power, agency, and self-authority |
-| **The Energy Series** | Your literal biofield — the human energy field you learn to read, clear, and protect |
-| **Sessions** | Aura reading and energy work — observing and healing the light field |
-| **Future Series** | The "field" metaphor scales to any domain of consciousness |
-
-**Recommendation:** Keep **LightField.institute** as the permanent home. "Institute" conveys authority, research-backed credibility, and a container larger than any single book. It positions Jennifer not as an author selling books, but as the founder of a body of work.
+## 1. Site Identity & Brand Architecture
 
 ### Brand Architecture
 
 ```
-LightField Institute (umbrella)
+Auracle (under Light Brands)
 ├── The Sovereignty Series (book series 1)
 ├── The Energy Series (book series 2)
 ├── Future Series (book series 3+)
@@ -42,25 +29,11 @@ LightField Institute (umbrella)
     Cross-linked, not absorbed — separate site, shared audience
 ```
 
-### Alternative Names Considered
-
-If a fresh start feels right, these alternatives were evaluated:
-
-| Name | Pros | Cons |
-|------|------|------|
-| **LightField.institute** (keep) | Already established, SEO equity, bridges all series | May carry associations from V1 that need resetting |
-| **JaeLawless.com** | Author-centric, personal, memorable | Doesn't scale if brand outgrows one person |
-| **TheFieldInstitute.com** | Clean, academic, ties to Energy Series | Loses "Light" which carries spiritual weight |
-| **SovereignField.com** | Powerful, bridges both series | Too niche if future series diverge |
-| **LightFieldPress.com** | Clearly a publishing/book brand | Loses sessions and healing work |
-
-**Verdict:** LightField.institute is the strongest option. It's already live, the domain is premium (.institute), and "light field" is a concept that grows with the work.
-
 ---
 
 ## 2. What to Keep from the Current Site
 
-The current LightField.institute has a strong foundation. Preserve these elements:
+The current site has a strong foundation. Preserve these elements:
 
 ### Keep
 - **The Auracle page** — the core session offering (aura readings, chakra journeys, integration sessions, couples readings, group circles), rebranded from generic "Sessions" to leverage The Auracle's word-of-mouth recognition
@@ -157,7 +130,7 @@ Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jenn
 
 ### 4A. Home Page
 
-The home page introduces the full scope of LightField Institute. It is NOT a book landing page or a session booking page — it's the front door to the entire body of work.
+The home page introduces the full scope of the platform. It is NOT a book landing page or a session booking page — it's the front door to the entire body of work.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -406,9 +379,9 @@ Each individual volume gets a page that serves as both a reading guide and a sal
 
 ### 4D. The Auracle Page (`/the-auracle`)
 
-The dedicated sessions page. This is where word-of-mouth traffic lands — when someone's friend says "go see The Auracle," this is the door they walk through. From here they discover LightField's entire ecosystem (books, courses, community).
+The dedicated sessions page. This is where word-of-mouth traffic lands — when someone's friend says "go see The Auracle," this is the door they walk through. From here they discover the entire ecosystem (books, courses, community).
 
-The page uses LightField's visual identity throughout — kingfisher palette, same typography, same component system. No separate branding.
+The page uses the site's visual identity throughout — kingfisher palette, same typography, same component system. No separate branding.
 
 **Booking flow:** Connect-first, not transactional. No calendar widget. Visitors read about session types, then reach out via WhatsApp or email to connect with Jennifer personally before booking. This filters for readiness, builds the relationship before the session starts, and positions the work as premium and personal.
 
@@ -620,7 +593,7 @@ The workbook component should be built as a reusable element — future volumes 
 │  systems, couples work                                   │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  THE WORK — Brief on Light Field Institute's mission     │
+│  THE WORK — Brief on Auracle's mission                   │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  CONNECT — Instagram (@jae.lawless), email, newsletter   │
@@ -645,7 +618,7 @@ The workbook component should be built as a reusable element — future volumes 
 
 ### 5A. Color Palette — Inspired by the Kingfisher
 
-The entire site palette is drawn from the common kingfisher (*Alcedo atthis*) — a bird whose plumage is electric blue along the back and rump, deep indigo on the wings and crown, fiery orange-red on the breast, and soft cream at the throat. The colors are not produced by pigment but by structural refraction of light — fitting for a site called **Light Field**.
+The entire site palette is drawn from the common kingfisher (*Alcedo atthis*) — a bird whose plumage is electric blue along the back and rump, deep indigo on the wings and crown, fiery orange-red on the breast, and soft cream at the throat. The colors are not produced by pigment but by structural refraction of light — fitting for this site's identity.
 
 The palette moves between these poles: **deep indigo** grounds the site, **electric blue** energizes it, **cream** gives breathing room, and **orange-red** draws the eye to action.
 
@@ -895,7 +868,7 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 │                                                         │
 │  ─────────────────────────────────────────────────────  │
 │                                                         │
-│  © 2026 LightField Institute. All rights reserved.      │
+│  © 2026 Light Brands. All rights reserved.               │
 │  Sessions do not replace medical or psychological care. │
 │                                                         │
 │  Privacy  ·  Terms  ·  Disclaimer  ·  Accessibility     │
@@ -1045,7 +1018,7 @@ No structural redesign should be needed. The system is additive.
 - Add testimonials and reviews as they come in
 - Add "Start Here" quiz ("Which volume should I read first?")
 - Blog/articles integration (optional — could link to Substack)
-- **ROSES OS integration** — cross-link to RosesOS.com. Jennifer is a therapist, rose meditation teacher, Guardian of the Hummingbird, and leads their branding. The connection: LightField is the publishing/practitioner arm; ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jennifer teaches and practices" — drives traffic both ways without merging brands
+- **ROSES OS integration** — cross-link to RosesOS.com. Jennifer is a therapist, rose meditation teacher, Guardian of the Hummingbird, and leads their branding. The connection: Auracle is the publishing/practitioner arm; ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jennifer teaches and practices" — drives traffic both ways without merging brands
 
 ### Phase 3 — Multi-Series (Energy Series)
 - Energy Series landing page
@@ -1085,7 +1058,7 @@ No structural redesign should be needed. The system is additive.
 2. Book cover art files (when available from cover designer)
 3. Author headshot (`public/photos/author-headshot.jpg`)
 4. Series content (titles, subtitles, descriptions, arc words)
-5. Current site URL for reference (lightfield.institute)
+5. Current site URL for reference
 6. Access to the Next.js codebase for technical context
 
 ### Creative Freedom
@@ -1142,7 +1115,7 @@ The website and book covers share the Kingfisher palette but are calibrated for 
 | **Designer Brief** (`15-designer-brief.md`) | Cover technical specs, dimensions, deliverables | Back cover layout, spine design, file formats |
 | **Book Cover Design Guide** (`18-book-cover-design-guide.md`) | Cover design philosophy and creative decisions | Six design principles, color system rationale |
 | **Book Cover Design Strategy** (`book-cover-design-strategy.md`) | Bestseller-informed visual strategy | Cream backgrounds, exaggerated typography, complementary triad |
-| **LightField Institute Brand Guide** | Umbrella brand identity | Canonical UI color values, parent brand voice |
+| **Light Brands Brand Guide** | Umbrella brand identity | Canonical UI color values, parent brand voice |
 | **Sovereignty Series Brand Guide** | Series identity and arc | Volume reference, tone evolution, cover-specific colors |
 
 **Critical alignment requirements:**

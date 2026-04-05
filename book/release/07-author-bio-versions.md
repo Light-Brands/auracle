@@ -22,7 +22,7 @@ Each volume has a dedicated author bio that matches where the reader is:
 
 *For: Amazon KDP, podcast introductions, event programs*
 
-Jennifer Brooke Lawless, M.S. holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica, where she offers healing sessions through Light Brands and Light Field Institute.
+Jennifer Brooke Lawless, M.S. holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica, where she offers healing sessions through Light Brands.
 
 ---
 
@@ -34,9 +34,9 @@ Jennifer Brooke Lawless, M.S. is a therapist, writer, and survivor of narcissist
 
 Her healing journey led her beyond traditional therapy—through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
-Today, Jennifer lives in Costa Rica surrounded by community, where she offers healing sessions and integration work through Light Brands and Light Field Institute. Her book—*See*—was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
+Today, Jennifer lives in Costa Rica surrounded by community, where she offers healing sessions and integration work through Light Brands. Her book—*See*—was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
-**Connect:** LightBrands.ai | LightField.Institute (Counseling & Research) | @jae.lawless | LightFieldInstitute@gmail.com
+**Connect:** LightBrands.ai | @jae.lawless
 
 ---
 

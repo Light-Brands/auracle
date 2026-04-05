@@ -99,7 +99,7 @@ This workbook will be here when you're safe. Your life comes first.
 - **National Suicide Prevention Lifeline:** **988**
 - **Emergency Services:** **911**
 
-If you cannot safely store this workbook, use the online version at LightField.Institute in a private/incognito browser window. Clear your browser history afterward.
+If you cannot safely store this workbook, use the online version in a private/incognito browser window. Clear your browser history afterward.
 
 ### If You Are in YELLOW
 
