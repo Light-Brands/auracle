@@ -498,6 +498,14 @@ Not this year. Not any year.
 
 The message is not cruel. It is not hostile. It is oblivious — which, after years of repetition, begins to feel like the same thing.
 
+There is something else she is holding. Something her mother-in-law does not yet know.
+
+Her husband is converting to Judaism. He has told his brother. He has told her mother. He has not told his parents — his Catholic-born parents, for whom Easter is not just a holiday but a cornerstone.
+
+She knows this conversation is coming. She knows the ground will shift when it does. And she knows that every interaction between now and then is building either a foundation of mutual respect — or a case file of grievances that will detonate when the truth arrives.
+
+This Easter text is not just a text. It is a rehearsal. For something much larger.
+
 ---
 
 Her body responds before her mind does.
@@ -641,6 +649,26 @@ That requires a different response — not louder words, but clearer boundaries.
 This is no longer a request. It is a standard.
 
 And if the standard is not met, you have information — not about your worth, but about their capacity.
+
+---
+
+### When a Bigger Conversation Is Coming
+
+Sometimes the identity work you're doing now is not just about now.
+
+Sometimes you know something the other person doesn't. A disclosure is approaching — a conversion, a life change, a truth that will reshape how the family sees itself. And you know that when it arrives, everything you've been quietly navigating will come into sharp focus.
+
+In these moments, every small interaction becomes foundational.
+
+The way you assert your identity now — calmly, without apology, without confrontation — is establishing the terms for a conversation that hasn't happened yet. You are not just responding to a holiday text. You are building a precedent.
+
+If you have already said, clearly and without drama: *"My traditions matter to me. I expect them to be respected."*
+
+Then when the larger truth lands, you are not starting from zero. The groundwork exists. The tone has been set. The family has already been shown — even if they weren't paying attention — that this is who you are.
+
+**You are not preparing a defense. You are establishing an identity.**
+
+And when the moment comes, you will not be introducing yourself. You will be standing in a place you already built.
 
 ---
 
