@@ -85,6 +85,7 @@ Each volume builds on the previous, creating a natural staggered release strateg
 | `17-times-square-campaign-guide.md` | Times Square billboard campaign guide |
 | `17-video-testimonials.md` | Video testimonial strategy |
 | `18-book-cover-design-guide.md` | **Cover design philosophy — 6 principles, kingfisher palette, typography** |
+| `19-instagram-marketing-strategy.md` | **Instagram strategy — two-account setup, 6 templates, content pillars, 30-day calendar, growth plan** |
 
 ---
 
