@@ -9,16 +9,16 @@
 | Account | Role | Content Focus |
 |---------|------|---------------|
 | **@sovereigntyseries** | Book/brand account | Quote cards, carousels, Decoder Card previews, educational content, series announcements, Reels |
-| **@jae.lawless** | Author/personal brand | Writing journey, Costa Rica life, aura readings, personal reflections, behind-the-scenes |
+| **@jae.lawless** | Jae Lawless — the voice behind Auracle | Writing journey, Costa Rica life, aura readings, personal reflections, behind-the-scenes |
 
 **How they connect:**
 - @sovereigntyseries bio includes "by @jae.lawless"
 - @jae.lawless bio includes "Author of The Sovereignty Series @sovereigntyseries"
 - Cross-tag and use Instagram's collaborator feature on relevant posts
-- The series account builds the audience with shareable content; the personal account builds trust and deeper connection
+- The series account builds the audience with shareable content; the personal account builds trust and deeper connection through the Jae Lawless voice
 - Each drives followers to the other
 
-**Brand note:** The personal brand is evolving toward **Auracle** (aura readings, sessions, courses). The Sovereignty Series remains its own book brand. No LightField Institute references.
+**Brand note:** **Jae Lawless is the voice behind Auracle** — the platform for sessions, courses, and the book series. The trust-layer author name (Jennifer Brooke Lawless, M.S.) lives on book covers and in back-matter bios; Jae is the front-facing name everywhere else. The Sovereignty Series remains its own book brand under @sovereigntyseries. Domain: **jaelawless.com**. See `docs/personal-brand-strategy.md` for the full architecture.
 
 ---
 
@@ -50,14 +50,17 @@ This document builds on existing materials (does not duplicate them):
   - **Decoder Cards** — Free lead magnet previews and download CTA
   - **Patterns** — Pattern recognition content, tactics named
   - **Power Moves** — Practical tools and scripts
-  - **About** — Who is Jennifer, why this series exists
+  - **About** — Who is Jae (and Jennifer), why this series exists
   - **Testimonials** — Reader stories and reviews
 
 ### @jae.lawless
 
-- [ ] Update bio to include "Author of The Sovereignty Series @sovereigntyseries"
-- [ ] Post personal content: writing journey, Costa Rica life, aura reading sessions
+- [ ] Update display name to **Jae Lawless** (not Jennifer)
+- [ ] Update bio to include "Author of The Sovereignty Series @sovereigntyseries" and "The voice behind Auracle"
+- [ ] Add jaelawless.com as the primary link
+- [ ] Post personal content: writing journey, Costa Rica life, aura reading sessions, Auracle behind-the-scenes
 - [ ] Cross-tag @sovereigntyseries on book-related posts
+- [ ] Voice is Jae — modern, sharp, memorable, slightly mysterious, digital-native
 
 ---
 
@@ -179,7 +182,7 @@ Building intrigue before anyone knows the book exists.
 | 2 | Reel | "The only test you need" — genuine care vs. control | Pattern Recognition |
 | 3 | Carousel | "5 Disguises of Control" (concern, love, honesty, protection, logic) | Pattern Recognition |
 | 5 | Quote Card | "When you can name what's happening, it stops happening TO you" | Pattern Recognition |
-| 6 | Personal photo | Author intro — who is Jennifer, why this work, Costa Rica | Author's Path |
+| 6 | Personal photo | Author intro — meet Jae, why this work, Costa Rica | Author's Path |
 | 8 | Reel | "What you call chemistry might be trauma recognition" | NS Education |
 | 9 | Carousel | "The 72-Hour Test" — practical tool | Power Moves |
 | 10 | Quote Card | "The confusion you felt? That was the point." | Pattern Recognition |
@@ -259,7 +262,7 @@ Full hashtag sets by theme are in `10-social-media-templates.md`.
 - Post 5x/week, heavy on Reels for discovery reach
 - Cross-promote: every Substack newsletter includes Instagram handle + "this week on Instagram" section
 - Every 3rd post CTAs to free Decoder Cards (the email capture flywheel)
-- Jennifer personally engages in 5–10 relevant accounts' comment sections daily (genuine comments, not spam)
+- Jae personally engages in 5–10 relevant accounts' comment sections daily (genuine comments, not spam)
 - Seed initial followers from existing Substack list, personal network, and @jae.lawless cross-promotion
 
 ### Phase 2: Traction (Weeks 5–12) — Target: 2,000 Followers

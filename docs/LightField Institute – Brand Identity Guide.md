@@ -20,11 +20,38 @@ Auracle publishes transformational book series, offers one-on-one healing sessio
 
 ### Positioning Statement
 
-Auracle is the research, publishing, and practice home of Jennifer Brooke Lawless — a therapist, writer, and energy practitioner who bridges clinical psychology and energetic healing. Auracle houses multiple book series, healing sessions, and educational programs, all united by one premise: **you were never broken; you were decoded, and now you are choosing.**
+Auracle is the research, publishing, and practice home of **Jae Lawless** — the voice, the presence, the current — and **Jennifer Brooke (Saltzman) Lawless, M.S.** — the therapist, writer, and energy practitioner who created the platform. Auracle bridges clinical psychology and energetic healing across multiple book series, healing sessions, and educational programs, all united by one premise: **you were never broken; you were decoded, and now you are choosing.**
+
+**Canonical positioning statement:** *Jae Lawless is the voice behind Auracle, a system created by Jennifer Brooke (Saltzman) Lawless.*
+
+**Domain:** jaelawless.com
 
 ---
 
 ## 2. Brand Architecture
+
+### Three-Layer Identity
+
+```
+Trust          →  Jennifer Brooke (Saltzman) Lawless, M.S.
+                  Credentials, clinical authority, book covers,
+                  About page depth layer, legal
+
+Connection     →  Jae Lawless
+                  Site voice, Instagram (@jae.lawless), content,
+                  podcasts, domain (jaelawless.com)
+
+Transformation →  Auracle
+                  The platform — books, sessions, courses,
+                  community — where people enter and
+                  experience transformation
+```
+
+**Parallel identity:** Jennifer/Jae also serves as **COO at Light Brands AI** — surfaced in public bios and About page.
+
+See `docs/personal-brand-strategy.md` for the full name usage matrix.
+
+### Product Architecture
 
 ```
 Auracle (umbrella brand)
@@ -37,7 +64,7 @@ Auracle (umbrella brand)
 ├── Future Series (book series — TBD)
 │
 ├── The Auracle (sessions page)
-│   Jennifer's practitioner identity and session booking destination
+│   Jae's practitioner destination and session booking page
 │   100+ readings completed
 │   60-min readings, $200 each: Thematic · Couples · Business · Group
 │   Chakra Journey: 12 sessions / $2,100 (1x/week over 3mo or 1x/month over 1yr)
@@ -61,14 +88,14 @@ Books are sold through external platforms — Amazon (Kindle and paperback) and 
 
 ### Testimonials & Social Proof
 
-All testimonials must be real. Currently available: approximately 4 video testimonials and 3 written testimonials. No fabricated or inflated counters. The one real stat — 100+ readings — belongs as a quiet credential in Jennifer's practitioner bio on The Auracle page, not as a flashy homepage banner. Design testimonial placements across the site to accommodate a small but growing collection — featured on the home page, The Auracle page, and volume detail pages where applicable.
+All testimonials must be real. Currently available: approximately 4 video testimonials and 3 written testimonials. No fabricated or inflated counters. The one real stat — 100+ readings — belongs as a quiet credential in Jae's practitioner bio on The Auracle page, not as a flashy homepage banner. Design testimonial placements across the site to accommodate a small but growing collection — featured on the home page, The Auracle page, and volume detail pages where applicable.
 
 ### The Auracle — Brand Consolidation
 
 "The Auracle" is a memorable word-of-mouth name combining "oracle" and "aura." It carries real recognition — people already refer others to "The Auracle" by name. Rather than maintaining it as a separate brand with its own visual identity, The Auracle lives as a **dedicated page within the Auracle brand** where all session bookings originate.
 
 **What The Auracle IS:**
-- Jennifer's practitioner title — "Jennifer Brooke Lawless, The Auracle"
+- Jae's practitioner title — "Jae Lawless · The Auracle"
 - The destination people land on when friends say "go see The Auracle"
 - A customer acquisition channel powered by word-of-mouth
 
@@ -80,7 +107,7 @@ All testimonials must be real. Currently available: approximately 4 video testim
 
 **The Auracle page uses Auracle's visual identity** — kingfisher palette, Cormorant Garamond + Inter typography, cream backgrounds, indigo immersive sections. No separate design system.
 
-**Booking flow:** Connect-first, not transactional. Visitors read about session types, then reach out via WhatsApp or email to connect with Jennifer personally before booking. This filters for readiness, builds relationship before the session, and positions the work as premium and personal — not commodity.
+**Booking flow:** Connect-first, not transactional. Visitors read about session types, then reach out via WhatsApp or email to connect with Jae personally before booking. This filters for readiness, builds relationship before the session, and positions the work as premium and personal — not commodity.
 
 ### Why "Auracle"
 
@@ -93,7 +120,7 @@ The name combines "oracle" and "aura" — two pillars of the work. It bridges ev
 | **The Auracle (Sessions)** | Aura reading and energy work — the practitioner identity people already know |
 | **Future work** | The "oracle" metaphor scales to any domain of consciousness |
 
-The name carries real word-of-mouth recognition and positions Jennifer not as an author selling books, but as the founder of a body of work.
+The name carries real word-of-mouth recognition and positions Jae not as an author selling books, but as the voice behind a body of work.
 
 ---
 
@@ -272,20 +299,25 @@ If Auracle were a person, they would be:
 - A body of research, practice, and published work
 - A sanctuary — a warm, luminous space to explore difficult truths
 - A bookshelf — a growing library organized by series and journey
-- A practitioner's home — where you come to work with Jennifer directly, through The Auracle
+- A practitioner's home — where you come to work with Jae directly, through The Auracle
 - A kingfisher — precise, vivid, alive. Dives deep, emerges with clarity
 
 ---
 
 ## 7. The Founder
 
-**Jennifer Brooke Lawless** holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical experience spans psychiatric care, family systems therapy, and couples work.
+**Jennifer Brooke (Saltzman) Lawless, M.S.** — who writes and creates as **Jae Lawless** — holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical experience spans psychiatric care, family systems therapy, and couples work.
 
 Her healing journey led her beyond traditional therapy — through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
-Jennifer lives in Costa Rica, where she offers healing sessions and integration work as The Auracle. The Sovereignty Series was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
+Jennifer serves as COO at Light Brands AI and lives in Costa Rica, where she offers healing sessions and integration work as The Auracle. The Sovereignty Series was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
-**Connect:** @jae.lawless
+**The three layers she embodies:**
+- **Trust** — Jennifer (the credentialed clinician, the woman who lived it)
+- **Connection** — Jae (the voice, the presence, the current)
+- **Transformation** — Auracle (the platform she built)
+
+**Connect:** jaelawless.com · @jae.lawless
 
 ---
 

@@ -294,10 +294,10 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 The back cover should include two simple lines beneath the author bio:
 
-- **LightBrands.ai**
+- **jaelawless.com**
 - **@jae.lawless**
 
-**Branding note:** LightBrands.ai is the broader brand umbrella. The book's back cover points readers to LightBrands.ai and Instagram. If the designer visits LightBrands.ai for brand reference, the visual language there should feel like it belongs to the same family as these covers.
+**Branding note:** jaelawless.com is the author's primary digital destination — home of Auracle, the platform that holds the series, sessions, and courses. The book's back cover points readers to jaelawless.com and Instagram. The visual language at jaelawless.com should feel like it belongs to the same family as these covers (kingfisher palette, Cormorant Garamond + Inter typography). See `docs/personal-brand-strategy.md` for the brand architecture (Trust → Jennifer, Connection → Jae, Transformation → Auracle).
 
 ---
 

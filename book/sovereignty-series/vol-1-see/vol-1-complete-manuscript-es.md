@@ -12,9 +12,9 @@ Copyright © 2026 por Jennifer Brooke Lawless
 
 Todos los derechos reservados. Ninguna parte de este libro puede ser reproducida, distribuida o transmitida de ninguna forma ni por ningún medio, incluyendo fotocopias, grabaciones u otros métodos electrónicos o mecánicos, sin el permiso previo por escrito del editor, excepto en el caso de citas breves incluidas en reseñas críticas y ciertos otros usos no comerciales permitidos por la ley de derechos de autor.
 
-Publicado por KDP Amazon
+Publicado por Auracle — jaelawless.com
 
-Diseño de portada por Light Brands — LightBrands.ai
+Distribuido a través de KDP Amazon
 
 ISBN 978-X-XXXX-XXXX-X (tapa blanda)
 ISBN 978-X-XXXX-XXXX-X (libro electrónico)
@@ -15483,13 +15483,13 @@ Si el consumo de sustancias (tuyo o de ellos) está afectando significativamente
 
 
 
-## Jennifer Brooke Lawless
+## Jennifer Brooke Lawless, M.S.
 
 
 
 ---
 
-Jennifer Brooke Lawless tiene una Licenciatura en Psicología de Boston University y una Maestría en Consejería de Salud Mental de Nova Southeastern University. Su trabajo clínico abarcó desde unidades psiquiátricas cerradas hasta terapia familiar, sesiones individuales y consejería de parejas.
+Jennifer Brooke Lawless, M.S., tiene una Licenciatura en Psicología de Boston University y una Maestría en Consejería de Salud Mental de Nova Southeastern University. Su trabajo clínico abarcó desde unidades psiquiátricas cerradas hasta terapia familiar, sesiones individuales y consejería de parejas.
 
 Pero ninguna de sus formaciones la preparó para lo que realmente necesitaba aprender: cómo reconocer cuando el amor es en realidad control disfrazado.
 
@@ -15501,13 +15501,14 @@ No pudo encontrar ese libro. Así que lo escribió.
 
 No lo son. Y tú tampoco.
 
-Hoy, Jennifer vive en Costa Rica con su pareja Daniel y su gata Lumi — aún haciendo el trabajo, una conversación a la vez.
+Hoy, Jennifer vive en Costa Rica con su pareja Daniel y su gata Lumi, aún haciendo el trabajo, una conversación a la vez. Se desempeña como COO en Light Brands AI y escribe y crea como **Jae Lawless** — la voz detrás de Auracle, la plataforma que alberga esta serie, sus sesiones y el trabajo más allá.
 
 ---
 
-**Conecta con Jennifer**
+**Conecta con Jae**
 
-- @jae.lawless
+- Sitio web: jaelawless.com
+- Instagram: @jae.lawless
 
 ---
 
