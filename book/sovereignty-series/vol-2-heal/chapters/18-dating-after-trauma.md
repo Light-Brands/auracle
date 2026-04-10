@@ -539,6 +539,68 @@ Track this over time. Notice patterns. Let the data inform your choices.
 
 ---
 
+## Who Can Receive What You Offer
+
+There is a part of dating after trauma that rarely gets named: learning to assess not just who *you* are showing up as, but what the other person's nervous system is actually capable of receiving.
+
+This is different from red-flag spotting. Red flags are about their behavior. This is about their *capacity*—the internal conditions that determine how any gesture you make will land on them.
+
+The same warmth, the same casual kindness, the same small gesture of interest will be metabolized in completely different ways by different people.
+
+### Three Kinds of Receivers
+
+Broadly, the people you encounter will fall into three nervous-system categories. Learning to feel the difference—without judgment, just as information—is one of the quiet superpowers of dating after trauma.
+
+**The Grounded Receiver**
+
+This person can take light, casual interaction at face value. They don't over-message. They tolerate silence without spiraling. They communicate directly. Their life is structured; their relationships are stable; their behavior stays consistent whether you're giving them attention or not.
+
+With a grounded receiver, a kind gesture is a kind gesture. A moment of interest is a moment of interest. Nothing gets inflated. Nothing gets stored as evidence.
+
+You can engage casually and they will meet you where you are.
+
+**The Hopeful-Lonely Receiver**
+
+This person is not dangerous. They are searching. They post emotional or validation-seeking content. They share their pain indirectly. Their life structure is inconsistent. There's an undercurrent of longing in how they present themselves.
+
+Their nervous system is tuned to scan for any sign of connection. A small gesture from you doesn't register as small. It registers as *signal*. A like becomes evidence. A kind word becomes a door. A moment of eye contact becomes a story.
+
+Engaging with a hopeful-lonely receiver doesn't make you responsible for what their system does with it. But it does mean you need to know what you're actually transmitting. For them, casual is not casual.
+
+**The Boundary-Pusher**
+
+This person may look like the others at first. The difference shows up fast: they message quickly, follow up when ignored, switch platforms when you don't respond (DM → text → call), and reach out without context as though no time has passed.
+
+They do not read silence as a no. They treat any signal as an invitation and any invitation as a standing offer.
+
+With a boundary-pusher, *any* engagement will be interpreted as encouragement. The only answer their system reads clearly is a complete absence of access.
+
+### Why This Taxonomy Matters
+
+Most people dating after trauma have spent years being told they "overreact" to social situations, or "misread" warmth, or "shouldn't be so careful." That framing assumes everyone's nervous system runs on the same operating system.
+
+It doesn't.
+
+A gesture that's benign to one person is fuel for another. Not because you're doing something wrong, but because the person on the receiving end is processing it through their own state.
+
+> *Not everyone is built to receive light energy. Some turn it into attachment.*
+
+This is not a reason to withhold warmth from the world. It's a reason to pay attention to the *field* you're engaging, not just your intention in the gesture. Discernment is not coldness. It's the ability to see what will actually happen when your kindness meets a particular nervous system.
+
+### A Simple Pre-Engagement Scan
+
+Before engaging—casually or otherwise—with someone you're not sure about, try three quick questions:
+
+1. **Is this person stable?** (Life, relationships, behavior patterns over time.)
+2. **Have they historically respected small boundaries?** (Silence, pauses, non-answers.)
+3. **Are they seeking attention, or seeking connection?** (These can look similar but behave very differently.)
+
+If you feel even a slight hesitation answering any of these, that hesitation is information. It doesn't have to become an indictment. But it should shape how—and whether—you engage.
+
+The Energy Audit (above) tells you what happened to *your* nervous system. This scan tells you what's likely to happen to *theirs*. Both are part of dating from a sovereign place.
+
+---
+
 ## Trusting Your Body (With Nuance)
 
 "Trust your gut" is common advice. But for trauma survivors, the gut can be confused.

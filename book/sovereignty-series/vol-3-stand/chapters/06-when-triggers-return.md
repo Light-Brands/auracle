@@ -1367,6 +1367,88 @@ If you weren't enjoying it, there'd be nothing to regret.
 
 ---
 
+## Special Case: When Someone from Your Past Reappears
+
+There's a particular trigger that deserves its own treatment: a person you thought was behind you resurfaces. A message. A missed call. A comment on something old. A name in your notifications you haven't seen in years.
+
+Within minutes—sometimes seconds—your whole system shifts.
+
+You may notice a feeling many people describe in spiritual language: *"Their energy is in my space."* It feels invasive, uninvited, almost mystical—as if the person themselves has crossed some unseen threshold and entered your field from the outside.
+
+That language is understandable. But it can leave you feeling powerless, as if you've been acted on by forces you can't control.
+
+There's a more accurate—and more sovereign—frame.
+
+### What's Actually Happening
+
+When a familiar person from your past reappears, three things happen in rapid sequence:
+
+**1. The memory network activates.**
+Your brain pulls up everything it knows about this person—faces, voice, emotional history, unresolved scenes. This is automatic. You don't choose it.
+
+**2. The prediction system turns on.**
+Your brain starts scanning: *What do they want? Is this a threat, an opportunity, a disruption?* It's trying to protect you by forecasting the next move.
+
+**3. An attention loop forms.**
+Because there's an open question—and often an un-responded message—your brain flags the situation as "incomplete" and keeps it active in the background. Every few minutes, it cycles back. Checks. Re-scans.
+
+What you experience as *their presence in your space* is actually *your attention holding them in yours*.
+
+It's not mystical intrusion. It's an open tab your nervous system hasn't closed.
+
+> *Energy doesn't enter your space. Attention keeps it alive.*
+
+### Why This Reframe Matters
+
+The "their energy is invading me" frame leaves you waiting for them to leave. The "my attention is holding them" frame hands you back the controls.
+
+You don't have to fight off an invisible presence. You don't have to cleanse, shield, or protect. You have to **close the tab.**
+
+### Why the Loop Feels So Strong
+
+A few conditions make this kind of trigger especially intense:
+
+- **Past emotional imprint.** You and this person share history. Your brain has already built pathways around them.
+- **Unresolved interaction.** They reached out; you didn't respond. Open loops get prioritized by the brain.
+- **Identity contrast.** Your current life (marriage, work, values, clarity) is very different from who you were with them. Your system is sorting: *Is this still relevant to who I am now?*
+- **Persistence from their side.** A message followed by a follow-up followed by a platform switch (DM → text → call) keeps re-opening the loop each time you almost close it.
+- **Threshold timing.** If this lands during a meaningful moment in your life—an anniversary, a milestone, a visible shift—the contrast makes everything louder.
+
+None of these mean you did something wrong. They mean your system is working exactly as it was designed to.
+
+### Closing the Tab
+
+The work is not to push the person out. The work is to withdraw your attention and let the loop complete.
+
+**1. Name the mechanism.**
+Say it plainly—out loud or in your mind: *"This is an attention loop. They are not in my space. I am holding them in mine."*
+
+**2. Close the loop internally.**
+Give your nervous system the statement it needs to stop scanning: *"This is not relevant to my life."* Say it as a fact, not an argument.
+
+**3. Remove the stimulation.**
+Mute, restrict, archive. Stop checking anything connected to them. Every check is another refresh of the tab.
+
+**4. Re-anchor in your actual life.**
+Put your attention deliberately on what you've chosen: your relationships, your work, your body, the room you're in. Attention is finite. Where it goes, presence follows.
+
+**5. If they escalate, respond once—clearly—and not again.**
+Silence is a boundary until someone ignores it. If they keep reaching, a single clean sentence closes the loop externally so you can stop managing it internally. No explanations, no warmth that invites continuation, no debate.
+
+### A Note on Threshold Moments
+
+It's worth noticing *when* old relational loops tend to return.
+
+They often resurface precisely when you're stabilizing—when you've grown, when your identity has clarified, when you're stepping into more visibility or reaching a milestone. This is not coincidence and it is not persecution.
+
+When your system reaches a new level of coherence, it naturally re-tests old material to see whether it still fits. Old dynamics present themselves so you can answer, clearly, *no—this is no longer where I live.*
+
+The reappearance is not a sign that you haven't healed. It's a sign that you have, and the old pattern is checking.
+
+**One-line integration:** *"I don't have to push them out. I only have to withdraw my attention."*
+
+---
+
 ## Reader Reflection
 
 - What are my most common triggers?

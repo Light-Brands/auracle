@@ -450,6 +450,32 @@ The same old pattern shows up as:
 
 **Approach with caution.** Return doesn't mean reconciliation. Reconciliation requires repair. Repair requires time.
 
+### Why They Return When They Do
+
+There's something worth noticing about the *timing* of return.
+
+People from your past rarely resurface at random points. They tend to resurface at specific kinds of moments on your end:
+
+- When you're stabilizing into a new version of yourself
+- When you reach a milestone—an anniversary, a launch, a visible shift
+- When you've grown more than they knew you could
+- When you've become more present, more grounded, more visible in your life
+- When something on their end destabilizes and their system scans old connections for comfort
+
+From the outside, this can look uncanny. *Why now? Why this week? How did they know?*
+
+They didn't "know" in any literal sense. What's more likely is this: their nervous system tracks you at a low background hum, and periods of their own dysregulation push them toward old, familiar connections. When your life gets larger or clearer, they may also be picking up subtle cues—social media, mutual friends, simply the ambient reorientation that happens when someone's energy changes.
+
+There's another layer, though, worth being honest about. Sometimes the return is not only about them. It also lands during moments when *your* system is in a state of re-organization—and old patterns often resurface during transitions, not to hurt you, but to be re-checked.
+
+> *Old energies don't return by accident. They return to see if you still recognize them as home.*
+
+This is a subtle but important frame. The return is a question—asked by your past, answered by your present. The question is: *Are you still the person who lived here?* And the answer lives in what you do next, not in what you feel in the first ten seconds.
+
+If the old recognition is still there, that is information—not instruction. Recognition does not mean return. You can recognize that a pattern was once home without deciding to move back into it.
+
+The sovereign response is not to be surprised by the timing, and not to be shaken by the familiarity. The sovereign response is the quiet internal sentence: *I see you. This is no longer where I live.*
+
 ---
 
 ## When They Don't Come Back
