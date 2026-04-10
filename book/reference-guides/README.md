@@ -139,13 +139,21 @@ Share individual guides with others who might benefit. These summaries stand alo
 These guides are companions to the complete books. For the full teachings, stories, exercises, and deep dives:
 
 - **Volume 1:** *See: Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
+  - *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
 - **Volume 2:** *Heal: Nervous System Recovery and Attachment Repair After Narcissistic Abuse*
-- **Volume 3:** *Sovereignty: Living From Internal Authority*
-- **Volume 4:** *Embodied Leadership: Aura, Erotic Coherence & Living From Presence*
+  - *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection*
+- **Volume 3:** *Stand: Building Boundaries, Internal Authority, and Self-Trust After Trauma*
+  - *A Guide for Those Ready to Stop Shrinking and Start Standing*
+- **Volume 4:** *Live: Reclaiming Presence, Intimacy, and Embodied Leadership*
+  - *A Guide for Those Ready to Inhabit Their Full Power*
 - **Volume 5:** *Give: Conscious Parenting and Breaking Generational Trauma Cycles*
+  - *A Guide for Those Ready to Give Their Children What They Never Received*
 - **Volume 6:** *Serve: Sustainable Helping Without Burnout for Trauma-Informed Guides*
+  - *A Guide for Those Called to Help Others on This Path*
 - **Volume 7:** *Thrive: Financial Recovery, Career Rebuilding, and Prosperity After Abuse*
-- **Volume 8:** *Quantum You: Becoming the Version You Were Always Meant to Be*
+  - *A Guide for Those Ready to Thrive, Not Just Survive*
+- **Volume 8:** *Become: Integration, Identity, and Stepping Into Your Whole Self*
+  - *A Guide for Those Ready to Unveil Their Infinite Self*
 
 ---
 

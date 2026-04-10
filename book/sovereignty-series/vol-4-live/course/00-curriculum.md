@@ -2,6 +2,8 @@
 
 ## Reclaiming Presence, Intimacy, and Embodied Leadership
 
+> *A Guide for Those Ready to Inhabit Their Full Power*
+
 ---
 
 ## Course Overview

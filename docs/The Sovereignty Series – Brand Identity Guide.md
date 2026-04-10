@@ -66,16 +66,18 @@ From **external recognition** (truth) through **somatic healing** (body) to **re
 
 ## 4. Volume Reference
 
-| Vol | Title | Subtitle | Tagline | Emotional Arc |
-|:---:|:-----:|----------|---------|---------------|
-| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | "Every pattern you can name is a pattern that loses power over you." | Crisis, decoding, revelation |
-| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | "Secure attachment is not found — it is practiced." | Healing, crossing over, hope |
-| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* | "I am not small. I am learning to stand without fear." | Stability, groundedness, stillness |
-| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* | "My presence is erotic when it belongs to me." | Embodiment, presence, warmth |
-| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* | "The chain breaks with you. Not because you're perfect, but because you're aware." | Nurturing, generational, tender |
-| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* | "Your healing is your credential. Your boundaries are your offering." | Sustainable, clear, purposeful |
-| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | "Your prosperity is not a betrayal of your healing. It is a fruit of it." | Prosperity, joy, expansion |
-| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | "You were never becoming someone new. You were always unveiling who you'd been all along." | Integration, wholeness, arrival |
+> **Note on the two subtitle columns:** The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine, back-cover metadata block, and Amazon search indexing). The **Guide Subtitle** is the reader-facing marketing subtitle rendered on the front cover.
+
+| Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) | Tagline | Emotional Arc |
+|:---:|:-----:|-----------------------------|-------------------------------|---------|---------------|
+| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* | "Every pattern you can name is a pattern that loses power over you." | Crisis, decoding, revelation |
+| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* | "Secure attachment is not found — it is practiced." | Healing, crossing over, hope |
+| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* | *A Guide for Those Ready to Stop Shrinking and Start Standing* | "I am not small. I am learning to stand without fear." | Stability, groundedness, stillness |
+| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* | *A Guide for Those Ready to Inhabit Their Full Power* | "My presence is erotic when it belongs to me." | Embodiment, presence, warmth |
+| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* | *A Guide for Those Ready to Give Their Children What They Never Received* | "The chain breaks with you. Not because you're perfect, but because you're aware." | Nurturing, generational, tender |
+| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* | *A Guide for Those Called to Help Others on This Path* | "Your healing is your credential. Your boundaries are your offering." | Sustainable, clear, purposeful |
+| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *A Guide for Those Ready to Thrive, Not Just Survive* | "Your prosperity is not a betrayal of your healing. It is a fruit of it." | Prosperity, joy, expansion |
+| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* | "You were never becoming someone new. You were always unveiling who you'd been all along." | Integration, wholeness, arrival |
 
 **Series line on all volumes:** The Sovereignty Series — Volume N
 **Author on all volumes:** Jennifer Brooke Lawless

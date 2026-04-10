@@ -245,10 +245,28 @@ requires while maintaining the literary, premium positioning that cream enables.
 - **Cormorant Garamond Light Italic** — the primary recommendation
 - The light weight is critical: it allows the orange (#E25822) to carry warmth and
   energy without the subtitle feeling louder than the title
-- Italic adds grace and movement to the poetic subtitle structure
+- Italic adds grace and movement to the poetic subtitle structure — either the
+  descriptive spine-style subtitle
   (*"Recognizing Narcissistic Manipulation in Relationships, Family, and Work"*)
+  or the reader-facing Guide-style subtitle
+  (*"A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns"*)
 - Already specified in the Auracle design language
-- The "The [noun] that [clause]" structure reads beautifully in a refined serif italic
+- The "A Guide to/for..." structure reads beautifully in a refined serif italic
+
+### Front Cover Subtitle (Guide-Style)
+
+The front cover should render the **Guide-style subtitle** — the reader-facing, emotionally-resonant line that tells a prospective reader exactly who this book is for. The descriptive category-style subtitle continues to live on the spine and in KDP metadata for search discoverability.
+
+| Vol | Title | Guide Subtitle (Front Cover) |
+|:---:|:-----:|-------------------------------|
+| 1 | **SEE** | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
+| 2 | **HEAL** | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
+| 3 | **STAND** | *A Guide for Those Ready to Stop Shrinking and Start Standing* |
+| 4 | **LIVE** | *A Guide for Those Ready to Inhabit Their Full Power* |
+| 5 | **GIVE** | *A Guide for Those Ready to Give Their Children What They Never Received* |
+| 6 | **SERVE** | *A Guide for Those Called to Help Others on This Path* |
+| 7 | **THRIVE** | *A Guide for Those Ready to Thrive, Not Just Survive* |
+| 8 | **BECOME** | *A Guide for Those Ready to Unveil Their Infinite Self* |
 
 ### Author Name
 

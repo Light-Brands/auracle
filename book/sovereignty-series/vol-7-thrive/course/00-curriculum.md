@@ -2,6 +2,8 @@
 
 ## Financial Recovery, Career Rebuilding, and Prosperity After Abuse
 
+> *A Guide for Those Ready to Thrive, Not Just Survive*
+
 ---
 
 ## Course Overview
