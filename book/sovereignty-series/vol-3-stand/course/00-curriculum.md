@@ -2,6 +2,8 @@
 
 ## Building Boundaries, Internal Authority, and Self-Trust After Trauma
 
+> *A Guide for Those Ready to Stop Shrinking and Start Standing*
+
 ---
 
 ## Course Overview

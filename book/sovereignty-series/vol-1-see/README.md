@@ -2,6 +2,8 @@
 
 ## Recognizing Narcissistic Manipulation in Relationships, Family, and Work
 
+> *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
+
 ---
 
 ## ⚡ Quick Navigation
