@@ -1049,7 +1049,7 @@ No structural redesign should be needed. The system is additive.
 - Add testimonials and reviews as they come in
 - Add "Start Here" quiz ("Which volume should I read first?")
 - Blog/articles integration (optional — could link to Substack)
-- **ROSES OS integration** — cross-link to RosesOS.com. Jae (as Jennifer) is a therapist, rose meditation teacher, Guardian of the Hummingbird, and leads their branding. The connection: Auracle is the publishing/practitioner arm; ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jae teaches and practices" — drives traffic both ways without merging brands
+- **ROSES OS integration** — cross-link to RosesOS.com. Jae (as Jennifer) is a therapist, rose meditation teacher, Guardian of the Hummingbird, and leads their branding. The connection: Auracle is the practitioner and brand arm (books published through KDP Amazon); ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jae teaches and practices" — drives traffic both ways without merging brands
 
 ### Phase 3 — Multi-Series (Energy Series)
 - Energy Series landing page

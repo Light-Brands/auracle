@@ -8,7 +8,7 @@ To create a body of published work, healing practice, and education that helps s
 
 ### Mission
 
-Auracle publishes transformational book series, offers one-on-one healing sessions, and delivers structured courses — bridging clinical psychology, somatic healing, and energy work into a single, integrated practice.
+Auracle is the home of transformational book series, one-on-one healing sessions, and structured courses — bridging clinical psychology, somatic healing, and energy work into a single, integrated practice. (Books are published through KDP Amazon; Auracle is the brand and platform, not the publisher of record.)
 
 ### Core Values
 
@@ -20,7 +20,9 @@ Auracle publishes transformational book series, offers one-on-one healing sessio
 
 ### Positioning Statement
 
-Auracle is the research, publishing, and practice home of **Jae Lawless** — the voice, the presence, the current — and **Jennifer Brooke (Saltzman) Lawless, M.S.** — the therapist, writer, and energy practitioner who created the platform. Auracle bridges clinical psychology and energetic healing across multiple book series, healing sessions, and educational programs, all united by one premise: **you were never broken; you were decoded, and now you are choosing.**
+Auracle is the research, practice, and education home of **Jae Lawless** — the voice, the presence, the current — and **Jennifer Brooke (Saltzman) Lawless, M.S.** — the therapist, writer, and energy practitioner who created the platform. Auracle bridges clinical psychology and energetic healing across multiple book series, healing sessions, and educational programs, all united by one premise: **you were never broken; you were decoded, and now you are choosing.**
+
+**Note on publishing:** Books in the Sovereignty Series and Energy Series are published through KDP Amazon. Auracle is the brand and platform that houses the work — not the publisher of record.
 
 **Canonical positioning statement:** *Jae Lawless is the voice behind Auracle, a system created by Jennifer Brooke (Saltzman) Lawless.*
 

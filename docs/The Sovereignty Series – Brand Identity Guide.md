@@ -8,7 +8,7 @@ An 8-volume nonfiction series about healing from narcissistic abuse and building
 
 **Author (on cover):** Jennifer Brooke Lawless, M.S.
 **Author (digital / online identity):** Jae Lawless — *the voice behind Auracle, who writes and creates these books*
-**Publisher:** Auracle
+**Publisher:** KDP Amazon
 **Trim Size:** 6" x 9" paperback / Kindle ebook / Gumroad digital
 **Volumes:** 8
 
