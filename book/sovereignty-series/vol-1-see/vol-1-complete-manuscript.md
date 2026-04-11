@@ -14,8 +14,6 @@ All rights reserved. No part of this book may be reproduced, distributed, or tra
 
 Published by KDP Amazon
 
-Cover design by Light Brands — LightBrands.ai
-
 ISBN 978-X-XXXX-XXXX-X (paperback)
 ISBN 978-X-XXXX-XXXX-X (ebook)
 
@@ -15912,13 +15910,13 @@ If substance use (yours or theirs) is significantly impacting your relationship 
 
 
 
-## Jennifer Brooke Lawless
+## Jennifer Brooke Lawless, M.S.
 
 
 
 ---
 
-Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
+Jennifer Brooke Lawless, M.S., studied psychology and communications at Boston University and earned her Master's in Mental Health Counseling at Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
 
 But none of her training prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
 
@@ -15930,13 +15928,16 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi — still doing the work, one conversation at a time.
+*See* is the first step. What comes after recognition, the healing and the reclaiming of your own authority, is its own journey.
+
+Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi, still doing the work, one conversation at a time. She serves as COO at Light Brands AI and writes and creates as **Jae Lawless** — the voice behind Auracle, the platform that holds this series, her sessions, and the work beyond.
 
 ---
 
-**Connect with Jennifer**
+**Connect with Jae**
 
-- @jae.lawless
+- Website: jaelawless.com
+- Instagram: @jae.lawless
 
 ---
 

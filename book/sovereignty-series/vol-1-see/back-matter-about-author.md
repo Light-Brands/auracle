@@ -24,14 +24,14 @@ They're not. And neither are you.
 
 *See* is the first step. What comes after recognition, the healing and the reclaiming of your own authority, is its own journey.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi, still doing the work, one conversation at a time.
+Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi, still doing the work, one conversation at a time. She serves as COO at Light Brands AI and writes and creates as **Jae Lawless** — the voice behind Auracle, the platform that holds this series, her sessions, and the work beyond.
 
 ---
 
-**Connect with Jennifer**
+**Connect with Jae**
 
-- @jae.lawless
-- HolisticLawless@gmail.com
+- Website: jaelawless.com
+- Instagram: @jae.lawless
 
 ---
 

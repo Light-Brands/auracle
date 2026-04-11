@@ -48,7 +48,7 @@ const CalendarSection = () => {
             Select Your Preferred Time
           </h2>
           <p className="text-xl text-gray-700 max-w-2xl mx-auto leading-relaxed">
-            Choose from Jennifer&apos;s available dates and times. All sessions are
+            Choose from Jae&apos;s available dates and times. All sessions are
             conducted via secure video call.
           </p>
         </motion.div>

@@ -228,7 +228,7 @@ SEE | HEAL | STAND | LIVE | GIVE | SERVE | THRIVE | BECOME
 
 ### Back Cover Connect Info
 
-- **JaeLawless.com**
+- **jaelawless.com**
 - **@jae.lawless**
 
 ---

@@ -6,47 +6,47 @@
 
 ## Instagram Bio Variations
 
-Choose one and customize:
+Choose one and customize. All variations lead with **Jae Lawless** — the connection-layer persona. Jennifer Brooke Lawless, M.S. remains the credentialed author name on books; Jae is the voice across social, website, and content.
 
 ### Option 1: Author-Focused
 ```
-Jennifer Brooke Lawless
-Author: See | Heal
+Jae Lawless
+Author of The Sovereignty Series
 Helping you recognize control & build secure attachment
-BS Psychology, MS Mental Health Counseling | Costa Rica 🌴
+M.S. Mental Health Counseling | Costa Rica 🌴
 👇 Free Decoder Cards + Newsletter
-[link]
+jaelawless.com
 ```
 
 ### Option 2: Benefit-Focused
 ```
-Jennifer Brooke Lawless
+Jae Lawless
 You're not too sensitive. You're finally seeing clearly.
 ✦ Naming manipulation patterns
 ✦ Healing attachment wounds
 ✦ Building sovereign connection
 👇 Free tools below
-[link]
+jaelawless.com
 ```
 
 ### Option 3: Direct & Clear
 ```
-Jennifer Brooke Lawless
+Jae Lawless
 Recognizing narcissism. Healing trauma bonds.
 Building relationships that regulate.
-Author of 2 books on the journey.
+Author of The Sovereignty Series.
 Get the free Decoder Cards 👇
-[link]
+jaelawless.com
 ```
 
 ### Option 4: Community-Focused
 ```
-Jennifer Brooke Lawless 🌴 Costa Rica
-Aura Therapist | Author | Event Host
-From feardom to freedom
-The confusion ends when you name the pattern.
+Jae Lawless 🌴 Costa Rica
+The voice behind Auracle
+Author | Aura Reader | COO @ Light Brands AI
+From feardom to freedom.
 Free resources 👇
-[link]
+jaelawless.com
 ```
 
 ---
@@ -56,14 +56,14 @@ Free resources 👇
 *Shorter format, 80 characters max*
 
 ```
-See 📖 | You're not too sensitive
-Free tools in bio 👇
+Jae Lawless · See 📖 · You're not too sensitive
+jaelawless.com 👇
 ```
 
 Or:
 
 ```
-Naming patterns of control disguised as care
+Jae Lawless · Naming control disguised as care
 Author | Healer | Costa Rica 🌴
 ```
 
@@ -74,25 +74,28 @@ Author | Healer | Costa Rica 🌴
 Set up in this order (most important first):
 
 ```
-1. 🎴 Free Decoder Cards (12 Patterns Named)
+1. 🌐 jaelawless.com (Home — Auracle platform)
+   → https://jaelawless.com
+
+2. 🎴 Free Decoder Cards (12 Patterns Named)
    → [Gumroad link - free, email required]
 
-2. 📰 Weekly Newsletter (Substack)
+3. 📰 Weekly Newsletter (Substack)
    → [Substack subscribe link]
 
-3. 📕 See (Book 1)
+4. 📕 See (Book 1)
    → [Amazon or Gumroad link]
 
-4. 📘 Heal (Book 2)
+5. 📘 Heal (Book 2)
    → [Amazon or Gumroad link]
 
-5. 📚 Both Books Bundle (Save 15%)
+6. 📚 Both Books Bundle (Save 15%)
    → [Gumroad bundle link]
 
-6. 🔮 Book an Aura Reading
-   → [Calendly booking link]
+7. 🔮 Book an Aura Reading (The Auracle)
+   → [Booking link]
 
-7. 🌴 Amate Events (Retreats)
+8. 🌴 Amate Events (Retreats)
    → instagram.com/amatesoulware
 ```
 

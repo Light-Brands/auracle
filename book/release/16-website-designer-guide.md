@@ -1,33 +1,57 @@
-# Website Designer Guide — Auracle
+# Website Designer Guide — jaelawless.com / Auracle
 
-## A Multi-Series Author Platform for Jennifer Brooke Lawless
+## A Multi-Series Author Platform — The Voice of Jae Lawless, The Platform of Auracle
 
-**Brand:** Auracle (under Light Brands)
-**Author:** Jennifer Brooke Lawless
+**Domain:** jaelawless.com
+**Persona / Voice:** Jae Lawless (connection layer — modern, sharp, memorable, slightly mysterious)
+**Platform:** Auracle (transformation layer — the system that holds books, sessions, courses, community)
+**Author of Record:** Jennifer Brooke (Saltzman) Lawless, M.S. (trust layer — credentials, clinical authority; surfaces on About page and book bios)
+**Positioning Statement:** *Jae Lawless is the voice behind Auracle, a system created by Jennifer Brooke (Saltzman) Lawless.*
 **Current State:** Sessions-focused single-page site (dark theme, healing sessions, aura reading)
 **Goal:** Full redesign from scratch as a multi-series author platform that integrates books, sessions, courses, and community — with a kingfisher-inspired palette (cream, electric blue, dark indigo, orange-red, black text) that is vivid, precise, and alive
+
+See `docs/personal-brand-strategy.md` for the full three-layer brand architecture and name usage matrix.
 
 ---
 
 ## 1. Site Identity & Brand Architecture
 
-### Brand Architecture
+### Three-Layer Brand Identity
 
 ```
-Auracle (under Light Brands)
+Trust         →  Jennifer Brooke (Saltzman) Lawless, M.S.
+                 Credentials, clinical authority, book covers,
+                 About page depth layer
+
+Connection    →  Jae Lawless
+                 Site voice, Instagram, content, domain
+                 (jaelawless.com)
+
+Transformation → Auracle
+                 The platform — books, sessions, courses,
+                 community — where people enter and
+                 experience transformation
+```
+
+### Platform Architecture
+
+```
+jaelawless.com (Auracle — the platform)
 ├── The Sovereignty Series (book series 1)
 ├── The Energy Series (book series 2)
 ├── Future Series (book series 3+)
 ├── The Auracle (sessions page — /the-auracle)
-│   Jennifer's practitioner identity; word-of-mouth booking destination
+│   Jae's practitioner destination; word-of-mouth booking
 │   Connect-first flow (WhatsApp / email), not calendar widget
 ├── Courses (structured learning)
 ├── Community (newsletter, circles, resources)
 └── ROSES OS (affiliate — RosesOS.com)
-    Jennifer is a therapist, rose meditation teacher, and
-    Guardian of the Hummingbird. She also leads branding.
+    Jae (as Jennifer) is a therapist, rose meditation teacher,
+    and Guardian of the Hummingbird. She also leads branding.
     Cross-linked, not absorbed — separate site, shared audience
 ```
+
+**Parallel identity:** Jae also serves as **COO at Light Brands AI** — surface this in the About page and footer, not in the main navigation.
 
 ---
 
@@ -61,10 +85,10 @@ The current site has a strong foundation. Preserve these elements:
 ### Primary Navigation
 
 ```
-Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jennifer]
+Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jae]
 ```
 
-**Mobile:** Hamburger menu with the same items; "Connect with Jennifer" remains visible as a floating CTA.
+**Mobile:** Hamburger menu with the same items; "Connect with Jae" remains visible as a floating CTA.
 
 ### Sitemap
 
@@ -103,7 +127,7 @@ Logo (Home)  |  Books  |  The Auracle  |  Learn  |  About  |  [Connect with Jenn
 │   ├── /aura-reading-1     Aura Reading Level 1 (Coming Soon)
 │   └── /rose-meditation    Rose Meditation Training (Coming Soon)
 │
-├── /about                  Jennifer's story + credentials
+├── /about                  Jae's story + Jennifer's credentials (depth layer)
 ├── /newsletter             Substack integration / signup
 ├── /free                   Lead magnets (Decoder Cards, Workbook, etc.)
 │   ├── /decoder-cards      Decoder Cards PDF download (email capture)
@@ -139,9 +163,9 @@ The home page introduces the full scope of the platform. It is NOT a book landin
 │  "Where Seen and Unseen Meet"                          │
 │                                                         │
 │  A brief author introduction (2-3 sentences):           │
-│  Jennifer Brooke Lawless is a therapist, writer,        │
-│  and energy practitioner. Through books, sessions,      │
-│  and courses, she helps sensitive adults decode          │
+│  Jae Lawless is a writer, therapist, and energy         │
+│  practitioner. Through books, sessions, and courses     │
+│  at Auracle, she helps sensitive adults decode          │
 │  patterns, heal their nervous systems, and reclaim      │
 │  their energy fields.                                   │
 │                                                         │
@@ -170,9 +194,9 @@ The home page introduces the full scope of the platform. It is NOT a book landin
 │                                                         │
 │  "Your field speaks. I help you listen."                │
 │                                                         │
-│  Brief intro: Jennifer Brooke Lawless, The Auracle —    │
-│  therapist, energy practitioner, and the person your    │
-│  friend told you to go see.                             │
+│  Brief intro: Jae Lawless, The Auracle — therapist,    │
+│  energy practitioner, and the person your friend        │
+│  told you to go see.                                    │
 │                                                         │
 │  Session type cards:                                    │
 │  - Thematic Reading                                     │
@@ -181,7 +205,7 @@ The home page introduces the full scope of the platform. It is NOT a book landin
 │  - Group Reading                                        │
 │  - Chakra Journey (12-session signature package)        │
 │                                                         │
-│  [Meet The Auracle]  [Connect with Jennifer]            │
+│  [Meet The Auracle]  [Connect with Jae]            │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  FEATURED VOLUME — Spotlight on the latest release      │
@@ -383,7 +407,7 @@ The dedicated sessions page. This is where word-of-mouth traffic lands — when 
 
 The page uses the site's visual identity throughout — kingfisher palette, same typography, same component system. No separate branding.
 
-**Booking flow:** Connect-first, not transactional. No calendar widget. Visitors read about session types, then reach out via WhatsApp or email to connect with Jennifer personally before booking. This filters for readiness, builds the relationship before the session starts, and positions the work as premium and personal.
+**Booking flow:** Connect-first, not transactional. No calendar widget. Visitors read about session types, then reach out via WhatsApp or email to connect with Jae personally before booking. This filters for readiness, builds the relationship before the session starts, and positions the work as premium and personal.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -391,13 +415,13 @@ The page uses the site's visual identity throughout — kingfisher palette, same
 │                                                         │
 │  "Your field speaks. I help you listen."                │
 │                                                         │
-│  Jennifer Brooke Lawless, The Auracle                   │
+│  Jae Lawless · The Auracle                              │
 │                                                         │
 │  Brief intro (2-3 sentences): Who The Auracle is,       │
 │  what she does, who this is for. Direct, warm,          │
 │  grounded — not "gentle sacred" or rose-toned.          │
 │                                                         │
-│  [Connect with Jennifer]                                │
+│  [Connect with Jae]                                │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  SESSION TYPES — Card grid (anchor sections)            │
@@ -426,7 +450,7 @@ The page uses the site's visual identity throughout — kingfisher palette, same
 │  (Reach Out → We Connect → We Meet)                     │
 │                                                         │
 │  1. Reach out via WhatsApp or email                     │
-│  2. Jennifer connects with you personally to            │
+│  2. Jae connects with you personally to                 │
 │     understand what you need                            │
 │  3. She books your session and you meet                 │
 │                                                         │
@@ -582,15 +606,22 @@ The workbook component should be built as a reusable element — future volumes 
 │  ABOUT HERO                                             │
 │                                                         │
 │  Professional headshot (large, centered or left)         │
-│  Jennifer Brooke Lawless                                 │
+│  Jae Lawless                                             │
+│  "Jennifer Brooke (Saltzman) Lawless, M.S."              │
+│  (smaller credential line beneath the persona name)      │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
-│  THE STORY — Medium bio (150 words), personal tone       │
+│  THE STORY — Long bio, personal tone                     │
+│                                                         │
+│  Name the layers: Jae (voice), Jennifer (trust),         │
+│  Auracle (platform). Saltzman honors maternal lineage.   │
 │                                                         │
 │  Credentials: BS Psychology (Boston University),         │
 │  MS Mental Health Counseling (Nova Southeastern),        │
 │  Clinical experience in psychiatric care, family         │
 │  systems, couples work                                   │
+│                                                         │
+│  Parallel role: COO at Light Brands AI                   │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │  THE WORK — Brief on Auracle's mission                   │
@@ -601,11 +632,11 @@ The workbook component should be built as a reusable element — future volumes 
 ├─────────────────────────────────────────────────────────┤
 │  ROSES OS — Affiliated community                        │
 │                                                         │
-│  "Jennifer is a therapist, rose meditation teacher,     │
-│  and Guardian of the Hummingbird at ROSES OS."           │
+│  "Jae is a therapist, rose meditation teacher, and     │
+│  Guardian of the Hummingbird at ROSES OS."              │
 │                                                         │
 │  Brief description + link to RosesOS.com                │
-│  Positions the relationship: Jennifer is a therapist    │
+│  Positions the relationship: Jae is a therapist        │
 │  and brand steward, not just a member.                  │
 │                                                         │
 │  [Visit ROSES OS →]                                     │
@@ -818,7 +849,7 @@ The single-word titles (SEE, HEAL, STAND, etc.) are the brand. They receive spec
 
 | Type | Style | Use |
 |------|-------|-----|
-| **Primary** | Solid orange-red background (`#E0522D`), cream text (`#F5F0E1`) | "Connect with Jennifer", "Buy Now" |
+| **Primary** | Solid orange-red background (`#E0522D`), cream text (`#F5F0E1`) | "Connect with Jae", "Buy Now" |
 | **Secondary** | Electric blue border (`#0EA5C3`), transparent background, blue text | "Explore Series", "Learn More" |
 | **Dark Primary** | Solid orange-red on indigo sections, cream text | CTAs inside dark hero/footer sections |
 | **Ghost** | No border, electric blue text with subtle hover underline | "Read more", navigation links |
@@ -846,7 +877,7 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 #### Navigation Bar
 
 - Fixed to top, cream background (`#F5F0E1`) with subtle bottom border and backdrop-blur
-- Logo left (black text or mark), nav items center (black text), CTA button right (orange-red, "Connect with Jennifer")
+- Logo left (black text or mark), nav items center (black text), CTA button right (orange-red, "Connect with Jae")
 - Mobile: hamburger menu, full-screen indigo overlay with cream text
 - Active page indicated by electric blue underline or text color
 - On scroll: slight shadow appears beneath nav bar
@@ -868,7 +899,7 @@ On dark (indigo) backgrounds, cards invert: `background: #1E3A5F`, `border: #2A4
 │                                                         │
 │  ─────────────────────────────────────────────────────  │
 │                                                         │
-│  © 2026 Light Brands. All rights reserved.               │
+│  © 2026 Auracle · jaelawless.com                         │
 │  Sessions do not replace medical or psychological care. │
 │                                                         │
 │  Privacy  ·  Terms  ·  Disclaimer  ·  Accessibility     │
@@ -924,7 +955,7 @@ Every volume across every series uses the same card component with series-specif
 At the bottom of every series page:
 
 ```
-──── More from Jennifer Brooke Lawless ────
+──── More from Jae Lawless ────
 
 [The Sovereignty Series]     [The Energy Series]
  SEE · HEAL · STAND ...      SENSE · UNDERSTAND · CLEAR ...
@@ -1018,7 +1049,7 @@ No structural redesign should be needed. The system is additive.
 - Add testimonials and reviews as they come in
 - Add "Start Here" quiz ("Which volume should I read first?")
 - Blog/articles integration (optional — could link to Substack)
-- **ROSES OS integration** — cross-link to RosesOS.com. Jennifer is a therapist, rose meditation teacher, Guardian of the Hummingbird, and leads their branding. The connection: Auracle is the publishing/practitioner arm; ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jennifer teaches and practices" — drives traffic both ways without merging brands
+- **ROSES OS integration** — cross-link to RosesOS.com. Jae (as Jennifer) is a therapist, rose meditation teacher, Guardian of the Hummingbird, and leads their branding. The connection: Auracle is the practitioner and brand arm (books published through KDP Amazon); ROSES OS is the school/community arm. Link from About page, footer, and /learn page. Position as "Where Jae teaches and practices" — drives traffic both ways without merging brands
 
 ### Phase 3 — Multi-Series (Energy Series)
 - Energy Series landing page
@@ -1100,7 +1131,7 @@ The designer must preserve:
 - An institute — a body of research, practice, and published work
 - A sanctuary — a warm, luminous space to explore difficult truths (cream and light, not darkness)
 - A bookshelf — a growing library organized by series and journey
-- A practitioner's home — where you come to work with Jennifer directly
+- A practitioner's home — where you come to work with Jae directly
 - A kingfisher — precise, vivid, alive. Dives deep, emerges with clarity
 
 ---
