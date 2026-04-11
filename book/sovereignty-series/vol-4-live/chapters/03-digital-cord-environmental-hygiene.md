@@ -61,6 +61,24 @@ Periodically, take 24-48 hours completely offline. Notice what your field does w
 **The Curated Feed:**
 Actively choose what you consume. Follow accounts that nourish rather than deplete. Seek content that regulates rather than activates.
 
+### When a Small Signal Becomes a Large Invitation
+
+Not every engagement lands the way you intend it.
+
+A like, a heart, a brief reaction—to you it may be a passing gesture, momentary attention, a kindness offered without weight. To a grounded person on the other end, that's exactly what it is: nothing, or close to it.
+
+But digital signals don't meet every nervous system the same way. To someone lonely, seeking validation, or holding an unresolved story about you, that same gesture lands very differently. It registers as *awareness*. As *re-engagement*. As an opening.
+
+This isn't paranoia. It's pattern.
+
+Signals are processed through the receiver's state, not your intent. Someone who is dysregulated, searching, or carrying a past thread with you will complete the story their nervous system is already telling. A small signal becomes evidence for whatever they were hoping was true.
+
+> *To a grounded person, a like is nothing. To a searching mind, it's an opening.*
+
+Digital hygiene, then, is not only about what you *consume*. It's about what you *emit*—and to whom. Before you engage, ask: *Who is receiving this? What will their nervous system do with it?*
+
+With regulated people, casual energy is safe. With dysregulated people, there is no such thing as a casual signal.
+
 ### The Phone as Portal
 
 Think of your phone as a portal into your field.

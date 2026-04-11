@@ -562,3 +562,5 @@ You've now seen how narcissistic family systems operate—the roles, the wounds,
 
 *You didn't choose your family of origin. But you can choose your family of creation—including the family you become to yourself.*
 
+> *This chapter explores leaving. For those who stay but transform the relationship — including navigating identity, interfaith dynamics, and cultural boundaries — see Volume 3, Chapter 16: Sovereignty With Family of Origin.*
+

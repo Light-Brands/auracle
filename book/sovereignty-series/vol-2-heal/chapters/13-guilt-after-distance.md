@@ -700,3 +700,5 @@ What would holding through this guilt teach your nervous system?
 | **Grief vs. Guilt** | Sadness about loss ≠ proof you did wrong |
 | **Mantra** | "I can feel guilty without being guilty." |
 
+> *When you re-engage with family after healing, guilt may resurface — especially around identity, cultural expectations, and interfaith dynamics. For maintaining sovereignty during contact, see Volume 3, Chapter 16: Sovereignty With Family of Origin.*
+

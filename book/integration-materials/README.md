@@ -15,6 +15,7 @@
 | `vol-1-see-additions.md` | Volume 1: See | Medium | Ready |
 | `vol-5-6-7-additions.md` | Volumes 5, 6, 7 | Medium | Ready |
 | `vol-3-boundary-escalation-additions.md` | Volumes 2 & 3: Heal & Stand | **HIGH** | Ready |
+| `vol-1-3-pattern-recognition-system-additions.md` | Volumes 1, 2, & 3 | **HIGH** | Ready |
 
 ---
 

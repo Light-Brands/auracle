@@ -96,16 +96,18 @@ Each front cover follows this exact structure:
 
 ### Volume Text Reference
 
-| Vol | Title | Subtitle |
-|:---:|:-----:|----------|
-| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* |
-| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* |
-| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* |
-| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* |
-| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* |
-| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* |
-| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* |
-| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* |
+> **Note:** The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine and back-cover metadata block). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+
+| Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) |
+|:---:|:-----:|-----------------------------|-------------------------------|
+| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
+| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
+| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* | *A Guide for Those Ready to Stop Shrinking and Start Standing* |
+| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* | *A Guide for Those Ready to Inhabit Their Full Power* |
+| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* | *A Guide for Those Ready to Give Their Children What They Never Received* |
+| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* | *A Guide for Those Called to Help Others on This Path* |
+| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *A Guide for Those Ready to Thrive, Not Just Survive* |
+| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* |
 
 **Author on all volumes:** Jennifer Brooke Lawless, M.S.
 
@@ -294,10 +296,10 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 The back cover should include two simple lines beneath the author bio:
 
-- **jaelawless.com**
+- **JaeLawless.com**
 - **@jae.lawless**
 
-**Branding note:** jaelawless.com is the author's primary digital destination — home of Auracle, the platform that holds the series, sessions, and courses. The book's back cover points readers to jaelawless.com and Instagram. The visual language at jaelawless.com should feel like it belongs to the same family as these covers (kingfisher palette, Cormorant Garamond + Inter typography). See `docs/personal-brand-strategy.md` for the brand architecture (Trust → Jennifer, Connection → Jae, Transformation → Auracle).
+**Branding note:** JaeLawless.com is the author's primary digital destination — home of Auracle, the platform that holds the series, sessions, and courses. The book's back cover points readers to JaeLawless.com and Instagram. The visual language at JaeLawless.com should feel like it belongs to the same family as these covers (kingfisher palette, Cormorant Garamond + Inter typography). See `docs/personal-brand-strategy.md` for the brand architecture (Trust → Jennifer, Connection → Jae, Transformation → Auracle).
 
 ---
 

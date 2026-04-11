@@ -2,6 +2,8 @@
 
 ## Become: Integration, Identity, and Stepping Into Your Whole Self
 
+> *A Guide for Those Ready to Unveil Their Infinite Self*
+
 ---
 
 ## About This Book

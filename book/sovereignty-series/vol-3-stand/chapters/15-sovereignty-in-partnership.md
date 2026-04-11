@@ -520,6 +520,28 @@ The old dance is over. A new one is beginning.
 
 ---
 
+## Threshold Days: Where Your Energy Belongs
+
+Some days in a partnership carry more weight than others.
+
+Anniversaries. Milestones. The day you made a choice that reorganized your life. These aren't just calendar dates—they're threshold days. Days where the chosen relationship is explicitly being honored, not just lived inside of.
+
+On threshold days, the question that matters is not *"Who is trying to reach me?"* or *"What do I owe that other situation?"* It's simpler and sharper:
+
+***Where does my energy belong today?***
+
+This matters because threshold days are also the days old things tend to resurface. A name from the past. An unexpected message. A pull to respond to something that, on any other day, you could handle at arm's length. Systems in transition attract noise at the edges.
+
+The sovereign move is not to argue with the noise. It's to notice where your attention is being asked to go—and choose, consciously, to keep it where you've placed it.
+
+> *On the day you celebrate what you chose, you don't entertain what you already left.*
+
+This is not avoidance. Avoidance is pretending something isn't there. This is **alignment**—placing your presence in the relationship that is actually yours, on the day that is actually about it.
+
+If it still needs handling, it will still be there tomorrow. Today is not for that.
+
+---
+
 ## The Five Questions for Partnership Sovereignty
 
 Use these when you're trying to understand what's happening in a relational dynamic:

@@ -2,6 +2,8 @@
 
 ## Conscious Parenting and Breaking Generational Trauma Cycles
 
+> *A Guide for Those Ready to Give Their Children What They Never Received*
+
 ---
 
 ## Course Overview

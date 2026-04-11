@@ -675,6 +675,27 @@ After you leave, they may cycle between:
 
 Stay no contact. Every response resets the cycle and shows them which tactic to try next.
 
+### The Reappearance—Sometimes Years Later
+
+Hoovering is not always immediate. Sometimes it arrives months or years after the exit, wearing a softer face.
+
+A "thinking of you" message on a holiday. A comment on a post from a new, unfamiliar account. A vague, spiritually-flavored opener—*"Had lunch with an aura person and thought of you."* A "can't we be friends?" offered as though the history had simply dissolved. A follow-up when you don't respond. A switch from one platform to another. A phone call out of nowhere.
+
+These openers tend to share a few features:
+- **They're vague enough to feel innocent.** There's no obvious demand, so a refusal can be framed as paranoia.
+- **They use cultural or emotional hooks.** Holidays, shared heritage, spiritual language—anything that creates a sense of "we have a connection that transcends the past."
+- **They escalate if ignored.** One attempt becomes two. A message becomes a call. A platform becomes a new platform.
+
+This is the same pattern as early hoovering. The only thing that's changed is the packaging. The dynamic underneath is identical: an attempt to re-establish access to someone who used to be available.
+
+**The decoder:** If a past connection is reaching across years, vague openers, and platforms—while your current life is stable and full—the message is not about reconnection. It's about re-entry.
+
+> *Not every door that knocks is meant to be opened again.*
+
+You do not owe a response to a door you've already closed. Years of distance do not reset the pattern. Softer language does not change what it's doing.
+
+If you feel the pull to respond—curiosity, nostalgia, the old loop reactivating—that is not a signal to engage. It's a signal that the old pattern still knows your address. Recognizing it is the whole point. Returning to it is not required.
+
 ### For Those Who Are Still There
 
 If you're reading this and recognizing your situation but aren't ready to leave yet:

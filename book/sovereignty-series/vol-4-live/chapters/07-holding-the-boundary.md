@@ -100,6 +100,60 @@ If the pattern continues, reduce contact. You don't need to announce it—just d
 
 ---
 
+## When Silence Is the Boundary
+
+Sometimes the cleanest no is no response at all.
+
+Someone reaches out. You don't reply. For most people, that's a complete sentence. They read the silence, adjust, and move on. Silence and space, taken together, communicate clearly: *not available.*
+
+But some people don't read silence that way.
+
+When a person escalates after silence—follows up, switches platforms, calls after a text, frames it casually ("just wanted to catch up")—they're signaling something important: *silence does not land on them as an answer.* For them, silence reads as uncertainty, and uncertainty reads as an opening to try harder.
+
+At that point, continued silence stops being a boundary. It becomes ambiguity. And ambiguity, to that kind of person, is fuel.
+
+This is the moment to shift modes.
+
+### The Shift: From Silence to Single Clear Sentence
+
+Once silence has been ignored, one clean, closed sentence does what continued silence cannot: it removes all interpretive room.
+
+You say it once. You don't explain. You don't debate. You don't soften it into warmth that could be misread as an opening.
+
+**Examples of closed sentences:**
+
+- *"I'm not available for this. Wishing you well."*
+- *"I'm not open to reconnecting. Wishing you the best."*
+- *"I've thought about it and the answer is no. Take care."*
+
+Notice what these share:
+- A direct statement of unavailability
+- No reason or explanation
+- A brief, non-hostile close
+- Nothing that invites a reply
+
+> *Silence is a boundary until someone ignores it. Then clarity becomes power.*
+
+### Why No Explanation
+
+When you explain, you give the other person something to argue with. Every reason becomes a door. Every justification becomes a debate. Every "because I'm…" becomes a negotiation point.
+
+A closed sentence has nothing to push against. That's what makes it final.
+
+### After the Sentence, Return to Silence
+
+Once you've said it once—clearly—you do not re-engage. Not to clarify. Not to defend. Not to soften the edges. If they reach out again, you do not respond. The single sentence was the last communication.
+
+The shape of this is:
+
+1. **Silence** (first boundary).
+2. **One clean sentence** (if silence is ignored).
+3. **Silence again, permanently** (after the sentence).
+
+You are not being cold. You are being clear. With someone who reads silence as ambiguity, clarity is the most respectful thing you can offer them—and the most protective thing you can offer yourself.
+
+---
+
 ## The Entitlement Response
 
 Some people respond to your no with entitlement: "But I need this from you." "You owe me." "You're being selfish."
