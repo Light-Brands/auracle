@@ -12,9 +12,7 @@ Copyright © 2026 por Jennifer Brooke Lawless
 
 Todos los derechos reservados. Ninguna parte de este libro puede ser reproducida, distribuida o transmitida de ninguna forma ni por ningún medio, incluyendo fotocopias, grabaciones u otros métodos electrónicos o mecánicos, sin el permiso previo por escrito del editor, excepto en el caso de citas breves incluidas en reseñas críticas y ciertos otros usos no comerciales permitidos por la ley de derechos de autor.
 
-Publicado por Auracle — jaelawless.com
-
-Distribuido a través de KDP Amazon
+Publicado por KDP Amazon
 
 ISBN 978-X-XXXX-XXXX-X (tapa blanda)
 ISBN 978-X-XXXX-XXXX-X (libro electrónico)
