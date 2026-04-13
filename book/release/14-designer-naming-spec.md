@@ -32,7 +32,7 @@ Each cover follows this exact text hierarchy:
 
 **Title:** SEE
 **Subtitle:** *Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
-**Guide Subtitle:** *The Truth That Was Hidden in Plain Sight*
+**Guide Subtitle:** *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
 **Series Line:** The Sovereignty Series — Volume 1
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Every pattern you can name is a pattern that loses power over you."
@@ -44,7 +44,7 @@ Each cover follows this exact text hierarchy:
 
 **Title:** HEAL
 **Subtitle:** *Nervous System Recovery and Attachment Repair After Narcissistic Abuse*
-**Guide Subtitle:** *The Body That Remembers the Way Home*
+**Guide Subtitle:** *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection*
 **Series Line:** The Sovereignty Series — Volume 2
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Secure attachment is not found—it is practiced."
@@ -56,7 +56,7 @@ Each cover follows this exact text hierarchy:
 
 **Title:** STAND
 **Subtitle:** *Building Boundaries, Internal Authority, and Self-Trust After Trauma*
-**Guide Subtitle:** *The Ground That Was Always Yours*
+**Guide Subtitle:** *A Guide for Those Ready to Stop Shrinking and Start Standing*
 **Series Line:** The Sovereignty Series — Volume 3
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "I am not small. I am learning to stand without fear."
@@ -68,7 +68,7 @@ Each cover follows this exact text hierarchy:
 
 **Title:** LIVE
 **Subtitle:** *Reclaiming Presence, Intimacy, and Embodied Leadership*
-**Guide Subtitle:** *The Presence That Changes Everything*
+**Guide Subtitle:** *A Guide for Those Ready to Inhabit Their Full Power*
 **Series Line:** The Sovereignty Series — Volume 4
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "My presence is erotic when it belongs to me."
@@ -80,7 +80,7 @@ Each cover follows this exact text hierarchy:
 
 **Title:** GIVE
 **Subtitle:** *Conscious Parenting and Breaking Generational Trauma Cycles*
-**Guide Subtitle:** *The Chain That Ends with You*
+**Guide Subtitle:** *A Guide for Those Ready to Give Their Children What They Never Received*
 **Series Line:** The Sovereignty Series — Volume 5
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "The chain breaks with you. Not because you're perfect, but because you're aware."
@@ -92,7 +92,7 @@ Each cover follows this exact text hierarchy:
 
 **Title:** SERVE
 **Subtitle:** *Sustainable Helping Without Burnout for Trauma-Informed Guides*
-**Guide Subtitle:** *The Light That Doesn't Consume*
+**Guide Subtitle:** *A Guide for Those Called to Help Others on This Path*
 **Series Line:** The Sovereignty Series — Volume 6
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Your healing is your credential. Your boundaries are your offering."
@@ -104,7 +104,7 @@ Each cover follows this exact text hierarchy:
 
 **Title:** THRIVE
 **Subtitle:** *Financial Recovery, Career Rebuilding, and Prosperity After Abuse*
-**Guide Subtitle:** *The Life You Were Told You Couldn't Have*
+**Guide Subtitle:** *A Guide for Those Ready to Thrive, Not Just Survive*
 **Series Line:** The Sovereignty Series — Volume 7
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Your prosperity is not a betrayal of your healing. It is a fruit of it."
@@ -116,7 +116,7 @@ Each cover follows this exact text hierarchy:
 
 **Title:** BECOME
 **Subtitle:** *Integration, Identity, and Stepping Into Your Whole Self*
-**Guide Subtitle:** *The Self That Was Never Lost*
+**Guide Subtitle:** *A Guide for Those Ready to Unveil Their Infinite Self*
 **Series Line:** The Sovereignty Series — Volume 8
 **Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "You were never becoming someone new. You were always unveiling who you'd been all along."

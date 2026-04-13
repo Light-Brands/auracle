@@ -100,16 +100,16 @@ Each front cover follows this exact structure:
 
 | Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) |
 |:---:|:-----:|-----------------------------|-------------------------------|
-| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *The Truth That Was Hidden in Plain Sight* |
-| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *The Body That Remembers the Way Home* |
-| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* | *The Ground That Was Always Yours* |
-| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* | *The Presence That Changes Everything* |
-| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* | *The Chain That Ends with You* |
-| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* | *The Light That Doesn't Consume* |
-| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *The Life You Were Told You Couldn't Have* |
-| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *The Self That Was Never Lost* |
+| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
+| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
+| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* | *A Guide for Those Ready to Stop Shrinking and Start Standing* |
+| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* | *A Guide for Those Ready to Inhabit Their Full Power* |
+| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* | *A Guide for Those Ready to Give Their Children What They Never Received* |
+| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* | *A Guide for Those Called to Help Others on This Path* |
+| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *A Guide for Those Ready to Thrive, Not Just Survive* |
+| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* |
 
-**Author on all covers:** Jennifer Brooke Lawless
+**Author on all volumes:** Jennifer Brooke Lawless
 
 ### The Two Through-Lines (Designer Should Know)
 
