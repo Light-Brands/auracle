@@ -64,20 +64,6 @@ Each front cover follows this exact structure:
 
 **Author on all volumes:** Jennifer Brooke Lawless
 
-### The Two Through-Lines
-
-**The Titles form a mantra:** SEE → HEAL → STAND → LIVE → GIVE → SERVE → THRIVE → BECOME
-
-**The Subtitles form a poem when read together:**
-> *The truth that was hidden in plain sight...*
-> *The body that remembers the way home...*
-> *The ground that was always yours...*
-> *The presence that changes everything...*
-> *The chain that ends with you...*
-> *The light that doesn't consume...*
-> *The life you were told you couldn't have...*
-> *The self that was never lost.*
-
 ---
 
 ## Cover Layout Details
