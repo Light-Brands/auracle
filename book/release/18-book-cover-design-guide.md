@@ -72,7 +72,7 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 │    in Plain Sight                       │     Mixed case, italic or light
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author (small, legible, off-white)
+│    Jennifer Brooke Lawless              │  ← Author (small, legible, off-white)
 │                                         │
 └─────────────────────────────────────────┘
 ```

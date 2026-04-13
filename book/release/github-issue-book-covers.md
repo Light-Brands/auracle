@@ -37,12 +37,11 @@ Each front cover follows this exact structure:
 │                                         │
 │    SEE                                  │  ← TITLE (largest, single word, ALL CAPS, WHITE)
 │                                         │
-│    Recognizing Narcissistic             │  ← Subtitle (medium, mixed case, OFF-WHITE)
-│    Manipulation in Relationships,       │
-│    Family, and Work                     │
+│    The Truth That Was Hidden            │  ← Subtitle (medium, mixed case, OFF-WHITE)
+│    in Plain Sight                       │
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author (smallest, legible)
+│    Jennifer Brooke Lawless              │  ← Author (smallest, legible)
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -53,16 +52,16 @@ Each front cover follows this exact structure:
 
 | Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) |
 |:---:|:-----:|-----------------------------|-------------------------------|
-| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
-| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
-| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* | *A Guide for Those Ready to Stop Shrinking and Start Standing* |
-| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* | *A Guide for Those Ready to Inhabit Their Full Power* |
-| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* | *A Guide for Those Ready to Give Their Children What They Never Received* |
-| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* | *A Guide for Those Called to Help Others on This Path* |
-| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *A Guide for Those Ready to Thrive, Not Just Survive* |
-| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* |
+| 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *The Truth That Was Hidden in Plain Sight* |
+| 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *The Body That Remembers the Way Home* |
+| 3 | **STAND** | *Building Boundaries, Internal Authority, and Self-Trust After Trauma* | *The Ground That Was Always Yours* |
+| 4 | **LIVE** | *Reclaiming Presence, Intimacy, and Embodied Leadership* | *The Presence That Changes Everything* |
+| 5 | **GIVE** | *Conscious Parenting and Breaking Generational Trauma Cycles* | *The Chain That Ends with You* |
+| 6 | **SERVE** | *Sustainable Helping Without Burnout for Trauma-Informed Guides* | *The Light That Doesn't Consume* |
+| 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *The Life You Were Told You Couldn't Have* |
+| 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *The Self That Was Never Lost* |
 
-**Author on all volumes:** Jennifer Brooke Lawless, M.S.
+**Author on all covers:** Jennifer Brooke Lawless
 
 ### The Two Through-Lines
 
@@ -87,7 +86,7 @@ Each front cover follows this exact structure:
 Standard spine format for each volume:
 
 ```
-SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless, M.S.
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
 ```
 
 When all 8 spines are shelved together, the titles read:
@@ -224,7 +223,7 @@ SEE | HEAL | STAND | LIVE | GIVE | SERVE | THRIVE | BECOME
 
 ## Back Cover Author Bio (All Volumes)
 
-> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica.
+> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find.
 
 ### Back Cover Connect Info
 
@@ -248,14 +247,13 @@ Each volume has a **companion workbook**. The workbook covers should look like t
 │                                         │
 │    SEE                                  │  ← TITLE (same as main cover)
 │                                         │
-│    Recognizing Narcissistic             │  ← Subtitle (same as main cover)
-│    Manipulation in Relationships,       │
-│    Family, and Work                     │
+│    The Truth That Was Hidden            │  ← Subtitle (same as main cover)
+│    in Plain Sight                       │
 │                                         │
 │    ── Companion Workbook ──             │  ← Workbook designation (white, small,
 │                                         │     with decorative rules or lighter weight)
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author
+│    Jennifer Brooke Lawless              │  ← Author
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -267,7 +265,7 @@ Each volume has a **companion workbook**. The workbook covers should look like t
 - Consider lighter font weight, smaller size, or decorative rules above/below "Companion Workbook"
 - When shelved together (main volume + workbook side by side), they should look like a **matched pair**
 - The spine should also include "Companion Workbook" or "Workbook" after the title
-- Same author name: **Jennifer Brooke Lawless, M.S.**
+- Same author name: **Jennifer Brooke Lawless**
 
 ---
 
