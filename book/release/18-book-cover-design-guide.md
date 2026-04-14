@@ -4,11 +4,9 @@
 
 This guide captures the design philosophy and specific creative decisions for the 8-volume Sovereignty Series covers. It translates market research (see `bestseller-book-art-research.md`) into actionable direction and sits alongside the Designer Brief (`15-designer-brief.md`) as the "why" behind the "what."
 
-**Author (cover):** Jennifer Brooke Lawless
+**Author:** Jennifer Brooke Lawless, M.S.
 **Series:** The Sovereignty Series — 8 Volumes
 **Genre:** Self-help / Personal Transformation / Narcissistic Abuse Recovery
-
-> Credentials (M.S.) appear only in the back-cover author bio and other descriptions — not on the front cover or spine.
 
 ---
 
