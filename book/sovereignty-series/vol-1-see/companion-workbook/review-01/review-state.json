@@ -1,0 +1,107 @@
+{
+  "target": "vol-1-see/companion-workbook",
+  "targetTitle": "SEE: The Companion Workbook (Vol 1)",
+  "referenceManuscript": "book/sovereignty-series/vol-1-see/vol-1-complete-manuscript.md",
+  "reviewRound": 1,
+  "roundStatus": "in_progress",
+  "currentPhase": "1",
+  "startedAt": "2026-04-14T00:00:00Z",
+  "completedAt": null,
+  "branch": "claude/review-companion-vol-one-DI2zV",
+  "reviewBasePath": "book/sovereignty-series/vol-1-see/companion-workbook/review-01",
+  "roundFocus": "First editorial review of the companion workbook, with cross-consistency check against the already-published Vol 1 manuscript",
+  "phases": {
+    "1": {
+      "name": "Strategic Decisions",
+      "status": "pending",
+      "reviewers": {
+        "diana": {
+          "agentFile": "book/agents/developmental-editor.md",
+          "displayName": "Diana (Developmental Editor)",
+          "focus": "Workbook structure, exercise sequencing, alignment with book arc",
+          "reviewFile": "phase-1-strategic/diana-developmental-editor.md",
+          "status": "pending"
+        },
+        "morgan": {
+          "agentFile": "book/agents/managing-editor.md",
+          "displayName": "Morgan (Managing Editor)",
+          "focus": "Production readiness, format decisions, cross-asset consistency",
+          "reviewFile": "phase-1-strategic/morgan-managing-editor.md",
+          "status": "pending"
+        }
+      }
+    },
+    "2": {
+      "name": "Content & Experience",
+      "status": "pending",
+      "reviewers": {
+        "bailey": {
+          "agentFile": "book/agents/beta-reader.md",
+          "displayName": "Bailey (Beta Reader)",
+          "focus": "Reader experience, exercise usability, emotional pacing",
+          "reviewFile": "phase-2-content/bailey-beta-reader.md",
+          "status": "pending"
+        },
+        "sage": {
+          "agentFile": "book/agents/sensitivity-reader.md",
+          "displayName": "Sage (Sensitivity Reader)",
+          "focus": "Trauma-informed language, safety tier handling, inclusive coverage",
+          "reviewFile": "phase-2-content/sage-sensitivity-reader.md",
+          "status": "pending"
+        },
+        "felix": {
+          "agentFile": "book/agents/fact-checker.md",
+          "displayName": "Felix (Fact-Checker)",
+          "focus": "Crisis resource accuracy, claim verification, citation consistency with book",
+          "reviewFile": "phase-2-content/felix-fact-checker.md",
+          "status": "pending"
+        }
+      }
+    },
+    "3": {
+      "name": "Polish",
+      "status": "pending",
+      "reviewers": {
+        "lydia": {
+          "agentFile": "book/agents/line-editor.md",
+          "displayName": "Lydia (Line Editor)",
+          "focus": "Prose craft, prompt wording, rhythm of exercise instructions",
+          "reviewFile": "phase-3-polish/lydia-line-editor.md",
+          "status": "pending"
+        },
+        "clara": {
+          "agentFile": "book/agents/copy-editor.md",
+          "displayName": "Clara (Copy Editor)",
+          "focus": "Style sheet consistency with book, capitalization, pattern name usage",
+          "reviewFile": "phase-3-polish/clara-copy-editor.md",
+          "status": "pending"
+        }
+      }
+    },
+    "4": {
+      "name": "Final Pass",
+      "status": "pending",
+      "reviewers": {
+        "petra": {
+          "agentFile": "book/agents/proofreader.md",
+          "displayName": "Petra (Proofreader)",
+          "focus": "Typos, punctuation, formatting consistency",
+          "reviewFile": "phase-4-final/petra-proofreader.md",
+          "status": "pending"
+        },
+        "coherence": {
+          "agentFile": null,
+          "displayName": "Coherence Analysis",
+          "focus": "Internal coherence, arc alignment with book, appendix↔section cross-refs",
+          "reviewFile": "phase-4-final/coherence-analysis.md",
+          "status": "pending"
+        }
+      }
+    },
+    "cross-consistency": {
+      "name": "Cross-Consistency (Workbook ↔ Vol 1)",
+      "status": "pending",
+      "reviewFile": "cross-consistency/workbook-vs-vol-1.md"
+    }
+  }
+}
