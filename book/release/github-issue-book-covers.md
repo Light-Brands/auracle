@@ -49,9 +49,9 @@ Each front cover follows this exact structure:
 
 ### All 8 Volumes — Titles and Subtitles
 
-> **Note:** The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine and back-cover metadata block). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+> **Note:** The **Subtitle** is the descriptive subtitle used on the **front cover, spine, and KDP metadata**. The **Guide Subtitle** is reader-facing marketing language used in the **Amazon description, Gumroad hero text, and social cards** — it is NOT rendered on the cover.
 
-| Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) |
+| Vol | Title | Subtitle (Cover / Spine / Metadata) | Guide Subtitle (Amazon / Gumroad / Social) |
 |:---:|:-----:|-----------------------------|-------------------------------|
 | 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
 | 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
