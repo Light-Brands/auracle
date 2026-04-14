@@ -4,21 +4,12 @@
 
 Design a cohesive cover system for **The Sovereignty Series** — an 8-volume nonfiction series about healing from narcissistic abuse and building personal sovereignty, plus **8 companion workbooks** (one per volume).
 
-- **Author:** Jennifer Brooke Lawless, M.S.
+- **Author (cover):** Jennifer Brooke Lawless
 - **Trim Size:** 6" x 9"
 - **Paper Type:** White (black ink interior)
 - **Volumes:** 8 main + 8 companion workbooks = **16 covers total**
 
----
-
-## What's Been Updated
-
-> Hi Andreas, I like the subtle images and the classy seriousness of it. I want it to cohesively go together on a shelf which I think this achieves.
-
-1. **Subtitles revised** — more grounded and specific (see volume text reference below)
-2. **Author credentials corrected** — M.S. and degrees reflected accurately
-3. **Companion workbook covers added** — 8 workbook covers matching their parent volumes
-4. **Font size consistency** — all 8 titles must be the same size across every cover, regardless of character count
+> Credentials (M.S.) appear only in the back-cover author bio and other descriptions — not on the front cover or spine.
 
 ---
 

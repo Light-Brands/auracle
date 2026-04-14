@@ -2,11 +2,13 @@
 
 ## Complete Cover Design Package for All 8 Volumes
 
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author (cover):** Jennifer Brooke Lawless
 **Series:** The Sovereignty Series
 **Volumes:** 8
 **Trim Size:** 6" x 9"
 **Paper Type:** White (black ink interior)
+
+> Credentials (M.S.) appear only in the back-cover author bio and other descriptions — not on the front cover or spine.
 
 ---
 
