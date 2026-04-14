@@ -13,11 +13,12 @@ Each cover follows this exact text hierarchy:
 │                                         │
 │    SEE                                  │  ← TITLE (largest, single word)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle (medium)
-│    in Plain Sight                       │
+│    Recognizing Narcissistic             │  ← Subtitle (medium)
+│    Manipulation in Relationships,       │
+│    Family, and Work                     │
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author (smallest)
+│    Jennifer Brooke Lawless              │  ← Author (smallest)
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -26,7 +27,7 @@ Each cover follows this exact text hierarchy:
 
 ## Complete Volume Naming
 
-> **Note on subtitles:** Each volume has two subtitle fields. The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine and back-cover metadata block). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+> **Note on subtitles:** Each volume has two subtitle fields. The **Subtitle** is the descriptive subtitle used on the **front cover, spine, and KDP metadata**. The **Guide Subtitle** is reader-facing marketing language used in the **Amazon description, Gumroad hero text, and social cards** — it is NOT rendered on the cover.
 
 ### Volume 1: See
 
@@ -34,7 +35,7 @@ Each cover follows this exact text hierarchy:
 **Subtitle:** *Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
 **Guide Subtitle:** *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
 **Series Line:** The Sovereignty Series — Volume 1
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Every pattern you can name is a pattern that loses power over you."
 **Core Insight:** "This wasn't love—this was conditioning."
 
@@ -46,7 +47,7 @@ Each cover follows this exact text hierarchy:
 **Subtitle:** *Nervous System Recovery and Attachment Repair After Narcissistic Abuse*
 **Guide Subtitle:** *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection*
 **Series Line:** The Sovereignty Series — Volume 2
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Secure attachment is not found—it is practiced."
 **Core Insight:** "Leaving hurts because your body learned danger as connection."
 
@@ -58,7 +59,7 @@ Each cover follows this exact text hierarchy:
 **Subtitle:** *Building Boundaries, Internal Authority, and Self-Trust After Trauma*
 **Guide Subtitle:** *A Guide for Those Ready to Stop Shrinking and Start Standing*
 **Series Line:** The Sovereignty Series — Volume 3
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "I am not small. I am learning to stand without fear."
 **Core Insight:** "You are safe to choose without urgency."
 
@@ -70,7 +71,7 @@ Each cover follows this exact text hierarchy:
 **Subtitle:** *Reclaiming Presence, Intimacy, and Embodied Leadership*
 **Guide Subtitle:** *A Guide for Those Ready to Inhabit Their Full Power*
 **Series Line:** The Sovereignty Series — Volume 4
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "My presence is erotic when it belongs to me."
 **Core Insight:** "Your presence is yours when it belongs to you."
 
@@ -82,7 +83,7 @@ Each cover follows this exact text hierarchy:
 **Subtitle:** *Conscious Parenting and Breaking Generational Trauma Cycles*
 **Guide Subtitle:** *A Guide for Those Ready to Give Their Children What They Never Received*
 **Series Line:** The Sovereignty Series — Volume 5
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "The chain breaks with you. Not because you're perfect, but because you're aware."
 **Core Insight:** "You don't have to be healed to be a good parent. You have to be healing."
 
@@ -94,7 +95,7 @@ Each cover follows this exact text hierarchy:
 **Subtitle:** *Sustainable Helping Without Burnout for Trauma-Informed Guides*
 **Guide Subtitle:** *A Guide for Those Called to Help Others on This Path*
 **Series Line:** The Sovereignty Series — Volume 6
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Your healing is your credential. Your boundaries are your offering."
 **Core Insight:** "You cannot give what you don't have. Your healing is your offering."
 
@@ -106,7 +107,7 @@ Each cover follows this exact text hierarchy:
 **Subtitle:** *Financial Recovery, Career Rebuilding, and Prosperity After Abuse*
 **Guide Subtitle:** *A Guide for Those Ready to Thrive, Not Just Survive*
 **Series Line:** The Sovereignty Series — Volume 7
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Your prosperity is not a betrayal of your healing. It is a fruit of it."
 **Core Insight:** "You are allowed to thrive, not just survive."
 
@@ -118,7 +119,7 @@ Each cover follows this exact text hierarchy:
 **Subtitle:** *Integration, Identity, and Stepping Into Your Whole Self*
 **Guide Subtitle:** *A Guide for Those Ready to Unveil Their Infinite Self*
 **Series Line:** The Sovereignty Series — Volume 8
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "You were never becoming someone new. You were always unveiling who you'd been all along."
 **Core Insight:** "You were never becoming—you were always unveiling."
 
@@ -184,7 +185,7 @@ From **external recognition** (truth) through **somatic healing** (body) to **re
 ### Spine Text (Paperback)
 
 ```
-SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless, M.S.
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
 ```
 
 When all 8 spines are lined up, the titles read:
@@ -235,7 +236,7 @@ The workbook designation should be:
 ### Workbook Spine Text
 
 ```
-SEE  |  Companion Workbook  |  Jennifer Brooke Lawless, M.S.
+SEE  |  Companion Workbook  |  Jennifer Brooke Lawless
 ```
 
 ---

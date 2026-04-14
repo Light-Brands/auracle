@@ -11,17 +11,6 @@ Design a cohesive cover system for **The Sovereignty Series** — an 8-volume no
 
 ---
 
-## What's Been Updated
-
-> Hi Andreas, I like the subtle images and the classy seriousness of it. I want it to cohesively go together on a shelf which I think this achieves.
-
-1. **Subtitles revised** — more grounded and specific (see volume text reference below)
-2. **Author credentials corrected** — M.S. and degrees reflected accurately
-3. **Companion workbook covers added** — 8 workbook covers matching their parent volumes
-4. **Font size consistency** — all 8 titles must be the same size across every cover, regardless of character count
-
----
-
 ## Volume Text Reference
 
 ### Front Cover Text Hierarchy
@@ -42,16 +31,16 @@ Each front cover follows this exact structure:
 │    Family, and Work                     │
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author (smallest, legible)
+│    Jennifer Brooke Lawless              │  ← Author (smallest, legible)
 │                                         │
 └─────────────────────────────────────────┘
 ```
 
 ### All 8 Volumes — Titles and Subtitles
 
-> **Note:** The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine and back-cover metadata block). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+> **Note:** The **Subtitle** is the descriptive subtitle used on the **front cover, spine, and KDP metadata**. The **Guide Subtitle** is reader-facing marketing language used in the **Amazon description, Gumroad hero text, and social cards** — it is NOT rendered on the cover.
 
-| Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) |
+| Vol | Title | Subtitle (Cover / Spine / Metadata) | Guide Subtitle (Amazon / Gumroad / Social) |
 |:---:|:-----:|-----------------------------|-------------------------------|
 | 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
 | 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
@@ -62,21 +51,7 @@ Each front cover follows this exact structure:
 | 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *A Guide for Those Ready to Thrive, Not Just Survive* |
 | 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* |
 
-**Author on all volumes:** Jennifer Brooke Lawless, M.S.
-
-### The Two Through-Lines
-
-**The Titles form a mantra:** SEE → HEAL → STAND → LIVE → GIVE → SERVE → THRIVE → BECOME
-
-**The Subtitles form a poem when read together:**
-> *The truth that was hidden in plain sight...*
-> *The body that remembers the way home...*
-> *The ground that was always yours...*
-> *The presence that changes everything...*
-> *The chain that ends with you...*
-> *The light that doesn't consume...*
-> *The life you were told you couldn't have...*
-> *The self that was never lost.*
+**Author on all volumes:** Jennifer Brooke Lawless
 
 ---
 
@@ -87,7 +62,7 @@ Each front cover follows this exact structure:
 Standard spine format for each volume:
 
 ```
-SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless, M.S.
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
 ```
 
 When all 8 spines are shelved together, the titles read:
@@ -224,7 +199,7 @@ SEE | HEAL | STAND | LIVE | GIVE | SERVE | THRIVE | BECOME
 
 ## Back Cover Author Bio (All Volumes)
 
-> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica.
+> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find.
 
 ### Back Cover Connect Info
 
@@ -255,7 +230,7 @@ Each volume has a **companion workbook**. The workbook covers should look like t
 │    ── Companion Workbook ──             │  ← Workbook designation (white, small,
 │                                         │     with decorative rules or lighter weight)
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author
+│    Jennifer Brooke Lawless              │  ← Author
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -267,7 +242,7 @@ Each volume has a **companion workbook**. The workbook covers should look like t
 - Consider lighter font weight, smaller size, or decorative rules above/below "Companion Workbook"
 - When shelved together (main volume + workbook side by side), they should look like a **matched pair**
 - The spine should also include "Companion Workbook" or "Workbook" after the title
-- Same author name: **Jennifer Brooke Lawless, M.S.**
+- Same author name: **Jennifer Brooke Lawless**
 
 ---
 

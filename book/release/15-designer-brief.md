@@ -85,20 +85,21 @@ Each front cover follows this exact structure:
 │                                         │
 │    SEE                                  │  ← TITLE (largest, single word, ALL CAPS, WHITE)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle (medium, mixed case, OFF-WHITE)
-│    in Plain Sight                       │
+│    Recognizing Narcissistic             │  ← Subtitle (medium, mixed case, OFF-WHITE)
+│    Manipulation in Relationships,       │
+│    Family, and Work                     │
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author (smallest, legible)
+│    Jennifer Brooke Lawless              │  ← Author (smallest, legible)
 │                                         │
 └─────────────────────────────────────────┘
 ```
 
 ### Volume Text Reference
 
-> **Note:** The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine and back-cover metadata block). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+> **Note:** The **Subtitle** is the descriptive subtitle used on the **front cover, spine, and KDP metadata**. The **Guide Subtitle** is reader-facing marketing language used in the **Amazon description, Gumroad hero text, and social cards** — it is NOT rendered on the cover.
 
-| Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) |
+| Vol | Title | Subtitle (Cover / Spine / Metadata) | Guide Subtitle (Amazon / Gumroad / Social) |
 |:---:|:-----:|-----------------------------|-------------------------------|
 | 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
 | 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
@@ -109,7 +110,7 @@ Each front cover follows this exact structure:
 | 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *A Guide for Those Ready to Thrive, Not Just Survive* |
 | 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* |
 
-**Author on all volumes:** Jennifer Brooke Lawless, M.S.
+**Author on all volumes:** Jennifer Brooke Lawless
 
 ### The Two Through-Lines (Designer Should Know)
 
@@ -132,7 +133,7 @@ Each front cover follows this exact structure:
 Standard spine format for each volume:
 
 ```
-SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless, M.S.
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
 ```
 
 When all 8 spines are shelved together, the titles read:
@@ -290,7 +291,7 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 ### Back Cover Author Bio (Short — for all volumes)
 
-> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica.
+> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find.
 
 ### Back Cover Connect Info
 
@@ -503,7 +504,7 @@ Each volume has an accompanying **companion workbook**. The workbook covers shou
 - **Identical design to the main volume cover** — same background color, same title treatment, same layout structure
 - **Add a "Companion Workbook" designation** — placed below the subtitle or in the series line area, clearly visible but secondary to the title
 - **Same white title and subtitle text** as the main covers
-- **Same author name:** Jennifer Brooke Lawless, M.S.
+- **Same author name:** Jennifer Brooke Lawless
 
 ### Suggested Workbook Designation Treatment
 
@@ -516,13 +517,14 @@ Each volume has an accompanying **companion workbook**. The workbook covers shou
 │                                         │
 │    SEE                                  │  ← TITLE (same as main cover)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle (same as main cover)
-│    in Plain Sight                       │
+│    Recognizing Narcissistic             │  ← Subtitle (same as main cover)
+│    Manipulation in Relationships,       │
+│    Family, and Work                     │
 │                                         │
 │    ── Companion Workbook ──             │  ← Workbook designation (white, small,
 │                                         │     with decorative rules or lighter weight)
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author
+│    Jennifer Brooke Lawless              │  ← Author
 │                                         │
 └─────────────────────────────────────────┘
 ```

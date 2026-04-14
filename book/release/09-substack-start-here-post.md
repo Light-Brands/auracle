@@ -30,7 +30,7 @@ Let me show you around.
 
 ## Who I Am
 
-I'm Jae Lawless — though on the covers of my books you'll see my legal name, Jennifer Brooke Lawless, M.S. I hold a Bachelor's in Psychology and a Master's in Mental Health Counseling, and I spent years in traditional therapy—both as a practitioner and as someone trying to heal.
+I'm Jae Lawless — though in my books you'll see my legal name, Jennifer Brooke Lawless. I hold a Bachelor's in Psychology and a Master's in Mental Health Counseling, and I spent years in traditional therapy—both as a practitioner and as someone trying to heal.
 
 What I learned: insight alone doesn't heal. You can understand everything and still react the same way.
 

@@ -18,7 +18,7 @@
 - The series account builds the audience with shareable content; the personal account builds trust and deeper connection through the Jae Lawless voice
 - Each drives followers to the other
 
-**Brand note:** **Jae Lawless is the voice behind Auracle** — the platform for sessions, courses, and the book series. The trust-layer author name (Jennifer Brooke Lawless, M.S.) lives on book covers and in back-matter bios; Jae is the front-facing name everywhere else. The Sovereignty Series remains its own book brand under @sovereigntyseries. Domain: **jaelawless.com**. See `docs/personal-brand-strategy.md` for the full architecture.
+**Brand note:** **Jae Lawless is the voice behind Auracle** — the platform for sessions, courses, and the book series. The trust-layer author name (Jennifer Brooke Lawless, M.S.) lives in back-matter bios and descriptions; Jae is the front-facing name everywhere else. The Sovereignty Series remains its own book brand under @sovereigntyseries. Domain: **jaelawless.com**. See `docs/personal-brand-strategy.md` for the full architecture.
 
 ---
 
