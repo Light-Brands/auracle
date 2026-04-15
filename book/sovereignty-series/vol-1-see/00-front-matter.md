@@ -222,7 +222,7 @@ You're not crazy. You never were.
 
 The examples in this book come from real life.
 
-They're drawn from my years as a therapeut working across a variety of settings—locked psychiatric units, in-home family therapy, individual sessions, couples counseling—as well as from my own personal relationships and lived experiences.
+They're drawn from my years as a therapist working across a variety of settings—locked psychiatric units, in-home family therapy, individual sessions, couples counseling—as well as from my own personal relationships and lived experiences.
 
 When you read a field note about a comment made at a gym, a look given across a dinner table, or the specific way someone's voice changed before an attack, these aren't hypotheticals. They happened. To my clients. To people I love. To me.
 
@@ -317,11 +317,13 @@ The **Decoder Cards** in Chapter 14 are designed to be shared. Use them as conve
 
 ## A Note on Language
 
-Throughout this book, examples use varied pronouns—he/him, she/her, and they/them—to reflect that these patterns occur across all genders and relationship types. Narcissistic abuse happens in heterosexual relationships, same-gender relationships, and relationships involving non-binary individuals. The perpetrator can be any gender; so can the survivor.
+The examples in this book use varied pronouns — he/him, she/her, and they/them — and varied relationship structures throughout the main text. Not in a sidebar. Not in a footnote that asks you to translate. In the body of the book, where they belong.
 
-When reading, translate any example to fit your situation. If the example describes "he" but your experience involved "she" or "they," the pattern still applies. The tactics are universal—only the specific people change.
+This matters because narcissistic abuse doesn't sort itself by gender or relationship type. It happens in heterosexual marriages and same-gender partnerships. The perpetrator can be a husband, a wife, a mother, a father, a sibling, a best friend, a boss, a pastor. The person harmed can be any of those too. The patterns are the same; only the faces change.
 
-Chapter 8 (Parental Wounds) and Chapter 11 (Romantic Manipulation) include notes on adapting content for same-sex parents, non-binary individuals, and diverse relationship structures.
+Older books in this genre often ask the reader to do the translation — "if the example says *he* but your abuser was *she*, just swap the pronouns in your head." That asks you to do work you shouldn't have to do, while you're already carrying what this material is asking you to look at. This book tries to do that work for you — by writing examples that already include you, rather than making you retrofit yourself into examples that didn't.
+
+If an example doesn't match your configuration exactly, the pattern underneath still does. Trust that. Trust what your body recognizes, even when the surface details differ.
 
 ---
 

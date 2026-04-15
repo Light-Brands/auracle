@@ -2233,9 +2233,9 @@ She checks her phone. Nothing.
 
 Checks again. Still nothing.
 
-He was messaging constantly yesterday—good morning texts, memes, "thinking of you." Now silence.
+The woman she'd been seeing was messaging constantly yesterday—good morning texts, memes, "thinking of you." Now silence.
 
-She knows he's online. His status shows active. But the messages have stopped.
+She knows she's online. Her status shows active. But the messages have stopped.
 
 She starts scrolling through their history. Did she say something wrong? Was she too much? Not enough?
 
@@ -2556,21 +2556,21 @@ You start managing your reactions more than the actual problem. You question whe
 
 ## Field Note: The Third Glass
 
-She refills her wine before she asks.
+They refill their wine before they ask.
 
 "You're so tense. Just relax."
 
-She wasn't tense until her partner said that. Now she feels like she's failing at something.
+They weren't tense until their partner said that. Now they feel like they're failing at something.
 
-By the third glass, she's softer. Easier. The edges blur.
+By the third glass, they're softer. Easier. The edges blur.
 
-That's when her partner brings up what she wants — something she said no to last week. Something that made her uncomfortable.
+That's when their partner brings up what they want — something they said no to last week. Something that made them uncomfortable.
 
-She hears herself agreeing. Her voice sounds far away.
+They hear themselves agreeing. Their voice sounds far away.
 
-The next morning, she doesn't remember exactly what she said yes to. But she remembers the feeling: cornered without walls.
+The next morning, they don't remember exactly what they said yes to. But they remember the feeling: cornered without walls.
 
-When she tries to revisit the conversation sober, her partner says: "You already agreed. Are you going back on your word?"
+When they try to revisit the conversation sober, their partner says: "You already agreed. Are you going back on your word?"
 
 ---
 
