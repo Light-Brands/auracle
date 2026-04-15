@@ -531,6 +531,31 @@ In a Jewrican household, this can mean the mother-in-law's standards for food, f
 
 **The decoder:** If his relationship with his mother requires your erasure, the bond isn't beautiful — it's a blueprint for how he'll treat you. You didn't marry him. You married the system.
 
+### The Shared Therapist
+
+I learned this mid-session.
+
+My therapist told me herself — not as a slip, not an accident, but a deliberate disclosure. She was visibly uncomfortable as she said it. I remember her face. The way a clinician's composure breaks a little when they're telling you something they know is about to rearrange the room.
+
+She was also seeing members of my husband's family. Not in the past. Currently. At the same time.
+
+I don't remember what I said. I remember my body. The way the chair became wrong. The way the room became small. The way every sentence I had ever spoken in that office rearranged itself behind me — who had heard it, who might have been told, what members of my husband's family knew about me before I walked into a holiday. I felt my privacy leaking backwards through time.
+
+Her discomfort mattered. It told me she knew. She understood — the way a trained clinician understands — what this was doing: why the rules that keep a therapist's room separate from a family's exist, and that she was living the reason in front of me. She was not the villain in this scene. She was another person caught inside a system large enough to reach into her practice, too.
+
+Technically, nothing confidential had been shared. She was careful, I'm sure. Professional. But the container I thought I had been sitting inside wasn't actually a container. It was another room in the family's house — and the therapist was in that room with me, watching it happen.
+
+This is what enmeshment looks like at its most thorough: the family doesn't stop at the dinner table, or the bedroom, or the marriage. It reaches into the one space designed to give you a view of itself — and when you reach for that view, the family is already there, holding the chair.
+
+**What this does:**
+
+- **Confidentiality becomes ambient.** Nothing has to be shared for the knowledge to land. You stop being able to say what you actually feel, because every sentence has to be pre-scanned for how it might sound in another session, another ear.
+- **The family system enters every session.** A therapist who treats multiple people in one enmeshed system isn't neutral — and often knows it. They hold, in their mind, the mother's version and the cousin's version alongside yours. Your truth enters a room already furnished with other perspectives.
+- **It mirrors the family dynamic exactly.** In enmeshed families, there is no private information. Your salary, your therapy, your problems — all shared, all adjudicated by the collective. A shared therapist is that dynamic with a couch.
+- **It makes leaving harder in both directions.** Leaving the therapist means losing the one professional who "knows the family." Staying means sitting, week after week, in a room you can no longer fully occupy.
+
+**The decoder:** Your therapist should be yours. Not shared with family members who are part of the system you are trying to see. If you discover — however carefully they disclose it — that the family has reached your therapeutic space, that space is compromised. The discomfort you feel in your body is correct. So, often, is the discomfort you'll see on the clinician's face. What you do about it is the next question. Some readers will find another clinician. Others — in small communities, in systems with one bilingual provider, in places where the therapeutic options were never plural to begin with — may not have that option. For them, the first sovereign act is not leaving the room. It is knowing what room you are in.
+
 ### When Your Identity Becomes Their Wound
 
 Some narcissistic parents don't reject your identity outright. They do something more insidious: they absorb it into their own narrative. Your coming out becomes *their* crisis. Your identity becomes *their* burden. Your truth becomes the thing *they* have to endure.
