@@ -273,6 +273,8 @@ But something has shifted. She realizes the pattern isn't passion. It's a cycle 
 
 **One-Line Decoder:** When makeup sex becomes something he brags about, you're not reconnecting—you're being collected.
 
+**When the configuration reverses, the trophy structure doesn't.** The bragging moves from locker room to group chat, the grammar shifts from *she came around* to *I made him beg* or *I held out and they folded* — but the beat is identical. The intimate moment is re-narrated to an audience, and the partner is re-narrated from person to proof. Whatever pronouns the scene takes, when the reconciliation becomes a story someone else hears, you weren't reconnecting. You were collected.
+
 ---
 
 ### The Objectification Hidden in Reconciliation
