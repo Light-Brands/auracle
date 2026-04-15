@@ -746,46 +746,46 @@ He cannot see it. Not because it isn't there. Because he isn't capable.
 
 ### Field Note: Where Are the Other Two Points?
 
-He gets a 98 on the test.
+I get a 98 on the test.
 
-He is proud. He did everything right. He studied. He remembered. He performed.
+I am proud. I did everything right. I studied. I remembered. I performed.
 
-He shows his father.
+I show my father.
 
 "Where are the other two points?"
 
 Not "great job." Not "I'm proud of you." Not even silence. A question. An accounting. A reminder that 98 is not 100, and not-100 is not enough.
 
-His body learns: *Perfect is the minimum. Anything less requires explanation.*
+My body learns: *Perfect is the minimum. Anything less requires explanation.*
 
-His mother teaches a different lesson—but the same wound.
+My mother teaches a different lesson—but the same wound.
 
-She says they're leaving at 2:00. He's ready at 1:45. He waits. 2:00 passes. 2:30. 3:15. She's not ready. She's never ready. He learns to wait. He learns that his readiness doesn't matter. He learns that time is something that happens *to* him, not something he controls.
+She says we're leaving at 2:00. I'm ready at 1:45. I wait. 2:00 passes. 2:30. 3:15. She's not ready. She's never ready. I learn to wait. I learn that my readiness doesn't matter. I learn that time is something that happens *to* me, not something I control.
 
-But also: he learns to *dread* being the one who isn't ready. Because he knows how it feels to wait. He will not make others feel that. He will be early. He will be prepared. He will never be the reason someone waits.
+But also: I learn to *dread* being the one who isn't ready. Because I know how it feels to wait. I will not make others feel that. I will be early. I will be prepared. I will never be the reason someone waits.
 
 Two wounds. Two parents. One nervous system trying to hold both.
 
-Now add this: his brain works differently. Not broken—but differently. The ADHD means time is slippery. Transitions are hard. Leaving on time requires a kind of executive scaffolding that doesn't come naturally. What others do automatically, he must do manually. Every departure is a negotiation with a brain that doesn't feel urgency until urgency is all there is.
+Now add this: my brain works differently. Not broken—but differently. The ADHD means time is slippery. Transitions are hard. Leaving on time requires a kind of executive scaffolding that doesn't come naturally. What others do automatically, I must do manually. Every departure is a negotiation with a brain that doesn't feel urgency until urgency is all there is.
 
-So he's fighting three battles:
-- His father's voice saying *98 isn't good enough*
-- His body remembering hours of waiting, learning his time doesn't matter
+So I'm fighting three battles:
+- My father's voice saying *98 isn't good enough*
+- My body remembering hours of waiting, learning my time doesn't matter
 - A brain that makes punctuality genuinely harder
 
 The result: being late feels like moral failure. Not inconvenience—*failure*. The same failure as those two missing points. The same invisibility as waiting in the hallway for hours.
 
-When he's running late, his nervous system doesn't say "you might be a few minutes behind." It says *you are failing*. It says *you are the problem*. It says *hurry, hurry, hurry*.
+When I'm running late, my nervous system doesn't say "you might be a few minutes behind." It says *you are failing*. It says *you are the problem*. It says *hurry, hurry, hurry*.
 
-One winter morning, running late for work, he drives too fast on icy roads.
+One winter morning, running late for work, I drive too fast on icy roads.
 
-He crashes.
+I crash.
 
-The car spins. Metal crumples. Glass shatters. He is lucky—shaken, but alive.
+The car spins. Metal crumples. Glass shatters. I am lucky—shaken, but alive.
 
-And sitting in the wreckage, heart pounding, he has a moment of terrible clarity: *I almost died because I couldn't be five minutes late.*
+And sitting in the wreckage, heart pounding, I have a moment of terrible clarity: *I almost died because I couldn't be five minutes late.*
 
-Not because of the ice. Not because of the weather. Because his body decided that death was preferable to being the person who makes others wait. Because somewhere in his nervous system, "late" and "worthless" became the same thing.
+Not because of the ice. Not because of the weather. Because my body decided that death was preferable to being the person who makes others wait. Because somewhere in my nervous system, "late" and "worthless" became the same thing.
 
 This is how childhood patterns become life-threatening.
 
@@ -797,11 +797,11 @@ The ADHD doesn't create the wound. But it makes the wound harder to outrun. The 
 
 **The work:** Separating time from shame. Learning that "running behind" is logistics, not identity. Teaching the nervous system that lateness is survivable—uncomfortable, maybe, but survivable.
 
-Years later, he told his father about the crash. About the ice and the panic and the way his body chose death over lateness. His father couldn't believe he was still upset about the two points. "That was years ago," he said. "You're still carrying that?"
+Years later, I told my father about the crash. About the ice and the panic and the way my body chose death over lateness. He couldn't believe I was still upset about the two points. "That was years ago," he said. "You're still carrying that?"
 
 The original incident teaches: *you're not enough.* The dismissal years later teaches: *your memory of not being enough doesn't matter either.* The wound and the minimization of the wound are the same pattern. The near-death didn't register as evidence — because in the narcissistic parent's world, their impact on you is never as significant as you claim.
 
-He is not chasing two points anymore. He is not waiting in a hallway. He is an adult, and he gets to decide what lateness means.
+I am not chasing two points anymore. I am not waiting in a hallway. I am an adult, and I get to decide what lateness means.
 
 It doesn't have to mean failure.
 
