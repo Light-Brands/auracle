@@ -1445,3 +1445,77 @@ This means:
 - The front matter — the "Note on Diversity and Access" should name this directly: "This book will not tell you to leave. It will tell you to see. What you do with that seeing is yours."
 
 **The readers this serves:** Every reader who picks up this book while still in it. Every woman who reads it in the bathroom while he's in the next room. Every daughter who recognizes her mother but will still go to Thanksgiving. Every person whose culture, faith, finances, children, or immigration status makes leaving impossible. They are not failed readers. They are the readers who need this book most.
+
+---
+
+## ADDENDUM: Three Additional Points (Added During Implementation Planning)
+
+The following three points surfaced during the planning conversation for the implementation pass and are folded into the integration alongside the existing points above. They are NEW material from the author and have not been in any prior proposal.
+
+### NEW: Working for the Ex's Family Members — Employment as Enmeshment
+
+**New material from author:** She did not just marry into the enmeshed system — **she also worked for members of his family.** Her livelihood ran through the same family that controlled the relationship.
+
+This is structural capture. Enmeshment that crosses into employment removes the fallback that makes leaving theoretically possible. Quitting the partner also means quitting the job. The "going home to mom" exit doesn't exist when the in-laws are also your clients, your boss, your coworkers. The economic floor and the relational floor become the same floor. Pulling one collapses the other.
+
+**What this teaches the reader:** Enmeshment is not only emotional. Watch for the structural forms. The family business, the family lawyer, the family doctor, the apartment owned by his parents, the car in his mother's name, the health insurance through his sister's company, the job you got because his uncle vouched for you. Each one is a thread. Together they are a net. When the net is tight enough, "leaving" stops being a discrete action and becomes a logistical impossibility — *which is the point.*
+
+**Where this belongs:**
+- **Ch 5 (Narcissist Types)** — in the new "When Enmeshment Is Called Closeness" subsection, as a field note. Not just family weighing in on your relationship — family literally on your payroll, or you on theirs.
+- **Ch 8 (Parental Wounds)** — extends the Mother-Son Enmeshment subsection. The man enmeshed with his mother imports his mother's family as your *workplace*. The same enmeshment that makes him incapable of independence makes you economically dependent on the same system that produced him.
+- **Ch 11 (Romantic Manipulation)** — extends "The Takeover." Love-bombing is the emotional colonization. Working for his family is the economic colonization. The diary reading is the inner colonization. Together they describe a person who has nowhere left that is hers.
+
+**Voice:** Author first-person.
+
+**Anonymization:** Generalize the type of work and the specific family members. No roles, no business names, no industry markers that point back. "I worked for members of his family" — that sentence alone carries the lesson.
+
+### NEW: The Therapist Surprise — Therapy as Triangulation
+
+**New material from author:** The plan already names a "Shared Therapist" addition. The new detail upgrades it: **the author discovered, as a surprise during a session, that the therapist was simultaneously seeing other family members.** The discovery itself — mid-session, unannounced, the floor going out from under her — is the violation.
+
+The therapeutic container is supposed to be the one place free of the family system. It's the one room where what you say does not loop back. Discovering mid-session that it has been looping the entire time is a category-collapse moment: there is now no neutral ground anywhere. Not the family table. Not the synagogue. Not the therapist's office. The system has captured the structure designed to help you escape the system.
+
+**Why this is one of the most important field notes in the book:** It demonstrates, with surgical precision, how collectivist enmeshment weaponizes the very institutions built for individual healing. A therapist who agrees to see multiple members of an enmeshed family — without disclosure, without informed consent from each party — is not neutral. They are inside the system. Whatever you say can and will be used by the relational physics of the room you cannot see. This pattern repeats with pastors who counsel both spouses, family doctors who "know everyone," lawyers who represent the family business and the family marriage, school counselors who also coach the brother's team. The captured professional looks neutral. They are not.
+
+**Where this belongs:**
+- **Ch 8 (Parental Wounds)** — rewrite the existing "Shared Therapist" addition to lead with the moment of discovery. The body memory of realizing it. The shoulders dropping in a different direction than they ever had in that room before. Not a clinical description — the field-note version of *the room itself stopped being safe in real time.*
+- **Ch 7 (Family Roles & Triangulation)** — under "When the Whole Community Is the Triangle." The professional as a captured node in the system. The triangulation no longer needs a flying monkey because the therapist is doing the work without anyone asking.
+- **Ch 3 (Decoder Playbook)** — a captured-professional decoder paragraph or short card. Pattern-recognition language for readers: *if the same professional sees more than one member of an enmeshed family without explicit boundaries, they are not your therapist. They are the family's therapist, and you are one of its members.*
+
+**Voice:** Author first-person. The discovery moment is the field note — the body, not the analysis.
+
+**Anonymization:** Don't name the therapist, the city, the modality, or the specific family members in attendance. "I was in session. Mid-sentence, I learned that other members of my husband's family were also patients of the same therapist. I had not been told. The container had never been a container."
+
+### NEW: The Gay Family Member, Shielded — Homophobia as Inherited Family Policy
+
+**New material from author:** The author's mother shielded her brother from being around their gay uncle (the father's brother) — as if being gay were "catchy," or as if the uncle posed a predatory risk to the children. The shielding was not loud. It was logistical. Visits arranged around him. Conversations steered. A quiet family policy that the children learned without ever being told.
+
+**Why this matters — and why it belongs alongside "The Coming Out That Never Happened":** The author's strategic silence about her own bisexuality was not paranoia. It was pattern recognition built on a lifetime of evidence. She had watched her mother manage access to a queer family member as if his sexuality were dangerous to children. That family policy was the *prequel* to the boyfriend's "Dyke" joke and the mother's laughter. The laughter wasn't a one-off. It was continuous with a decades-long architecture in which queerness in this family was treated as something to be contained.
+
+When a child grows up watching the adults in her family treat a gay relative as a contamination risk — *especially* a relative whose only sin is existing — the child learns several lessons at once:
+- Queerness is a thing that adults take precautions against
+- Adults who love you will distance you from queer people "for your own good"
+- The shielding is silent; nobody has to say "we're afraid of him"
+- If you are queer, you are the thing they were shielding against
+- Coming out is not just a disclosure — it is a request to be the next person managed
+
+The author's bisexuality was held in silence not because she was ashamed, but because she had already seen what the family did with queer relatives they couldn't deny. They didn't reject. They *managed.* And being managed by your own family is its own kind of erasure.
+
+**Where this belongs:**
+- **Ch 8 (Parental Wounds)** — as a field note in the Mother Wound section. The mother's homophobia as an inherited protective instinct that is itself a wound. Not the mother as villain. The mother as the carrier of the previous generation's fear, transmitting it as protection. The wound is real even when the intent was care.
+- **Ch 9 (Childhood Patterns)** — in the cultural-conditioning section. What the child learned about queerness from watching the adults control access. The lesson installs early, before language. The child does not need to be told "we are afraid of him." She just notices that visits are scheduled around him.
+- **Ch 7 (Family Roles & Triangulation)** — gatekeeping access based on identity. The narcissistic system does not have to do this work overtly. It just has to manage who gets to be in which room. Identity-based gatekeeping is one of the quietest forms of triangulation in the book.
+- **The LGBTQ+ thread, alongside "The Coming Out That Never Happened"** — as the backstory that confirms the pre-rejection was not a single moment. The mother's laughter at the slur was the latest expression of a family policy the author had been reading since childhood. The strategic silence is intelligence.
+
+**Voice:** Author first-person, with anonymization.
+
+**Anonymization:** No "uncle." No "father's brother." No name. Suggested phrasing: *"A gay family member was kept at arm's length — as if his orientation were contagious, or as if proximity itself posed a risk to the children. Visits were scheduled around him. Conversations were steered. Nobody ever said the word 'afraid.' Nobody had to. We learned what queerness meant in this family before we had a word for what queerness was."*
+
+### Cross-cutting note: how these three points reinforce the existing thesis
+
+Each new point sharpens an existing thread:
+- **Point A (working for ex's family)** thickens the enmeshment thread — enmeshment is not just emotional, it is structural and economic. This makes "Sovereignty Without Exit" honest about why exit is sometimes literally not affordable.
+- **Point B (therapist surprise)** thickens the captured-professional / community-triangle thread — even the institutions designed to free you can be captured by the system. This is the cleanest illustration in the book of how collectivist systems metabolize individualist tools.
+- **Point C (gay family member, shielded)** thickens the LGBTQ+ pre-rejection thread — the "Coming Out That Never Happened" was not an isolated moment; it was the inheritor of a long-running family policy. This makes the strategic silence legible as intelligence rather than fear.
+
+Together they extend the book's range without expanding its skeleton. They are field notes, not new frameworks.
