@@ -18,6 +18,10 @@ If narcissistic patterns were part of your early environment, you may have learn
 
 If affection was given as reward and withdrawn as punishment, you learned that love must be earned through compliance and performance. This makes you work hard in adult relationships, even when the person isn't reciprocating.
 
+### That Acceptance Must Be Earned
+
+If your family treated your identity — your queerness, your religion, your neurotype, your body, any core truth about who you are — as something to be *tolerated* rather than celebrated, you learned that the most fundamental parts of yourself come with conditions. This trains you to accept conditional love from partners. You've been practicing gratitude for the bare minimum since you were a teenager. A partner who "accepts" you while controlling you feels normal — because that's what acceptance has always looked like.
+
 ### That Your Needs Are Shameful
 
 If expressing needs was met with irritation, dismissal, or rage, you learned that having needs is a burden. You become the person who never asks for anything, and therefore attracts people who take without giving.
