@@ -531,6 +531,20 @@ In a Jewrican household, this can mean the mother-in-law's standards for food, f
 
 **The decoder:** If his relationship with his mother requires your erasure, the bond isn't beautiful — it's a blueprint for how he'll treat you. You didn't marry him. You married the system.
 
+> **Field Note: When the Job Is the Family**
+>
+> It wasn't only the marriage. I also worked for members of his family.
+>
+> When I tell people that now, they nod like they understand. They don't, not yet. They think "working for family" means occasional overlap — a shared holiday, a name on an email chain. That's not what this was. My body knew it before my mind made it plain: every Sunday dinner was also a work meeting; every work meeting was also a Sunday dinner. There was no Monday that wasn't still Sunday. There was no office that wasn't also the kitchen.
+>
+> Quitting my partner would have meant quitting my livelihood. I did not have two worlds. I had one world, wearing two faces.
+>
+> This is how enmeshed systems close their exits. In individualist cultures, the "going home to your mother" fallback is a cliché — and also a safety net. It presumes you have a separate home to go to. In enmeshed systems, there often isn't one. Your family is also his family's business associate. Your church is also his aunt's congregation. Your therapist sees his cousin. The systems don't simply overlap. They are the same system wearing different clothes.
+>
+> So when the relationship became unlivable, "leave" wasn't one decision. It was six. Career, income, references, professional identity, reputation, the life you'd built that made you a person in the world. All of it was downstream of the same family.
+>
+> **The decoder:** If leaving the partner also means leaving your income, your community, your rabbi, your primary-care doctor, and the only people you've ever celebrated a holiday with — the system is not a relationship. It's a container. And the container has been sized to make your exit expensive.
+
 ### The Shared Therapist
 
 I learned this mid-session.
