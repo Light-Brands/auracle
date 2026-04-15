@@ -586,6 +586,20 @@ And then there's the version that never reaches disclosure at all. The environme
 >
 > The quiet isn't shame. It's intelligence. I read the room. I assessed the cost. And I decided my truth was worth more than their approval. I kept it for myself — not because I'm ashamed of it, but because I refuse to hand it to people who would use it as a punchline.
 
+> **Field Note: Kept at Arm's Length**
+>
+> This wasn't my first piece of evidence. It was the one I finally named.
+>
+> Long before the slur in the living room, long before the laugh, there was a pattern I grew up inside and never had language for: a gay family member was kept at arm's length. Not banned. Not confronted. Just...managed. Quietly. The children weren't allowed to spend unsupervised time with him. Holidays had choreography around him — who sat where, who left when. The distance was so carefully maintained that for years I thought it was normal. Every family has relatives they see less of, I told myself. Some people are just further out.
+>
+> It took me a long time to name what the distance was protecting the children from. Not harm — he had never harmed anyone, had never been accused of anything. His *presence* was the supposed risk. As if being near him could teach us something the family didn't want us to learn. As if what he was — just his being — could reach a child through air.
+>
+> The message I absorbed before I had words for it: people like him are a threat to children. By extension: people like me are a threat to children. By further extension: if I am that, I must never be near a child. I must never want a child. I must never come home.
+>
+> When I walked into that living room years later and heard my mother laugh at the slur, I wasn't blindsided. Some part of me had been assembling evidence for two decades. The laugh didn't tell me who my mother was. It confirmed her. And the words died in my mouth not because I was afraid — but because a system that had quietly cordoned off one of its own for being what I am was never going to make room for me to say what I was.
+>
+> The strategic silence wasn't cowardice. It was the only rational response to two decades of data.
+
 ### The Modeling Pattern
 
 Before she ever entered her own abusive relationship, she watched her mother model what a woman does when a man hurts her: you beg him to stay.
