@@ -224,6 +224,20 @@ The theology becomes the cage. Your pastor isn't the narcissist — but the past
 
 **The truth that sets you free:** No theology that requires your destruction is holy. No covenant that demands your erasure is sacred. If your faith tradition says you must endure abuse, the tradition needs questioning — not you.
 
+### The Takeover
+
+It doesn't start with control. It starts with welcome.
+
+His family is warm. Open. They bring you in like you've always belonged. The dinners, the holidays, the "you're one of us now." It feels like gaining a family, not entering a system.
+
+Then: "You should work with us. You're so talented. We could use someone like you." It sounds like opportunity. It sounds like love.
+
+By the time I realized what had happened, my livelihood ran through his family. The people whose approval I needed at Sunday dinner were the same people whose approval I needed at work on Monday. My chest would tighten walking into both rooms — same room, different address.
+
+This is the takeover. Not the dramatic kind. The kind where every boundary gets absorbed so gradually that by the time you see the pattern, there's nothing left that isn't downstream of the same system.
+
+**The decoder:** Love-bombing that extends into economic integration isn't generosity — it's colonization with a warm face. If the relationship ends, you should still have a job. If the family dissolves, you should still have an income. If both disappear together, the system was never supporting you. It was acquiring you.
+
 ---
 
 ### Healthy Romance for Contrast
