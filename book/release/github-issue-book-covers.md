@@ -109,7 +109,7 @@ SEE | HEAL | STAND | LIVE | GIVE | SERVE | THRIVE | BECOME
 
 **Barcode area:** Reserve 2" x 1.2" white rectangle in lower-right corner, 0.25" from spine and trim edge.
 
-**Author photo:** AI-enhanced professional headshot from real photo (at `public/photos/author-headshot.jpg`). Same photo across all 8 volumes.
+**Author photo:** AI-enhanced professional headshot from real photo. Same photo across all 8 volumes. **Placeholder in repo:** `public/photos/author-headshot.png` (copy of `bios/CFBA4920-C863-42D6-9180-60A42E826949.png`) — swap with final AI-enhanced headshot before print.
 
 ---
 
@@ -440,14 +440,14 @@ The full canonical designer brief and cover specifications live in the repositor
 
 - **`book/release/15-designer-brief.md`** — Complete designer brief (single source of truth)
 - **`book/release/11-cover-specifications.md`** — Platform-specific cover specifications
-- **`public/photos/author-headshot.jpg`** — Author headshot for back cover
+- **`public/photos/author-headshot.png`** — Author headshot for back cover (current file is a placeholder; replace with final AI-enhanced headshot before print)
 
 ---
 
 ## What the Designer Will Receive
 
 1. This issue (complete specifications)
-2. Author headshot photo (`public/photos/author-headshot.jpg`)
+2. Author headshot photo (`public/photos/author-headshot.png` — placeholder in repo; final AI-enhanced version to replace before print)
 3. Access to the [KDP Cover Calculator](https://kdp.amazon.com/en_US/cover-calculator) for final spine width confirmation
 4. Final page counts once manuscripts are formatted
 
