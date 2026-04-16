@@ -132,7 +132,21 @@ If you are LGBTQ+ — and especially if you are trans — the chosen family that
 
 If you live at an intersection of these — and most readers do — the layers compound. Two collectivist systems don't add. They multiply.
 
-This book sees you. The chapters on minimal contact, guilt after distance, and the grief that follows freedom address these realities directly, naming the patterns at the structural level so the recovery work fits your actual life — not just the individualist template most self-help is written for. The companion blueprint (`cultural-coverage-integration-plan.md`) maps where six specific communities — Black, Asian, Indigenous, Middle Eastern, religious traditions, and trans — receive deeper community-voice treatment as that material is drafted with sensitivity readers from each community.
+This book sees you. The cultural layer is threaded through the volume rather than ghettoized into a single chapter. You will find it at the structural level in:
+
+- **Chapter 1** (the cultural bridge) — naming that for many readers the "between worlds" is literal
+- **Chapter 5** (the culturally-armored father) and **Chapter 6** (the culturally-sanctified mother) — the parental wounds, inside the cultural frames that protected them
+- **Chapter 7** (pre-gaslighting) — the roles installed by family and culture long before any narcissist arrived
+- **Chapter 11** (the body pre-trained to override itself) — how cultural endurance codes compound somatic trauma
+- **Chapter 12** (when the community is the relationship) — what no-contact means when leaving one person means navigating an entire world
+- **Chapter 13** (cultural and religious guilt) — the architectures of guilt across communities
+- **Chapter 14** (endings that cannot be clean by Western standards) — shunning, honor-based, small-community, and cosmological endings
+- **Chapter 15** (when the loss includes a community) — the grief layer most recovery literature does not name
+- **Chapter 16** (when hope is culturally required) — releasing the enforced hope without losing the tender one
+- **Chapter 18** (dating inside a small world) and **Chapter 19** (when the red flag is dressed as a virtue) — the cultural reading that sits inside the observational work
+- **Chapter 22** (reparenting when needs themselves were taboo) — overruling (not erasing) the inherited survival rules
+
+The companion blueprint (`cultural-coverage-integration-plan.md`) maps where six specific communities — Black, Asian, Indigenous, Middle Eastern, religious traditions, and trans — receive deeper community-voice treatment as that material is drafted with sensitivity readers from each community. The standing rule governing that work lives in `sensitivity-reader-gate.md`: community-internal voice is not drafted without a reader from that community in the loop, because the author does not hold that voice and refuses to pretend otherwise.
 
 You do not have to choose between healing and belonging. The work this book asks of you is to find the version of belonging that doesn't cost you yourself.
 
