@@ -2047,6 +2047,18 @@ Pressure comes from multiple sources. People you trust carry their message. You 
 **Your Power Move:**
 Set boundaries with the messengers too. "I appreciate your concern, but I'm not discussing [person] with third parties. If they want to talk to me, they can reach out directly."
 
+### The Captured-Professional Variant
+
+Flying monkeys get recruited. Captured professionals are already there.
+
+A therapist the whole family sees. A pastor who counseled your parents long before he counseled you. A family doctor who delivered you and still takes your mother's calls. A lawyer who "knows the family" and whose loyalty was decided before you ever walked in.
+
+In individualist systems, you assume a therapist is yours, a pastor is spiritual counsel, a lawyer is your advocate. In collectivist systems, these roles are often already inside the family network. No recruitment required — they were there first.
+
+**Why the distinction matters for the decoder:** Flying monkeys can sometimes be redirected — "tell them to talk to me directly" works when the messenger is peripheral. Captured professionals often can't be redirected, because they were never separate from the family to begin with. The decoder move is different: you may need to find someone outside the system entirely to hold the neutral role they cannot hold.
+
+*Ch 7 and Ch 8 explore what this feels like in the room.*
+
 ---
 
 ### Once Upon a Time: The Gift of the Magi
