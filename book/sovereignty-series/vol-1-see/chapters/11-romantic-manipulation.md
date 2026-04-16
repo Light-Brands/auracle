@@ -722,6 +722,24 @@ You do not owe a response to a door you've already closed. Years of distance do 
 
 If you feel the pull to respond—curiosity, nostalgia, the old loop reactivating—that is not a signal to engage. It's a signal that the old pattern still knows your address. Recognizing it is the whole point. Returning to it is not required.
 
+### The Damage You Bring Forward
+
+Nobody talks about this part.
+
+The narcissistic abuse literature ends at "you left." Or "you're healing." It doesn't cover the part where you're in a new relationship — a good one, maybe, a real one — and you can feel yourself doing something wrong. Something corrosive. And you can *name* it but you can't stop it.
+
+The contempt that leaks sideways. The sarcasm that carries a blade. The withdrawal when you should be present. The test you set up without admitting you're testing. You hear yourself and you think: *that's not me. That's what was done to me.* And you're right. And you do it anyway.
+
+Because the alternative — being direct, being vulnerable, asking for what you need without armor — requires a kind of safety your nervous system doesn't believe in yet.
+
+The narcissistic relationship didn't just damage you *in* that relationship — it installed patterns that follow you into the next one. Contempt, passive aggression, sarcasm, withdrawal — these aren't personality flaws. They're survival skills that outlived their context. You learned them because they worked. They kept you alive in a system that punished directness. And now they're running in a relationship that doesn't require them.
+
+The current partner isn't the problem. But the current partner is *experiencing* the problem. And that's a truth this book has to be honest about.
+
+You can SEE yourself doing it. That's what this volume is for. Naming the pattern is sovereignty. Fixing it is the next volume.
+
+**The decoder:** If you recognize yourself in any of these patterns — the sarcasm, the withdrawal, the sideways punishment — that recognition is not shame. It's the beginning. You are not becoming the narcissist. You are carrying the narcissist's tools because you had no others. Putting them down is the work that comes next.
+
 ### For Those Who Are Still There
 
 If you're reading this and recognizing your situation but aren't ready to leave yet:
