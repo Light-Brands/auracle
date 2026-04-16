@@ -535,22 +535,22 @@ The trivial demands are particularly insidious. "Get me a popsicle" seems small�
 
 ### When Ownership Is Performed in Public
 
-Some narcissistic behaviors don't happen behind closed doors. They happen in the Louis Vuitton store. At the hair salon. In the yoga class. In front of your friends.
+Some narcissistic behaviors don't happen behind closed doors. They happen at a luxury store. At the hair salon. In the yoga class. In front of your friends.
 
 **What it looks like:**
 
-He causes a scene at a luxury store to get a zipper replaced — not because the zipper matters, but because the scene itself is the point. The staff scrambles. The other customers watch. You stand there, small, mortified. He wins. And on the way out, he's calm. Smiling, even. Because that performance wasn't about the bag. It was about demonstrating — to you, to the room, to the world — that he takes what he wants and no one stops him.
+He caused a scene at a luxury store over the piping on a bag — not because the piping mattered, but because the scene itself was the point. The staff scrambled. The other customers watched. I stood there, small, mortified. He won. And on the way out, he was calm. Smiling, even. Because that performance wasn't about the bag. It was about demonstrating — to me, to the room, to the world — that he takes what he wants and no one stops him.
 
-She yells at the hair salon because your color isn't right — not your dissatisfaction, *her* dissatisfaction with *your* appearance. She corrects the stylist as though she's the client and you're the product being serviced.
+She yelled at the hair salon because my color wasn't right — not my dissatisfaction, *her* dissatisfaction with *my* appearance. She corrected the stylist as though she were the client and I were the product being serviced.
 
-He raises his voice in the yoga class, breaking the silence, breaking the peace, breaking the room — and you feel the shame radiating off you like heat. Everyone looks. You want to disappear.
+He raised his voice in the yoga class, breaking the silence, breaking the peace, breaking the room — and I felt the shame radiating off me like heat. Everyone looked. I wanted to disappear.
 
 **What it does to you:**
 
-- **Embarrassment becomes a control tool.** You learn to avoid anything that might trigger a scene. You preemptively comply — wearing what he wants, saying what he wants, being who he wants — because the public alternative is unbearable.
-- **Fear of the scene replaces fear of the person.** You're not afraid of *him* exactly. You're afraid of what he'll do *in front of people*. The humiliation is worse than the abuse. So you manage him like a live wire — constantly scanning, anticipating, defusing.
-- **You become his reputation manager.** Your job is to make sure he doesn't erupt. When he does, you apologize — to the staff, to your friends, to the room. You clean up his wreckage and feel grateful when it's over.
-- **Isolation through embarrassment.** You stop going to yoga. You stop bringing friends around. You stop going to restaurants. Not because he forbids it — because you can't survive another scene. The isolation looks voluntary. It isn't.
+- **Embarrassment becomes a control tool.** You learn to avoid anything that might trigger a scene. You preemptively comply — wearing what they want, saying what they want, being who they want — because the public alternative is unbearable.
+- **Fear of the scene replaces fear of the person.** You're not afraid of *them* exactly. You're afraid of what they'll do *in front of people*. The humiliation is worse than the abuse. So you manage them like a live wire — constantly scanning, anticipating, defusing.
+- **You become their reputation manager.** Your job is to make sure they don't erupt. When they do, you apologize — to the staff, to your friends, to the room. You clean up their wreckage and feel grateful when it's over.
+- **Isolation through embarrassment.** You stop going to yoga. You stop bringing friends around. You stop going to restaurants. Not because they forbid it — because you can't survive another scene. The isolation looks voluntary. It isn't.
 
 **The cultural amplifier:**
 
