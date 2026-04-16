@@ -13,7 +13,7 @@
 > **If you are in RED:**
 > - Do NOT use these questions, they can trigger dangerous escalation
 > - Prioritize Chapter 16's exit planning and safety resources
-> - See [Appendix A](../appendices/appendix-a-resources.md) for 24/7 crisis hotlines
+> - For current crisis hotlines, visit [companion website URL]
 >
 > **If you are in YELLOW or GREEN:**
 > - These questions are for your own clarity, not as confrontation tools

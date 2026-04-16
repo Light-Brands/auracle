@@ -1225,6 +1225,25 @@ The most powerful integration is the quietest. Throughout the book, change a sel
 
 The goal: a queer reader, a male survivor, a Latina, a churchgoer — all flip through the book and see themselves without looking for themselves. The inclusion is ambient, not announced.
 
+### Two kinds of work, not one
+
+When this pass was surveyed against the manuscript, it became clear the single "silent pronoun pass" bundle actually contains two distinct jobs that need different tools:
+
+**1a.i — Clean pronoun flips (silent).** For tactics whose *expression* is genuinely similar across genders — where flipping pronouns corrects an under-recognition without flattening anything clinically real. These get silent swaps, no annotation. Examples: covert-narcissist dynamics (one of the more gender-balanced expressions in the literature), breadcrumbing/intermittent reinforcement mechanics, intoxication-pressure mechanics where the specific dialogue works across configurations. The silent flip does honest work here: it corrects cultural defaults ("covert = female," "breadcrumbing perpetrator = male," "intoxication coercion only happens to women") without misrepresenting how the tactic actually lands.
+
+**1a.ii — Variation pass (co-located).** For tactics whose *expression* genuinely varies by gender — where a silent flip would flatten real clinical nuance and mislead the reader. These get co-located variants, not swaps. Pattern: keep the original gendered scene intact (because the cultural scaffolding is part of what makes it land) and immediately follow with a brief companion paragraph showing how the same tactic expresses in a different configuration. Example candidates:
+
+- **Ch 4, Makeup Sex Trophy (lines 254–272):** The locker-room bragging machinery is culturally keyed to hetero masculinity. Leave the original; add a companion paragraph: "The same pattern runs when the configuration reverses: the bragging moves from locker room to group chat, 'she came around' becomes 'I made them work for it,' the trophy structure is identical, the cultural grammar different." Or equivalent.
+- **Ch 3, professional video-call intrusion (lines 2358–2376):** The male-authority script ("I should probably be on this call") reads differently from the female-emotional-connection script ("I just wanted to say hi, why are you so cold?"). Either flip-plus-rewrite to neutralize the script, or co-locate a variant paragraph.
+- **Other candidates to surface during implementation** as the chapter passes reveal them.
+
+The variation pass honors the clinical truth that tactics are not genderless even when their mechanics are universal. Silent flips pretend difference doesn't exist; co-located variants name it and expand recognition instead.
+
+### Implementation order for the two sub-passes
+
+- **1a.i runs first** — alongside or just before front matter/Ch 1 rewrites. Small, clean, low-risk.
+- **1a.ii runs later** — during chapter-specific passes (Ch 4 gets handled in Phase 2 family work; Ch 3 professional-intrusion gets handled in Phase 4). Not a single unified pass; variation paragraphs are added in the chapter where each passage lives.
+
 ---
 
 ## Estimated Scope
@@ -1348,7 +1367,7 @@ These get a brief mention, a paragraph, or a "this will be explored further in V
 
 ## Implementation Order (Vol 1 Only)
 
-1. **Silent pronoun/example pass** — fastest, least disruptive, immediate impact
+1. **Silent pronoun/example pass — Phase 1a.i only (clean flips)** — fastest, least disruptive, immediate impact. Phase 1a.ii (variation pass) runs per-chapter later, not as a unified pass.
 2. **Chapter 1 and Front Matter** — sets the tone for everything that follows
 3. **Chapter 7 + 8** — family chapters, heaviest integration, most new content
 4. **Chapter 9 + 10** — childhood patterns + breaking free, follows naturally from 7/8

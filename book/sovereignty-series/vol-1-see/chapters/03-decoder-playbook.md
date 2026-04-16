@@ -280,7 +280,7 @@ Your nervous system goes into freeze or fawn mode. You become very, very careful
 **Your Power Move:**
 **This is abuse.** Physical intimidation is domestic violence even without contact.
 
-Document everything: write down dates, what happened, what was said. Tell someone you trust. Create a safety plan. Know your exit routes. **See [Appendix A](../appendices/appendix-a-resources.md) for crisis resources.**
+Document everything: write down dates, what happened, what was said. Tell someone you trust. Create a safety plan. Know your exit routes. **If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country. For current crisis hotlines and safety resources, visit [companion website URL].**
 
 This is not something you manage—this is something you get safe from.
 
@@ -1311,7 +1311,7 @@ You're terrified something will happen and it will be your fault. You stay to ke
 You are not responsible for another adult's choice to live or die. This is emotional hostage-taking, and it's a form of abuse.
 
 If they threaten suicide:
-- Call emergency services or a crisis line immediately (see [Appendix A](../appendices/appendix-a-resources.md))
+- Call emergency services or a crisis line immediately (for current hotlines, visit [companion website URL])
 - Contact their family or friends
 - Do not try to manage this yourself
 - Then still leave if you need to leave
@@ -1648,7 +1648,7 @@ You feel touched that someone cares. Questioning their concern feels ungrateful.
 > **First Aid:** If this content activated crisis memories:
 > - You are safe right now
 > - These are words on a page about patterns—you are not in that situation right now
-> - If you need support, see [Appendix A](../appendices/appendix-a-resources.md) for crisis resources
+> - If you need support, contact your local emergency services or a domestic violence hotline in your country (for current resources, visit [companion website URL])
 
 ---
 
@@ -2047,6 +2047,18 @@ Pressure comes from multiple sources. People you trust carry their message. You 
 **Your Power Move:**
 Set boundaries with the messengers too. "I appreciate your concern, but I'm not discussing [person] with third parties. If they want to talk to me, they can reach out directly."
 
+### The Captured-Professional Variant
+
+Flying monkeys get recruited. Captured professionals are already there.
+
+A therapist the whole family sees. A pastor who counseled your parents long before he counseled you. A family doctor who delivered you and still takes your mother's calls. A lawyer who "knows the family" and whose loyalty was decided before you ever walked in.
+
+In individualist systems, you assume a therapist is yours, a pastor is spiritual counsel, a lawyer is your advocate. In collectivist systems, these roles are often already inside the family network. No recruitment required — they were there first.
+
+**Why the distinction matters for the decoder:** Flying monkeys can sometimes be redirected — "tell them to talk to me directly" works when the messenger is peripheral. Captured professionals often can't be redirected, because they were never separate from the family to begin with. The decoder move is different: you may need to find someone outside the system entirely to hold the neutral role they cannot hold.
+
+*Ch 7 and Ch 8 explore what this feels like in the room.*
+
 ---
 
 ### Once Upon a Time: The Gift of the Magi
@@ -2233,9 +2245,9 @@ She checks her phone. Nothing.
 
 Checks again. Still nothing.
 
-He was messaging constantly yesterday—good morning texts, memes, "thinking of you." Now silence.
+The woman she'd been seeing was messaging constantly yesterday—good morning texts, memes, "thinking of you." Now silence.
 
-She knows he's online. His status shows active. But the messages have stopped.
+She knows she's online. Her status shows active. But the messages have stopped.
 
 She starts scrolling through their history. Did she say something wrong? Was she too much? Not enough?
 
@@ -2374,6 +2386,8 @@ But he's already introducing himself. Already asking questions. Already position
 Later, when she says she felt intruded upon, he looks wounded. "I was trying to help. Why are you so defensive about your work?"
 
 The question hangs there. And she realizes: she's now defending her right to have something that's hers.
+
+**When the genders reverse, the script changes; the colonization doesn't.** Replace "I should probably be on this call too" with "Who's that? I just wanted to say hi. Why are you being so cold?" The frame shifts from authority-claim to connection-claim. The mechanism is identical: your professional space stops being yours, and your protest becomes evidence that you are the cold one. The diagnostic in any configuration: when a partner's presence consistently turns your work space into shared space — and your objection into the offense — you are not being supported. You are being claimed.
 
 ---
 
@@ -2556,21 +2570,21 @@ You start managing your reactions more than the actual problem. You question whe
 
 ## Field Note: The Third Glass
 
-She refills her wine before she asks.
+They refill their wine before they ask.
 
 "You're so tense. Just relax."
 
-She wasn't tense until her partner said that. Now she feels like she's failing at something.
+They weren't tense until their partner said that. Now they feel like they're failing at something.
 
-By the third glass, she's softer. Easier. The edges blur.
+By the third glass, they're softer. Easier. The edges blur.
 
-That's when her partner brings up what she wants — something she said no to last week. Something that made her uncomfortable.
+That's when their partner brings up what they want — something they said no to last week. Something that made them uncomfortable.
 
-She hears herself agreeing. Her voice sounds far away.
+They hear themselves agreeing. Their voice sounds far away.
 
-The next morning, she doesn't remember exactly what she said yes to. But she remembers the feeling: cornered without walls.
+The next morning, they don't remember exactly what they said yes to. But they remember the feeling: cornered without walls.
 
-When she tries to revisit the conversation sober, her partner says: "You already agreed. Are you going back on your word?"
+When they try to revisit the conversation sober, their partner says: "You already agreed. Are you going back on your word?"
 
 ---
 

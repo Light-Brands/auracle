@@ -44,7 +44,7 @@ First Edition
 
 **A Note on Names:** The people in this book are real. They are identified by single letters — not to protect them, but because their names were never the point. The patterns are. When you encounter W, or X, or N, or E, or D, or K in these pages, know that these are real people who did real things. The letter is all they get. You'll know yours.
 
-**Crisis Resources:** See [Appendix A: Resources](./appendices/appendix-a-resources.md) for 24/7 crisis hotlines, international resources, and specialized support services.
+**Crisis Resources:** If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country. For current crisis hotlines, support communities, and culturally specific resources — including resources for LGBTQ+, immigrant, disabled, and culturally diverse survivors — visit **[companion website URL]**. This online resource is maintained and updated so the information is current, even if this book was published years ago.
 
 ---
 
@@ -136,21 +136,9 @@ Chapter 16: Practical Responses & Scripts — What to Actually Say and Do ......
 
 Chapter 17: Moving Forward — Closing Chapters and Beginning New Ones .................... [pg. XX]
 
-**Appendices**
+**Companion Resources (Online)**
 
-Appendix A: Resources — Support, Information, and Next Steps .................... [pg. XX]
-
-Appendix B: Glossary of Terms — Key Concepts and Definitions .................... [pg. XX]
-
-Appendix C: Bibliography & Further Reading — Sources, Influences, and Recommended Reading .................... [pg. XX]
-
-Appendix D: Core Techniques Reference — Quick Access Guide for Grounding, Response, and Protection .................... [pg. XX]
-
-Appendix E: Index — Quick Reference to Key Concepts and Terms .................... [pg. XX]
-
-Appendix F: Substance-Related Patterns — Recognizing Narcissistic Dynamics in Addiction and Recovery .................... [pg. XX]
-
-Appendix G: The Pattern on Screen — Narcissism in Film, Television, and Literature .................... [pg. XX]
+All appendix material — crisis hotlines, glossary, bibliography, core techniques reference, substance-related patterns, and pop culture references — lives at **[companion website URL]** where it can be maintained, expanded, and kept current. The book reads like literature; the website does the directory work.
 
 ---
 
@@ -222,7 +210,7 @@ You're not crazy. You never were.
 
 The examples in this book come from real life.
 
-They're drawn from my years as a therapeut working across a variety of settings—locked psychiatric units, in-home family therapy, individual sessions, couples counseling—as well as from my own personal relationships and lived experiences.
+They're drawn from my years as a therapist working across a variety of settings—locked psychiatric units, in-home family therapy, individual sessions, couples counseling—as well as from my own personal relationships and lived experiences.
 
 When you read a field note about a comment made at a gym, a look given across a dinner table, or the specific way someone's voice changed before an attack, these aren't hypotheticals. They happened. To my clients. To people I love. To me.
 
@@ -255,11 +243,9 @@ You don't need to have a clinical diagnosis for someone in your life. You don't 
 
 ### Step 1: Emergency Resources (Save These NOW)
 
-**Turn to [Appendix A: Resources](./appendices/appendix-a-resources.md) immediately** and save those numbers before you need them. The appendix contains:
-- 24/7 crisis hotlines (domestic violence, suicide prevention, text lines)
-- LGBTQ+-specific resources
-- International resources by country
-- Accessibility options for Deaf/hard of hearing individuals
+If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country.
+
+**For current crisis hotlines, safety planning tools, and community-specific resources, visit [companion website URL].** Save that link now — before you need it. The online resource includes hotlines by country, LGBTQ+-specific services, immigration-related support, accessibility options, and resources in multiple languages.
 
 Create a safety plan with a trusted friend.
 
@@ -311,17 +297,19 @@ The **Decoder Cards** in Chapter 14 are designed to be shared. Use them as conve
 - **Emergency Protocol:** When you need clarity now—quick-reference decision tools
 
 ### If You're Creating Content
-**Appendix A** provides a structure for turning this material into videos, posts, and educational content.
+The companion website at **[companion website URL]** provides a structure for turning this material into videos, posts, and educational content.
 
 ---
 
 ## A Note on Language
 
-Throughout this book, examples use varied pronouns—he/him, she/her, and they/them—to reflect that these patterns occur across all genders and relationship types. Narcissistic abuse happens in heterosexual relationships, same-gender relationships, and relationships involving non-binary individuals. The perpetrator can be any gender; so can the survivor.
+The examples in this book use varied pronouns — he/him, she/her, and they/them — and varied relationship structures throughout the main text. Not in a sidebar. Not in a footnote that asks you to translate. In the body of the book, where they belong.
 
-When reading, translate any example to fit your situation. If the example describes "he" but your experience involved "she" or "they," the pattern still applies. The tactics are universal—only the specific people change.
+This matters because narcissistic abuse doesn't sort itself by gender or relationship type. It happens in heterosexual marriages and same-gender partnerships. The perpetrator can be a husband, a wife, a mother, a father, a sibling, a best friend, a boss, a pastor. The person harmed can be any of those too. The patterns are the same; only the faces change.
 
-Chapter 8 (Parental Wounds) and Chapter 11 (Romantic Manipulation) include notes on adapting content for same-sex parents, non-binary individuals, and diverse relationship structures.
+Older books in this genre often ask the reader to do the translation — "if the example says *he* but your abuser was *she*, just swap the pronouns in your head." That asks you to do work you shouldn't have to do, while you're already carrying what this material is asking you to look at. This book tries to do that work for you — by writing examples that already include you, rather than making you retrofit yourself into examples that didn't.
+
+If an example doesn't match your configuration exactly, the pattern underneath still does. Trust that. Trust what your body recognizes, even when the surface details differ.
 
 ---
 

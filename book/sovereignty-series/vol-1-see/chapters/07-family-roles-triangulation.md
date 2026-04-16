@@ -219,6 +219,12 @@ The narcissistic parent doesn't need to make all the calls themselves. The syste
 
 In individualist systems, these are called "flying monkeys" — people recruited to pressure you. In collectivist systems, there's no recruitment necessary. The community self-organizes around the disruption. Your boundary *is* the disruption. The calls aren't coordinated. They don't need to be. Everyone knows their role.
 
+Some of those nodes aren't family. They're professionals — people whose job description is supposed to be neutral. A therapist the whole family sees. A pastor who counseled your parents long before he counseled you. A family doctor who delivered you and still takes your mother's calls. A lawyer who "knows the family" and whose loyalty was decided before you ever walked in.
+
+In an individualist system, you'd assume a therapist is yours, a pastor is spiritual counsel, a lawyer is your advocate. In collectivist systems, these professionals are often already inside the family network. They weren't recruited — they were already there. And when you try to use one of them to see the family clearly, you can discover (sometimes mid-session) that the family is already in the room.
+
+This is one of the most disorienting shapes the triangle takes: the moment you realize there's no neutral ground, because even the structures designed to give you neutral ground have been quietly absorbed into the system.
+
 > **Field Note: "The Sunday Dinner"**
 >
 > Every Sunday, the whole family gathered. Thirty people, three generations, one dining room that shouldn't have held us all but somehow did. Abuelita at the head. Mami running the kitchen. And me, trying to be invisible while Papi held court.

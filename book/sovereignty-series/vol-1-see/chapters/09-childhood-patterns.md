@@ -18,6 +18,10 @@ If narcissistic patterns were part of your early environment, you may have learn
 
 If affection was given as reward and withdrawn as punishment, you learned that love must be earned through compliance and performance. This makes you work hard in adult relationships, even when the person isn't reciprocating.
 
+### That Acceptance Must Be Earned
+
+If your family treated your identity — your queerness, your religion, your neurotype, your body, any core truth about who you are — as something to be *tolerated* rather than celebrated, you learned that the most fundamental parts of yourself come with conditions. This trains you to accept conditional love from partners. You've been practicing gratitude for the bare minimum since you were a teenager. A partner who "accepts" you while controlling you feels normal — because that's what acceptance has always looked like.
+
 ### That Your Needs Are Shameful
 
 If expressing needs was met with irritation, dismissal, or rage, you learned that having needs is a burden. You become the person who never asks for anything, and therefore attracts people who take without giving.
@@ -287,6 +291,8 @@ Every culture teaches children how to relate. In healthy systems, these are gift
 
 The culture didn't do this to you. The narcissist used the culture as a delivery system. There's a difference. And seeing that difference is how you keep your heritage without keeping the cage.
 
+**Quiet exclusions** teach children who is dangerous to be. A gay family member kept at arm's length. An ex-partner nobody mentions anymore. A cousin who "can't sit next to the children." The family never says *these people are wrong*. The family just manages them — choreography around holidays, unsupervised time prevented, distance carefully maintained. The child absorbs the lesson anyway: *people like that are a threat to us; if I become that, I become the threat too.*
+
 > **Field Note: "The Immigrant Debt"**
 >
 > My parents crossed a desert so I could go to college. They worked three jobs between them. They didn't speak English. They built a life from nothing so I could have everything.
@@ -296,8 +302,6 @@ The culture didn't do this to you. The narcissist used the culture as a delivery
 > The guilt wasn't just personal. It was historical. It was economic. It was cultural. My freedom was built on their pain. Claiming more of it felt like spitting on their sacrifice.
 >
 > It took years of therapy — with K — a Latina who understood — to learn that gratitude and boundaries aren't mutually exclusive. That the freedom they crossed a desert for was supposed to include freedom from *them* too.
-
-**If your family treated your identity as something to be *tolerated* rather than celebrated**, you learned that the most fundamental parts of yourself come with conditions. This trains you to accept conditional love from partners. You've been practicing gratitude for the bare minimum since you were a teenager. A partner who "accepts" you while controlling you feels normal — because that's what acceptance has always looked like.
 
 ---
 

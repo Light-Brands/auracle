@@ -530,7 +530,7 @@ But the healing never comes. No matter how much you give, they need more. Their 
 
 Your body starts to feel heavy around them. Tired. You dread their calls because you know you'll spend an hour hearing about their suffering while your own struggles go unmentioned. You feel guilty when good things happen to you because they're still suffering.
 
-> **Field Note:** She had a friend who called whenever she was in crisis—which was always. She'd clear her schedule, listen for hours, offer solutions the friend would reject while insisting she wanted help. One day she mentioned her own difficult week. The friend listened for maybe thirty seconds, then pivoted: "That reminds me of something even worse that happened to me." Her struggles existed only as springboards back to the friend's. When she finally set a boundary—"I can't talk right now"—the friend didn't get angry. She got wounded. "I thought you cared about me. I guess I was wrong about our friendship." The guilt lasted for days. That's their currency: not demands, but disappointment so heavy you'd do anything to relieve it.
+> **Field Note:** She had a friend who called whenever he was in crisis—which was always. She'd clear her schedule, listen for hours, offer solutions he would reject while insisting he wanted help. One day she mentioned her own difficult week. He listened for maybe thirty seconds, then pivoted: "That reminds me of something even worse that happened to me." Her struggles existed only as springboards back to his. When she finally set a boundary—"I can't talk right now"—he didn't get angry. He got wounded. "I thought you cared about me. I guess I was wrong about our friendship." The guilt lasted for days. That's their currency: not demands, but disappointment so heavy you'd do anything to relieve it.
 >
 > The covert narcissist doesn't take. They receive with such visible need that you feel cruel for having limits. They don't criticize your cooking—they look sad and say nothing, letting you marinate in uncertainty. They don't demand your time—they just seem so fragile that you offer it preemptively. The manipulation is in the vacuum they create, one you rush to fill without ever being asked.
 
@@ -691,6 +691,8 @@ The mother who tells her adult son what to wear. The son who has opinions about 
 The decoder cards treat appearance control (Card 11: The Aesthetic Seesaw) and enmeshment as standalone manipulation patterns. But in collectivist cultures, these patterns are *baseline*. A reader from a machismo or traditional Jewish household may read Card 11 and think: "That's just how my husband is. That's just how our family works." The tactic doesn't register as a tactic because the culture already normalized it.
 
 The question that separates cultural closeness from narcissistic enmeshment is always the same: does this closeness make you more yourself, or less?
+
+> **Field Note:** I didn't just marry into the enmeshed system — I worked for members of his family. The overlap was total: Sunday dinner was also a work meeting; Monday's meeting was also Sunday dinner. When enmeshment extends into your livelihood, the "going home to your mother" exit doesn't exist — because home, work, and the family table are all downstream of the same system. This is what culturally-normalized enmeshment looks like at its most complete: not just emotional collapse of boundaries, but economic.
 
 ---
 
