@@ -481,32 +481,34 @@ This phase is the most dangerous time in the relationship. The tactics combine a
 
 ### Case Study: When Leaving Triggers Everything at Once
 
-**The Context:**
+I had decided internally that I needed to leave. I hadn't said it yet, but he sensed the shift — the emotional withdrawal, the way I stopped engaging, the quiet preparation. He knew his grip was loosening.
 
-She has decided internally that she needs to leave the relationship. She hasn't announced it yet, but the narcissist senses the shift—the emotional withdrawal, the lack of engagement, the quiet preparation. He knows his grip is loosening.
+**The escalation:**
 
-**What Happened:**
+It started on the balcony. "If you leave, I'll kill myself. I'll jump right now." He said it looking at me, then looking over the railing. The threat hung in the air — this impossible equation where staying meant enduring and leaving meant being responsible for his death.
 
-The escalation began with **suicide threats** (Tactic 29): "If you leave, I'll kill myself. I'll jump off this balcony right now." The threat hangs in the air, creating an impossible choice—stay and endure abuse, or leave and risk his death being "your fault."
+Then came the neck.
 
-This was followed by **physical intimidation** (Tactic 4): First came the marveling — repeated, almost admiring, turning the observation over like he was noticing something beautiful: "Your neck is so small and delicate." He said it more than once, with a tenderness that made her skin crawl. Then he placed his hand around her throat. Not squeezing. Demonstrating. "I could snap it with one hand." The message was clear: your safety depends on my restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. And afterward, every time someone admired something about her body, her neck remembered. The admiration and the violence became the same gesture.
+First the admiration — repeated, almost tender, turning the observation over like he was noticing something beautiful for the first time: "Your neck is so small and delicate." He said it more than once. Then he placed his hand around my throat. Not squeezing. Demonstrating. "I could snap it with one hand."
 
-Then came the **trivial demands as compliance tests**: "Get me another popsicle." Not because he wanted it, but to test dominance. When she didn't immediately comply, the response was explosive—screaming, making a scene in front of a visiting friend. This was **public humiliation** (combined tactics) designed to punish non-compliance and demonstrate power.
+The message was clear: my safety depended on his restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. And afterward, every time someone admired anything about my body, my neck remembered. The admiration and the violence became the same gesture.
 
-The aftermath involved **reversal of blame** (Tactic 18): "If you had just done what I wanted in the first place, none of this would have happened. This is your fault." The explosion was reframed as a reasonable response to non-compliance.
+Then the trivial demand. "Get me a popsicle." Not because he wanted it — because he wanted to test whether I'd still comply. When I didn't jump immediately, the response was explosive. Screaming. In front of a friend who was visiting. The friend sat there, frozen. I sat there, burning. The popsicle was never about the popsicle. It was a compliance test, and I had failed it publicly.
 
-Throughout the relationship, there had been ongoing **appearance control** (Tactic 9): Critiquing hair color in public at the salon. Demanding "neutral" hair and nails—no red hair, no sparkles—especially when seeing his friends. Dictating how she presented herself to ensure she reflected well on him and remained "appropriate."
+Afterward: "If you had just done what I wanted in the first place, none of this would have happened. This is your fault." The explosion was reframed as a reasonable response to my non-compliance.
 
-**Tactics in Play:**
+Throughout the relationship — not just during the exit phase — there was the appearance control. My hair critiqued at the salon, in front of the stylist. Neutral hair demanded when seeing his friends. No red. No sparkles on my nails. Nothing that drew attention to me as a separate person. I was to be appropriate. Meaning: his.
+
+**Tactics in play:**
 
 This situation demonstrates how multiple tactics interlock during high-stakes moments:
 
-1. **Tactic 29, Suicide Threats.** Creating emotional hostage situation
+1. **Tactic 29, Suicide Threats.** Creating an emotional hostage situation
 2. **Tactic 4, Physical Intimidation.** Establishing physical dominance through threat
 3. **Tactic 3, Volume Escalation.** Yelling to dominate the space
-4. **Tactic 18, Reversal of Blame.** Making her responsible for his behavior
+4. **Tactic 18, Reversal of Blame.** Making you responsible for their behavior
 5. **Tactic 9, The Aesthetic Seesaw.** Controlling appearance as ownership
-6. **Public Humiliation.** Scene in front of friend (combination of tactics)
+6. **Public Humiliation.** Scene in front of a friend (combination of tactics)
 
 **The Pattern: The Extinction Burst**
 
