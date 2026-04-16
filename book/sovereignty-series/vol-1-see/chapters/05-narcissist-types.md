@@ -692,6 +692,8 @@ The decoder cards treat appearance control (Card 11: The Aesthetic Seesaw) and e
 
 The question that separates cultural closeness from narcissistic enmeshment is always the same: does this closeness make you more yourself, or less?
 
+> **Field Note:** I didn't just marry into the enmeshed system — I worked for members of his family. The overlap was total: Sunday dinner was also a work meeting; Monday's meeting was also Sunday dinner. When enmeshment extends into your livelihood, the "going home to your mother" exit doesn't exist — because home, work, and the family table are all downstream of the same system. This is what culturally-normalized enmeshment looks like at its most complete: not just emotional collapse of boundaries, but economic.
+
 ---
 
 ### The Histrionic Narcissist
