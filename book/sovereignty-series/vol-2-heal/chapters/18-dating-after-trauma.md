@@ -161,6 +161,25 @@ At 90 days, you're not seeing the representative. You're starting to see the per
 
 ---
 
+## Dating Inside a Small World
+
+The 90-day window assumes you can observe without being observed back, and that the person you are meeting is a stranger. For many readers, neither is true. The world in which you are dating is small, and the narcissist's version of you arrived there before you did.
+
+The structural patterns below appear across several communities:
+
+- **The reputation that preceded you.** The narcissist has spent months — often years — narrating you to mutual friends, to the congregation, to the cousins, to the diaspora group chat. You arrive on a date with someone who has already heard an edited version of your life. The person across from you is not neutral. Neither are you, because you can feel the story in the room.
+- **The diaspora-size community.** Queer and trans scenes in any given city, Indigenous nations, religious communities, immigrant networks, and recovery communities are structurally small. Six degrees of separation collapses to two. The person you are considering dating almost certainly knows someone who knows everything that happened, and the 90-day observation window overlaps with the window in which your own history is being compared with the ex's version behind your back.
+- **Dating back into the community you left the marriage to protect.** Some readers leave a harmful relationship in order to stay inside the community — and then discover that dating again inside the same community means dating people who feel obligated to remain neutral between you and the ex. The pool is not only small; it is also divided.
+- **Dating across the line you crossed by leaving.** Some readers left the community as part of leaving the relationship. Dating inside the new world means being read as an exile of the old one. Dating inside the old world means being read as the one who came back. Neither frame is neutral data for the partner across from you.
+- **Culturally-coded flags that read differently to an outsider.** A partner who introduces you to family on week two may be warmth in one culture and enmeshment in another. A partner who keeps you hidden may be discretion in one frame and red flag in another. A partner who invokes elder approval may be respect in one tradition and structural silencing dressed as respect in another. The 90-day window still works; it just requires a reader who knows the cultural code, because the behavior alone doesn't decode itself.
+- **The matchmaker, the elder, the pastor, the aunt.** In communities where dating involves a third-party gatekeeper — matchmaker, family elder, clergy, cultural broker — you are not only observing the partner but also observing the broker. Whose interest are they serving? Whose reputation do they depend on? A matchmaker who dismisses your concern about a candidate may be reading the candidate's family's social standing, not your actual safety.
+
+None of this suspends the principles of the 90-day window. It layers onto them. The window still works. It just has to be held with an extra awareness that the room has more people in it than the two on the date.
+
+The full per-community treatment — including small-community dating math for specific queer/trans scenes, tribal contexts, faith communities, and diaspora networks; culturally-specific red flags; and survivor-voice field notes from people dating after leaving inside these conditions — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The voice each one needs will be written by people who hold it.
+
+---
+
 ## The Core Principle: Observation Over Attachment
 
 Most people date to attach. They're looking for someone to merge with, fall for, commit to.

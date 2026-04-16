@@ -236,6 +236,25 @@ You can hope someone heals without waiting for it to happen before you move forw
 
 ---
 
+## When Hope Is Culturally Required
+
+The hope/waiting distinction above is psychological. For many readers there is a layer above the psychological one: a culture, faith, or family system that treats hope for reconciliation not as an inner weather pattern but as a *duty*. Letting go looks like one thing from the inside and another thing from the outside, and the outside has a vote.
+
+The structural patterns below appear across communities in different vocabulary:
+
+- **Hope as loyalty.** In family systems that read any lasting distance as betrayal, your continuing to hope — visibly, verbally, publicly — is the price of remaining in good standing. Letting go becomes a political act, not just a personal one. Your relatives may check on your hope the way they would check on your health.
+- **Hope as spiritual discipline.** In Evangelical, Catholic, Mormon/LDS, Orthodox, and many other faith frames, hope for the marriage, hope for the person's repentance, hope for restoration is framed as a virtue the faithful keep alive. Releasing the hope can feel like releasing the faith. This is a manipulation, not a theology — but inside the frame it is almost impossible to tell them apart without help.
+- **Hope as filial and communal duty.** In many Asian, SWANA, Latin, African, and Indigenous family systems, individual feelings about the relationship are structurally secondary to the family's continuity. Letting go is read as selfish not because anyone is cruel but because the frame itself does not center the individual. The permission to release is not available in the vocabulary; it has to be imported.
+- **Hope as diaspora maintenance.** In immigrant and diaspora networks where one bad story can travel the world in a day, continuing to hope publicly is often what keeps the family's standing intact across continents. Release has to be done quietly, at least at first, or the gossip architecture will reframe your distance as failure rather than decision.
+- **Hope as acceptance-debt.** For many queer, trans, and chosen-family readers, the partner or community that accepted you when your family did not can weaponize that acceptance as a requirement to keep hoping — *after everything I did, you're going to leave?* Release here requires also releasing the story that only this one person, this one community, could ever have held you.
+- **Hope that is not permitted to rest.** Some faith and family systems explicitly teach that letting go of hope for the relationship is itself a sin, a failure of love, a betrayal of the covenant. In that frame, the permission to rest hope is not reachable from inside the frame. It has to be granted by a voice — a therapist, an exiled elder, a survivor further down the road — that the frame did not authorize.
+
+None of this changes the psychology in the prior section. It adds a layer. Hope that the culture is enforcing is not the same as hope your body is choosing. You can release the enforced hope and still keep the tender one. Telling the difference is much of the work of this chapter — and for some readers, much of the work of this decade.
+
+The full per-community treatment — including tradition-specific language for what release means inside (rather than against) a faith, and community-voice testimony from survivors who have walked this seam — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The specific language each one needs will be written by people who hold it.
+
+---
+
 ## The Paradox of Letting Go
 
 Here's what no one tells you:

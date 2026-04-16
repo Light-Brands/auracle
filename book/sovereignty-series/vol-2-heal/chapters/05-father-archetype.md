@@ -397,6 +397,25 @@ You don't need permission to develop it. You don't need your actual father to ch
 
 ---
 
+## When the Father's Authority Is Culturally Armored
+
+The six archetypes above describe *how* a father figure's dysregulation lands in a child. For many readers, there is a second layer underneath: the culture, religion, or community that taught everyone around him to stop questioning the behavior before it could be questioned.
+
+This is not about any one community. It is a structural pattern that appears across many, in different vocabulary:
+
+- **Patriarchal authority by role.** Authority granted by title rather than earned by conduct — father, husband, patriarch, head of household, elder — where questioning him is framed as questioning the order itself. Machismo names one version. Religious headship names another. Clan-patriarch authority names a third. The mechanism is the same: the role shields the man from feedback the behavior would otherwise invite.
+- **The Tiger / disciplinarian father as cultural achievement engine.** A severity that is not only permitted but celebrated as the reason the family succeeded. The child reads criticism as love because the community reads it that way too.
+- **The elder whose position is inseparable from identity survival.** In Indigenous, diaspora, and tradition-bearing communities, an elder father may be one of a small number of people holding the language, the ceremony, or the memory. Children learn early that naming his harm may also be naming a threat to the culture's survival. This is a real pressure, not an imagined one.
+- **The father whose violence the world already refused to see.** Black fathers in particular, and fathers in many racialized and immigrant communities, are read by the outside world through a distorting lens. A child raised in this reality learns that naming harm inside the home may be read as confirming the outside world's worst story. Silence becomes protection of the people *and* protection of the harm.
+- **The father whose absence is structural, not personal.** Incarceration, deportation, colonial violence, war, migration-for-labor. The wound of the missing father is real *and* the grief for him as a victim of larger systems is real. Both can be true. Either one without the other distorts the picture.
+- **The father coded as God.** When headship language names the father as God's authority in the home, disobedience to him is routed as disobedience to God. The circuitry is no longer just family — it is cosmological. This makes the father wound harder to see and harder to leave.
+
+The archetypes in this chapter operate inside each of these cultural armors. Naming the armor does not excuse the behavior. It explains why the behavior was protected, and why reclaiming internal authority often requires reclaiming the right to see clearly what the culture trained you to overlook.
+
+The full per-community treatment — including first-person survivor voice, in-language phrasing, and community-specific father-wound dynamics — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The specific voice each one needs will be written by people who hold it.
+
+---
+
 ## The Father Wound + Emotional Immaturity Loop
 
 When a father figure is emotionally unavailable and the system is emotionally immature, a specific loop forms:
