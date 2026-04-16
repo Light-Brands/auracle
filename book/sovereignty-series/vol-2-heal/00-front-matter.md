@@ -120,6 +120,24 @@ The people in this series are real. They are identified by single letters — no
 
 ---
 
+## A Note on Culture, Faith, and Community
+
+Most recovery books assume an individualist starting point: that you can set boundaries, create distance, and rebuild without losing your world. For many readers, that assumption fits. For many others, it doesn't.
+
+If you grew up in a collectivist culture — Hispanic, Asian, Indigenous, Middle Eastern, Black diaspora, immigrant, or any community where the self is defined by the collective — "going no contact" can mean cultural exile, not just relational distance.
+
+If you belong to a faith community where leaving the marriage means leaving the congregation, the cosmology, and sometimes every relationship you've ever had, healing carries a different weight.
+
+If you are LGBTQ+ — and especially if you are trans — the chosen family that replaced the family that rejected you may be the only family you have. Leaving a narcissist embedded in that family is a particular grief.
+
+If you live at an intersection of these — and most readers do — the layers compound. Two collectivist systems don't add. They multiply.
+
+This book sees you. The chapters on minimal contact, guilt after distance, and the grief that follows freedom address these realities directly, naming the patterns at the structural level so the recovery work fits your actual life — not just the individualist template most self-help is written for. The companion blueprint (`cultural-coverage-integration-plan.md`) maps where six specific communities — Black, Asian, Indigenous, Middle Eastern, religious traditions, and trans — receive deeper community-voice treatment as that material is drafted with sensitivity readers from each community.
+
+You do not have to choose between healing and belonging. The work this book asks of you is to find the version of belonging that doesn't cost you yourself.
+
+---
+
 ## A Note on Volume 1
 
 This book is the second volume in a two-book series.

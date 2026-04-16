@@ -70,6 +70,32 @@ All of this is real loss. It deserves to be grieved.
 
 ---
 
+## When the Loss Includes a Community
+
+For many readers, the relational losses above are not the whole inventory. The loss extends outward into the world that held the relationship — and that loss is its own grief, distinct from the relational one and often unnamed.
+
+If the harmful person was embedded in a community, congregation, culture, or chosen family that you also belonged to, the grief may include:
+
+**The community you stood inside.** The friends who were "his friends first" or "her friends first." The cousins who had to choose. The congregation that asked you to consider your role in the provocation. The diaspora network that decided which version of you to believe. The chosen-family circle where everyone takes a side. You are not just losing one person. You are losing the version of belonging that included that person.
+
+**The cosmology you stood inside.** For readers leaving a faith community, the grief reaches further than the marriage. You may be grieving a way of organizing the universe — the framework that explained suffering, named the holy, located you inside a story bigger than yourself. Even when you keep your faith, the institutional form that held it may be lost. Even when the institution remains, your relationship to it may be permanently changed. Both are real losses.
+
+**The language and the holidays.** The Friday night dinners. The Sunday mornings. The fasts. The feasts. The songs you only ever sang in that house. The language you only ever spoke with those people. The seasonal rhythm that taught your body what time of year it was. When the relationship was woven into all of this, leaving the relationship can feel like leaving the year itself.
+
+**The ceremonial life.** For Indigenous readers — and for readers in any tradition where ceremony was the binding tissue of identity — losing access to ceremony, even temporarily, even by your own choice, is a grief that does not have a Western vocabulary. It is loss at the level of soul-orientation, not preference.
+
+**The community's version of you.** In tight-knit communities, the narcissist's version of events often reaches everyone before yours does. You are not only grieving the relationship — you are grieving the person you were in your community's eyes, the reputation that took years to build, the way people used to look at you before the story landed. Some of this returns. Some of it does not.
+
+**The future you imagined inside the community.** The wedding the elders would attend. The children at the holiday table. The grandchildren who would speak the language. The role you would grow into as you aged. Every grief carries lost futures; these grief carries lost *cultural* futures, which are heavier because they belong to more than one person.
+
+**The version of belonging that didn't require you to disappear.** Perhaps the hardest loss. The fantasy that you could be fully yourself *and* fully held by your people, without one canceling the other. The grief here is not about the person who hurt you. It is about the gap between the belonging you were promised and the belonging that was actually available.
+
+This layer of grief is often unnamed because most recovery literature is written for an individualist context where the relational loss is the whole loss. Naming it accurately matters because **unnamed grief becomes guilt**. When you cannot identify what you are mourning, the body often interprets the heaviness as evidence that you did something wrong. Naming the cultural and communal layers — separately, by name — lets the grief stay grief, and stops it from converting into the conditioning treated in the chapter on guilt.
+
+The full per-community treatment of this material — including specific community-voice testimony — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The loss layers above hold across communities. The language each community needs for them will be written by people who hold that voice.
+
+---
+
 ## Why Grief Is Necessary
 
 Many people try to skip grief. They want to go straight from awareness to healing, from understanding to freedom.
