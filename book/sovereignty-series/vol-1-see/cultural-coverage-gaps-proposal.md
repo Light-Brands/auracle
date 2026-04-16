@@ -1,5 +1,18 @@
 # Cultural Coverage Gaps Proposal — Vol 1: SEE
 
+## Status (2026-04-16)
+
+**Hybrid implementation decision.** After review against the already-merged `unified-woven-integration-plan.md`, the six-community expansion in this proposal is being split across two volumes rather than implemented in full in Vol 1:
+
+- **Landed in Vol 1 (SEE):** The six Ch 1 manifesto lines (one sentence per community: Black, Asian, Indigenous, Middle Eastern, Religious, Trans) and the corresponding resource additions in `website-appendixes-and-resources.md`. This gives every reader from these communities explicit recognition on the first page of the book and a resource path out, without gating Vol 1 launch on six sensitivity-reader recruitments.
+- **Deferred to Vol 2 (HEAL):** The full proposal — field notes, scripts, chapter-by-chapter integrations, intersectionality treatment, and sensitivity-reader pipeline. Vol 2 is the natural home for community-specific *recovery* strategies ("leave the church without leaving God," "filial piety without a self," "leave a person without leaving the people"), which is where cultural specificity actually changes the prescription. Vol 2 has the space to absorb 25–40 pages without bloating an already ~420-page Vol 1.
+
+**Why this split:** Recognition is relatively universal across cultures; recovery isn't. Vol 1 = SEE names the pattern; Vol 2 = HEAL writes the pathway. The manifesto lines honor the recognition promise immediately. The depth lands where it changes the work.
+
+**This document remains the blueprint** for the Vol 2 integration. No content below is obsolete — it is scheduled.
+
+---
+
 ## The Problem
 
 The existing proposals (`hispanic-cultural-integration-proposal.md`, `lgbtq-woven-integration-proposal.md`) and the `unified-woven-integration-plan.md` cover Hispanic, Jewish, LGBTQ+, religious, immigrant, and male survivor contexts. Six communities remain underserved. This proposal closes those gaps at the same depth — cultural pillars, weaponization, field notes, scripts, chapter-by-chapter integration — without diluting the book's voice or pathologizing any community.
@@ -859,8 +872,8 @@ Every addition in this proposal should be woven into existing chapters, not cord
 
 This proposal does not replace any existing work. It extends the same framework:
 
-- `hispanic-cultural-integration-proposal.md` — Hispanic/Latino, intact
-- `lgbtq-woven-integration-proposal.md` — LGBTQ+, intact
+- `deprecated/hispanic-cultural-integration-proposal.md` — Hispanic/Latino (superseded by the unified plan; archived)
+- `deprecated/lgbtq-woven-integration-proposal.md` — LGBTQ+ (superseded by the unified plan; archived)
 - `unified-woven-integration-plan.md` — master plan covering Hispanic, Jewish, LGBTQ+, religious (overview), immigrant, male survivors
 - **This proposal** — Black, Asian, Indigenous, Middle Eastern, religious (depth for four traditions), trans-specific
 
