@@ -31,6 +31,8 @@ If so, you are not broken. You are between worlds.
 
 One world taught you to regulate others, anticipate emotions, and maintain connection at any cost. The other asks you to stay present, grounded, and sovereign—without disappearing or hardening.
 
+For some readers, the worlds being bridged are not only internal. They are *cultural*. One world is the family, congregation, community, or culture you belong to — the one that taught you who you are, fed you, named you, held you, and is now part of what you have to navigate. The other world is the one your healing requires — the one where your own perception is allowed, where your needs can be named, where you can stay yourself without being cast out. For readers from collectivist cultures, faith communities, immigrant families, queer chosen-family networks, or other tight-knit identity-bearing communities, the work of this book includes a layer many recovery books don't name: how to heal *without* losing the people, the language, the holidays, and the belonging that make you who you are. We will return to this throughout — especially in the chapters on minimal contact, guilt, and grief.
+
 This book is the bridge between those worlds.
 
 ---

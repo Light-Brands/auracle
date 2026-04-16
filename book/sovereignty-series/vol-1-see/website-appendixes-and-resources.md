@@ -67,6 +67,17 @@ This is the living directory. Every item below is hosted and maintained online, 
 - Male survivor resources (1in6.org, ManKind Initiative, and others)
 - Faith-based abuse resources (organizations that help religious abuse survivors across denominations)
 - Immigration-related DV resources (legal aid for visa-dependent survivors)
+- Black / African American survivor resources (Therapy for Black Girls, BEAM — Black Emotional and Mental Health Collective, Loveland Foundation therapy fund, The Confess Project, Ujima — National Center on Violence Against Women in the Black Community)
+- Asian (East, South, Southeast) survivor resources (Asian Mental Health Collective, South Asian Sexual & Mental Health Alliance, Manavi, Asian Women's Shelter, Subtle Asian Mental Health community)
+- Indigenous / Native survivor resources (StrongHearts Native Helpline, National Indigenous Women's Resource Center, We R Native, Native Wellness Institute, Mending the Sacred Hoop)
+- Middle Eastern / Arab / SWANA survivor resources (AHA Foundation for honor-based violence and forced marriage, Tahirih Justice Center, Karma Nirvana, Apna Ghar, Arab American Family Services)
+- Religious-exit and spiritual abuse resources, by tradition:
+  - Evangelical / Protestant: Tears of Eden, Give Her Wings, Faithtrust Institute
+  - Mormon / LDS: Sound Choices Coalition, ex-LDS peer networks
+  - Jehovah's Witnesses: Advocates for Awareness of Watchtower Abuses (AAWA), ex-JW peer networks
+  - Catholic: Spiritual abuse recovery groups, annulment-aware pastoral support
+  - Cross-tradition: Recovering from Religion, Hotline Project
+- Transgender-specific survivor resources (Trans Lifeline, FORGE, Trans Women of Color Collective, Sylvia Rivera Law Project, Trans Justice Funding Project, Point of Pride HRT access fund)
 
 **Support communities:**
 

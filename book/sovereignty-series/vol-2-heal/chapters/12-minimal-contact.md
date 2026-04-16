@@ -212,6 +212,45 @@ You're not rejecting them as a person. You're rejecting the dynamic that exists 
 
 ---
 
+## When the Community Is the Relationship
+
+For some readers, "no contact" is more than a relational decision. It is a *cultural* one — and the math of leaving is different.
+
+Most recovery literature assumes a Western, individualist context: that the harmful person is one person, that your social world extends well beyond them, and that distance from them is distance from one node in a wider network. For many readers, that's true. For many others, it isn't.
+
+If you grew up in a collectivist culture, a faith community, an immigrant family, a small queer or trans community, an Indigenous nation, or any tight-knit identity-bearing community — the harmful person may be embedded in the *only* social world you have. Leaving them can mean:
+
+- Losing the holidays, the food, the language, the rhythm of the year that taught you who you are
+- Losing the congregation, the ward, the kingdom hall, the parish — and with it your moral and cosmological home
+- Losing the diaspora network where everyone knows everyone, where news travels in one phone call from one continent to another
+- Losing the chosen-family network that replaced the biological family that rejected you for being queer or trans
+- Losing the tribal community where leaving means becoming, in some sense, no one your ancestors would recognize
+- Losing the only people you've ever spoken your real language with
+
+This is not the same calculation as no-contact in an individualist context. It is heavier. The grief is layered. And the people enforcing your return — calling you, guilting you, mobilizing the community to "save" the relationship — often are not malicious. Many of them love you. They are doing what their culture taught them love looks like.
+
+**The framework still applies. The cost is just larger.**
+
+You are still allowed to protect yourself. You are still allowed to choose distance. The principles in this chapter still hold. But the work of doing it requires you to:
+
+1. **Name the larger system honestly.** You are not just leaving one person. You may be leaving — or restructuring your relationship with — a community that has been part of your identity since birth. Pretending the cost is small makes the grief that follows confusing. Naming it accurately lets you grieve it accurately.
+
+2. **Distinguish the person from the people.** The person who harmed you is not the culture. The narcissist who weaponized your community's sacred values is not those values. You can leave the person without leaving the people. You can keep the language, the holidays, the food, the faith — and refuse the relationship that hijacked them. This distinction is hard work and it does not happen all at once.
+
+3. **Find at least one ally inside the community.** Even one person who can hold both — who knows the culture and also knows that the harm was real — changes everything. Not the family member who insists on reconciliation. Not the elder who tells you to endure. Someone who can sit with you and say *both this is real and you are still one of us*. They may not exist in your immediate circle. They may exist in the diaspora online, in a culturally-specific support group, in a community-grounded therapist. Look until you find one.
+
+4. **Plan for the enforcement response.** When someone in a tight-knit community sets a boundary, the system often responds by mobilizing — calls from relatives, conversations with elders, financial pressure, public shaming, religious authority invoked. This isn't unique cruelty. It's the system trying to restore equilibrium. Anticipating it is not paranoia; it is preparation. The chapter on flying monkeys later in this section names this dynamic at the structural level.
+
+5. **Use minimal contact as a tool, not a compromise.** For many readers in collectivist contexts, full no-contact is not survivable — practically, financially, emotionally, or culturally. Minimal contact, gray rock, selective sharing, the strategic fade — these are not failures of nerve. They are sometimes the most sovereign options available. The question is not "did I go far enough" but "am I protected enough to keep healing."
+
+6. **Distinguish leaving the person from leaving the cosmology.** This matters most for readers exiting a faith community or a tradition. You can leave a marriage without leaving God. You can leave a congregation without losing your soul. You can leave a tradition's institutional form while keeping its prayer, its language, its ancestors. The narcissist often tries to make these inseparable — *if you leave me you leave us, and if you leave us you leave everything we believe in*. That is a manipulation, not a theology.
+
+**Companion-website resources for community-specific support — Black, Asian, Indigenous, Middle Eastern, religious-exit, LGBTQ+, trans, Hispanic, Jewish, and male survivors — are listed in Appendix C.**
+
+The full per-community treatment of this material — including community-specific field notes, scripts, and exit-pathway detail — is being drafted with sensitivity readers from each community per the integration plan in `cultural-coverage-integration-plan.md`. The structural pattern named above applies across all of them. The community-internal language each one needs is being written by people who hold that voice.
+
+---
+
 ## The Permission Statement
 
 You are allowed to:
