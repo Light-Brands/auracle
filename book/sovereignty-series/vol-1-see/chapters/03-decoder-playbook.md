@@ -280,7 +280,7 @@ Your nervous system goes into freeze or fawn mode. You become very, very careful
 **Your Power Move:**
 **This is abuse.** Physical intimidation is domestic violence even without contact.
 
-Document everything: write down dates, what happened, what was said. Tell someone you trust. Create a safety plan. Know your exit routes. **See [Appendix A](../appendices/appendix-a-resources.md) for crisis resources.**
+Document everything: write down dates, what happened, what was said. Tell someone you trust. Create a safety plan. Know your exit routes. **If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country. For current crisis hotlines and safety resources, visit [companion website URL].**
 
 This is not something you manage—this is something you get safe from.
 
@@ -1311,7 +1311,7 @@ You're terrified something will happen and it will be your fault. You stay to ke
 You are not responsible for another adult's choice to live or die. This is emotional hostage-taking, and it's a form of abuse.
 
 If they threaten suicide:
-- Call emergency services or a crisis line immediately (see [Appendix A](../appendices/appendix-a-resources.md))
+- Call emergency services or a crisis line immediately (for current hotlines, visit [companion website URL])
 - Contact their family or friends
 - Do not try to manage this yourself
 - Then still leave if you need to leave
@@ -1648,7 +1648,7 @@ You feel touched that someone cares. Questioning their concern feels ungrateful.
 > **First Aid:** If this content activated crisis memories:
 > - You are safe right now
 > - These are words on a page about patterns—you are not in that situation right now
-> - If you need support, see [Appendix A](../appendices/appendix-a-resources.md) for crisis resources
+> - If you need support, contact your local emergency services or a domestic violence hotline in your country (for current resources, visit [companion website URL])
 
 ---
 

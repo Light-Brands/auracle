@@ -216,7 +216,7 @@ The first 90 days after leaving are often the hardest. Your nervous system is re
 
 **The Red-Yellow-Green System** helps you quickly assess your state and know what action to take. Red means you're in crisis and need immediate support. Yellow means you're activated but managing. Green means you're stable and can focus on growth. Knowing your color tells you what you need.
 
-*For detailed protocols on both systems, see Appendix A: Resources.*
+*For detailed protocols on both systems, visit [companion website URL].*
 
 ---
 

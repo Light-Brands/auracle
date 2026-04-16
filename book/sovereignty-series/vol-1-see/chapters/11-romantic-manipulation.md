@@ -469,7 +469,7 @@ You don't need their behavior to escalate for your unhappiness to be valid. Mid-
 > - Do you have a trusted person you can reach if this content activates you?
 > - Consider reading this section with support rather than alone.
 >
-> **Crisis Resources:** See [Appendix A](../appendices/appendix-a-resources.md) for 24/7 crisis hotlines.
+> **Crisis Resources:** If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country. For current crisis hotlines, visit **[companion website URL]**.
 >
 > When you're ready, continue.
 
@@ -655,7 +655,7 @@ If you're seeing these signs, you're in the danger zone:
 If you recognize exit-phase escalation, treat this as the dangerous situation it is:
 
 **1. Take the threats seriously**
-- Suicide threats: Call emergency services or a crisis line immediately (see [Appendix A](../appendices/appendix-a-resources.md)). You are not qualified to manage this.
+- Suicide threats: Call emergency services or a crisis line immediately (for current hotlines, visit [companion website URL]). You are not qualified to manage this.
 - Physical threats: Document everything. Tell someone you trust. Contact domestic violence resources.
 - Don't try to be the hero or therapist. Professional intervention is required.
 
@@ -681,7 +681,7 @@ If you recognize exit-phase escalation, treat this as the dangerous situation it
 - Quietly prepare, then exit when they're not present if possible
 
 **5. Get professional support**
-- Domestic violence advocate (see [Appendix A](../appendices/appendix-a-resources.md) for hotlines)
+- Domestic violence advocate (for current hotlines, visit [companion website URL])
 - Therapist who specializes in abuse recovery
 - Lawyer if needed for protection orders
 - Support group for survivors
