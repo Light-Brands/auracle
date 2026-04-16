@@ -491,7 +491,7 @@ Then came the neck.
 
 First the admiration — repeated, almost tender, turning the observation over like he was noticing something beautiful for the first time: "Your neck is so small and delicate." He said it more than once. Then he placed his hand around my throat. Not squeezing. Demonstrating. "I could snap it with one hand."
 
-The message was clear: my safety depended on his restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. And afterward, every time someone admired anything about my body, my neck remembered. The admiration and the violence became the same gesture.
+The message was clear: my safety depended on his restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. Every time he marveled at how small my neck was — and he did it often, casually, as though he were noticing something precious — the hand was already in the room. The marveling and the threat were never separate.
 
 Then the trivial demand. "Get me a popsicle." Not because he wanted it — because he wanted to test whether I'd still comply. When I didn't jump immediately, the response was explosive. Screaming. In front of a friend who was visiting. The friend sat there, frozen. I sat there, burning. The popsicle was never about the popsicle. It was a compliance test, and I had failed it publicly.
 
