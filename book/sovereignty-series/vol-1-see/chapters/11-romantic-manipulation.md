@@ -562,6 +562,18 @@ In machismo cultures, public displays of dominance aren't red flags — they're 
 
 The anticipatory scan before leaving the house. The tight chest walking into any public space with them. The flinch when they call the waiter over. The shame-heat when their voice rises. The relief — actual physical relief, shoulders dropping, breath releasing — when an outing ends without incident. If you're relieved that a normal dinner was *normal*, that's your body telling you the truth.
 
+### The Dinner Party Silence
+
+At dinner parties with his friends — powerful, business-type, people who spoke for a living — I couldn't get a word in. "You have to jump in," he'd say afterward, as though the problem were my timidity and not a room full of professional interrupters who'd never been asked to make space for anyone.
+
+I just became more quiet. It was too much energy to fight to be heard in a room that wasn't designed to hear me.
+
+"Jump in" sounds like encouragement. It's actually blame. It says: *the reason you're invisible is your fault. You're not trying hard enough. The room is fine — you're the problem.* It reframes his friends' dominance as normal and my silence as a deficit I need to fix. It puts the burden of inclusion on the excluded person.
+
+This is a different shape of the same silencing. Not the strategic quiet I use with certain family members — the one born of pattern recognition, the one that protects my truth from people who'd weaponize it. This is the quiet of exhaustion. The quiet of a person who calculated the energy required to be heard in a room that wasn't built to hear her — and decided the cost was too high.
+
+**The decoder:** If you're told to "jump in" instead of being made space for — and if your silence is treated as your failure rather than the room's — you're not in a partnership. You're in a system that requires your performance to function, and blames you when you can't perform.
+
 ### The Collectivist Extinction Burst
 
 The book already describes the extinction burst — the desperate escalation when the narcissist feels control slipping. But in collectivist systems, the extinction burst isn't just the narcissist. It's the narcissist *plus the entire system*.
