@@ -2387,6 +2387,8 @@ Later, when she says she felt intruded upon, he looks wounded. "I was trying to 
 
 The question hangs there. And she realizes: she's now defending her right to have something that's hers.
 
+**When the genders reverse, the script changes; the colonization doesn't.** Replace "I should probably be on this call too" with "Who's that? I just wanted to say hi. Why are you being so cold?" The frame shifts from authority-claim to connection-claim. The mechanism is identical: your professional space stops being yours, and your protest becomes evidence that you are the cold one. The diagnostic in any configuration: when a partner's presence consistently turns your work space into shared space — and your objection into the offense — you are not being supported. You are being claimed.
+
 ---
 
 ## Card P-1: Territorial Hovering
