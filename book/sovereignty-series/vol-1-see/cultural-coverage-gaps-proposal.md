@@ -672,7 +672,7 @@ Your congregation. Your childcare network. Your moral cosmology. Your eternity (
 
 ### The Problem
 
-The unified plan touches trans dynamics inside the broader LGBTQ+ material, but trans survivors face specific coercive mechanisms that don't map cleanly onto cis queer experience. Deadnaming, misgendering, HRT control, medical gatekeeping, and documentation weaponization are not sub-cases of homophobia. They are a separate vocabulary of control. This section names them.
+The unified plan touches trans dynamics inside the broader LGBTQ+ material, but trans survivors face specific coercive mechanisms that don't map cleanly onto cis LGBTQ+ experience. Deadnaming, misgendering, HRT control, medical gatekeeping, and documentation weaponization are not sub-cases of homophobia. They are a separate vocabulary of control. This section names them.
 
 ### The Cultural Pillars (Pattern Set)
 
@@ -880,7 +880,7 @@ This proposal does not replace any existing work. It extends the same framework:
 **Overlap points with the unified plan:**
 
 - *Religious communities*: the unified plan names the pattern; this proposal adds Evangelical, LDS, JW, and Catholic specificity. Both should be read together.
-- *Trans-specific*: the LGBTQ+ proposal and unified plan both touch trans dynamics under the broader queer umbrella. This proposal extracts the trans-specific coercive mechanisms (HRT, deadnaming, medical gatekeeping) that don't map cleanly onto cis queer experience.
+- *Trans-specific*: the LGBTQ+ proposal and unified plan both touch trans dynamics under the broader LGBTQ+ umbrella. This proposal extracts the trans-specific coercive mechanisms (HRT, deadnaming, medical gatekeeping) that don't map cleanly onto cis LGBTQ+ experience.
 - *Immigrant material*: the unified plan covers immigrant dynamics. Several communities in this proposal (Asian, Middle Eastern, some Indigenous diaspora) are also immigrant communities. The integration pass should coordinate these threads rather than duplicate them.
 
 ### What This Is NOT
