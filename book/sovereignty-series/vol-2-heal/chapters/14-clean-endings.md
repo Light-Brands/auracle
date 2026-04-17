@@ -244,6 +244,25 @@ It's proof of what you're worth.
 
 ---
 
+## Endings That Cannot Be Clean by Western Standards
+
+Much of the closure literature — this chapter included — rests on a Western, individualist picture of the ending: two adults, a door, a decision, a distance. For many readers that picture doesn't match the terrain. The ending you are trying to make has to happen inside a community that doesn't recognize endings, or recognizes only one kind, or recognizes endings but refuses to let them be clean.
+
+The structural patterns below show up across communities. Naming them keeps "clean" from becoming one more Western standard you fail to meet.
+
+- **Shunning endings.** In Jehovah's Witness, some Amish, some Haredi, and some other tight-enforcement traditions, an ending triggers a community-wide severance — not of the marriage, but of *you*. Family members stop speaking to you. Friends of twenty years will not meet your eye. The "ending" is not between two people. It is between you and a social world, executed by the world itself. Internal closure here has to do the work of many lost relationships, not one.
+- **Honor-based endings.** In some SWANA, South Asian, and Mediterranean-influenced communities, an ending can register as a family-reputation event with safety implications, not just a relational one. Safety planning here is not metaphor. Closure may have to be constructed in private, protected by silence, and defended by distance — because the version of "talking it through" that Western literature recommends can endanger the person doing the leaving.
+- **Endings inside a community that refuses to hold one.** Churches that counsel reconciliation regardless of harm. Wards, mosques, temples, and parishes that frame separation as spiritual failure. Diaspora networks that close ranks around the man. The ending is made; the community refuses to register it. The survivor is left to grieve an ending that, by the social record, did not happen.
+- **Endings where the person remains present at every gathering.** Small communities — queer and trans scenes, tribal nations, diaspora networks, single-industry towns, recovery communities — where the person you ended the relationship with will be at the same funerals, weddings, potlucks, and ceremonies for the rest of your life. The Western "clean break" is not available. What is available is a set of interior postures — practiced, stable, rehearsed — that protect your nervous system in a room you cannot avoid.
+- **Endings the culture has no word for.** Some communities have no vocabulary for "leaving" inside a marriage. The ending exists. The language for it does not. This is its own grief, and often its own isolation, because naming what you did requires importing a frame from outside the community. Many readers describe this as a kind of loneliness that no amount of closure practice resolves — only time, and the slow accrual of a few other people who have done the same thing inside the same community.
+- **Endings where leaving the person means leaving the cosmology.** For readers exiting a faith-formed marriage, the ending can reach past the relationship into the structure that explained the universe. Closure here has a spiritual dimension the individualist frame does not touch. You may be ending a marriage and also ending, or remaking, your relationship to God, the ancestors, the sacraments, the ceremonies, the afterlife. One set of grief practices is not sufficient for both. The chapter on grief treats this layer more directly; it belongs named here too.
+
+If your ending did not look clean, you did not fail the ending. You were doing the work inside conditions most of the literature was not written for. What a clean ending actually is — the topic of the next section — is an internal state, not an external approval. That matters more here than anywhere else in this chapter.
+
+The full per-community treatment — including tradition-specific exit pathways, survivor-voice narratives, and the language each community uses for what cannot be called "divorce" — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The voice each one needs will be written by people who hold it.
+
+---
+
 ## What a Clean Ending Actually Is
 
 A clean ending is:

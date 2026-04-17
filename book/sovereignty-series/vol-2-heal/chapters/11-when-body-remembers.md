@@ -171,6 +171,31 @@ The work is learning to return to ventral vagal—and eventually to live there m
 
 ---
 
+## When the Body Was Pre-Trained to Override Itself
+
+Polyvagal theory describes a universal nervous system. Cultural injunctions against feeling act *on top of* that universal system and shape how early, how deeply, and with how much social reinforcement a body learns to override its own signals.
+
+For many readers the somatic trauma did not begin in the relationship. It began in childhood, in a culture whose virtues were built on the body's suppression. This is not a moral failing of the culture. Many of these virtues evolved inside conditions of actual survival — slavery, famine, colonization, war, migration, persecution — where a body that could override itself was the body that got through. What survived the conditions does not, however, get to run the rest of the life without cost.
+
+The pattern has different names in different languages. The mechanism is the same:
+
+- **Aguanta** (Spanish) — bear it, endure, don't show what's happening. The body is trained to finish the task even when it is breaking.
+- **吃苦 / chī kǔ** (Mandarin) — "eat bitterness." Endurance as virtue. The body is taught that complaint is weakness and that quiet suffering is the highest moral achievement.
+- **Sabr** (Arabic) — patience, endurance under hardship. In its original spiritual form it is a profound discipline. Weaponized inside an abusive marriage, it becomes a life sentence.
+- **Be strong / don't cry / keep it moving** — the Anglophone Black and working-class inheritance of unbreakability, where crying in public is a luxury the body has not been allowed.
+- **Fuerte** (Spanish, feminine form especially) — *la mujer fuerte*, the strong woman whose strength is measured by what she can absorb without showing it.
+- **"Don't air dirty laundry" / "what happens in this house stays in this house"** — across nearly every community, the explicit instruction that the body's truth is a family secret.
+- **Stoic restraint, stiff upper lip, Protestant endurance** — the Northern European inheritance that treats feeling as self-indulgence.
+- **The model-minority body** — the Asian-American body trained to succeed without complaint, where visible struggle is interpreted by the outside world as failure of the community, not of the conditions.
+
+A body pre-trained by any of these is not starting from neutral when the relationship begins. It is arriving already fluent in overriding itself. Hypervigilance reads as focus. Freeze reads as composure. Dissociation reads as maturity. The narcissist does not have to build the circuit. The culture already did.
+
+This is why somatic recovery for many readers involves an extra layer of grief: learning to feel at all, in a body that was praised for not feeling — and doing that without betraying the ancestors whose endurance was a form of love.
+
+The full per-community treatment of the somatic layer — including in-language phrasing, specific practices that work inside each cultural frame rather than against it, and survivor-voice testimony — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The language each one needs will be written by people who hold that voice.
+
+---
+
 ## Hypervigilance: When Your System Won't Stand Down
 
 If you grew up in volatility or spent years in a dysregulated relationship, your nervous system learned to stay on alert.

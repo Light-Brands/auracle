@@ -125,6 +125,27 @@ Different wounds need different medicine. What heals the Hero may not heal the L
 
 ---
 
+## Reparenting When Needs Themselves Were Taboo
+
+The practices that follow assume that needs are permitted, that receiving is possible, that rest is available in principle. For many readers that assumption is the crack in the floor. Long before any specific practice is chosen, the work is the permission to have a need at all.
+
+This is where cultural conditioning matters most in reparenting — because the reparent's voice has to overrule a lifetime of voices saying the opposite. Those voices are not always wrong. They kept a generation alive. And they still have to be overruled for this work to land.
+
+The structural patterns below appear across many communities:
+
+- **Having needs was classed as selfish.** In collectivist family systems — Asian, Latin, SWANA, many Indigenous, many African, many immigrant — a child's articulated needs past the basic minimum could be read as failure to consider the family. The reparent voice has to offer, without irony, *you are allowed to want this.* That sentence sounds simple. For a nervous system raised on the opposite rule, it sounds foreign enough to register as unsafe the first several hundred times it is said.
+- **Self-compassion was classed as weakness.** In cultures of endurance — Black women's inheritance of unbreakability, Strong Black Woman, *aguanta, chī kǔ, sabr*, the stoic Protestant inheritance — gentleness to oneself is read as collapse. The reparent voice has to hold both: *your endurance is real, and you are allowed to stop.*
+- **Receiving was classed as debt.** In many immigrant and sacrifice-coded family systems, to receive was to owe. The child learned early that an unrequested gift carried interest. Receiving — from oneself, from a therapist, from a safe partner — sets off old alarm circuits: *what will this cost me.* Reparenting in this frame means receiving anyway, in small increments the body can metabolize.
+- **Rest required permission that was never granted.** In high-obligation cultures, rest was something you earned by finishing the list. The list never finished. The reparent voice has to teach the body that rest does not require completion. This is deceptively hard. Most readers find they can grant themselves rest intellectually years before they can grant themselves rest somatically.
+- **Modesty and invisibility were classed as virtue.** For girls in patriarchal-clan systems, for queer and trans children in rejecting families, for children of immigrant communities that needed low visibility to survive — *not being seen* was the skill that kept the family safe. Reparenting includes being willing to be seen, including by yourself, which is sometimes the harder threshold.
+- **Individual identity itself was classed as betrayal.** In communities where the individual is structurally secondary to family, tribe, or faith, reparenting the *self* can register as a kind of treason. The reparent voice has to answer this without minimizing what the community gave. *You can love the people and still have a self. The self is not the betrayal. The disappearance would be.*
+
+None of this means the culture was wrong and the individualist frame is right. Most of these injunctions evolved for reasons — survival reasons, love reasons, reasons about holding a people together under conditions that required it. Reparenting does not erase the inheritance. It refuses to let the inheritance be paid only by your body. That is the distinction this chapter is built on.
+
+The full per-community treatment — including reparenting practices that work *inside* a collectivist or faith frame rather than against it, survivor-voice narratives, and language tuned to each community's conditioning — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The voice each one needs will be written by people who hold it.
+
+---
+
 ## Role-Based Practices
 
 ### For the Hero / Parentified Child
