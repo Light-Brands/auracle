@@ -146,7 +146,7 @@ This book sees you. The cultural layer is threaded through the volume rather tha
 - **Chapter 18** (dating inside a small world) and **Chapter 19** (when the red flag is dressed as a virtue) — the cultural reading that sits inside the observational work
 - **Chapter 22** (reparenting when needs themselves were taboo) — overruling (not erasing) the inherited survival rules
 
-The companion blueprint (`cultural-coverage-integration-plan.md`) maps where six specific communities — Black, Asian, Indigenous, Middle Eastern, religious traditions, and trans — receive deeper community-voice treatment as that material is drafted with sensitivity readers from each community. The standing rule governing that work lives in `sensitivity-reader-gate.md`: community-internal voice is not drafted without a reader from that community in the loop, because the author does not hold that voice and refuses to pretend otherwise.
+The companion blueprint (`cultural-coverage-integration-plan.md`) maps where six specific communities — Black, Asian, Indigenous, Middle Eastern, religious traditions, and trans — receive deeper community-voice treatment as that material develops. The author's working intent for that work lives in `sensitivity-reader-gate.md`: community-voice material is drafted with reader input from the relevant community wherever possible, because the author does not hold that voice and is writing with that awareness.
 
 You do not have to choose between healing and belonging. The work this book asks of you is to find the version of belonging that doesn't cost you yourself.
 
