@@ -36,6 +36,12 @@ Before we get to specific scripts, understand the underlying principles:
 
 **They won't like it.** Any effective response will be met with escalation, at least initially. That's expected. It's not evidence that you did something wrong.
 
+**These are options, not requirements.** The scripts below work in many situations, but no script works in every situation. You know your relationship, your environment, and your safety better than any book can. Adapt what fits. Discard what doesn't. Trust yourself.
+
+**Safety first.** The responses in this lesson assume you can safely assert boundaries or exit the conversation. If you're living with the person, financially dependent on them, in physical danger, or otherwise constrained in ways that make direct responses unsafe, your first job is not clarity—it's survival. Strategic compliance, the "gray rock" technique (keeping yourself unreactive and uninteresting), and careful timing are valid tools when leaving isn't currently possible. If your situation involves physical violence or threats, please contact the National Domestic Violence Hotline (1-800-799-7233) for safety planning. Protecting yourself looks different depending on where you are in the arc, and all of it is valid.
+
+**Context changes the script.** A response that works with an ex-partner can get you fired if used with a boss. A line that works with a peer can escalate danger when used with a narcissistic parent you're still dependent on. Core principles stay the same—protect your nervous system, don't JADE, hold your reality—but tactics must be calibrated to power and consequences. We'll flag context shifts as we go.
+
 **The Universal Responses**
 
 These work for almost any manipulation tactic:

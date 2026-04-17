@@ -14,6 +14,14 @@
 
 ---
 
+### A note before we begin
+
+This lesson covers rage, threats, and punishment tactics. Readers who have lived through these experiences may notice activation as we go—a tight chest, a held breath, a sense of wanting to get away from the page.
+
+If that happens, pause. Use the 3-3-3 Rule. Ground your feet. Close the book for a minute and come back when you're ready. This material is here when you can engage with it safely, not as a race.
+
+---
+
 ### Script
 
 So far, we've covered tactics that attack your perception and hijack your emotions. Those tactics work through destabilization—they create confusion and dependency.

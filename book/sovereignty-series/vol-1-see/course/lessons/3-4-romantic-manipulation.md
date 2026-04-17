@@ -80,7 +80,7 @@ Some relationships cycle through hoovering and discard multiple times.
 
 Let's look at how the 60 patterns show up specifically in intimate relationships:
 
-**Love bombing** is the primary idealization tactic. Overwhelming attention and affection that creates rapid attachment.
+**Love bombing** is the primary idealization tactic. Overwhelming attention and affection that creates rapid attachment. A man tells his new boyfriend he's "the first person who ever really saw me" within two weeks of meeting. A woman tells her girlfriend she's finally found "her person" before they've spent a single holiday together. The speed is the tell, not the pronoun.
 
 **Intermittent reinforcement** drives the devaluation cycle. The unpredictable alternation between affection and coldness creates addiction.
 
@@ -88,7 +88,7 @@ Let's look at how the 60 patterns show up specifically in intimate relationships
 
 **Future faking** keeps you invested. Promises of marriage, children, change, the life you'll have together—that never materialize.
 
-**Isolation** cuts you off from support. They don't like your friends. Your family is a problem. Slowly, your world shrinks to them.
+**Isolation** cuts you off from support. They don't like your friends. Your family is a problem. Slowly, your world shrinks to them. In same-sex relationships, isolation can weaponize identity-specific vulnerabilities: cutting a partner off from their queer community, threatening to out them to family or employers, or monopolizing the limited dating pool in a smaller city to make leaving feel impossible.
 
 **Financial control** creates dependency. Joint accounts they control. Sabotaging your job. Making you financially reliant.
 

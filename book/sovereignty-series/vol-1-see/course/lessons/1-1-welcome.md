@@ -56,6 +56,14 @@ Many people have experienced what you've experienced. The confusion, the self-do
 
 Let that land.
 
+**A word before we go further.**
+
+This course teaches pattern recognition for your protection. It is not a diagnostic manual for labeling the people in your life. You don't need to prove that someone is "a narcissist" to take what they did seriously or to choose how you engage from here. Whether or not they'd meet a clinical profile, the patterns are real—and so is your right to respond to them.
+
+If you're a man reading this: being manipulated says nothing about your masculinity, your strength, or your worth. The tactics we're going to decode work on human attachment, not gender. You belong here.
+
+If you're recognizing patterns you've lived with for decades: this is not lost time. This is the moment you finally have the language for what you've been through. Recovery can begin at any age, in any season of life. Readers in their sixties and seventies are doing this work, and so are readers in their twenties recognizing patterns in their first serious relationship. The door is still open.
+
 **Here's how this course works.**
 
 We have six modules ahead of us.
@@ -137,6 +145,8 @@ Don't analyze or explain. Just notice and record.
 - Your nervous system already has valuable information
 - Confusion is often manufactured by the manipulator
 - Recognition is the first step toward freedom
+- This is pattern recognition for your protection, not diagnosis of others
+- These patterns affect all genders, orientations, and ages—you belong here
 
 ---
 

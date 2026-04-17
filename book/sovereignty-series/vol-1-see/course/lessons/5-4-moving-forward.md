@@ -62,6 +62,10 @@ Here's what I suggest for your immediate future:
 
 **4. Build support.** Find people who understand what you've experienced. Therapy, support groups, trusted friends. You don't have to do this alone.
 
+If therapy isn't currently accessible to you—financially, geographically, or because the waitlists are long—there are real alternatives. Peer-led support groups (both in-person and online) are often free. National hotlines (National Domestic Violence Hotline: 1-800-799-7233; 988 Suicide and Crisis Lifeline) are free and available around the clock. Many communities have sliding-scale counseling through community mental health centers, religious and spiritual communities, and training clinics at universities. Domestic violence advocates at local shelters understand economic abuse and can help with safety planning even if you're not ready to leave. Books and structured programs like this one can be part of a patchwork of support when professional therapy isn't available yet.
+
+Recovery shouldn't be gatekept by your income. Use what's available.
+
 **5. Document your journey.** Keep a journal. Track patterns. Celebrate progress. Have a record for when you need reminding.
 
 **6. Be patient.** Deep healing takes time. Trust the process. You're on the right path.

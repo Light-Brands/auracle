@@ -84,6 +84,18 @@ Caretakers often struggle with:
 - Attracting partners who need caretaking
 - Inability to receive care
 
+**When the family structure isn't two parents**
+
+The roles above describe one common family shape. Many readers grew up in something different.
+
+**Single-parent narcissistic families.** When there's no co-parent to buffer or provide a reality check, the dynamics intensify. The child often becomes the parent's emotional partner—confidant, soother, stabilizer. Without another adult in the system, the child may not realize the relationship is inappropriate, because there's no alternative model in the house.
+
+**Grandparents, step-parents, and guardians.** The narcissistic figure may not be a biological parent. A grandmother who raised you, a step-parent who used you as a pawn in the divorce, a guardian who required constant admiration—these relationships can carry the same patterns and the same weight. If the person who had primary authority over your childhood fits what we're describing, the wound is real, regardless of the title.
+
+**Blended families.** Step-siblings and half-siblings can be triangulated against each other. A child may be Golden in one household and Scapegoat in another, or cast as the outsider in a family that formed around someone else.
+
+If any of these describe your childhood, the roles and dynamics in this lesson still apply. The shape of the family doesn't change the shape of the wound.
+
 **Role fluidity**
 
 It's important to understand that these roles aren't always fixed.
