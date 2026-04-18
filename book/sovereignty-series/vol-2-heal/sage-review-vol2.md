@@ -155,3 +155,96 @@ This review is supplemental. It does not substitute for readers from Black, Asia
 
 ---
 
+### Ch 22: "Reparenting When Needs Themselves Were Taboo"
+**File:** `book/sovereignty-series/vol-2-heal/chapters/22-reparenting-practices.md` (lines 128–145)
+
+**What I noticed:**
+
+- The framing sentence "the work is the permission to have a need at all" is the thesis of the section and it lands. It does the structural work without prescribing what permission looks like inside any specific tradition. Keep.
+- The opening paragraph (line 132) names that the inherited voices "are not always wrong. They kept a generation alive. And they still have to be overruled." This is the rare framing that honors the inheritance while refusing it; readers from collectivist and survival-coded communities are more likely to stay with the chapter because of this sentence specifically.
+- **"Having needs was classed as selfish"** (line 136): the bullet groups Asian, Latin, SWANA, Indigenous, African, and immigrant family systems into one "collectivist" frame. This is structurally true and the bullet labors hard to be inclusive — but the move from "collectivist family systems" to a single reparent script (*you are allowed to want this*) treats six culturally distinct grammars as substitutable. Consider whether the reparent script wants a one-line acknowledgement that "what 'allowed' sounds like inside each frame differs — that translation is the work the per-community pass will do."
+- **"Self-compassion was classed as weakness"** (line 137): pairs Black women's inheritance + *aguanta* + *chī kǔ* + *sabr* + Protestant stoicism in a single bullet. The compression is elegant but it places a Black woman's "Strong Black Woman" inheritance, a Mandarin-speaking child of Chinese parents, an Arabic-speaking SWANA child, and a white New England Protestant in the same conditioning category. The mechanisms differ. The lived weight differs. Consider whether the in-language terms want their own line each, or whether the bullet wants to name explicitly that these are *related but not equivalent* endurance codes.
+- **"Receiving was classed as debt"** (line 138): cleanly observed and unlikely to misread. Strong bullet.
+- **"Rest required permission that was never granted"** (line 139) and **"Modesty and invisibility were classed as virtue"** (line 140): both well-framed. The "for queer and trans children in rejecting families … *not being seen* was the skill that kept the family safe" line is one of the more careful trans-adjacent observations in the book — it names invisibility as survival skill rather than as deficit. Keep.
+- **"Individual identity itself was classed as betrayal"** (line 141): the reparent script *"You can love the people and still have a self. The self is not the betrayal. The disappearance would be."* is good. It does what reparenting prose has to do — short, declarative, addressed to the body rather than the analytic mind. A reader from a clan-coded culture may want to test whether "self" itself is the right word, given that "self" carries individualist-frame baggage in some traditions; "soul," "interiority," "the part of you that knows" can all do the same work without importing the frame the chapter is trying to refuse.
+- The closing paragraph (line 143) — "this does not mean the culture was wrong and the individualist frame is right. Most of these injunctions evolved for reasons — survival reasons, love reasons" — is the single most important sentence in the chapter for a reader from any of the six communities. Without this sentence, the section reads as Western therapy critiquing collectivism. With it, the section reads as an offer. Keep, and consider whether it wants to come earlier (currently it lands after the bullets; some readers will close the chapter before reaching it).
+- The pointer to the per-community pass (line 145) is doing real work. It tells the reader the author knows this is a sketch, not a translation. Keep.
+
+**Potential impact:** This is the most generous version of "naming patterns from outside" the chapter could write — it honors the inheritance, refuses the inheritance's full cost, and points to where the in-community translation will happen. The risk is in the bullet-level compression: each bullet bundles three to six culturally distinct experiences into a single reparent script, and a reader from any one of those communities will feel the bundle. The fix is mostly small — add one disclaimer line per bullet, or reorder so the closing "the culture was not wrong" paragraph leads.
+
+**Considerations:**
+- Consider moving the "the culture was not wrong" paragraph (line 143) earlier — perhaps before the bullets — so the frame is set before the reader meets the structural compressions.
+- Consider whether the in-language terms in line 137 want their own bullet each, with one-line acknowledgement that the endurance codes are related but not equivalent.
+- Consider the word "self" in line 141 — is there a frame-neutral alternative ("interiority," "the part of you that knows") that would land for a reader from a clan-coded culture without importing the individualism the chapter is trying to refuse?
+- Confirm with each community reader, when recruited, whether the *reparent scripts* (the italicized one-liners) translate inside their tradition's grammar, or whether each community's pass needs to write its own scripts.
+
+**Priority:** MEDIUM — the section is doing careful work and the framing is more generous than most reparenting literature. The remaining risk is calibration at the bullet level and the placement of the framing paragraph.
+
+---
+
+### Appendix C: "Community-Specific Resources"
+**File:** `book/sovereignty-series/vol-2-heal/appendices/appendix-c-resources.md` (lines 68–144)
+
+**What I noticed:**
+
+- The framing sentence (line 70) — "Each list is partial — the companion website maintains a current, expanded directory" — is the right disclaimer. Resource lists in print age fast; the pointer to the website does the longevity work.
+- **Ordering:** Black, Asian, Indigenous, SWANA, Hispanic, Religious-Exit, LGBTQ+, Trans, Jewish, Male. The intent looks alphabetic-ish-by-historic-marginalization rather than alphabetic; that's a defensible editorial choice but it reads as if the author chose an order. Consider whether the order communicates anything inadvertent — for instance, Jewish appearing second-to-last when the author's own primary authority is Jewish could read either as humility or as deprioritization, depending on the reader.
+- **Black / African American Survivors** (lines 72–78): five organizations, well-curated. Therapy for Black Girls and BEAM are correctly identified as flagship. "The Confess Project" is noted for Black men's mental health — good cross-gender inclusion in a section that could otherwise default to women-only. Ujima is correctly named as the National Center on Violence Against Women in the Black Community. Consider adding **Sista Afya** and **Black Women's Blueprint** for breadth (both are well-established).
+- **Asian (East, South, Southeast)** (lines 80–86): five entries cover a region of more than two billion people. The selection skews North American diasporic (Asian Mental Health Collective, SASMHA, Manavi, Asian Women's Shelter, Subtle Asian Mental Health). For a reader in the diaspora this is appropriate; for a reader in any homeland it will read as an entirely diaspora-framed list. Consider whether the print appendix wants a one-line acknowledgement that this is a diaspora-focused list and the website holds the international one. Also consider adding **API-GBV** (Asian Pacific Institute on Gender-Based Violence) and **Sakhi for South Asian Women**, both of which are flagship.
+- **Indigenous / Native** (lines 88–94): StrongHearts is correctly named with phone number. NIWRC, We R Native, Native Wellness Institute, Mending the Sacred Hoop are all well-chosen. The list is US-only — no Canadian First Nations, Native Hawaiian, Alaska Native, Métis, or Inuit organizations. Consider adding **Alaska Native Women's Resource Center (AKNWRC)** and at least one Canadian/First Nations resource (e.g., Native Women's Association of Canada). An Indigenous reader will likely note the absence.
+- **Middle Eastern / Arab / SWANA** (lines 96–102): five organizations, decent coverage of honor-based-violence specialty work. Tahirih and AHA are correctly the flagship US orgs. Karma Nirvana is correctly UK. Apna Ghar is correctly named as serving South Asian, Middle Eastern, and immigrant survivors — note that this org appears here rather than under Asian, which is an editorial choice worth confirming. Consider adding **The Institute for Muslim Mental Health** and **Naseeha Mental Health** for the mental-health (vs. DV-only) layer.
+- **Hispanic / Latino** (lines 104–109): the Spanish-language hotline is correctly listed. Casa de Esperanza and Mujeres Latinas en Acción are flagships. **National Latin@ Network for Healthy Families and Communities** and **Therapy for Latinx** would round out the mental-health side.
+- **Religious-Exit and Spiritual Abuse Recovery** (lines 111–119): mixes traditions in a single list. Tears of Eden, Give Her Wings, Faithtrust, Recovering from Religion are correctly identified. Sound Choices Coalition is correct for LDS. AAWA is correct for JW. Consider whether this section wants per-tradition sub-bullets (Evangelical / LDS / JW / Catholic / cross-tradition) the way the integration plan structures them — currently a Catholic-survivor reader will find no Catholic-specific resource in the list (SNAP is the obvious add) and an Evangelical reader will find Tears of Eden and Give Her Wings without explicit Evangelical labeling.
+- **LGBTQ+** (lines 121–125): three flagship orgs. Network/La Red, NCAVP, Trevor Project all correctly identified. Lean but accurate.
+- **Trans-Specific** (lines 127–133): Trans Lifeline with phone number, FORGE, Trans Women of Color Collective, Sylvia Rivera Law Project, Point of Pride. This is the most carefully curated list in the appendix — five organizations, each filling a distinct niche (peer crisis line, DV-specific, women-of-color centering, legal, HRT-access). Strong.
+- **Jewish** (lines 135–138): two organizations. JWI and Shalom Task Force are correctly identified. The list is short relative to the author's actual authority in this community; if the author wants the appendix to reflect her own lived knowledge, more entries here would be defensible.
+- **Male Survivors** (lines 140–143): two organizations, both flagships. Lean but accurate. Consider adding a US-based DV-for-men resource if one exists at flagship quality.
+- **Crisis Resources at top** (lines 7–23): three US-default hotlines. The website pattern Vol 1 established is to push specific numbers off-print; this appendix keeps three. Consider whether the three want to be moved to the website with only the timeless statement remaining in print, per Vol 1's pattern, or whether keeping these three in print is the deliberate Vol 2 exception.
+
+**Potential impact:** Resource appendices are read with one specific question by survivors: *did the author find the org I'm in?* Where the answer is yes, trust transfers to the rest of the book. Where the answer is no — and especially where the omission is structural (no Canadian Indigenous orgs, no SNAP for Catholic survivors, no API-GBV) — readers will note the gap silently. The list is mostly good; the gaps are predictable and addressable.
+
+**Considerations:**
+- Consider per-tradition sub-bullets in Religious-Exit, with at least one resource per tradition (Evangelical, LDS, JW, Catholic, cross-tradition).
+- Consider adding the named gaps: SNAP, API-GBV, Sakhi, AKNWRC, at least one Canadian/First Nations resource, Sista Afya, Black Women's Blueprint, Naseeha, Therapy for Latinx, National Latin@ Network.
+- Consider the diaspora vs. homeland framing for the Asian section and the regional homogenization risk.
+- Consider whether the three US-default hotlines at the top want to migrate to the website per the Vol 1 pattern.
+- Consider whether the section ordering communicates anything the author does not intend.
+- Confirm that every URL listed actually resolves; resource appendices age in part because organizations rebrand.
+
+**Priority:** MEDIUM — content is largely accurate and well-curated; the gaps are addable without controversy and the website directory (`website-appendixes-and-resources.md`) is the right place for the expanded version.
+
+---
+
+## Questions for the Author
+
+These are the questions where my recommendation would shift depending on author intent. They are offered as input, not as homework.
+
+1. **For Ch 12 ("When the Community Is the Relationship"):** Is the choice to write this section in the structural register a placeholder for the per-community community-voice work, or is the structural register the intended final form with community voice landing in *separate* later sections? My notes assume the former; if the latter, several of my "consider unpacking" notes don't apply.
+
+2. **For Ch 13's expanded guilt section:** When you wrote the JW disfellowshipping line as a superlative ("the most efficient coercive mechanism in modern Western religion"), is that your considered view or did it slip into a rhetorical register that needs softening? The architecture of the bullet supports the strong claim; the question is whether you want the print book to make that claim in your own voice or to attribute it.
+
+3. **For the "Catholic guilt" phrase (Ch 13):** Was the choice of the pop-culture phrase deliberate (because readers will recognize it instantly) or default (because it is the lexicon-of-record for that tradition's guilt architecture)? If the latter, naming the specific sacramental mechanism would do better work.
+
+4. **For the in-language terms used throughout (aguanta, chī kǔ, sabr, etc.):** Are you holding these as load-bearing words you want the per-community pass to expand, or as evocative single-word touches that you want to stay light? My read of Ch 11 and Ch 22 suggests the former; if the latter, my notes about wanting each term to "breathe" become less central.
+
+5. **For the section ordering in Appendix C:** Was the order chosen for a specific reason, or did it accrete? If specific, the reasoning is worth a one-line note in the section preamble so the reader is not left guessing.
+
+6. **For the trans-specific material across Ch 13, Ch 22, and Appendix C:** The trans-specific framings are some of the most carefully written in the book — short, accurate, non-conflated with LGB. Is the brevity deliberate (trust the reader, don't over-explain), or is it a placeholder that the per-community pass with a trans reader will expand? My notes assume deliberate; flag if not.
+
+7. **For the religious-exit material in Ch 12, Ch 13, and Ch 14:** You're writing about exit from communities you have not been part of (Evangelical, LDS, JW, Catholic depth). The structural register is doing well. When the per-tradition readers are recruited, do you want the structural register to remain authoritative and their input to ride alongside it, or do you want to be open to them rewriting the structural framings themselves where their lived authority would better-serve the chapter?
+
+8. **For "tribal" vs. "nation":** Several Indigenous-related passages use "tribal" and others (rightly) use "nation." Would you like me to flag every instance and recommend systemic replacement to "nation" (or to an Indigenous reader's preferred terminology when recruited)?
+
+---
+
+## What This Review Does Not Cover
+
+I am Sage — a single AI sensitivity reader. I read for representation, accuracy, trope-awareness, and the specific places a community-internal reader would pause. I do not replace those readers. Communities are not monolithic, and no single perspective — mine or any one human's — is authoritative for a community. My observations are starting points for the per-community human readers being recruited per `cultural-coverage-integration-plan.md`; where my notes and a community reader's notes disagree, the community reader's authority holds.
+
+I have not reviewed first-person community-voice prose in this pass because none has been drafted yet — that work is scheduled, with reader input. I have not reviewed translation or transliteration choices for the non-English terms (the Romanized spellings of Chinese, Arabic, Spanish, and Hebrew terms appear correct to me, but a native-speaker reader from each tradition should confirm). I have not reviewed the legal sensitivity of any individual claim about a tradition's internal mechanics; the legal review pass referenced in the integration plan is its own layer.
+
+This review is a supplemental pass — it catches what an author's own revision might miss, and it surfaces items for the human readers' attention. It is not a green light, and absence of a flag from me is not absence of a concern. The reader from each community holds the authority I do not.
+
+— Sage
+
+
