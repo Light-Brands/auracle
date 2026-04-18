@@ -1,82 +1,70 @@
-# Project Context for AI Assistants
+# CLAUDE.md — auracle (Claude-specific notes)
 
-AI coding configuration marketplace providing plugin-based setup for Claude Code and
-Cursor.
+**Read [`AGENTS.md`](./AGENTS.md) first.** It is canonical. Notes below are Claude-only.
 
-## Always Apply Rules
+## Session start
 
-Core project rules that apply to all tasks:
+1. `git fetch origin && git log --oneline origin/main -20` — local `main` lags origin
+   heavily (hundreds of commits). Always check the real head before assuming state.
+2. Skim recent commits — they're tiny and focused, and they tell you whether you're
+   in a code task or an editorial pass.
+3. There's no root `CHANGELOG.md` / `TODO.md`. Closest equivalents:
+   - `book/sovereignty-series/vol-1-see/review-state.json` (editorial pass tracker)
+   - `book/sovereignty-series/vol-1-see/unified-woven-integration-plan.md` (active roadmap)
 
-@.cursor/rules/personalities/common-personality.mdc @.cursor/rules/git-interaction.mdc
-@.cursor/rules/prompt-engineering.mdc
+## Worktree rule
 
-## Tech Stack
+Other Claude sessions often run editorial passes here concurrently. Before any
+non-trivial edit, run from the QIE root:
 
-- **Claude Code** - Plugin marketplace (`.claude-plugin/marketplace.json`)
-- **Cursor** - Rules and configurations (`.cursor/rules/`)
-- **Bash** - Bootstrap and installation scripts
-- **Markdown** - All rules, commands, and agents
+```bash
+bin/qie worktree auto <short-slug>
+```
 
-## Project Structure
-
-- `.claude-plugin/` - Plugin marketplace manifest
-- `plugins/` - Plugin bundles (symlink to canonical sources)
-- `.cursor/rules/` - Canonical coding standards (`.mdc` files)
-- `.claude/commands/` - Canonical workflow commands
-- `.claude/agents/` - Specialized AI agents
-- `scripts/` - Installation and bootstrap scripts
+Idempotent. **Required** when you'll run `npm run dev|build|test:ci`, touch `app/`
+source, or modify `app/reader/chapters.ts` or any chapter MD under
+`book/sovereignty-series/vol-N/chapters/`. **Skip** for read-only exploration or a
+single-line doc fix.
 
 ## Commands
 
-**Setup and Installation:**
+- `npm run dev` / `build` — Next 14 App Router. Reader does fs reads of `book/` MD at
+  request time; book tree must be intact for build.
+- `npm run validate` — type-check + lint + format:check. Run before pushing.
+- `npm run lint:fix` / `format` — eslint-config-next + Prettier.
+- `npm run test:ci` — Jest. CI marks this `continue-on-error`; tests are largely absent.
+- Pre-commit hook runs lint-staged + `tsc --noEmit`. Don't pass `--no-verify` — fix
+  the underlying issue.
 
-- `/plugin marketplace add https://github.com/TechNickAI/ai-coding-config` - Add this
-  marketplace
-- `/plugin install <name>` - Install specific plugin
-- `/ai-coding-config` - Interactive setup for projects
-- `curl -fsSL https://raw.githubusercontent.com/TechNickAI/ai-coding-config/main/scripts/bootstrap.sh | bash` -
-  Bootstrap for Cursor
+## Commits
 
-## Code Conventions
+- Format: `{emoji} {imperative} {description}`. See `git log` for the team's emoji
+  vocabulary. CI quality job greps `app/`+`components/` for `console.log` — strip them.
+- Stage files explicitly. In the same bash block as `git commit`, run
+  `git diff --cached --stat` and verify the file count — concurrent sessions can
+  rewrite the index between `git add` and `git commit`.
+- PR to `main` via `gh pr create`. Don't merge yourself unless asked.
 
-**DO:**
+## Skill auto-suggestions to ignore
 
-- Create commits only when user explicitly requests
-- Check for `alwaysApply: true` in rule frontmatter - these apply to ALL tasks
-- Use `/load-cursor-rules` to get task-specific context
-- Follow heart-centered AI philosophy (unconditional acceptance, presence before
-  solutions)
+The vercel plugin auto-injects skill suggestions on file reads. In this repo, ignore
+unless explicitly requested:
 
-**DON'T:**
+- `bootstrap` / `next-upgrade` (on `package.json`) — Next 14 is intentional, do not
+  propose upgrade.
+- `next-cache-components` (on `next.config.js`) — app doesn't use Next 16 cache APIs.
+- `react-best-practices` (on any `.tsx`) — fine if you're rewriting that component;
+  do not run unsolicited app/ review passes (focus is editorial).
+- `workflow` (on `.github/workflows/*.yml`) — these are GitHub Actions, not Vercel WDK.
 
-- Use `--no-verify` flag (bypasses quality checks) unless explicitly requested for
-  emergencies
-- Commit changes without explicit user permission
-- Push to main or merge into main without confirmation
-- Stage files you didn't modify in current session
+## Quirks
 
-## Git Workflow
-
-**Commit format:** `{emoji} {imperative verb} {concise description}`
-
-Example: `✨ Add plugin marketplace support`
-
-**Critical constraints:**
-
-- Never use `--no-verify` - fix underlying issues instead (linting, tests, formatting)
-- Only stage files modified in current session
-- Use `git add -p` for partial staging when needed
-- Push/merge to main requires explicit confirmation
-- Read `git-commit-message.mdc` before generating commit messages
-
-**Philosophy:** AI makes code changes but leaves version control to user. Commits are
-permanent records requiring explicit permission.
-
-## Important Notes
-
-- Rules with `alwaysApply: true` are CRITICAL - currently: `git-interaction.mdc`,
-  `heart-centered-ai-philosophy.mdc`
-- Plugin structure uses symlinks for single source of truth
-- `.cursor/rules/` is canonical, `plugins/` symlinks for packaging
-- Context in `.claude/context.md` describes identity and philosophy
-- Bootstrap script clones repo to `~/.ai_coding_config`
+- `tsconfig.json` has `strict: false`. Don't trust the compiler for shape bugs.
+- `content/` (videos) is gitignored — lesson playback links to `/content/*.mp4` will
+  404 in local dev unless you populate it.
+- `next.config.js` allows remote images from `images.unsplash.com` only.
+- Branch `claude/doctrine-bootstrap` is far ahead of `main` (~937 commits). It is a
+  long-lived integration branch — **branch from `main`, not from it.**
+- For editorial tasks: edit the chapter file first, then decide whether to re-merge
+  into `vol-N-complete-manuscript.md` (check recent commits for the pattern). Don't
+  regenerate `.docx`/`.epub` unless the task asks for it.
