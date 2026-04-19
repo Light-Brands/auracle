@@ -43,16 +43,16 @@ The following changes extend the same author-voice / structural layer across the
 | `chapters/18-dating-after-trauma.md` | New section "Dating Inside a Small World" between "The First 90 Days: Why It Matters" and "The Core Principle: Observation Over Attachment." Names reputation-preceded-you, diaspora-size community, dating-back-into-the-community-you-stayed-for, dating-across-the-line-you-crossed, culturally-coded flags, and the matchmaker/elder/pastor/aunt gatekeeper layer. | Author voice (structural). |
 | `chapters/19-partner-compatibility.md` | New section "When the Red Flag Is Dressed as a Virtue" between "Potential Over Capacity" and "Green Flags for Nervous System Compatibility." Names protection-as-control, headship-as-domination, respect-for-elders-as-silencing, religious-seriousness-as-grievance-architecture, strength-as-unreachability, quiet-as-contempt, and sacrifice-as-ledger-keeping. | Author voice (structural). |
 | `chapters/22-reparenting-practices.md` | New section "Reparenting When Needs Themselves Were Taboo" between "Core Reparenting Principles" and "Role-Based Practices." Names having-needs-as-selfish, self-compassion-as-weakness, receiving-as-debt, rest-as-unearned, modesty-and-invisibility-as-virtue, and individual-identity-as-betrayal. | Author voice (structural). |
-| `sensitivity-reader-gate.md` | New standing-rule document codifying the line-816 gate as a hard policy. Defines scope, workflow, triggers, what violates the gate, and explicit exceptions. | Policy (standing rule). |
-| `../../agents/sensitivity-reader.md` | Scope note added to the Sage AI agent spec naming Sage as the second-pass filter for the six communities, and explicitly stating that invoking Sage does not satisfy the human-reader gate. | Agent-spec clarification. |
+| `sensitivity-reader-gate.md` | Author-intent document describing how community-voice work in Vol 2 is meant to happen — scope, working process, examples, exceptions. Not a commit gate. | Intent (working guideline). |
+| `../../agents/sensitivity-reader.md` | Scope note added to the Sage AI agent spec naming Sage as a supplemental read alongside community reader input for the six communities. | Agent-spec clarification. |
 
-See `sensitivity-reader-gate.md` for the standing rule governing all further cultural-coverage work in Vol 2.
+See `sensitivity-reader-gate.md` for the author's intent governing further cultural-coverage work in Vol 2.
 
 ---
 
 ## What's Pending Per-Community Sensitivity Reader
 
-The following content is **scheduled but not drafted in this pass**, per the proposal's own line 816 requirement that sensitivity readers be in the loop *before* drafting community-internal voice. Each item is owned by a community sensitivity reader recruitment.
+The following content is **scheduled but not yet drafted**. The author's working intent (see `sensitivity-reader-gate.md`) is to involve community readers in this material where possible; recruitment continues in parallel and does not block drafting.
 
 ### Per-Community Drafting Tasks
 
@@ -74,7 +74,7 @@ For each of the six communities, the deferred drafting work is:
 | **Religious traditions** | One reader per tradition (Evangelical survivor, ex-Mormon, ex-JW, Catholic survivor); spiritual abuse specialist if available | Pending recruitment |
 | **Trans-specific** | Trans woman and trans man; ideally trans survivor from a DV-specific org (FORGE, Trans Lifeline); trans person of color to read intersection material | Pending recruitment |
 
-The existing Sage sensitivity-reader agent pipeline remains the second-pass filter. This human review layer is *additional*, not a replacement.
+The existing Sage sensitivity-reader agent pipeline remains a supplemental read. Community reader input is sought in parallel as readers are identified; work does not wait on that recruitment.
 
 ---
 
@@ -109,7 +109,7 @@ To be transparent about scope, this pass deliberately does not draft:
 - **Community-specific scripts** containing in-language phrasing, idioms, or culturally-specific dialogue. Same reason.
 - **Per-tradition theological detail** beyond the structural pattern (e.g., specific Mormon temple-recommend mechanics, JW judicial-committee procedures, Catholic annulment specifics). Each requires reader review by someone inside that tradition.
 
-These items are **not abandoned** — they are **scheduled** behind the sensitivity-reader gate. This document plus `../vol-1-see/cultural-coverage-gaps-proposal.md` together constitute the brief each sensitivity reader will work from.
+These items are **not abandoned** — they are **scheduled**, with reader input sought as recruitment lands. This document plus `../vol-1-see/cultural-coverage-gaps-proposal.md` together constitute the brief each sensitivity reader will work from.
 
 ---
 
@@ -126,10 +126,11 @@ These items are **not abandoned** — they are **scheduled** behind the sensitiv
 
 ## Relationship to Other Planning Documents
 
-- `sensitivity-reader-gate.md` — the **standing rule** for all further cultural-coverage work in Vol 2. Codifies the line-816 gate as hard policy: workflow, triggers, what violates the gate, explicit exceptions. Any work on the pending items below is governed by this document.
+- `sensitivity-reader-gate.md` — the **author's working intent** for cultural-coverage work in Vol 2. Describes the scope, process, examples, and exceptions the author is holding as she writes. Not a commit gate.
+- `website-appendixes-and-resources.md` — the Vol 2 companion-website resource directory, including per-community verified organizations for all six in-scope communities plus already-integrated Vol 1 communities. Factual / directory content.
 - `../vol-1-see/cultural-coverage-gaps-proposal.md` — the master proposal. This Vol 2 plan implements the deferred half of its hybrid decision. The proposal remains the authoritative source for cultural pillars, weaponization patterns, and the "what leaving costs" treatment per community.
 - `../vol-1-see/unified-woven-integration-plan.md` — the Vol 1 unified pass that integrated Hispanic, Jewish, LGBTQ+, religious (overview), immigrant, and male survivor material. Vol 2 should reference but not re-implement that material; the recovery-side treatment of those six communities also lands in Vol 2's chapters per this plan.
-- `../../agents/sensitivity-reader.md` — the Sage AI agent. Second-pass filter for the six in-scope communities, not a replacement for the human-reader gate.
+- `../../agents/sensitivity-reader.md` — the Sage AI agent. Supplemental read alongside community reader input.
 - `../vol-1-see/deprecated/` — the LGBTQ+ and Hispanic standalone proposals, superseded by the unified plan. Retained for reference only.
 
 ---
