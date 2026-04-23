@@ -1,224 +1,116 @@
 {
   "volume": "vol-1-decoder",
   "volumeTitle": "The Narcissism Decoder",
-  "reviewRound": 5,
-  "roundStatus": "complete",
-  "currentPhase": "complete",
-  "startedAt": "2026-01-06T00:00:00Z",
-  "decisionsCompletedAt": "2026-01-07T00:00:00Z",
-  "completedAt": "2026-04-23T00:00:00Z",
+  "reviewRound": 6,
+  "roundStatus": "scaffolded",
+  "currentPhase": "phase-1-developmental",
+  "startedAt": "2026-04-23T00:00:00Z",
+  "decisionsCompletedAt": null,
+  "completedAt": null,
   "repository": "light-brands/auracle",
   "manuscriptPath": "book/sovereignty-series/vol-1-see",
-  "reviewBasePath": "book/sovereignty-series/vol-1-see/review-05",
-  "roundFocus": "Post-publication refinement and second edition considerations",
-  "totalQuestions": 160,
-  "questionsAnswered": 160,
+  "reviewBasePath": "book/sovereignty-series/vol-1-see/review-06",
+  "roundFocus": "Full-manuscript editorial pass (developmental + line + coherence) after Round 5 integration",
+  "totalQuestions": null,
+  "questionsAnswered": 0,
   "phases": {
     "1": {
-      "name": "Strategic Decisions",
-      "description": "Big-picture structure, format optimization, future edition planning",
-      "status": "completed",
-      "startedAt": "2026-01-06T00:00:00Z",
-      "completedAt": "2026-01-06T12:00:00Z",
+      "name": "Developmental Pass",
+      "description": "Full-manuscript structural and arc review",
+      "status": "scaffolded",
+      "startedAt": null,
+      "completedAt": null,
       "reviewers": {
         "diana": {
           "agentFile": "book/agents/developmental-editor.md",
           "displayName": "Diana (Developmental Editor)",
-          "focus": "Structure, format, expansion opportunities",
-          "questionCount": 15,
-          "status": "author_responded",
+          "focus": "Structure, arc, pacing, reader journey across the full manuscript",
+          "questionCount": null,
+          "status": "scaffolded",
           "issueNumber": null,
           "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-1-strategic/diana-developmental-editor-issue.md",
+          "reviewGenerated": false,
+          "reviewFile": "review-06/phase-1-strategic/diana-developmental-editor-issue.md",
           "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-1-strategic/author-decisions.md",
-          "implementationComplete": true,
-          "additionalFiles": [
-            "review-05/phase-1-strategic/decoder-cards-analysis.md",
-            "review-05/phase-1-strategic/male-example-implementation.md"
-          ]
-        },
-        "morgan": {
-          "agentFile": "book/agents/managing-editor.md",
-          "displayName": "Morgan (Managing Editor)",
-          "focus": "Workflow optimization, format priorities",
-          "questionCount": 12,
-          "status": "author_responded",
-          "issueNumber": null,
-          "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-1-strategic/morgan-managing-editor-issue.md",
-          "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-1-strategic/author-decisions.md",
-          "implementationComplete": true,
-          "additionalFiles": [
-            "review-05/phase-1-strategic/course-materials-sync-report.md"
-          ]
+          "authorResponded": false,
+          "authorDecisionsFile": "review-06/phase-1-strategic/author-decisions-diana.md",
+          "implementationComplete": false
         }
       }
     },
     "2": {
-      "name": "Content & Experience",
-      "description": "Reader engagement, accessibility, format optimization",
-      "status": "completed",
-      "startedAt": "2026-01-06T12:00:00Z",
-      "completedAt": "2026-01-07T00:00:00Z",
-      "reviewers": {
-        "bailey": {
-          "agentFile": "book/agents/beta-reader.md",
-          "displayName": "Bailey (Beta Reader)",
-          "focus": "Reader engagement, format effectiveness",
-          "questionCount": 25,
-          "status": "author_responded",
-          "issueNumber": null,
-          "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-2-content/bailey-beta-reader-issue.md",
-          "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-2-content/author-decisions-phase-2.md",
-          "implementationComplete": true
-        },
-        "sage": {
-          "agentFile": "book/agents/sensitivity-reader.md",
-          "displayName": "Sage (Sensitivity Reader)",
-          "focus": "Accessibility, inclusive language updates",
-          "questionCount": 22,
-          "status": "author_responded",
-          "issueNumber": null,
-          "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-2-content/sage-sensitivity-reader-issue.md",
-          "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-2-content/author-decisions-sage-sensitivity.md",
-          "implementationComplete": true
-        },
-        "felix": {
-          "agentFile": "book/agents/fact-checker.md",
-          "displayName": "Felix (Fact-Checker)",
-          "focus": "Updated research, new citations",
-          "questionCount": 15,
-          "status": "author_responded",
-          "issueNumber": null,
-          "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-2-content/felix-fact-checker-issue.md",
-          "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-2-content/author-decisions-felix-factcheck.md",
-          "implementationComplete": true
-        }
-      }
-    },
-    "3": {
-      "name": "Polish",
-      "description": "Prose refinement, style updates",
-      "status": "completed",
-      "startedAt": "2026-01-06T14:00:00Z",
-      "completedAt": "2026-01-06T18:00:00Z",
+      "name": "Line Pass",
+      "description": "Sentence-level craft across the full manuscript",
+      "status": "pending",
+      "startedAt": null,
+      "completedAt": null,
       "reviewers": {
         "lydia": {
           "agentFile": "book/agents/line-editor.md",
           "displayName": "Lydia (Line Editor)",
-          "focus": "Prose craft for any new content",
-          "questionCount": 18,
-          "status": "author_responded",
+          "focus": "Voice, rhythm, sentence craft, emotional calibration",
+          "questionCount": null,
+          "status": "pending",
           "issueNumber": null,
           "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-3-polish/lydia-line-editor-issue.md",
+          "reviewGenerated": false,
+          "reviewFile": "review-06/phase-2-polish/lydia-line-editor-issue.md",
           "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-3-polish/author-decisions-phase-3.md",
-          "implementationComplete": true
-        },
-        "clara": {
-          "agentFile": "book/agents/copy-editor.md",
-          "displayName": "Clara (Copy Editor)",
-          "focus": "Style consistency for updates",
-          "questionCount": 15,
-          "status": "author_responded",
-          "issueNumber": null,
-          "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-3-polish/clara-copy-editor-issue.md",
-          "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-3-polish/author-decisions-phase-3.md",
-          "implementationComplete": true
+          "authorResponded": false,
+          "authorDecisionsFile": "review-06/phase-2-polish/author-decisions-lydia.md",
+          "implementationComplete": false
         }
       }
     },
-    "4": {
-      "name": "Final Pass",
-      "description": "Final review before second edition release",
-      "status": "completed",
-      "startedAt": "2026-01-07T00:00:00Z",
-      "completedAt": "2026-01-07T12:00:00Z",
+    "3": {
+      "name": "Final Coherence Check",
+      "description": "Cross-manuscript consistency audit",
+      "status": "pending",
+      "startedAt": null,
+      "completedAt": null,
       "reviewers": {
-        "petra": {
-          "agentFile": "book/agents/proofreader.md",
-          "displayName": "Petra (Proofreader)",
-          "focus": "Final proofread of any changes",
-          "questionCount": 20,
-          "status": "author_responded",
-          "issueNumber": null,
-          "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-4-final/petra-proofreader-issue.md",
-          "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-4-final/author-decisions-phase-4.md",
-          "implementationComplete": true,
-          "safetyResourcesVerified": "2026-01-07"
-        },
         "coherence": {
           "agentFile": null,
           "displayName": "Coherence Analysis",
-          "focus": "Verify coherence maintained with changes",
-          "questionCount": 18,
-          "status": "author_responded",
+          "focus": "Terminology, cross-references, bibliography, numerical consistency",
+          "questionCount": null,
+          "status": "pending",
           "issueNumber": null,
           "issueUrl": null,
-          "reviewGenerated": true,
-          "reviewFile": "review-05/phase-4-final/coherence-analysis-issue.md",
+          "reviewGenerated": false,
+          "reviewFile": "review-06/phase-3-final/coherence-analysis-issue.md",
           "issuePosted": false,
-          "authorResponded": true,
-          "authorDecisionsFile": "review-05/phase-4-final/author-decisions-phase-4.md",
-          "implementationComplete": true
+          "authorResponded": false,
+          "authorDecisionsFile": "review-06/phase-3-final/author-decisions-coherence.md",
+          "implementationComplete": false
         }
       }
     }
   },
   "implementationStatus": {
-    "status": "integration_complete",
-    "masterChecklistCreated": true,
-    "cardAuditComplete": true,
-    "cardBreakdown": "28 Core + 24 Advanced = 52 base, expanding to 55-60 with contextual cards",
-    "patternCountStandardized": "60 patterns (54 core + 4 digital + 4 substance, marketed as 60)",
-    "safetyResourcesVerified": true,
-    "safetyVerificationDate": "2026-01-07"
+    "status": "scaffolded",
+    "masterChecklistCreated": false,
+    "cardAuditComplete": false,
+    "cardBreakdown": null,
+    "patternCountStandardized": null,
+    "safetyResourcesVerified": false,
+    "safetyVerificationDate": null
   },
   "previousRoundSummary": {
-    "round": 4,
+    "round": 5,
     "status": "COMPLETED",
-    "outcome": "PUBLICATION READY",
-    "coherenceScore": "5/5",
-    "errorsFound": 0,
-    "completedAt": "2026-01-06T00:00:00Z"
+    "outcome": "INTEGRATION COMPLETE",
+    "totalQuestions": 160,
+    "questionsAnswered": 160,
+    "completedAt": "2026-04-23T00:00:00Z"
   },
   "labels": {
-    "round": "review-round-5",
+    "round": "review-round-6",
     "phases": {
-      "1": "phase-1-strategic",
-      "2": "phase-2-content",
-      "3": "phase-3-polish",
-      "4": "phase-4-final"
+      "1": "phase-1-developmental",
+      "2": "phase-2-line",
+      "3": "phase-3-coherence"
     },
-    "common": ["author-input-required", "post-publication"]
+    "common": ["author-input-required"]
   }
 }
