@@ -79,9 +79,9 @@ Each layer does a different job:
 
 | Context | Name Used |
 |---------|-----------|
-| Book cover / spine | Jennifer Brooke Lawless, M.S. |
-| Book title page | Jennifer Brooke Lawless, M.S. |
-| Book back-matter bio | Jennifer Brooke Lawless, M.S. + bridge to Jae |
+| Book cover / spine | Jennifer Brooke Lawless *(no post-nominals)* |
+| Book title page | Jennifer Brooke Lawless *(no post-nominals)* |
+| Book back-cover bio / back-matter bio | Jennifer Brooke Lawless, M.S. + bridge to Jae |
 | Website About page | Jennifer Brooke (Saltzman) Lawless |
 | Medium/long public bios | Jennifer Brooke (Saltzman) Lawless |
 | Short bios (space-constrained) | Jennifer Brooke Lawless, M.S. |
