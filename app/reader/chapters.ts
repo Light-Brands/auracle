@@ -2,7 +2,7 @@ export interface Chapter {
   slug: string;
   title: string;
   filename: string;
-  type: 'front-matter' | 'chapter' | 'appendix' | 'back-matter';
+  type: 'front-matter' | 'chapter' | 'appendix' | 'back-matter' | 'lesson';
 }
 
 export interface Volume {
@@ -12,6 +12,18 @@ export interface Volume {
   description: string;
   chapters: Chapter[];
 }
+
+// URL volume ids are stable; the on-disk directories live under sovereignty-series/.
+export const VOLUME_DISK_DIRS: Record<string, string> = {
+  'vol-1-decoder': 'sovereignty-series/vol-1-see',
+  'vol-2-bridge': 'sovereignty-series/vol-2-heal',
+  'vol-3-sovereignty': 'sovereignty-series/vol-3-stand',
+  'vol-4-embodied-leadership': 'sovereignty-series/vol-4-live',
+  'vol-5-lineage': 'sovereignty-series/vol-5-give',
+  'vol-6-guide': 'sovereignty-series/vol-6-serve',
+  'vol-7-return': 'sovereignty-series/vol-7-thrive',
+  'vol-8-quantum': 'sovereignty-series/vol-8-become',
+};
 
 export const volumes: Volume[] = [
   {
@@ -40,9 +52,9 @@ export const volumes: Volume[] = [
         type: 'chapter',
       },
       {
-        slug: 'narcissist-playbook',
-        title: 'The Narcissist Playbook',
-        filename: '03-narcissist-playbook.md',
+        slug: 'decoder-playbook',
+        title: 'The Decoder Playbook',
+        filename: '03-decoder-playbook.md',
         type: 'chapter',
       },
       {
@@ -76,15 +88,15 @@ export const volumes: Volume[] = [
         type: 'chapter',
       },
       {
-        slug: 'family-breaking-free',
-        title: 'Breaking Free from Family Systems',
-        filename: '09-family-breaking-free.md',
+        slug: 'childhood-patterns',
+        title: 'Understanding Your Childhood Patterns',
+        filename: '09-childhood-patterns.md',
         type: 'chapter',
       },
       {
-        slug: 'childhood-patterns',
-        title: 'Understanding Your Childhood Patterns',
-        filename: '10-childhood-patterns.md',
+        slug: 'family-breaking-free',
+        title: 'Breaking Free from Family Systems',
+        filename: '10-family-breaking-free.md',
         type: 'chapter',
       },
       {
@@ -106,40 +118,76 @@ export const volumes: Volume[] = [
         type: 'chapter',
       },
       {
-        slug: 'decoder-cards-essential',
-        title: 'Decoder Cards — Essential Patterns',
-        filename: '14-decoder-cards-essential.md',
-        type: 'chapter',
-      },
-      {
-        slug: 'decoder-cards-specialized',
-        title: 'Decoder Cards — Specialized Patterns',
-        filename: '15-decoder-cards-specialized.md',
-        type: 'chapter',
-      },
-      {
-        slug: 'decoder-cards-protocol',
+        slug: 'decoder-protocol',
         title: 'Decoder Cards — Emergency Protocol',
-        filename: '16-decoder-cards-protocol.md',
+        filename: '14-decoder-protocol.md',
         type: 'chapter',
       },
       {
         slug: 'energetic-remapping',
         title: 'Energetic Remapping — Recovery Tools',
-        filename: '17-energetic-remapping.md',
+        filename: '15-energetic-remapping.md',
         type: 'chapter',
       },
       {
         slug: 'practical-responses',
         title: 'Practical Responses & Scripts',
-        filename: '18-practical-responses.md',
+        filename: '16-practical-responses.md',
         type: 'chapter',
       },
       {
         slug: 'moving-forward',
         title: 'Moving Forward',
-        filename: '19-moving-forward.md',
+        filename: '17-moving-forward.md',
         type: 'chapter',
+      },
+      {
+        slug: 'lesson-1-5-bridge',
+        title: 'Lesson 1.5 — The Bridge',
+        filename: '1-5-bridge.md',
+        type: 'lesson',
+      },
+      {
+        slug: 'lesson-3-1a-biology-attachment',
+        title: 'Lesson 3.1a — The Biology of Attachment',
+        filename: '3-1a-biology-attachment.md',
+        type: 'lesson',
+      },
+      {
+        slug: 'lesson-3-1b-trauma-bond-cycle',
+        title: 'Lesson 3.1b — The Trauma-Bond Cycle',
+        filename: '3-1b-trauma-bond-cycle.md',
+        type: 'lesson',
+      },
+      {
+        slug: 'lesson-5-5-course-completion',
+        title: 'Lesson 5.5 — Course Completion',
+        filename: '5-5-course-completion.md',
+        type: 'lesson',
+      },
+      {
+        slug: 'lesson-6-1-advanced-intro',
+        title: 'Lesson 6.1 — Advanced Module Introduction',
+        filename: '6-1-advanced-intro.md',
+        type: 'lesson',
+      },
+      {
+        slug: 'lesson-6-2-pattern-combinations',
+        title: 'Lesson 6.2 — Pattern Combinations',
+        filename: '6-2-pattern-combinations.md',
+        type: 'lesson',
+      },
+      {
+        slug: 'lesson-6-3-digital-manipulation',
+        title: 'Lesson 6.3 — Digital-Age Manipulation',
+        filename: '6-3-digital-manipulation.md',
+        type: 'lesson',
+      },
+      {
+        slug: 'lesson-6-4-mastery',
+        title: 'Lesson 6.4 — Mastery & Beyond',
+        filename: '6-4-mastery.md',
+        type: 'lesson',
       },
       {
         slug: 'appendix-resources',
@@ -175,6 +223,12 @@ export const volumes: Volume[] = [
         slug: 'appendix-substance-patterns',
         title: 'Appendix F: Substance-Related Patterns',
         filename: 'appendix-f-substance-patterns.md',
+        type: 'appendix',
+      },
+      {
+        slug: 'appendix-pop-culture',
+        title: 'Appendix G: Pop-Culture References',
+        filename: 'appendix-g-pop-culture-references.md',
         type: 'appendix',
       },
       {
@@ -1395,11 +1449,16 @@ export function getPrevVolume(volumeId: string): Volume | null {
 }
 
 export function getChapterPath(volumeId: string, chapter: Chapter): string {
+  const volumeDir = VOLUME_DISK_DIRS[volumeId] ?? volumeId;
+  let relative: string;
   if (chapter.type === 'front-matter' || chapter.type === 'back-matter') {
-    return chapter.filename;
+    relative = chapter.filename;
+  } else if (chapter.type === 'appendix') {
+    relative = `appendices/${chapter.filename}`;
+  } else if (chapter.type === 'lesson') {
+    relative = `course/lessons/${chapter.filename}`;
+  } else {
+    relative = `chapters/${chapter.filename}`;
   }
-  if (chapter.type === 'appendix') {
-    return `appendices/${chapter.filename}`;
-  }
-  return `chapters/${chapter.filename}`;
+  return `${volumeDir}/${relative}`;
 }

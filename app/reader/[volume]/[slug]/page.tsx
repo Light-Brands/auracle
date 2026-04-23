@@ -1,7 +1,13 @@
 import { notFound } from 'next/navigation';
 import { promises as fs } from 'fs';
 import path from 'path';
-import { volumes, getVolumeById, getChapterBySlug, getAdjacentChapters, getChapterPath } from '../../chapters';
+import {
+  volumes,
+  getVolumeById,
+  getChapterBySlug,
+  getAdjacentChapters,
+  getChapterPath,
+} from '../../chapters';
 import ChapterSidebar from '../../components/ChapterSidebar';
 import ChapterContent from '../../components/ChapterContent';
 
@@ -39,9 +45,12 @@ export async function generateMetadata({ params }: ChapterPageProps) {
   };
 }
 
-async function getChapterContent(volumeId: string, chapter: { filename: string; type: string }): Promise<string> {
+async function getChapterContent(
+  volumeId: string,
+  chapter: { filename: string; type: string }
+): Promise<string> {
   const chapterPath = getChapterPath(volumeId, chapter as any);
-  const filePath = path.join(process.cwd(), 'book', volumeId, chapterPath);
+  const filePath = path.join(process.cwd(), 'book', chapterPath);
 
   try {
     const content = await fs.readFile(filePath, 'utf-8');
@@ -86,4 +95,3 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
     </div>
   );
 }
-
