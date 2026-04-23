@@ -2,14 +2,14 @@
   "volume": "vol-1-decoder",
   "volumeTitle": "The Narcissism Decoder",
   "reviewRound": 5,
-  "roundStatus": "decisions_complete",
-  "currentPhase": "implementation",
+  "roundStatus": "complete",
+  "currentPhase": "complete",
   "startedAt": "2026-01-06T00:00:00Z",
   "decisionsCompletedAt": "2026-01-07T00:00:00Z",
-  "completedAt": null,
-  "repository": "danlawless/auracle",
-  "manuscriptPath": "book/vol-1-decoder/course",
-  "reviewBasePath": "book/vol-1-decoder/review-05",
+  "completedAt": "2026-04-23T00:00:00Z",
+  "repository": "light-brands/auracle",
+  "manuscriptPath": "book/sovereignty-series/vol-1-see",
+  "reviewBasePath": "book/sovereignty-series/vol-1-see/review-05",
   "roundFocus": "Post-publication refinement and second edition considerations",
   "totalQuestions": 160,
   "questionsAnswered": 160,
@@ -34,7 +34,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-1-strategic/author-decisions.md",
-          "implementationComplete": false,
+          "implementationComplete": true,
           "additionalFiles": [
             "review-05/phase-1-strategic/decoder-cards-analysis.md",
             "review-05/phase-1-strategic/male-example-implementation.md"
@@ -53,7 +53,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-1-strategic/author-decisions.md",
-          "implementationComplete": false,
+          "implementationComplete": true,
           "additionalFiles": [
             "review-05/phase-1-strategic/course-materials-sync-report.md"
           ]
@@ -80,7 +80,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-2-content/author-decisions-phase-2.md",
-          "implementationComplete": false
+          "implementationComplete": true
         },
         "sage": {
           "agentFile": "book/agents/sensitivity-reader.md",
@@ -95,7 +95,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-2-content/author-decisions-sage-sensitivity.md",
-          "implementationComplete": false
+          "implementationComplete": true
         },
         "felix": {
           "agentFile": "book/agents/fact-checker.md",
@@ -110,7 +110,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-2-content/author-decisions-felix-factcheck.md",
-          "implementationComplete": false
+          "implementationComplete": true
         }
       }
     },
@@ -134,7 +134,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-3-polish/author-decisions-phase-3.md",
-          "implementationComplete": false
+          "implementationComplete": true
         },
         "clara": {
           "agentFile": "book/agents/copy-editor.md",
@@ -149,7 +149,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-3-polish/author-decisions-phase-3.md",
-          "implementationComplete": false
+          "implementationComplete": true
         }
       }
     },
@@ -173,7 +173,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-4-final/author-decisions-phase-4.md",
-          "implementationComplete": false,
+          "implementationComplete": true,
           "safetyResourcesVerified": "2026-01-07"
         },
         "coherence": {
@@ -189,7 +189,7 @@
           "issuePosted": false,
           "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-4-final/author-decisions-phase-4.md",
-          "implementationComplete": false
+          "implementationComplete": true
         }
       }
     }
