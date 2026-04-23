@@ -22,11 +22,14 @@ The beginning feels magical. You've never been seen like this. Never pursued lik
 
 **What it feels like in your body:**
 
-A rush. Electricity. Your heart races when you see their name on your phone. You can't stop thinking about them. You feel high because you are. The neurochemistry of love-bombing is similar to addiction. Dopamine floods your system.
+A rush. Electricity. Your heart races when you see their name on your phone. You can't stop thinking about them. You feel high because you are. The neurochemistry of love-bombing is similar to addiction. Dopamine floods your system.[^strutzenberg]
+
+[^strutzenberg]: "Love-bombing" is not a clinical diagnosis, but the pattern has been studied empirically. Strutzenberg et al. (2017), "Love-Bombing: A Narcissistic Approach to Relationship Formation," found a strong correlation between narcissistic traits and love-bombing behaviors in early-stage romantic pursuit.
 
 This intensity feels like proof of connection. It's actually proof of speed.
 
 **Warning signs hidden in the magic:**
+
 - Speed: commitment talk very early
 - Intensity disproportionate to time spent together
 - Future-faking: "We're going to be together forever"
@@ -45,6 +48,7 @@ Confusion that lives in your chest. Anxiety that never quite resolves. You're wa
 You start managing yourself to manage them. Your needs shrink. Your voice gets smaller. You're trying so hard, but nothing works.
 
 **What you might experience:**
+
 - Walking on eggshells
 - Never quite measuring up
 - Competing for their attention
@@ -63,6 +67,7 @@ If they discard, devastation that feels disproportionate. You may have wanted to
 If they cycle, exhaustion mixed with hope. Each return brings relief that feels like love. You're addicted to the repair. You mistake the highs that follow lows for intimacy.
 
 **After discard:**
+
 - They may seem unbothered while you're devastated
 - They may have a new partner immediately (supply replacement)
 - They may return (hoovering) when you start to recover
@@ -74,6 +79,7 @@ You may wonder why you can't just leave. Why you keep going back. Why you miss s
 This isn't weakness. It's neurochemistry.
 
 Trauma bonds form through:
+
 - **Intermittent reinforcement.** Unpredictable kindness is more bonding than consistent kindness. Your brain keeps seeking the reward.
 - **Hormonal hijack.** The stress-relief cycle creates oxytocin surges during reconciliation. Your body associates them with safety, exactly backwards.
 - **Identity erosion.** The longer you stay, the less you remember who you were before. Leaving feels like losing yourself.
@@ -88,30 +94,35 @@ Sexual dynamics in narcissistic relationships are rarely just about sex. They're
 **How sexuality becomes a control mechanism:**
 
 **Withholding as punishment:**
+
 - Sex withdrawn after conflict (you "don't deserve" closeness)
 - Affection becomes a reward for compliance
 - Physical intimacy used as leverage
 - You feel you have to earn what should be freely given
 
 **Flooding as control:**
+
 - Intense sexuality after arguments to "reset" without repair
 - Love-bombing through physical connection
 - Creating dependence on their sexual attention
 - Sex substitutes for actual resolution
 
 **Criticism disguised as preference:**
+
 - Comments about your body framed as "helpful"
 - Comparison to others (exes, porn, ideals)
 - "You'd be more attractive if..."
 - Controlling how you dress, groom, present yourself
 
 **Boundary violations normalized:**
+
 - Pressure presented as passion
 - "I can't help myself around you" (making their behavior your responsibility)
 - Pushing past discomfort and reframing it as desire
 - Your "no" treated as negotiable
 
 **Arousal + Threat:**
+
 - Physical intimidation that becomes sexual
 - Making up after scary moments feels intensely bonding
 - You can't tell if the arousal is attraction or fear
@@ -126,6 +137,7 @@ You may feel disconnected from your sexuality. Hypervigilant during intimacy. Un
 **The confusion this creates:**
 
 Many people struggle to name what happened because:
+
 - The sex felt good (bodies respond to stimulation regardless of consent)
 - They didn't say no clearly enough (they froze, fawned, or were confused)
 - The pleasure felt real (and it was, neurochemically)
@@ -137,6 +149,7 @@ Sexuality in a narcissistic relationship is rarely clean. It carries the same pa
 ### Red Flags to Trust
 
 **In the beginning:**
+
 - "I've never felt this way before" (in week one)
 - Ex-partners were "all crazy"
 - Checking your phone, whereabouts, friendships
@@ -146,6 +159,7 @@ Sexuality in a narcissistic relationship is rarely clean. It carries the same pa
 - Mirroring your interests perfectly
 
 **As it progresses:**
+
 - Criticism disguised as "helping you improve"
 - Rage or coldness that appears without warning
 - Sexual coercion presented as passion
@@ -160,21 +174,25 @@ Sexuality in a narcissistic relationship is rarely clean. It carries the same pa
 Use these questions to assess early:
 
 **About their past:**
+
 - How do they describe exes? (All villains = red flag)
 - What do they say about their family? (No accountability ever = red flag)
 - How long have friendships lasted? (No long-term friends = red flag)
 
 **About you:**
+
 - Are they curious about you, or performing for you?
 - Do they ask questions, or just wait to talk about themselves?
 - Do you feel seen, or studied?
 
 **About the pace:**
+
 - Are they pushing for commitment before you know them?
 - Does "I feel so connected" come before enough time has passed?
 - Are you flattered or slightly overwhelmed?
 
 **About your body:**
+
 - Does your nervous system feel calm or activated?
 - Do you feel like you can be yourself, or are you performing?
 - Is there any sense of pressure you can't quite name?
@@ -193,7 +211,7 @@ The distinction between love-bombing and genuine intensity is harder to see when
 >
 > The love-bombing was indistinguishable from the relief of finally being loved. How do you separate "this person is mirroring me" from "this person is the first one who ever reflected me back"? I couldn't. For two years, I couldn't.
 >
-> When the devaluation started, I had nowhere to go. My family had made it clear. My queer friends were *her* friends first. The community was small enough that everyone would know.
+> When the devaluation started, I had nowhere to go. My family had made it clear. My queer friends were _her_ friends first. The community was small enough that everyone would know.
 >
 > Leaving her didn't mean leaving a relationship. It meant leaving the only world that had ever accepted me. So I stayed. And stayed. And called it love.
 
@@ -245,6 +263,7 @@ This is the takeover. Not the dramatic kind. The kind where every boundary gets 
 In healthy romantic relationships, the patterns are reversed. Instead of escalation followed by withdrawal, you see consistency. Instead of chaos requiring management, you see steadiness that allows rest.
 
 **The pace is sustainable:**
+
 - Connection builds over time rather than exploding immediately
 - "I love you" arrives after enough shared reality to mean something
 - Commitment deepens as you actually know each other
@@ -252,6 +271,7 @@ In healthy romantic relationships, the patterns are reversed. Instead of escalat
 - You can slow down without the relationship unraveling
 
 **Conflict strengthens rather than threatens:**
+
 - Disagreements happen but don't feel like the relationship ending
 - Both people can be wrong and admit it
 - Repair happens naturally because both people want reconnection
@@ -259,6 +279,7 @@ In healthy romantic relationships, the patterns are reversed. Instead of escalat
 - Anger doesn't come with punishment or days of silent treatment
 
 **Your authentic self is welcomed:**
+
 - You feel more yourself over time, not less
 - Your quirks are enjoyed rather than tolerated then criticized
 - You can have a bad day without it being held against you
@@ -266,6 +287,7 @@ In healthy romantic relationships, the patterns are reversed. Instead of escalat
 - You don't perform a version of yourself to keep them happy
 
 **Boundaries are respected:**
+
 - "No" is heard the first time
 - You can say "not tonight" without consequences
 - Your friends and family remain part of your life
@@ -282,7 +304,8 @@ You can be tired around them. Unglamorous. Having a bad day. You don't have to b
 
 **The absence of hypervigilance:**
 
-One of the clearest markers is what's *not* there:
+One of the clearest markers is what's _not_ there:
+
 - You're not constantly checking their mood
 - You're not replaying conversations to see what you said wrong
 - You're not walking on eggshells
@@ -292,6 +315,7 @@ One of the clearest markers is what's *not* there:
 **How healthy relationships handle hard things:**
 
 When something goes wrong, you both lean in rather than one person punishing and the other groveling:
+
 - Hurt feelings get discussed rather than weaponized
 - Apologies include behavior change, not just words
 - Accountability goes both directions
@@ -301,6 +325,7 @@ When something goes wrong, you both lean in rather than one person punishing and
 **The growth feels mutual:**
 
 In healthy love, both people become more:
+
 - More confident, not less
 - More connected to themselves, not more dependent
 - More expansive in the world, not more contracted
@@ -327,6 +352,7 @@ Give yourself time to recalibrate. Let the calm feel strange until it starts to 
 Not every narcissistic relationship involves physical threats or suicide gestures. Many operate at a level that's harder to name precisely because it's not dramatic enough to "count" as abuse in your mind.
 
 These are the relationships where:
+
 - You can't point to one terrible thing
 - But you feel progressively smaller
 - And you can't figure out why you're so unhappy
@@ -334,6 +360,7 @@ These are the relationships where:
 ### What Mid-Level Narcissism Looks Like
 
 **Chronic invalidation rather than rage:**
+
 - Your feelings are dismissed as "too sensitive" or "dramatic"
 - Your experiences are reframed until you doubt them
 - "That's not what happened" is a regular phrase
@@ -341,6 +368,7 @@ These are the relationships where:
 - Your reality constantly needs defending
 
 **Comparison as ongoing erosion:**
+
 - Casual mentions of how their ex handled things better
 - Observations about other people's bodies, careers, personalities
 - "I'm just trying to help you improve" as constant refrain
@@ -348,6 +376,7 @@ These are the relationships where:
 - Nothing you do is quite enough, but it's never said directly
 
 **Emotional unavailability packaged as independence:**
+
 - They're "not good at emotions" so you stop having them around them
 - Your needs for connection are "clingy" or "needy"
 - They withdraw when you're upset rather than moving closer
@@ -355,6 +384,7 @@ These are the relationships where:
 - You feel lonely in the relationship but can't pinpoint why
 
 **Financial control without obvious abuse:**
+
 - They manage the money "because they're better at it"
 - You need to justify purchases while they don't
 - "Our" money has different rules for each of you
@@ -362,6 +392,7 @@ These are the relationships where:
 - Dependence that started as "letting them handle it"
 
 **Social isolation through subtle erosion:**
+
 - Your friends are "drama" or "bad influences" (never explicitly forbidden, just criticized)
 - Family time gets harder to schedule, always conflicts
 - Plans with others create tension before and after
@@ -379,6 +410,7 @@ You're not in danger. But you're not at peace either.
 ### Why Mid-Level Narcissism Is Hard to Leave
 
 The absence of obvious abuse makes you doubt yourself:
+
 - "It's not that bad"
 - "Other people have it worse"
 - "Maybe I am too sensitive"
@@ -390,6 +422,7 @@ You can't point to one incident that "proves" anything. It's death by a thousand
 ### The Confusion of Partial Goodness
 
 Mid-level narcissists aren't terrible all the time. They:
+
 - Can be charming in public
 - May be genuinely good at certain things
 - Have moments of real connection
@@ -401,6 +434,7 @@ This makes it harder. If they were terrible 100% of the time, leaving would be o
 ### Signs You're in a Mid-Level Narcissistic Relationship
 
 Check how many of these resonate:
+
 - You can't remember the last time you felt fully relaxed around them
 - You edit yourself constantly—what you say, how you say it, what you share
 - You're exhausted from emotional labor that goes unrecognized
@@ -415,6 +449,7 @@ Check how many of these resonate:
 ### The Body Knows Before the Mind Admits
 
 Your nervous system is giving you data:
+
 - Stomach tightness when you hear their car in the driveway
 - Shoulder tension that won't release
 - Difficulty sleeping or waking with anxiety
@@ -429,14 +464,15 @@ Your nervous system is giving you data:
 > Your body is giving you relationship data. Track it:
 >
 > **Every Sunday, rate 1-10:**
-> - How relaxed do I feel around my partner? ___
-> - How much do I edit myself with them? ___
-> - How exhausted am I from emotional labor? ___
-> - How much of "me" do I recognize this week? ___
+>
+> - How relaxed do I feel around my partner? \_\_\_
+> - How much do I edit myself with them? \_\_\_
+> - How exhausted am I from emotional labor? \_\_\_
+> - How much of "me" do I recognize this week? \_\_\_
 >
 > **Track for 4 weeks.** If the numbers stay low or drop, that's diagnostic information. Your body is telling you something your mind may be minimizing.
 >
-> *Low scores don't mean your partner is a narcissist. They mean something in this relationship isn't working for you. That's enough to pay attention to.*
+> _Low scores don't mean your partner is a narcissist. They mean something in this relationship isn't working for you. That's enough to pay attention to._
 
 ---
 
@@ -450,6 +486,7 @@ The question is "Am I happy? Am I growing? Am I free to be myself?"
 If the answer is no, that's enough.
 
 **Resources for the in-between:**
+
 - A therapist who understands narcissistic dynamics (not couples therapy)
 - Friends who see you clearly and will tell you the truth
 - Journaling to track patterns you might minimize
@@ -465,6 +502,7 @@ You don't need their behavior to escalate for your unhappiness to be valid. Mid-
 > ⚠️ **PAUSE BEFORE READING**
 >
 > This section describes intense exit-phase dynamics including physical intimidation and threats. If you are currently planning to leave a relationship, assess your safety first:
+>
 > - Are you in a safe location right now?
 > - Do you have a trusted person you can reach if this content activates you?
 > - Consider reading this section with support rather than alone.
@@ -491,7 +529,7 @@ Then came the neck.
 
 First the admiration — repeated, almost tender, turning the observation over like he was noticing something beautiful for the first time: "Your neck is so small and delicate." He said it more than once. Then he placed his hand around my throat. Not squeezing. Demonstrating. "I could snap it with one hand."
 
-The message was clear: my safety depended on his restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. Every time he marveled at how small my neck was — and he did it often, casually, as though he were noticing something precious — the hand was already in the room. The marveling and the threat were never separate.
+The message was clear: my safety depended on his restraint. But the real horror was the sequence — the tenderness _before_ the threat. The compliment was the setup. The threat was the punchline. Every time he marveled at how small my neck was — and he did it often, casually, as though he were noticing something precious — the hand was already in the room. The marveling and the threat were never separate.
 
 Then the trivial demand. "Get me a popsicle." Not because he wanted it — because he wanted to test whether I'd still comply. When I didn't jump immediately, the response was explosive. Screaming. In front of a friend who was visiting. The friend sat there, frozen. I sat there, burning. The popsicle was never about the popsicle. It was a compliance test, and I had failed it publicly.
 
@@ -515,6 +553,7 @@ This situation demonstrates how multiple tactics interlock during high-stakes mo
 When narcissists feel control slipping, they don't de-escalate—they escalate. This is the extinction burst, the final desperate attempt to reassert dominance. Think of it like a drowning person: they grab harder, pull you under, thrash more violently precisely because they're losing their grip.
 
 The pattern includes:
+
 - **Threats of self-harm** to make you responsible for their life
 - **Physical intimidation** to remind you of your vulnerability
 - **Trivial demands** that are actually dominance tests (the popsicle was never about the popsicle)
@@ -527,6 +566,7 @@ The pattern includes:
 Multiple tactics working together create what's called "tactical overwhelm." Each tactic alone is manageable if you're prepared. But when they combine—suicide threat + physical intimidation + blame-shifting + appearance control—your nervous system gets flooded.
 
 You can't think clearly. You freeze. Each tactic makes you vulnerable to the next:
+
 - The suicide threat activates your guilt and responsibility
 - Physical intimidation activates your freeze/fawn response
 - Public humiliation activates your shame
@@ -543,26 +583,26 @@ Some narcissistic behaviors don't happen behind closed doors. They happen at a l
 
 He caused a scene at a luxury store over the piping on a bag — not because the piping mattered, but because the scene itself was the point. The staff scrambled. The other customers watched. I stood there, small, mortified. He won. And on the way out, he was calm. Smiling, even. Because that performance wasn't about the bag. It was about demonstrating — to me, to the room, to the world — that he takes what he wants and no one stops him.
 
-She yelled at the hair salon because my color wasn't right — not my dissatisfaction, *her* dissatisfaction with *my* appearance. She corrected the stylist as though she were the client and I were the product being serviced.
+She yelled at the hair salon because my color wasn't right — not my dissatisfaction, _her_ dissatisfaction with _my_ appearance. She corrected the stylist as though she were the client and I were the product being serviced.
 
 He raised his voice in the yoga class, breaking the silence, breaking the peace, breaking the room — and I felt the shame radiating off me like heat. Everyone looked. I wanted to disappear.
 
 **What it does to you:**
 
 - **Embarrassment becomes a control tool.** You learn to avoid anything that might trigger a scene. You preemptively comply — wearing what they want, saying what they want, being who they want — because the public alternative is unbearable.
-- **Fear of the scene replaces fear of the person.** You're not afraid of *them* exactly. You're afraid of what they'll do *in front of people*. The humiliation is worse than the abuse. So you manage them like a live wire — constantly scanning, anticipating, defusing.
+- **Fear of the scene replaces fear of the person.** You're not afraid of _them_ exactly. You're afraid of what they'll do _in front of people_. The humiliation is worse than the abuse. So you manage them like a live wire — constantly scanning, anticipating, defusing.
 - **You become their reputation manager.** Your job is to make sure they don't erupt. When they do, you apologize — to the staff, to your friends, to the room. You clean up their wreckage and feel grateful when it's over.
 - **Isolation through embarrassment.** You stop going to yoga. You stop bringing friends around. You stop going to restaurants. Not because they forbid it — because you can't survive another scene. The isolation looks voluntary. It isn't.
 
 **The cultural amplifier:**
 
-In machismo cultures, public displays of dominance aren't red flags — they're proof of masculinity. "He doesn't take any shit." "He demands the best." "He's passionate." The man causing a scene at the store isn't embarrassing — he's *powerful*. The woman shrinking beside him isn't being abused — she's being *protected* by a man who handles things.
+In machismo cultures, public displays of dominance aren't red flags — they're proof of masculinity. "He doesn't take any shit." "He demands the best." "He's passionate." The man causing a scene at the store isn't embarrassing — he's _powerful_. The woman shrinking beside him isn't being abused — she's being _protected_ by a man who handles things.
 
 **The decoder:** If their "standards" require your silence, their "taste" requires your compliance, and their "passion" requires your humiliation — it's not love. It's performance. And you're the prop.
 
 **What it feels like in your body:**
 
-The anticipatory scan before leaving the house. The tight chest walking into any public space with them. The flinch when they call the waiter over. The shame-heat when their voice rises. The relief — actual physical relief, shoulders dropping, breath releasing — when an outing ends without incident. If you're relieved that a normal dinner was *normal*, that's your body telling you the truth.
+The anticipatory scan before leaving the house. The tight chest walking into any public space with them. The flinch when they call the waiter over. The shame-heat when their voice rises. The relief — actual physical relief, shoulders dropping, breath releasing — when an outing ends without incident. If you're relieved that a normal dinner was _normal_, that's your body telling you the truth.
 
 ### The Dinner Party Silence
 
@@ -570,7 +610,7 @@ At dinner parties with his friends — powerful, business-type, people who spoke
 
 I just became more quiet. It was too much energy to fight to be heard in a room that wasn't designed to hear me.
 
-"Jump in" sounds like encouragement. It's actually blame. It says: *the reason you're invisible is your fault. You're not trying hard enough. The room is fine — you're the problem.* It reframes his friends' dominance as normal and my silence as a deficit I need to fix. It puts the burden of inclusion on the excluded person.
+"Jump in" sounds like encouragement. It's actually blame. It says: _the reason you're invisible is your fault. You're not trying hard enough. The room is fine — you're the problem._ It reframes his friends' dominance as normal and my silence as a deficit I need to fix. It puts the burden of inclusion on the excluded person.
 
 This is a different shape of the same silencing. Not the strategic quiet I use with certain family members — the one born of pattern recognition, the one that protects my truth from people who'd weaponize it. This is the quiet of exhaustion. The quiet of a person who calculated the energy required to be heard in a room that wasn't built to hear her — and decided the cost was too high.
 
@@ -578,7 +618,7 @@ This is a different shape of the same silencing. Not the strategic quiet I use w
 
 ### The Collectivist Extinction Burst
 
-The book already describes the extinction burst — the desperate escalation when the narcissist feels control slipping. But in collectivist systems, the extinction burst isn't just the narcissist. It's the narcissist *plus the entire system*.
+The book already describes the extinction burst — the desperate escalation when the narcissist feels control slipping. But in collectivist systems, the extinction burst isn't just the narcissist. It's the narcissist _plus the entire system_.
 
 When you try to leave, they will say and do anything to keep you. And so will everyone around them.
 
@@ -621,30 +661,35 @@ Until one day the cost of staying finally exceeds even the staggering cost of le
 If you're seeing these signs, you're in the danger zone:
 
 **Threat escalation:**
+
 - Suicide threats or self-harm threats
 - Veiled physical threats ("I could hurt you if I wanted to")
 - Demonstrations of your physical vulnerability
 - References to your fragility or weakness
 
 **Control intensification:**
+
 - Increasing demands for proof of loyalty/compliance
 - Trivial requests that feel like tests
 - More frequent appearance comments/demands
 - Tracking your movements, contacts, activities
 
 **Public/private divergence:**
+
 - Scenes in front of others to punish you
 - Private aggression escalating
 - Using witnesses to demonstrate power
 - Isolation increasing
 
 **Psychological warfare:**
+
 - More frequent blame-shifting
 - Reality distortion intensifying
 - Your feelings/perceptions attacked more aggressively
 - "If you just..." statements becoming constant
 
 **Your body knows:**
+
 - Constant hypervigilance
 - Can't relax even in "calm" moments
 - Sleep disrupted
@@ -655,11 +700,13 @@ If you're seeing these signs, you're in the danger zone:
 If you recognize exit-phase escalation, treat this as the dangerous situation it is:
 
 **1. Take the threats seriously**
+
 - Suicide threats: Call emergency services or a crisis line immediately (for current hotlines, visit [companion website URL]). You are not qualified to manage this.
 - Physical threats: Document everything. Tell someone you trust. Contact domestic violence resources.
 - Don't try to be the hero or therapist. Professional intervention is required.
 
 **2. Create a safety plan**
+
 - Identify your safe person(s) who know what's happening
 - Have a place to go that they don't know about
 - Keep important documents outside the home (ID, bank info, etc.)
@@ -668,6 +715,7 @@ If you recognize exit-phase escalation, treat this as the dangerous situation it
 - Have transportation arranged for emergency exit
 
 **3. Document everything**
+
 - Write down dates, times, what was said, what was done
 - Take photos of anything relevant (throat demonstration, physical proximity, damaged items)
 - Save threatening texts/emails
@@ -675,18 +723,21 @@ If you recognize exit-phase escalation, treat this as the dangerous situation it
 - Documentation protects you legally and keeps you anchored to reality
 
 **4. Stop announcing, start acting**
+
 - Don't tell them you're leaving until you're safe
 - Don't negotiate or explain
 - Don't try to make them understand
 - Quietly prepare, then exit when they're not present if possible
 
 **5. Get professional support**
+
 - Domestic violence advocate (for current hotlines, visit [companion website URL])
 - Therapist who specializes in abuse recovery
 - Lawyer if needed for protection orders
 - Support group for survivors
 
 **6. Understand the stakes**
+
 - Physical intimidation is abuse, even without contact
 - Suicide threats are abuse, even if they don't follow through
 - You are not responsible for their choices
@@ -695,6 +746,7 @@ If you recognize exit-phase escalation, treat this as the dangerous situation it
 ### After Exit: The Hoovering Phase
 
 After you leave, they may cycle between:
+
 - More suicide threats
 - Love-bombing ("I've changed, I'll get help")
 - Rage ("You destroyed me")
@@ -707,9 +759,10 @@ Stay no contact. Every response resets the cycle and shows them which tactic to 
 
 Hoovering is not always immediate. Sometimes it arrives months or years after the exit, wearing a softer face.
 
-A "thinking of you" message on a holiday. A comment on a post from a new, unfamiliar account. A vague, spiritually-flavored opener—*"Had lunch with an aura person and thought of you."* A "can't we be friends?" offered as though the history had simply dissolved. A follow-up when you don't respond. A switch from one platform to another. A phone call out of nowhere.
+A "thinking of you" message on a holiday. A comment on a post from a new, unfamiliar account. A vague, spiritually-flavored opener—_"Had lunch with an aura person and thought of you."_ A "can't we be friends?" offered as though the history had simply dissolved. A follow-up when you don't respond. A switch from one platform to another. A phone call out of nowhere.
 
 These openers tend to share a few features:
+
 - **They're vague enough to feel innocent.** There's no obvious demand, so a refusal can be framed as paranoia.
 - **They use cultural or emotional hooks.** Holidays, shared heritage, spiritual language—anything that creates a sense of "we have a connection that transcends the past."
 - **They escalate if ignored.** One attempt becomes two. A message becomes a call. A platform becomes a new platform.
@@ -718,7 +771,7 @@ This is the same pattern as early hoovering. The only thing that's changed is th
 
 **The decoder:** If a past connection is reaching across years, vague openers, and platforms—while your current life is stable and full—the message is not about reconnection. It's about re-entry.
 
-> *Not every door that knocks is meant to be opened again.*
+> _Not every door that knocks is meant to be opened again._
 
 You do not owe a response to a door you've already closed. Years of distance do not reset the pattern. Softer language does not change what it's doing.
 
@@ -728,15 +781,15 @@ If you feel the pull to respond—curiosity, nostalgia, the old loop reactivatin
 
 Nobody talks about this part.
 
-The narcissistic abuse literature ends at "you left." Or "you're healing." It doesn't cover the part where you're in a new relationship — a good one, maybe, a real one — and you can feel yourself doing something wrong. Something corrosive. And you can *name* it but you can't stop it.
+The narcissistic abuse literature ends at "you left." Or "you're healing." It doesn't cover the part where you're in a new relationship — a good one, maybe, a real one — and you can feel yourself doing something wrong. Something corrosive. And you can _name_ it but you can't stop it.
 
-The contempt that leaks sideways. The sarcasm that carries a blade. The withdrawal when you should be present. The test you set up without admitting you're testing. You hear yourself and you think: *that's not me. That's what was done to me.* And you're right. And you do it anyway.
+The contempt that leaks sideways. The sarcasm that carries a blade. The withdrawal when you should be present. The test you set up without admitting you're testing. You hear yourself and you think: _that's not me. That's what was done to me._ And you're right. And you do it anyway.
 
 Because the alternative — being direct, being vulnerable, asking for what you need without armor — requires a kind of safety your nervous system doesn't believe in yet.
 
-The narcissistic relationship didn't just damage you *in* that relationship — it installed patterns that follow you into the next one. Contempt, passive aggression, sarcasm, withdrawal — these aren't personality flaws. They're survival skills that outlived their context. You learned them because they worked. They kept you alive in a system that punished directness. And now they're running in a relationship that doesn't require them.
+The narcissistic relationship didn't just damage you _in_ that relationship — it installed patterns that follow you into the next one. Contempt, passive aggression, sarcasm, withdrawal — these aren't personality flaws. They're survival skills that outlived their context. You learned them because they worked. They kept you alive in a system that punished directness. And now they're running in a relationship that doesn't require them.
 
-The current partner isn't the problem. But the current partner is *experiencing* the problem. And that's a truth this book has to be honest about.
+The current partner isn't the problem. But the current partner is _experiencing_ the problem. And that's a truth this book has to be honest about.
 
 You can SEE yourself doing it. That's what this volume is for. Naming the pattern is sovereignty. Fixing it is the next volume.
 
@@ -768,16 +821,16 @@ The fact that you're reading this means part of you knows. Listen to that part. 
 
 ### Magician Tactics vs. Relational Integrity
 
-| Magician Dynamic | Relational Integrity |
-|------------------|---------------------|
-| Controls attention through spectacle | Invites presence through pacing |
-| Collapses time ("now or never") | Allows digestion and choice |
-| Frames meaning for you ("this is love") | Asks for your meaning |
-| Uses witnesses to secure compliance | Seeks privacy for consent |
-| Acts on your life (rearranging, deciding) | Asks permission before impact |
-| Escalates without checking your body | Tracks nervous system responses |
-| Reveals without humility | Lowers self to meet you |
-| Confusion interpreted as agreement | Clarity required before action |
+| Magician Dynamic                          | Relational Integrity            |
+| ----------------------------------------- | ------------------------------- |
+| Controls attention through spectacle      | Invites presence through pacing |
+| Collapses time ("now or never")           | Allows digestion and choice     |
+| Frames meaning for you ("this is love")   | Asks for your meaning           |
+| Uses witnesses to secure compliance       | Seeks privacy for consent       |
+| Acts on your life (rearranging, deciding) | Asks permission before impact   |
+| Escalates without checking your body      | Tracks nervous system responses |
+| Reveals without humility                  | Lowers self to meet you         |
+| Confusion interpreted as agreement        | Clarity required before action  |
 
 > **Key Distinction:** A magician wants your reaction. Integrity wants your yes.
 
@@ -789,12 +842,14 @@ The fact that you're reading this means part of you knows. Listen to that part. 
 
 While you're focused on one thing, the real action happens elsewhere.
 
-*Examples:*
+_Examples:_
+
 - Grand gestures (sex, gifts, introductions, proposals)
 - Emotional intensity ("We're so connected")
 - Sudden intimacy
 
-*What you're not looking at:*
+_What you're not looking at:_
+
 - Lack of consent
 - Lack of mutual pacing
 - Lack of curiosity about you
@@ -806,7 +861,8 @@ The power move happened offstage.
 
 The magician tells you what just happened before you can interpret it yourself.
 
-*Examples:*
+_Examples:_
+
 - "We're friends."
 - "This is romantic."
 - "This is destiny."
@@ -814,8 +870,8 @@ The magician tells you what just happened before you can interpret it yourself.
 
 This bypasses your meaning-making system.
 
-Your body says: *something's off*
-Their words say: *this is good*
+Your body says: _something's off_
+Their words say: _this is good_
 
 That split creates confusion—which benefits the magician.
 
@@ -823,12 +879,14 @@ That split creates confusion—which benefits the magician.
 
 Magicians collapse time so you can't check reality.
 
-*Examples:*
+_Examples:_
+
 - Meeting family immediately
 - Proposals before integration
 - Rapid escalation without digestion
 
-*Why it works:*
+_Why it works:_
+
 - The nervous system needs time to orient
 - Without time, consent becomes performative
 
@@ -838,7 +896,8 @@ Your stunned feeling wasn't ambivalence—it was time deprivation.
 
 Magicians rely on witnesses to lock in the illusion.
 
-*Examples:*
+_Examples:_
+
 - Proposing in front of family
 - Public moments that discourage pause
 - Creating a "scene" where saying no feels disruptive
@@ -851,12 +910,13 @@ You weren't just responding to them—you were managing the room.
 
 The trick is often hidden in an object.
 
-*Examples:*
+_Examples:_
+
 - A ring hidden in bowls
 - Jewelry rearranged
 - Your paintings being hung
 
-These are symbolic claims, not gifts. They say: *"I am already arranging your world."*
+These are symbolic claims, not gifts. They say: _"I am already arranging your world."_
 
 Before permission is granted.
 
@@ -868,7 +928,7 @@ A true magician bows after the trick. A manipulator never lowers themselves.
 - No slowing
 - No checking your face
 
-The reveal happens *at* you, not *with* you.
+The reveal happens _at_ you, not _with_ you.
 
 ---
 
@@ -877,11 +937,13 @@ The reveal happens *at* you, not *with* you.
 Romance expands choice. Magician tactics constrict it.
 
 Romance asks:
+
 - "How does this feel for you?"
 - "Do you want this pace?"
 - "What do you need?"
 
 Magician dynamics assume:
+
 - Your reaction = agreement
 - Silence = consent
 - Confusion = opportunity
@@ -892,7 +954,7 @@ Magician dynamics assume:
 
 Your confusion, inability to eat, disorientation—those weren't weakness.
 
-They were your system saying: *"This is a trick, not a meeting."*
+They were your system saying: _"This is a trick, not a meeting."_
 
 > You weren't fooled because you were naïve—you were targeted because you were perceptive, open, and slow enough to notice the dissonance.
 
@@ -901,14 +963,14 @@ They were your system saying: *"This is a trick, not a meeting."*
 > **PAUSE AND GROUND**
 >
 > You just read intense material. Before continuing:
+>
 > - Take three slow breaths (inhale 4 counts, exhale 6 counts)
 > - Feel your feet on the floor
 > - Look around the room and name three things you can see
 > - Remind yourself: You are safe right now, reading words on a page
 >
-> *Many who read these words have already begun to heal. You are not alone in this.*
+> _Many who read these words have already begun to heal. You are not alone in this._
 
 ---
 
-*Love doesn't feel like a hostage situation. If it does, it isn't love.*
-
+_Love doesn't feel like a hostage situation. If it does, it isn't love._

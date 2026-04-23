@@ -4,45 +4,46 @@
 
 ---
 
-## The Decoder Card Emergency Protocol
+## The Decoder Protocol
 
-When you're activated and confused, your thinking brain goes offline. This protocol is designed for that moment.
+When you're activated and confused, your thinking brain goes offline. This protocol is designed for that moment. Four steps — **Notice → Pause → Decode → Respond** — each one small enough to do while your nervous system is loud.
 
-### Step 1: Body First
+### Step 1: Notice
 
-Before anything else, notice your body:
+Something is off. The first decoder signal is somatic, not cognitive — you feel it before you can name it.
+
 - Where is the tension?
 - What's your breathing like?
 - What's the sensation in your chest or stomach?
 
-Name what you feel: "My chest is tight." "I feel confused." "I want to over-explain."
+Name what you feel: "My chest is tight." "I feel confused." "I want to over-explain." This pulls you back into the present moment before the confusion finishes pulling you out of it.
 
-This pulls you back into the present moment.
+### Step 2: Pause
 
-### Step 2: Name the Pattern
-
-Which card matches what just happened? Even a rough match helps. Naming breaks the spell.
-
-If you can't identify it clearly, that's okay. "Something manipulative just happened" is enough.
-
-### Step 3: Ground
-
-Three slow breaths. Exhale longer than you inhale.
+Before you respond, _stop_. Three slow breaths. Exhale longer than you inhale.
 
 Feel your feet on the floor. Your body in the chair. The temperature of the room.
 
-You are here. You can find ground. You can think.
+You are here. You can find ground. You can think. This is the buffer between the stimulus and the story about it. It only takes a few seconds, but those seconds are where sovereignty lives.
 
-### Step 4: Remember
+### Step 3: Decode
 
-Repeat internally:
+Now that you have a second of ground, match what just happened to a card. Even a rough match helps. Naming breaks the spell.
+
+If you can't identify it clearly, that's okay. "Something manipulative just happened" is enough.
+
+While you're naming the pattern, also remind yourself:
+
 - "This is a pattern. It's not about me."
 - "Their behavior reveals them, not my worth."
 - "I don't have to respond right now."
 
-### Step 5: Choose Your Response
+This is the step where cognition comes back online. You've exited the loop.
 
-Options:
+### Step 4: Respond
+
+Choose from power, not reactivity. Your options:
+
 - Use the power move from the card
 - Say nothing and leave
 - Say "I need to think about this" and exit
@@ -50,15 +51,7 @@ Options:
 
 You don't have to be clever. You just have to protect yourself.
 
-### Step 6: Document Later
-
-After you're safe, write down:
-- What happened
-- What was said
-- How you felt
-- Which pattern it matches
-
-This builds your reality anchor. When they gaslight you later, you'll have evidence.
+**After you're safe, document.** Write down what happened, what was said, how you felt, and which pattern it matches. This builds your reality anchor. When they gaslight you later, you'll have evidence.
 
 ---
 
@@ -98,28 +91,33 @@ If the answers consistently point away from your well-being, you're dealing with
 For moments when you need immediate regulation:
 
 **The 3-3-3 Rule:**
+
 - Name three things you see
 - Name three sounds you hear
 - Move three parts of your body
 
 **The Squeeze-Release:**
+
 - Clench all muscles tight for five seconds
 - Release completely
 - Notice the difference
 - Repeat three times
 
 **The Butterfly Hug:**
+
 - Cross arms over chest
 - Hands on shoulders
 - Tap alternating sides slowly
 - Bilateral stimulation calms the nervous system
 
 **The Cold Reset:**
+
 - Hold ice cubes in your hands
 - The sensation interrupts the loop
 - Stay with it until the ice feels less shocking
 
 **The Vocal Release:**
+
 - Sigh loudly
 - Hum
 - Even a sustained "voo" sound
@@ -132,18 +130,21 @@ For moments when you need immediate regulation:
 When quick techniques aren't enough, the body itself becomes the anchor. These practices use gravity, earth contact, and natural movement to reset the nervous system at a deeper level.
 
 **Earth Contact:**
+
 - Go barefoot on grass, soil, or sand
 - Stand still and feel the ground receiving your weight
 - Let the earth hold you—you don't have to hold yourself
 - Even 10 minutes of barefoot contact shifts the nervous system
 
 **Laying Flat:**
+
 - Lie on the ground—floor, grass, earth
 - Let your full weight release into the surface
 - Feel gravity doing its work
 - The body remembers: ground is safety
 
 **Heel Grounding with Vagal Release:**
+
 - Lie flat on your back
 - Pin your heels to the earth, pressing them gently down
 - Rock your body slowly, just the pelvis and lower back lifting slightly
@@ -151,12 +152,14 @@ When quick techniques aren't enough, the body itself becomes the anchor. These p
 - This stimulates the vagus nerve and releases stored tension
 
 **Weighted Pressure:**
+
 - A heavy blanket across your body
 - 10-15 pounds is often ideal
 - The weight signals safety to the nervous system
 - Deep pressure calms like nothing else can
 
 **Shaking:**
+
 - Stand and let your body shake—start with your hands, arms, then whole body
 - Let it be ugly and uncontrolled
 - Animals shake after threat passes—they discharge the stress
@@ -164,6 +167,7 @@ When quick techniques aren't enough, the body itself becomes the anchor. These p
 - Shake for 2-3 minutes until the energy moves through
 
 **Dancing:**
+
 - Put on music and let your body move without plan
 - Not performance—just movement
 - Let the body lead, not the mind
@@ -198,7 +202,7 @@ Memorize these. They work for almost any tactic:
 - "This isn't productive."
 - "I'm not going to engage with that."
 - "Not my world." (Disengages from their drama/reality without argument)
-- *Silence + unchanged expression*
+- _Silence + unchanged expression_
 
 ---
 
@@ -212,6 +216,7 @@ When they push back on your boundary:
 4. Match their escalation with calm repetition
 
 **Example:**
+
 - You: "I'm not discussing this tonight."
 - Them: "But we need to resolve this!"
 - You: "I'm not discussing this tonight."
@@ -243,6 +248,7 @@ You don't have to announce which level you're moving to. Just execute.
 ## Signs You Need to Exit Immediately
 
 Leave without explanation if:
+
 - Physical intimidation begins
 - They block doorways or corner you
 - Volume escalates to screaming
@@ -259,24 +265,28 @@ Your safety trumps their feelings. Leave first, process later.
 After any difficult interaction:
 
 **Immediate (0-30 minutes):**
+
 - Get physically safe
 - Ground yourself (3-3-3 or any grounding technique)
 - Drink water
 - Don't analyze yet
 
 **Short-term (30 min - 2 hours):**
+
 - Contact your safe person
 - Write down what happened while it's fresh
 - Move your body (walk, shake, stretch)
 - Eat something if needed
 
 **Medium-term (same day):**
+
 - Review which patterns were used
 - Journal if helpful
 - Practice self-compassion
 - Identify any needed follow-up (documentation, safety planning)
 
 **Longer-term (days/weeks):**
+
 - Process with therapist if available
 - Look for patterns across interactions
 - Adjust your strategies based on what you learned
@@ -288,26 +298,33 @@ After any difficult interaction:
 
 For patterns specific to your situation:
 
-**Pattern Name:** ________________________________
+**Pattern Name:** **************\_\_\_\_**************
 
 **What They Say/Do:**
-- ________________________________
-- ________________________________
-- ________________________________
+
+- ***
+- ***
+- ***
 
 **What's Really Happening:**
-________________________________
-________________________________
+
+---
+
+---
 
 **How It Hooks Me:**
-________________________________
-________________________________
+
+---
+
+---
 
 **My Power Move:**
-________________________________
+
+---
 
 **My Body Signal for This Pattern:**
-________________________________
+
+---
 
 ---
 
@@ -328,103 +345,116 @@ This map is about structure, not intent.
 **I. Entry Patterns (How They Arrive)**
 
 **1. Accelerated Intimacy**
-- *Looks like:* Immediate closeness, rapid physical/emotional access, "It just feels easy/intense/meant to be"
-- *Hidden Function:* Bypassing consent-building stages
-- *Body Signal:* Disorientation mixed with excitement
-- *Truth Check:* Healthy intimacy unfolds with pacing
+
+- _Looks like:_ Immediate closeness, rapid physical/emotional access, "It just feels easy/intense/meant to be"
+- _Hidden Function:_ Bypassing consent-building stages
+- _Body Signal:_ Disorientation mixed with excitement
+- _Truth Check:_ Healthy intimacy unfolds with pacing
 
 **2. Unasked Assistance**
-- *Looks like:* Fixing, organizing, improving without being asked, "I just wanted to help"
-- *Hidden Function:* Establishing authority inside your domain
-- *Body Signal:* Gratitude followed by subtle discomfort
-- *Truth Check:* Care asks first
+
+- _Looks like:_ Fixing, organizing, improving without being asked, "I just wanted to help"
+- _Hidden Function:_ Establishing authority inside your domain
+- _Body Signal:_ Gratitude followed by subtle discomfort
+- _Truth Check:_ Care asks first
 
 **3. Fast Social Integration**
-- *Looks like:* Early introductions to family, inner circle, or team; pressure to belong quickly
-- *Hidden Function:* Creating social cost for withdrawal
-- *Body Signal:* Flattery mixed with pressure
-- *Truth Check:* Belonging should feel optional, not binding
+
+- _Looks like:_ Early introductions to family, inner circle, or team; pressure to belong quickly
+- _Hidden Function:_ Creating social cost for withdrawal
+- _Body Signal:_ Flattery mixed with pressure
+- _Truth Check:_ Belonging should feel optional, not binding
 
 ---
 
 **II. Control Mechanisms (How It Operates)**
 
 **4. Micro-Critique of Identity**
-- *Looks like:* Comments on clothing, tone, energy, choices; framed as "helpful" or "protective"
-- *Hidden Function:* Gradual erosion of self-trust
-- *Body Signal:* Self-editing, hesitation
-- *Truth Check:* Support does not require correction
+
+- _Looks like:_ Comments on clothing, tone, energy, choices; framed as "helpful" or "protective"
+- _Hidden Function:_ Gradual erosion of self-trust
+- _Body Signal:_ Self-editing, hesitation
+- _Truth Check:_ Support does not require correction
 
 **5. Narrative Reframing**
-- *Looks like:* "We were friends," "You misunderstood," retroactive redefinition of events
-- *Hidden Function:* Rewriting history to justify access
-- *Body Signal:* Confusion, self-doubt
-- *Truth Check:* Your memory does not require validation to be real
+
+- _Looks like:_ "We were friends," "You misunderstood," retroactive redefinition of events
+- _Hidden Function:_ Rewriting history to justify access
+- _Body Signal:_ Confusion, self-doubt
+- _Truth Check:_ Your memory does not require validation to be real
 
 **6. Boundary Ambiguity**
-- *Looks like:* Assumptions instead of questions, offense when boundaries appear
-- *Hidden Function:* Testing compliance
-- *Body Signal:* Guilt when asserting needs
-- *Truth Check:* Boundaries are neutral, not attacks
+
+- _Looks like:_ Assumptions instead of questions, offense when boundaries appear
+- _Hidden Function:_ Testing compliance
+- _Body Signal:_ Guilt when asserting needs
+- _Truth Check:_ Boundaries are neutral, not attacks
 
 ---
 
 **III. Psychological Hooks (Why It Works)**
 
 **7. Conditional Safety**
-- *Looks like:* Warmth when compliant, withdrawal when independent
-- *Hidden Function:* Training through reward and removal
-- *Body Signal:* Hypervigilance
-- *Truth Check:* Safety that disappears is not safety
+
+- _Looks like:_ Warmth when compliant, withdrawal when independent
+- _Hidden Function:_ Training through reward and removal
+- _Body Signal:_ Hypervigilance
+- _Truth Check:_ Safety that disappears is not safety
 
 **8. Moral or Emotional Positioning**
-- *Looks like:* "I'm just trying to protect you," "Others don't understand us"
-- *Hidden Function:* Elevating themselves above scrutiny
-- *Body Signal:* Isolation
-- *Truth Check:* Protection does not require secrecy
+
+- _Looks like:_ "I'm just trying to protect you," "Others don't understand us"
+- _Hidden Function:_ Elevating themselves above scrutiny
+- _Body Signal:_ Isolation
+- _Truth Check:_ Protection does not require secrecy
 
 **9. Speed Over Choice**
-- *Looks like:* Things happen faster than you can process, objection feels "too late"
-- *Hidden Function:* Reducing agency through momentum
-- *Body Signal:* Freeze response
-- *Truth Check:* Consent can be withdrawn at any time
+
+- _Looks like:_ Things happen faster than you can process, objection feels "too late"
+- _Hidden Function:_ Reducing agency through momentum
+- _Body Signal:_ Freeze response
+- _Truth Check:_ Consent can be withdrawn at any time
 
 ---
 
 **IV. Impact Indicators (How You Know)**
 
 **10. Somatic Discrepancy**
-- *Looks like:* Your body tightens while your mind explains, delayed recognition
-- *Meaning:* Your nervous system clocked the threat
-- *Truth Check:* The body detects violation before language exists
+
+- _Looks like:_ Your body tightens while your mind explains, delayed recognition
+- _Meaning:_ Your nervous system clocked the threat
+- _Truth Check:_ The body detects violation before language exists
 
 **11. Self-Minimization**
-- *Looks like:* "It's not that bad," "Maybe I'm overreacting"
-- *Meaning:* Internalized override
-- *Truth Check:* Minimization is a survival adaptation
+
+- _Looks like:_ "It's not that bad," "Maybe I'm overreacting"
+- _Meaning:_ Internalized override
+- _Truth Check:_ Minimization is a survival adaptation
 
 **12. Identity Compression**
-- *Looks like:* Less spontaneity, less self-expression, more monitoring
-- *Meaning:* Autonomy loss
-- *Truth Check:* Love expands you
+
+- _Looks like:_ Less spontaneity, less self-expression, more monitoring
+- _Meaning:_ Autonomy loss
+- _Truth Check:_ Love expands you
 
 ---
 
 **V. Differentiation Matrix: Control vs Connection**
 
-| Connection | Control |
-|------------|---------|
-| Asks | Assumes |
-| Paces | Rushes |
-| Expands agency | Narrows options |
+| Connection             | Control             |
+| ---------------------- | ------------------- |
+| Asks                   | Assumes             |
+| Paces                  | Rushes              |
+| Expands agency         | Narrows options     |
 | Responds to boundaries | Punishes boundaries |
-| Encourages autonomy | Requires compliance |
+| Encourages autonomy    | Requires compliance |
 
 ---
 
 **VI. Closing Diagnostic Statement**
 
 If a relationship:
+
 - Enters quickly
 - Modifies you subtly
 - Redefines consent retroactively
@@ -432,7 +462,7 @@ If a relationship:
 
 It is not intimacy. It is control wearing relational language.
 
-> *"Where did my body know before my mind caught up?"*
+> _"Where did my body know before my mind caught up?"_
 
 ---
 
@@ -453,23 +483,27 @@ Now you have the decoder. Use it.
 ## Summary: The Complete Decoder System
 
 **Before Interaction:**
+
 - Know your triggers
 - Have responses prepared
 - Know your exit plan
 
 **During Interaction:**
+
 - Body awareness first
 - Name the pattern
 - Use your response bank
 - Exit when needed
 
 **After Interaction:**
+
 - Ground and recover
 - Document
 - Connect with support
 - Learn and adjust
 
 **Always Remember:**
+
 - Your perception is valid
 - Your body knows
 - You can leave
@@ -478,7 +512,6 @@ Now you have the decoder. Use it.
 
 ---
 
-*Recognition is the first freedom. Response is the second. Walking away is the third.*
+_Recognition is the first freedom. Response is the second. Walking away is the third._
 
-*Welcome to clarity.*
-
+_Welcome to clarity._

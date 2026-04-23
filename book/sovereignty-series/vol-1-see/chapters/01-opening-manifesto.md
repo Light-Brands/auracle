@@ -30,7 +30,7 @@ Maybe you were told strong women don't complain, and by the time you realized yo
 
 I know because I lived it. Before I ever entered my own harmful relationships, I watched the woman who raised me model what love looked like: you chase the person who hurts you. You beg them to stay. You endure. Not one partner — a pattern. And my nervous system recorded every lesson before I had words for any of it. By the time I chose my own relationships, I wasn't choosing at all. I was following a template that had been installed in my body since childhood — mistaking anxiety for chemistry, intensity for connection, and the familiar ache of unavailability for love.
 
-This book exists because I kept asking *why*. Why did I stay? Why did I go back? Why did I choose the same pattern wearing a different face? The answers weren't in my character — they were in my wiring. And once I understood how that wiring was installed, I could finally begin to rewire it. That's what this book offers you: not just the language to name what happened, but the understanding of *why it worked on you specifically* — and how to make sure it never works again.
+This book exists because I kept asking _why_. Why did I stay? Why did I go back? Why did I choose the same pattern wearing a different face? The answers weren't in my character — they were in my wiring. And once I understood how that wiring was installed, I could finally begin to rewire it. That's what this book offers you: not just the language to name what happened, but the understanding of _why it worked on you specifically_ — and how to make sure it never works again.
 
 Whatever brought you here, trust that instinct.
 
@@ -57,7 +57,7 @@ Control rarely announces itself. It doesn't walk into the room with a sign that 
 
 Each of these sounds reasonable. Each of these sounds like something a caring person might say. And that's exactly what makes them so effective—and so devastating.
 
-In some families, in some communities, the architecture isn't invisible at all — it's celebrated. When the whole culture says "family first, always, no matter what" and the narcissist *is* that family — the control isn't hidden. It's in the dichos at the dinner table. It's in the sermon on Sunday. It's in the way everyone nods when abuela says "aguanta." The architecture is everywhere. It's just dressed as love, duty, tradition, and faith.
+In some families, in some communities, the architecture isn't invisible at all — it's celebrated. When the whole culture says "family first, always, no matter what" and the narcissist _is_ that family — the control isn't hidden. It's in the dichos at the dinner table. It's in the sermon on Sunday. It's in the way everyone nods when abuela says "aguanta." The architecture is everywhere. It's just dressed as love, duty, tradition, and faith.
 
 This doesn't mean your culture is the problem. It means the narcissist is hiding behind it. And that's harder to see — because fighting them feels like fighting everything you belong to.
 
@@ -68,7 +68,7 @@ The difference between genuine care and control disguised as care isn't always i
 
 That's the only test you need.
 
-And here's the promise at the heart of this book: *You get to reclaim yourself.* Every pattern you name, every manipulation you recognize, every boundary you hold—these are steps toward something the final chapters will call **sovereignty**. The right to your own perception. The authority over your own life. The freedom that comes when you stop needing their approval to know your own truth.
+And here's the promise at the heart of this book: _You get to reclaim yourself._ Every pattern you name, every manipulation you recognize, every boundary you hold—these are steps toward something the final chapters will call **sovereignty**. The right to your own perception. The authority over your own life. The freedom that comes when you stop needing their approval to know your own truth.
 
 ### The Wolf in Sheep's Clothing
 
@@ -86,7 +86,7 @@ Not by looking for fangs. By the time you see those, it's too late. But by recog
 
 The wolf in sheep's clothing doesn't want you to read this book. It survives by staying unnamed. By the end of these pages, you'll be able to name it every time.
 
-This metaphor is so central to everything that follows that it forms our **master decoder card**—Card 0—which you'll find in Chapter 14. When in doubt, return to this question: *Is this wool or is this fur?*
+This metaphor is so central to everything that follows that it forms our **master decoder card**—Card 0—which you'll find in Chapter 14. When in doubt, return to this question: _Is this wool or is this fur?_
 
 ### The Erosion Effect
 
@@ -192,7 +192,9 @@ When you can name what's happening, it stops happening to you and starts happeni
 
 You become the observer instead of the victim. You see the tactic instead of feeling the confusion. You recognize the pattern instead of drowning in the moment.
 
-This is the power of language. When you have words for gaslighting, you can catch yourself being gaslit in real time. When you understand love-bombing, you can recognize the intensity as a red flag rather than a romantic gesture. When you know triangulation, you can see the manipulation in "she said you..."
+This is the power of language. When you have words for gaslighting,[^gaslight-origin] you can catch yourself being gaslit in real time. When you understand love-bombing, you can recognize the intensity as a red flag rather than a romantic gesture. When you know triangulation, you can see the manipulation in "she said you..."
+
+[^gaslight-origin]: The term comes from the 1944 George Cukor film _Gaslight_ (based on Patrick Hamilton's 1938 play), in which a husband slowly dims the household gas lamps while insisting to his wife that the light hasn't changed — inducing her to doubt her own perception. The American Dialect Society named "gaslight" the most useful new word of 2016. It isn't a DSM-5 diagnostic term, but it is widely used by clinicians to describe systematic reality-denial as a manipulation tactic.
 
 ### The Spell-Breaking Power of Language
 
@@ -205,6 +207,7 @@ Consider what happens when you're in a confusing interaction:
 The difference is everything.
 
 With language, you:
+
 - Stay connected to your own perception
 - Can describe what's happening to others
 - Have a framework for evaluating behavior
@@ -293,6 +296,7 @@ It's important to understand that narcissistic patterns exist on a spectrum. Not
 What matters isn't the diagnosis. What matters is the impact.
 
 If someone's behavior consistently:
+
 - Makes you feel smaller
 - Causes you to doubt your perception
 - Requires you to manage their emotions at the expense of your own
@@ -363,10 +367,12 @@ Your pain was real. Your confusion was induced. Your healing will take time. And
 This book contains 19 chapters organized into these key areas:
 
 **Part I: Recognition**
+
 - **The Energetic Signature** (Chapter 2): How to recognize control in your body before your mind catches up
 - **The Narcissist Playbook** (Chapter 3): 56 specific tactics, named and decoded, with your power moves for each
 
 **Part II: Understanding Origins**
+
 - **Trauma Bonds** (Chapter 4): The neuroscience of why you got hooked and why leaving is so hard
 - **Understanding Narcissist Types** (Chapter 5): The different presentations of narcissism
 - **The Masks They Wear** (Chapter 6): 12 identity roles narcissists adopt
@@ -376,14 +382,17 @@ This book contains 19 chapters organized into these key areas:
 - **Understanding Your Childhood Patterns** (Chapter 10): How early experiences shape adult vulnerability
 
 **Part III: Patterns in Context**
+
 - **Romantic Manipulation** (Chapter 11): How control adapts to intimacy
 - **Manipulation Across Contexts** (Chapter 12): Recognizing patterns in work, friendships, and other arenas
 - **The Exposure Questions** (Chapter 13): Questions that make narcissists reveal themselves
 
 **Part IV: Decoder Tools**
+
 - **Decoder Cards** (Chapter 14): 60 quick-reference cards for real-time pattern recognition—from core patterns to advanced tactics to emergency protocols
 
 **Part V: Recovery & Response**
+
 - **Energetic Remapping** (Chapter 15): Practical tools for rewiring your nervous system
 - **Practical Responses & Scripts** (Chapter 16): Scripts and strategies for real-life situations
 - **Moving Forward** (Chapter 17): How to close chapters and begin new ones
@@ -458,6 +467,5 @@ Let's begin.
 
 ---
 
-*"The truth will set you free, but first it will piss you off."*
+_"The truth will set you free, but first it will piss you off."_
 — Gloria Steinem
-

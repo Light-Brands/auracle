@@ -26,7 +26,7 @@ This chapter provides practical tools for rewiring your responses, for teaching 
 >
 > **Recognize the window of tolerance.** Recovery work should stay within the zone where clients feel challenged but not overwhelmed. Flooding is counterproductive.
 >
-> *These tools can be used in session or assigned as homework. Consistency matters more than duration.*
+> _These tools can be used in session or assigned as homework. Consistency matters more than duration._
 
 ---
 
@@ -76,9 +76,10 @@ When the loop activates, use this sequence:
 
 Say to yourself: "This feeling belongs to that old dynamic, not to me."
 
-Labeling breaks identification. When you name the experience as a *pattern* rather than a *truth*, you create distance. You become the observer of the activation rather than the victim of it.
+Labeling breaks identification. When you name the experience as a _pattern_ rather than a _truth_, you create distance. You become the observer of the activation rather than the victim of it.
 
 Specific labeling helps even more:
+
 - "This is the shame that was deposited in me"
 - "This is hypervigilance from when I wasn't safe"
 - "This is the loop that happens after interactions with controlling people"
@@ -87,7 +88,7 @@ The name matters less than the act of naming.
 
 ### Step 2: Ground Physically
 
-Your body needs to know it's safe *now*, not just in theory.
+Your body needs to know it's safe _now_, not just in theory.
 
 **Grounding techniques:**
 
@@ -95,7 +96,9 @@ Your body needs to know it's safe *now*, not just in theory.
 
 **5-4-3-2-1:** Name five things you see, four you hear, three you feel, two you smell, one you taste. This brings attention to present-moment sensory reality.
 
-**Long exhale:** Breathe in for 4 counts, out for 8 counts. The extended exhale activates the parasympathetic nervous system, the "rest and digest" mode that calms activation.
+**Long exhale:** Breathe in for 4 counts, out for 8 counts. The extended exhale activates the parasympathetic nervous system, the "rest and digest" mode that calms activation.[^breathing-research]
+
+[^breathing-research]: Stanford Medicine researchers (Balban et al., 2023) found that a brief daily practice of "cyclic sighing" — deliberate breathing with an emphasized, prolonged exhale — produced greater reductions in anxiety and greater improvements in mood than matched-duration mindfulness meditation. Earlier physiology work indexed in PMC corroborates the mechanism: prolonged expiratory breathing shifts autonomic balance toward parasympathetic activation.
 
 **Cold water:** Run cold water on your wrists or splash your face. The sensation interrupts the loop and brings you present.
 
@@ -106,6 +109,7 @@ Your body needs to know it's safe *now*, not just in theory.
 Write down or say aloud three qualities that are true about you regardless of anyone's evaluation.
 
 These are attributes no one can give you and no one can take away:
+
 - "I am empathic"
 - "I am discerning"
 - "I have integrity"
@@ -118,20 +122,21 @@ The narcissist destabilized your sense of self by making your worth contingent o
 
 Each time your mind replays a specific comment or moment, translate it into pattern language:
 
-Instead of: *Replaying the exact hurtful words*
+Instead of: _Replaying the exact hurtful words_
 Try: "That was shame inversion."
 
-Instead of: *Rehearsing what you should have said*
+Instead of: _Rehearsing what you should have said_
 Try: "That was a gaslight loop. There's no winning response to a gaslight loop."
 
-Instead of: *Analyzing whether they were right*
+Instead of: _Analyzing whether they were right_
 Try: "That was comparison as control."
 
 This does two things:
+
 1. **Interrupts the loop**—You give your brain something to do besides replay
 2. **Consolidates learning**—Each translation strengthens your pattern recognition
 
-*Every time you name the pattern instead of reliving it, your nervous system learns a new route home.*
+_Every time you name the pattern instead of reliving it, your nervous system learns a new route home._
 
 ---
 
@@ -204,7 +209,7 @@ The core idea is simple: become so boring that you're not worth manipulating. Yo
 
 This isn't about being rude—it's about being unrewarding. Narcissists need supply. When you stop providing it, interactions become less appealing to them.
 
-*For detailed scripts and advanced communication strategies, see Chapter 16: Practical Responses & Scripts.*
+_For detailed scripts and advanced communication strategies, see Chapter 16: Practical Responses & Scripts._
 
 ---
 
@@ -229,6 +234,7 @@ Sometimes you need to disconnect from someone without anger or vengeance, simply
 ### The Practice
 
 You can hold both truths:
+
 - This person harmed me
 - This person is a human being doing the best they can from their level of consciousness
 
@@ -263,6 +269,7 @@ A resource is anything that helps you feel grounded, calm, or connected.
 **Practice:** Identify your resources, people, places, memories, sensations, objects. When activated, deliberately bring a resource to mind. Feel it in your body, not just your thoughts.
 
 Examples:
+
 - A person who loves you
 - A place where you feel safe
 - A memory of accomplishment
@@ -292,7 +299,7 @@ For moments when you need immediate regulation, the key techniques include:
 - **The Cold Reset** — Hold ice cubes to interrupt the activation loop
 - **The Vocal Release** — Sigh, hum, or vocalize to engage the vagus nerve
 
-*For detailed instructions on each technique, see Chapter 16's Quick Grounding Techniques section.*
+_For detailed instructions on each technique, see Chapter 16's Quick Grounding Techniques section._
 
 ---
 
@@ -303,21 +310,25 @@ Healing isn't a single event, it's a process that unfolds over time. A daily pra
 Consider including:
 
 **Morning:**
+
 - Grounding before checking phone or engaging with others
 - Affirming core qualities ("I am...")
 - Setting intention for how you want to show up
 
 **Throughout the Day:**
+
 - Noticing when activation arises
 - Using 4-step process as needed
 - Brief grounding between activities
 
 **Evening:**
+
 - Processing the day (journaling, talking, art)
 - Completing any activation that arose
 - Gratitude for what went well
 
 **Weekly:**
+
 - Deeper practices (therapy, bodywork, meditation)
 - Connection with safe people
 - Review of patterns and progress
@@ -345,25 +356,30 @@ Practice this daily when calm so it becomes automatic when triggered.
 For sustained recovery, commit to this daily protocol for 21 days:
 
 **Morning (5–10 min):**
+
 - Grounding exercise before phone
 - Set intention: "I choose safety in my body today"
 - Three qualities affirmation: "I am [discerning], [strong], [clear]"
 
 **Midday check-in (2 min):**
+
 - Pause. Breathe. Where is tension?
 - Release one area deliberately (drop your shoulders, unclench your jaw, soften your stomach, wherever you found tightness)
 - Drink water
 
 **After any activation (5–15 min):**
+
 - Four-step remapping process
 - Journal briefly: What happened? Which pattern? How did I respond?
 
 **Evening (10 min):**
+
 - Review the day: Wins? Triggers? Patterns?
 - Shake or move to discharge any residual activation
 - Gratitude: three things, no matter how small
 
 **Weekly:**
+
 - Longer somatic practice (yoga, breathwork, massage)
 - Connection with safe person
 - Celebrate progress
@@ -377,6 +393,7 @@ By day 21, these become automatic. Your baseline shifts. The old patterns have l
 These practices support healing but don't replace professional help when needed.
 
 Consider seeking a therapist if:
+
 - You're experiencing persistent depression or anxiety
 - Flashbacks or intrusive memories interfere with functioning
 - You're having thoughts of self-harm
@@ -384,6 +401,7 @@ Consider seeking a therapist if:
 - You want support processing specific experiences
 
 Look for therapists trained in:
+
 - **EMDR** (Eye Movement Desensitization and Reprocessing)
 - **Somatic Experiencing**
 - **Internal Family Systems (IFS)**
@@ -397,12 +415,14 @@ You deserve support. Seeking it is strength, not weakness.
 ## Chapter Summary
 
 **Key Insights:**
+
 - Manipulation affects the nervous system, not just thoughts
 - The body stores patterns that the mind may have already understood
 - Post-encounter symptoms (agitation, loops, shame) are echoes, not current threats
 - Recovery requires body-based practices, not just understanding
 
 **Core Practices:**
+
 1. **Four-Step Remapping:** Identify → Ground → Reclaim → Translate
 2. **Breaking Shame:** Return it, differentiate, witness
 3. **Detach with Love:** Release without erasing
@@ -414,5 +434,4 @@ Every time you complete a stress cycle, your nervous system recalibrates. Every 
 
 ---
 
-*Your nervous system learned these patterns to protect you. Now you're teaching it that protection looks different.*
-
+_Your nervous system learned these patterns to protect you. Now you're teaching it that protection looks different._

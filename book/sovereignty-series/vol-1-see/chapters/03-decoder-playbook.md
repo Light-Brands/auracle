@@ -15,7 +15,10 @@ This chapter is your decoder—designed for that moment when you need clarity fa
 
 **This is the complete decoder.** Every manipulation pattern in this book is catalogued here as a numbered card you can reference, screenshot, or share. There is no separate "decoder series"—this chapter IS the decoder.
 
+> **A note on counting.** You'll sometimes see the course refer to "38 tactics" and the Decoder Playbook present a smaller number of cards. That's intentional, not an error. A few conceptually adjacent tactics — variants that share the same hook, the same body signal, and the same power move — are consolidated into a single card so the field reference stays compact enough to actually use in the moment. The cards cover every tactic; some cards cover more than one.
+
 **Use this as:**
+
 - **Quick reference** when you're confused about what just happened
 - **Reality anchors** when you're doubting your perception
 - **Pattern recognition** to name what's happening while it's happening
@@ -23,6 +26,7 @@ This chapter is your decoder—designed for that moment when you need clarity fa
 - **Teaching resource** to share with others who need to see
 
 **Each card follows the same format:**
+
 - **The Pattern:** What it looks like on the surface
 - **What They Say/Do:** Specific behaviors or phrases
 - **What's Really Happening:** The underlying dynamic
@@ -48,12 +52,13 @@ This chapter is your decoder—designed for that moment when you need clarity fa
 Before you begin—and anytime you feel activated while reading—use this:
 
 **Body First (30 seconds):**
+
 1. Feel your feet on the floor. Press down.
 2. Notice five things you can see right now.
 3. Take three breaths: inhale for 4, exhale for 6.
 
 **The Master Question:**
-*"After this interaction, do I feel more myself or less myself?"*
+_"After this interaction, do I feel more myself or less myself?"_
 
 - Genuine care makes you feel larger, freer, more confident.
 - Manipulation makes you feel smaller, confused, less sure of your own reality.
@@ -64,7 +69,7 @@ That's the only test you need.
 
 # PART 1: CORE PATTERNS (Cards 0-27)
 
-*These are the most common patterns you'll encounter first. Master these before moving to advanced patterns.*
+_These are the most common patterns you'll encounter first. Master these before moving to advanced patterns._
 
 ---
 
@@ -82,6 +87,7 @@ Before we decode specific tactics, understand the meta-pattern that makes all of
 A wolf cannot approach the flock as a wolf—the sheep would flee. So it wraps itself in wool. It walks among them. It gains trust. And only when close enough to consume does it reveal its teeth.
 
 **What They Say/Do:**
+
 - "I'm only saying this because I care."
 - "I'm trying to protect you."
 - "I'm the only one being honest with you."
@@ -95,17 +101,17 @@ Control cannot approach you as control—you would reject it. So it wraps itself
 **The Disguises:**
 
 | What It Looks Like | What It Actually Is |
-|--------------------|---------------------|
-| Concern | Surveillance |
-| Care | Control |
-| Honesty | Cruelty |
-| Protection | Possession |
-| Preference | Criticism |
-| Passion | Pressure |
-| Helping | Taking over |
-| Friendship | Competition |
-| Wisdom | Superiority |
-| Vulnerability | Manipulation |
+| ------------------ | ------------------- |
+| Concern            | Surveillance        |
+| Care               | Control             |
+| Honesty            | Cruelty             |
+| Protection         | Possession          |
+| Preference         | Criticism           |
+| Passion            | Pressure            |
+| Helping            | Taking over         |
+| Friendship         | Competition         |
+| Wisdom             | Superiority         |
+| Vulnerability      | Manipulation        |
 
 **How It Hooks You:**
 The clothing works because it activates your values against you. You value care, so you accept surveillance. You value honesty, so you accept cruelty. You value protection, so you accept possession. The wolf studies what you value and wears it.
@@ -113,14 +119,14 @@ The clothing works because it activates your values against you. You value care,
 **Your Power Move:**
 Stop looking at the clothing. Start noticing the impact.
 
-Ask yourself: *"After this interaction, do I feel more myself or less myself?"*
+Ask yourself: _"After this interaction, do I feel more myself or less myself?"_
 
 **Why This Card Comes First:**
 Every card that follows is a specific disguise. Gaslighting is a wolf. Love-bombing is a wolf. Triangulation is a wolf. They wear different clothing, but they share one purpose: to get close enough to consume.
 
 Once you see this meta-pattern, you'll recognize new wolves you've never encountered before—because you'll stop being distracted by the clothing.
 
-> *"Trust what your body knows before your mind has caught up."*
+> _"Trust what your body knows before your mind has caught up."_
 
 ---
 
@@ -134,7 +140,7 @@ Once you see this meta-pattern, you'll recognize new wolves you've never encount
 
 A prince searches for a "real" princess. Many come, but none are authentic enough. Then one arrives, drenched in rain, claiming to be royalty. To test her, the queen places a single pea under twenty mattresses. The princess sleeps terribly. Her discomfort proves her worth.
 
-We read this as a story about sensitivity as proof of breeding. But notice: someone *deliberately* placed an irritant under her bed. Someone *designed* her discomfort to see how she'd respond. Her rest was sabotaged to test whether she was good enough.
+We read this as a story about sensitivity as proof of breeding. But notice: someone _deliberately_ placed an irritant under her bed. Someone _designed_ her discomfort to see how she'd respond. Her rest was sabotaged to test whether she was good enough.
 
 This is interruption as dominance. You're trying to rest, to focus, to do something for yourself. And there's always a pea—a noise, a question, an emergency, a need. Not because you can't be comfortable, but because your comfort is being tested. Your peace is being measured. Your ability to ignore the irritant determines whether you're worthy of rest.
 
@@ -147,6 +153,7 @@ This is interruption as dominance. You're trying to rest, to focus, to do someth
 **The Pattern:** They interrupt your focused activities
 
 **What They Say/Do:**
+
 - Interrupting your meditation, reading, sleep, phone call, or work
 - Creating noise when you're trying to concentrate
 - Starting conversations the moment you begin something for yourself
@@ -162,7 +169,7 @@ You feel guilty for wanting solitude. You start to believe your needs for focus 
 **Your Power Move:**
 "I'm going to finish this. We can talk when I'm done." Then finish. Do not explain, justify, or apologize for having your own activities. Your attention is yours to direct.
 
-> *"They'll break your meditation to prove your focus belongs to them."*
+> _"They'll break your meditation to prove your focus belongs to them."_
 
 ---
 
@@ -185,6 +192,7 @@ The tragedy: eventually, something real might happen. But by then, the boy has c
 **The Pattern:** Creating anxiety through ominous announcements
 
 **What They Say/Do:**
+
 - "We need to talk" (with no context)
 - "I have something important to discuss"
 - Creating artificial emergencies requiring immediate attention
@@ -207,7 +215,7 @@ Anxiety spikes immediately. You drop everything. You start rehearsing what you m
 
 The North Wind and the Sun argue about who is more powerful. They agree to a contest: whoever can make a traveler remove his cloak wins. The Wind blows with all his might—but the harder he blows, the tighter the traveler wraps his cloak. The Sun simply shines warmly, and the traveler removes his cloak willingly.
 
-We're taught this is about gentleness versus force. But read it differently: The Wind doesn't understand that force creates resistance. He thinks if he just blows *harder*, he'll get what he wants. When it doesn't work, he blows harder still. His strategy is volume—overwhelming force—and he can't imagine another way.
+We're taught this is about gentleness versus force. But read it differently: The Wind doesn't understand that force creates resistance. He thinks if he just blows _harder_, he'll get what he wants. When it doesn't work, he blows harder still. His strategy is volume—overwhelming force—and he can't imagine another way.
 
 This is volume as victory. When logic fails, they get louder. When you don't agree, they repeat themselves with more intensity. They believe if they just blow hard enough, you'll take off the cloak. They don't realize you're clutching it tighter with every gust.
 
@@ -220,6 +228,7 @@ This is volume as victory. When logic fails, they get louder. When you don't agr
 **The Pattern:** Getting loud to win
 
 **What They Say/Do:**
+
 - Raised voice
 - Talking over you
 - Repeating the same point louder
@@ -238,7 +247,7 @@ Lower your voice instead of raising it. Or stop speaking entirely. "I'm pausing 
 
 **Grounding in the moment:** If volume has activated your nervous system, excuse yourself to the bathroom. Run cold water over your wrists. Take five slow breaths. Return only when you feel your feet on the ground.
 
-> *"They don't shout because they're angry—they shout to rewrite the room's frequency."*
+> _"They don't shout because they're angry—they shout to rewrite the room's frequency."_
 
 ---
 
@@ -263,6 +272,7 @@ The wolf doesn't have to bite until he's ready. The threat of his teeth is enoug
 **The Pattern:** Using physical presence as a threat
 
 **What They Say/Do:**
+
 - Getting physically close when angry—invading your space
 - Standing over you, blocking doorways
 - Making a fist near you (not hitting, just showing)
@@ -284,7 +294,7 @@ Document everything: write down dates, what happened, what was said. Tell someon
 
 This is not something you manage—this is something you get safe from.
 
-> *"The threat is the tactic. You don't have to be hit to be controlled by the possibility."*
+> _"The threat is the tactic. You don't have to be hit to be controlled by the possibility."_
 
 ---
 
@@ -307,6 +317,7 @@ The chaos isn't accidental. It's the environment that makes control invisible. Y
 **The Pattern:** Constant crisis and disorder
 
 **What They Say/Do:**
+
 - Their environment is consistently messy, loud, or crisis-filled
 - There's always something going wrong
 - Always some drama demanding attention
@@ -322,7 +333,7 @@ You become the one who manages, cleans, fixes, soothes. Your energy goes toward 
 **Your Power Move:**
 Stop trying to organize their chaos. Create clear, protected space for yourself—even if it's just one room, one corner, one hour. Chaos is their problem, not yours to solve.
 
-> *"Their environment reflects the chaos they refuse to clean inside."*
+> _"Their environment reflects the chaos they refuse to clean inside."_
 
 ---
 
@@ -334,7 +345,7 @@ The twist we miss: The duckling was never ugly. He was a swan among ducks, being
 
 Here's what the fairy tale doesn't say: Sometimes the ducks know exactly what they're doing. Sometimes they need someone to carry the flock's shame so they don't have to look at their own. The "ugly" one becomes the container for everything the group refuses to own.
 
-**The Decoder:** When shame arises for no clear reason, ask: *Whose shame is this, really?*
+**The Decoder:** When shame arises for no clear reason, ask: _Whose shame is this, really?_
 
 ---
 
@@ -343,6 +354,7 @@ Here's what the fairy tale doesn't say: Sometimes the ducks know exactly what th
 **The Pattern:** Making you feel ashamed of their behavior
 
 **What They Say/Do:**
+
 - "I feel bad for you"
 - "You're too sensitive"
 - "I worry about you"
@@ -384,6 +396,7 @@ This is mockery voice. They don't just disagree—they make you sound foolish fo
 **The Pattern:** Mimicking you in a mocking tone
 
 **What They Say/Do:**
+
 - Repeating your words in a whiny, exaggerated voice
 - Mimicking your expressions mockingly
 - Making your sincere statements sound ridiculous
@@ -420,6 +433,7 @@ This is financial superiority. Someone who hoards resources and uses them as lev
 **The Pattern:** Using money as control and leverage
 
 **What They Say/Do:**
+
 - Constantly referencing how much they paid for things
 - "I provide for this family"
 - "You wouldn't have this without me"
@@ -443,6 +457,7 @@ Remember: Financial contribution never entitles someone to mistreat you. Providi
 > **⏸️ PAUSE AND BREATHE**
 >
 > You've just read 8 tactics of control. This is heavy material. Before continuing:
+>
 > - Take three slow breaths (inhale for 4, exhale for 6)
 > - Notice where you're holding tension in your body
 > - Ground yourself: feel your feet, feel the surface beneath you
@@ -456,7 +471,7 @@ Remember: Financial contribution never entitles someone to mistreat you. Providi
 
 Remember the princess? Twenty mattresses. One pea. A sleepless night. The queen watches her suffer and calls it proof of worth.
 
-But here's the deeper pattern: the test was trivial. The pea was meaningless. The queen didn't need to know if the princess could feel a legume through twenty mattresses—she needed to know if the princess would *comply with being tested*.
+But here's the deeper pattern: the test was trivial. The pea was meaningless. The queen didn't need to know if the princess could feel a legume through twenty mattresses—she needed to know if the princess would _comply with being tested_.
 
 This is what trivial demand tests are really about. "Get me a glass of water." "Pick up that thing I dropped." "Come here right now." The request isn't the point. The compliance is. They're checking: Will you jump when I say jump? Will you fetch when I demand? Will you pass the test I designed to have no correct answer?
 
@@ -471,6 +486,7 @@ When you refuse the trivial demand, they explode. Not because the popsicle matte
 **The Pattern:** Small requests that test compliance
 
 **What They Say/Do:**
+
 - Small, seemingly unreasonable requests: "Get me another popsicle." "Pick that up for me." "Come here right now."
 - When you don't immediately comply, they escalate dramatically—yelling, making a scene, perhaps in front of others
 - Afterward: "If you had just done what I wanted in the first place, none of this would have happened."
@@ -505,6 +521,7 @@ Some people live in "wolf" mode. Everything is urgent. Everything is an emergenc
 **The Pattern:** Manufacturing crisis to control your time
 
 **What They Say/Do:**
+
 - "We need to talk RIGHT NOW"
 - "This can't wait"
 - "I'm in crisis" (again)
@@ -536,7 +553,7 @@ The Evil Queen doesn't ask because she wants to know. She asks because she needs
 
 This is the aesthetic seesaw in its purest form: your worth measured by someone else's reflection, your beauty existing only in relation to theirs. When the mirror says you're beautiful, she smiles. When it says someone else is more beautiful, you become a threat to be eliminated.
 
-The queen never asks, "Am I enough?" She only asks, "Am I *more*?" And that question—that endless comparison—poisons everything it touches.
+The queen never asks, "Am I enough?" She only asks, "Am I _more_?" And that question—that endless comparison—poisons everything it touches.
 
 **The Decoder:** When your beauty becomes their insecurity, you've stopped being a person and become a mirror.
 
@@ -547,6 +564,7 @@ The queen never asks, "Am I enough?" She only asks, "Am I *more*?" And that ques
 **The Pattern:** Destabilizing your relationship with your appearance
 
 **What They Say/Do:**
+
 - One day: "You're so beautiful." Next day: "I mean, looks aren't that important to me."
 - "You looked great before you gained weight."
 - "I prefer women who are [something you're not], but you're fine."
@@ -554,10 +572,10 @@ The queen never asks, "Am I enough?" She only asks, "Am I *more*?" And that ques
 - Telling you what to wear before meeting their friends or family
 - "You need to have neutral hair when we see my friends."
 - "No sparkles on your nails." "That color is too loud."
-- "You're not wearing *that*, are you?"
+- "You're not wearing _that_, are you?"
 - Critiquing your appearance in public—at the salon, in front of others
 - Deciding what's "appropriate" for your body, your age, your role
-- Treating your personal style as something that reflects on *them*
+- Treating your personal style as something that reflects on _them_
 
 **What's Really Happening:**
 They're destabilizing your self-image AND erasing your identity. By controlling when you feel attractive and when you don't, they make you dependent on their assessment. When they control how you're allowed to look, they're claiming ownership over your body and expression. Your appearance becomes a reflection of their preferences, not your authentic self.
@@ -574,11 +592,11 @@ Internal practice: Regularly affirm your own worth and aesthetic preferences wit
 
 In some cultural contexts, a partner having opinions about your hair, your clothes, your nails, your body isn't a red flag — it's expected. "He likes her to look a certain way." "She takes care of herself for him." The control is invisible because the culture agrees that your appearance belongs, at least partly, to the relationship.
 
-The decoder question stays the same: Does this make you feel *more* beautiful or *less* yourself? Do you dress the way you want, or the way that avoids a reaction? Is this collaboration or compliance?
+The decoder question stays the same: Does this make you feel _more_ beautiful or _less_ yourself? Do you dress the way you want, or the way that avoids a reaction? Is this collaboration or compliance?
 
 If you can't wear red nail polish without it becoming an argument, the issue was never the nail polish.
 
-> *"A hallmark of the Dominant Narcissist is the aesthetic seesaw: they'll praise your beauty, then downplay it, then compare you to others. The goal isn't truth; it's control of your self-image."*
+> _"A hallmark of the Dominant Narcissist is the aesthetic seesaw: they'll praise your beauty, then downplay it, then compare you to others. The goal isn't truth; it's control of your self-image."_
 
 ---
 
@@ -586,7 +604,7 @@ If you can't wear red nail polish without it becoming an argument, the issue was
 
 You know the story: the girl among ashes, chosen by the prince, lifted from nothing to everything. The glass slipper fits only her foot. She's special. She's the one.
 
-But notice the structure: Cinderella is made "special" in contrast to her stepsisters. The prince's attention isn't just about loving her—it's about *not choosing* them. Her value is defined by their rejection.
+But notice the structure: Cinderella is made "special" in contrast to her stepsisters. The prince's attention isn't just about loving her—it's about _not choosing_ them. Her value is defined by their rejection.
 
 This is how idealization works. "You're not like other women." "You're the only one who understands me." "Everyone else is terrible, but you're different." The compliment sounds like love. It's actually a warning: stay special, or join the rejected pile.
 
@@ -601,6 +619,7 @@ And notice what happens when midnight strikes. The magic evaporates. The coach b
 **The Pattern:** Making you "special" to separate you from others
 
 **What They Say/Do:**
+
 - "You're not like other women."
 - "Finally, someone who understands me."
 - "You're the only one I can talk to."
@@ -638,6 +657,7 @@ Goldilocks breaks things, eats what isn't hers, and sleeps in beds that don't be
 **The Pattern:** Nothing is ever enough
 
 **What They Say/Do:**
+
 - You address their complaint; they find a new one
 - You meet their request; the request changes
 - You solve the problem; a new problem appears that was "actually the real issue all along"
@@ -677,6 +697,7 @@ When someone constantly compares you to others—exes, friends, hypothetical alt
 **The Pattern:** Making you compete with phantoms
 
 **What They Say/Do:**
+
 - "My ex never had this problem"
 - "Most women would be grateful"
 - "[Friend's partner] is so supportive"
@@ -714,6 +735,7 @@ The cruelest part? Pinocchio's nose grows when he lies. But in relationships wit
 **The Pattern:** Love as a reward system
 
 **What They Say/Do:**
+
 - Warmth and affection appear only after you apologize, comply, perform, or submit
 - The "good version" of them is available only when you've earned it
 - Love is a reward, not a baseline
@@ -735,6 +757,7 @@ Notice when affection is conditional versus unconditional. Real love shows up ev
 > You've now covered 15 patterns—the control and validation categories.
 >
 > **Quick Tool:** If you're feeling activated, try this:
+>
 > - Place both hands on your chest
 > - Say aloud or silently: "I name what happened. Naming gives me power."
 > - Take 3 deep breaths
@@ -768,6 +791,7 @@ In relationships, you're the child. You see what's actually happening. And you'r
 **The Pattern:** Attacking your perception of reality
 
 **What They Say/Do:**
+
 - Repeated "Huh?" and "What do you mean?" responses that make you feel nonsensical
 - Denial of things they clearly said or did
 - "That never happened."
@@ -808,6 +832,7 @@ The accusations that come from nowhere—that don't match anything you've done�
 **The Pattern:** Accusing you of what they're doing
 
 **What They Say/Do:**
+
 - They accuse you of the very things they're doing
 - "You're so selfish." (They're selfish.)
 - "You're not listening." (They never listen.)
@@ -844,6 +869,7 @@ You started human-sized. Watch how small they try to make you.
 **The Pattern:** Shrinking your experience to make it dismissible
 
 **What They Say/Do:**
+
 - "It's not that big a deal."
 - "You're overreacting."
 - "It's a 15-minute fix."
@@ -866,7 +892,7 @@ You start doubting whether your feelings are proportionate. You minimize your ow
 
 The ant works all summer. The grasshopper sings. When winter comes, the ant has food; the grasshopper has nothing. The ant refuses to share. The grasshopper starves. The moral: the ant was right.
 
-But read it again. The ant isn't just practical—the ant is *righteous*. The ant's refusal to help isn't framed as cruelty; it's framed as justice. The grasshopper *deserves* to suffer because the grasshopper didn't work hard enough. The ant gets to let someone die and feel morally superior about it.
+But read it again. The ant isn't just practical—the ant is _righteous_. The ant's refusal to help isn't framed as cruelty; it's framed as justice. The grasshopper _deserves_ to suffer because the grasshopper didn't work hard enough. The ant gets to let someone die and feel morally superior about it.
 
 This is how righteous justification works. Cruelty wears the costume of wisdom. "I'm just being honest." "Someone has to tell you the truth." "This is for your own good." The person delivering harm positions themselves as the noble truth-teller, the responsible one, the adult in the room—while you're the grasshopper who brought this on yourself.
 
@@ -879,6 +905,7 @@ This is how righteous justification works. Cruelty wears the costume of wisdom. 
 **The Pattern:** Cruelty dressed as virtue
 
 **What They Say/Do:**
+
 - "I'm just being honest."
 - "Someone needs to tell you the truth."
 - "This is for your own good."
@@ -915,6 +942,7 @@ This is reversal of blame. "Look what you made me do." "If you hadn't left the b
 **The Pattern:** Making your response the problem
 
 **What They Say/Do:**
+
 - "Look what you made me do."
 - "If you hadn't [action], I wouldn't have [reaction]."
 - "You pushed me to this."
@@ -951,6 +979,7 @@ The fool isn't funny. He's found a loophole.
 **The Pattern:** Hostility disguised as jokes
 
 **What They Say/Do:**
+
 - The cutting remark followed by "I'm just kidding."
 - The embarrassing story told in front of others "as a joke."
 - The nickname that stings.
@@ -1005,6 +1034,7 @@ This is how control operates in intimate territory. The intensity feels like pas
 **The Pattern:** Mixing anger with sexual territory
 
 **What They Say/Do:**
+
 - When anger shifts into sexual territory
 - Commands or demands that feel more about power than desire
 - Making you feel that obedience equals attraction
@@ -1040,6 +1070,7 @@ The Snow Queen doesn't force the boy to stay. She doesn't have to. The ice in hi
 **The Pattern:** Using affection as a control lever
 
 **What They Say/Do:**
+
 - Affection disappears when you displease them
 - Physical warmth is rationed based on your behavior
 - Touch becomes a reward rather than a given
@@ -1064,7 +1095,7 @@ The town doesn't pay what they promised. So the Piper takes the children into a 
 
 This is love-bombing. The music is so beautiful, so intoxicating, you don't ask where it's leading. You follow because the experience is overwhelming—more intense than anything you've felt. By the time you realize the destination, you're already inside the mountain.
 
-The Piper doesn't drag anyone. He doesn't force. He *enchants*. And the enchantment is the trap.
+The Piper doesn't drag anyone. He doesn't force. He _enchants_. And the enchantment is the trap.
 
 **The Decoder:** If the music is too beautiful to question, that's exactly when you should question it.
 
@@ -1075,6 +1106,7 @@ The Piper doesn't drag anyone. He doesn't force. He *enchants*. And the enchantm
 **The Pattern:** Excessive flattery and intensity early on
 
 **What They Say/Do:**
+
 - Intense attention at the beginning
 - "You're the most amazing person I've ever met."
 - "I've never felt this way."
@@ -1112,6 +1144,7 @@ Karen didn't need to lose her feet. She needed someone who loved her in whatever
 **The Pattern:** Weaponizing "preferences" into criticism
 
 **What They Say/Do:**
+
 - "I'm just more attracted to petite women."
 - "I prefer natural beauty."
 - "You'd look better if you..."
@@ -1153,6 +1186,7 @@ You're not imagining things. You're seeing the grandmother in the tower. You're 
 **The Pattern:** Dismissing your intuition
 
 **What They Say/Do:**
+
 - "I don't believe in that stuff."
 - "You're imagining things."
 - "That's all in your head."
@@ -1170,7 +1204,7 @@ You doubt your intuition. You stop trusting the subtle signals that tell you som
 **Your Power Move:**
 "My perception is valid whether or not you share it." You don't need their agreement to trust what you feel.
 
-> *"When you said 'your energy feels bad,' you named what they were trying to hide—and that threatened them."*
+> _"When you said 'your energy feels bad,' you named what they were trying to hide—and that threatened them."_
 
 ---
 
@@ -1191,6 +1225,7 @@ This is control through fatigue. When you're exhausted enough, you stop fighting
 **The Pattern:** Using exhaustion as a control tool
 
 **What They Say/Do:**
+
 - Late-night arguments that go for hours
 - Constant contact that leaves no room for rest
 - Emotional intensity that depletes your reserves
@@ -1213,6 +1248,7 @@ Protect your rest fiercely. Arguments that "have to happen tonight" almost never
 > You've now covered Cards 0-27—the core patterns most people encounter first.
 >
 > **Before continuing to Part 2:**
+>
 > - Take a significant break (hours or a day)
 > - Practice the grounding protocol
 > - Review any cards that felt particularly activating
@@ -1223,7 +1259,7 @@ Protect your rest fiercely. Arguments that "have to happen tonight" almost never
 
 # PART 2: ADVANCED PATTERNS (Cards 28-51)
 
-*These patterns are more sophisticated, often appearing during exit attempts or in specialized contexts. Read after mastering Core Patterns.*
+_These patterns are more sophisticated, often appearing during exit attempts or in specialized contexts. Read after mastering Core Patterns._
 
 **Reading Time:** ~30 minutes
 
@@ -1257,6 +1293,7 @@ You're so busy being moved that you become the caretaker instead of holding them
 
 **What They Say/Do:**
 When confronted about lying, cheating, or crossing a boundary, instead of apologizing:
+
 - "I always ruin the good things."
 - "I don't know why I'm like this."
 - "I'm broken."
@@ -1268,6 +1305,7 @@ When confronted about lying, cheating, or crossing a boundary, instead of apolog
 This isn't a confession—it's a deflection. The emotional burden shifts from them being harmful to them being hurt. They'd rather be the victim, the tragic antihero, the "broken person" than the one who caused harm.
 
 **The Structure (Always the Same):**
+
 1. **Gets caught / exposed** — Behavior is confronted
 2. **Plays helpless victim** — "I ruin everything"
 3. **Emotional disarmament** — You shift from anger → compassion
@@ -1284,7 +1322,7 @@ If they say "I sabotage myself," respond: "That's something you'll need to work 
 
 Hold accountability steady: "Regardless of why, the action was wrong."
 
-> *"Their 'I'm broken' isn't vulnerability—it's a strategy to make you the caretaker of the person who hurt you."*
+> _"Their 'I'm broken' isn't vulnerability—it's a strategy to make you the caretaker of the person who hurt you."_
 
 ---
 
@@ -1295,6 +1333,7 @@ Hold accountability steady: "Regardless of why, the action was wrong."
 **The Pattern:** Emotional hostage-taking through self-harm threats
 
 **What They Say/Do:**
+
 - "If you leave, I'll kill myself."
 - "I can't live without you."
 - "I'll jump off this balcony right now."
@@ -1311,12 +1350,13 @@ You're terrified something will happen and it will be your fault. You stay to ke
 You are not responsible for another adult's choice to live or die. This is emotional hostage-taking, and it's a form of abuse.
 
 If they threaten suicide:
+
 - Call emergency services or a crisis line immediately (for current hotlines, visit [companion website URL])
 - Contact their family or friends
 - Do not try to manage this yourself
 - Then still leave if you need to leave
 
-> *"Making you responsible for their life is the ultimate control. You cannot save someone by sacrificing yourself."*
+> _"Making you responsible for their life is the ultimate control. You cannot save someone by sacrificing yourself."_
 
 ---
 
@@ -1339,6 +1379,7 @@ When you object, you're the one who's "not evolved enough" to understand.
 **The Pattern:** Hiding harmful behavior behind spiritual language
 
 **What They Say/Do:**
+
 - Vices reframed as "medicine" or "coping"
 - Destructive behavior explained with spiritual language
 - "I'm just being authentic."
@@ -1355,12 +1396,12 @@ Spirituality is being used as a shield against accountability. By wrapping harmf
 **The Workplace Variant:** This pattern is especially potent in professional settings where someone uses growth language to pathologize a colleague's personality. They provoke — then when you react, your reaction becomes a spiritual diagnosis. Your directness is "dissonance." Your passion is "specks of dust." Your frustration at broken systems is evidence that you haven't evolved. Meanwhile, the behavior that provoked four people goes unexamined — because the conversation is now about what's wrong with you. This isn't feedback. It's frame control using the vocabulary of healing.
 
 **How It Hooks You:**
-You feel like you can't challenge behavior that's dressed up as growth. You doubt your own "level of consciousness" for seeing harm. You enable in the name of supporting their journey. If you're someone who values growth, you're especially vulnerable — because you *want* to examine yourself. They exploit that willingness by making your self-examination the permanent subject, so their behavior is never the subject.
+You feel like you can't challenge behavior that's dressed up as growth. You doubt your own "level of consciousness" for seeing harm. You enable in the name of supporting their journey. If you're someone who values growth, you're especially vulnerable — because you _want_ to examine yourself. They exploit that willingness by making your self-examination the permanent subject, so their behavior is never the subject.
 
 **Your Power Move:**
-Real spirituality increases accountability, not decreases it. Watch for the gap between their words and their impact. Ask: "If this person's feedback consistently requires me to be *less* of who I am — is this growth, or is this erasure?"
+Real spirituality increases accountability, not decreases it. Watch for the gap between their words and their impact. Ask: "If this person's feedback consistently requires me to be _less_ of who I am — is this growth, or is this erasure?"
 
-*See also: Vignette: "The Spiritual Diagnosis"; Volume 7, Chapter 10 (The Spiritual Arbiter)*
+_See also: Vignette: "The Spiritual Diagnosis"; Volume 7, Chapter 10 (The Spiritual Arbiter)_
 
 ---
 
@@ -1383,6 +1424,7 @@ But when you pull back the curtain, there's just a person—no wiser than you, n
 **The Pattern:** Becoming the interpreter of your inner world
 
 **What They Say/Do:**
+
 - They tell you what your intuition means
 - They interpret your dreams, feelings, experiences
 - They position themselves as having greater spiritual insight
@@ -1426,6 +1468,7 @@ The help was real. The debt is also real. But notice: you were in that desperate
 **The Pattern:** Converting past kindness into leverage
 
 **What They Say/Do:**
+
 - "After everything I've done for you."
 - "Remember when I helped you with...?"
 - "I bought you that [thing]."
@@ -1461,6 +1504,7 @@ This is the pre-emptive smear in reverse—flattery used to isolate you from wha
 **The Pattern:** Undermining your support system before you need it
 
 **What They Say/Do:**
+
 - They criticize your friends before you've confided in them
 - They question your therapist's qualifications
 - They suggest your family doesn't really understand you
@@ -1498,6 +1542,7 @@ Midas thought his golden touch made him valuable. He didn't understand that it m
 **The Pattern:** Ego reassertion after threatened control
 
 **What They Say/Do:**
+
 - "Any other woman would be grateful."
 - "You don't know how good you have it."
 - "Good luck finding someone who puts up with you."
@@ -1524,7 +1569,7 @@ In individualist contexts, this is one voice — the narcissist's. In collectivi
 - The bubbe: "Your grandfather survived the camps. He would have given anything for a family. And you want to throw yours away?"
 - The culture: "She left a good man." "He broke up his family." "She's so dramatic."
 
-The cruelest part: the community often isn't wrong about the practical reality. In a small congregation, a tight queer scene, an immigrant community with limited social mobility — the options *are* fewer. The narcissist's lie ("no one else will want you") gets propped up by a structural truth ("the pool is small and leaving has real costs"). The manipulation and the math overlap just enough to trap you.
+The cruelest part: the community often isn't wrong about the practical reality. In a small congregation, a tight queer scene, an immigrant community with limited social mobility — the options _are_ fewer. The narcissist's lie ("no one else will want you") gets propped up by a structural truth ("the pool is small and leaving has real costs"). The manipulation and the math overlap just enough to trap you.
 
 **The decoder for the chorus:** When everyone around you says you can't do better, ask: who benefits from you believing that? Not you. Not them. The person who never has to change because the whole world tells you to stay.
 
@@ -1547,6 +1592,7 @@ The difference: the princess's silence is sacrifice for love. Their silence is p
 **The Pattern:** Silence and coldness as control
 
 **What They Say/Do:**
+
 - Silence. One-word answers. Cold acknowledgment.
 - Physically present but emotionally gone
 - "Fine." (period, no warmth)
@@ -1566,7 +1612,7 @@ Don't chase. Name it: "I notice you're withdrawn. I'm here when you're ready to 
 
 **Key truth:** An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
 
-> *"When I owned my part and silence followed, I realized the apology wasn't the bridge—it was the boundary."*
+> _"When I owned my part and silence followed, I realized the apology wasn't the bridge—it was the boundary."_
 
 ---
 
@@ -1589,6 +1635,7 @@ They're not keeping your things because they want them. They're keeping the stor
 **The Pattern:** Using your possessions as leverage
 
 **What They Say/Do:**
+
 - After separation, they won't return your things
 - They make excuses, delay, create complications
 - Getting your belongings back becomes ongoing negotiation
@@ -1623,6 +1670,7 @@ Rapunzel doesn't even know she's trapped. She thinks the tower is home. She thin
 **The Pattern:** Surveillance disguised as care
 
 **What They Say/Do:**
+
 - "Just checking on you."
 - "I was worried about you."
 - "I noticed you haven't texted."
@@ -1637,7 +1685,7 @@ You feel touched that someone cares. Questioning their concern feels ungrateful.
 **Your Power Move:**
 "I'm fine. I'll reach out if I need anything." Don't explain or provide details. Caring people trust your ability to manage yourself.
 
-> *"Control rarely storms the gate; it flatters its way inside."*
+> _"Control rarely storms the gate; it flatters its way inside."_
 
 ---
 
@@ -1646,6 +1694,7 @@ You feel touched that someone cares. Questioning their concern feels ungrateful.
 > You've covered the post-encounter tactics. Before continuing to the final section:
 >
 > **First Aid:** If this content activated crisis memories:
+>
 > - You are safe right now
 > - These are words on a page about patterns—you are not in that situation right now
 > - If you need support, contact your local emergency services or a domestic violence hotline in your country (for current resources, visit [companion website URL])
@@ -1675,6 +1724,7 @@ This is the "Huh?" loop. You explain something clearly. They say "What?" You exp
 **The Pattern:** Manufactured confusion
 
 **What They Say/Do:**
+
 - Repeated confusion responses when you express yourself clearly
 - "Huh? What do you mean?"
 - "That doesn't make sense."
@@ -1691,7 +1741,7 @@ You try harder to be understood. You question your communication skills. You ove
 **Your Power Move:**
 Don't elaborate or re-explain. "I was clear. Let me know when you're ready to engage with what I said." Their confusion is their problem, not yours to solve.
 
-> *"When someone pretends not to understand you, they're refusing to meet you—not failing to grasp you."*
+> _"When someone pretends not to understand you, they're refusing to meet you—not failing to grasp you."_
 
 ---
 
@@ -1712,6 +1762,7 @@ This is what happens after you send the vulnerable apology, the heartfelt repair
 **The Pattern:** Withholding after you've taken responsibility
 
 **What They Say/Do:**
+
 - After you send a sincere apology, they don't engage with the content
 - Contact becomes minimal, flat, or symbolic only
 - "Happy birthday." (period, no warmth)
@@ -1745,6 +1796,7 @@ This is information control. They tell you partial truths. They tell different s
 **The Pattern:** Controlling what you know
 
 **What They Say/Do:**
+
 - Giving you incomplete information
 - Telling different stories to different people
 - "I didn't think you needed to know."
@@ -1781,6 +1833,7 @@ Real vulnerability invites connection. Strategic vulnerability manipulates it.
 **The Pattern:** Using "openness" to manipulate
 
 **What They Say/Do:**
+
 - Sharing deep secrets early to create false intimacy
 - Crying or showing emotion to stop accountability conversations
 - "I'm being so vulnerable with you right now."
@@ -1816,6 +1869,7 @@ And then they eat you anyway.
 **The Pattern:** Apologies that aren't really apologies
 
 **What They Say/Do:**
+
 - "I'm sorry you feel that way."
 - "I'm sorry, but..."
 - "I apologize if you were hurt."
@@ -1837,7 +1891,7 @@ A real apology sounds like: "I was wrong. I hurt you. I won't do it again." Anyt
 
 A princess drops her golden ball into a well. A frog retrieves it—for a promise. "Let me eat from your plate, sleep on your pillow, be your companion." She agrees. She has no intention of keeping the promise.
 
-The frog follows her home, demanding what was promised. In some versions, she kisses him and he transforms. In older versions, she throws him against a wall in disgust—and *that's* what breaks the spell. Either way, the frog becomes a prince.
+The frog follows her home, demanding what was promised. In some versions, she kisses him and he transforms. In older versions, she throws him against a wall in disgust—and _that's_ what breaks the spell. Either way, the frog becomes a prince.
 
 This is future faking in reverse—but the structure is the same. "Do this now, and something magical will happen later." "Kiss me and I'll become who you really want." "Stay with me and I'll transform." The promise of transformation is always just out of reach. The potential is always more compelling than the reality.
 
@@ -1852,6 +1906,7 @@ Some frogs never become princes. Some stay frogs forever, demanding you keep kis
 **The Pattern:** Promising a future that never comes
 
 **What They Say/Do:**
+
 - Grandiose promises about the future
 - "When we get married..."
 - "After I get this promotion..."
@@ -1875,7 +1930,7 @@ Little Bo Peep has lost her sheep and doesn't know where to find them. Leave the
 
 Bo Peep never finds the sheep. She doesn't look for them. She stands there, helpless, and waits for them to return on their own.
 
-This is the victim narrative—but not the version you'd expect. Bo Peep isn't oppressed. She's the shepherd. The sheep were *her* responsibility. But instead of looking for them, she positions herself as the one who lost something. Poor me. The sheep left. What can I do?
+This is the victim narrative—but not the version you'd expect. Bo Peep isn't oppressed. She's the shepherd. The sheep were _her_ responsibility. But instead of looking for them, she positions herself as the one who lost something. Poor me. The sheep left. What can I do?
 
 "You never support me." "Everyone always abandons me." "I'm always the one who gets hurt." The person who caused the problem becomes the one who suffers from it. The shepherd becomes the victim. And you become the sheep who must return, wagging your tail, to comfort the person who lost you in the first place.
 
@@ -1888,6 +1943,7 @@ This is the victim narrative—but not the version you'd expect. Bo Peep isn't o
 **The Pattern:** Everything happens TO them
 
 **What They Say/Do:**
+
 - Every story positions them as victim
 - Ex-partners were all "crazy"
 - Bosses were all "unfair"
@@ -1922,6 +1978,7 @@ By the time the camel is inside the tent, there's no single moment you can point
 **The Pattern:** Small violations that escalate
 
 **What They Say/Do:**
+
 - Small boundary pushes that seem minor
 - "Just this once."
 - "Don't be so rigid."
@@ -1951,7 +2008,7 @@ He does. The pig runs. The wolf follows. Second house—same story. Third house:
 
 This is hoovering. You build a wall. They blow it down. You build a stronger wall. They try a new angle. You leave—they follow. You block them—they find another way in. The wolf doesn't give up after the first house. Or the second. He keeps coming until he physically can't anymore.
 
-The third pig's house isn't just brick. It's *no more entry points*. No doors left open. No chimneys unguarded. Complete protection—because the wolf will try every opening until none remain.
+The third pig's house isn't just brick. It's _no more entry points_. No doors left open. No chimneys unguarded. Complete protection—because the wolf will try every opening until none remain.
 
 **The Decoder:** They don't stop because you asked. They stop when you remove all points of access.
 
@@ -1962,6 +2019,7 @@ The third pig's house isn't just brick. It's *no more entry points*. No doors le
 **The Pattern:** Pulling you back in after you've left
 
 **What They Say/Do:**
+
 - Contact after periods of silence
 - "I've changed."
 - "I've been thinking about you."
@@ -1999,6 +2057,7 @@ This is the long game. Not the aggressive predator who lunges. The patient one w
 **The Pattern:** Patience as a manipulation strategy
 
 **What They Say/Do:**
+
 - Waiting months or years before making a move
 - Building trust slowly to exploit later
 - "I've always been there for you."
@@ -2032,6 +2091,7 @@ The monkeys may be family, friends, coworkers—anyone who's been recruited, con
 **The Pattern:** Recruiting others to do their bidding
 
 **What They Say/Do:**
+
 - Mutual friends relay messages
 - Family members pressure you on their behalf
 - "They feel terrible. Maybe you should talk to them."
@@ -2057,7 +2117,7 @@ In individualist systems, you assume a therapist is yours, a pastor is spiritual
 
 **Why the distinction matters for the decoder:** Flying monkeys can sometimes be redirected — "tell them to talk to me directly" works when the messenger is peripheral. Captured professionals often can't be redirected, because they were never separate from the family to begin with. The decoder move is different: you may need to find someone outside the system entirely to hold the neutral role they cannot hold.
 
-*Ch 7 and Ch 8 explore what this feels like in the room.*
+_Ch 7 and Ch 8 explore what this feels like in the room._
 
 ---
 
@@ -2080,6 +2140,7 @@ This is the grand gesture. The flowers after the fight. The public apology. The 
 **The Pattern:** Big displays that substitute for real change
 
 **What They Say/Do:**
+
 - Expensive gifts after harmful behavior
 - Public declarations of love
 - Dramatic gestures that draw attention
@@ -2103,7 +2164,7 @@ A mermaid falls in love with a human prince. To be with him, she trades her voic
 
 The prince doesn't choose her. He marries someone else. In the original story, the mermaid dissolves into sea foam.
 
-This is identity erosion. To be acceptable, to be loved, to belong—you give up your voice. You give up what makes you *you*. You walk on knives and smile. You become what they want, hoping it will be enough.
+This is identity erosion. To be acceptable, to be loved, to belong—you give up your voice. You give up what makes you _you_. You walk on knives and smile. You become what they want, hoping it will be enough.
 
 It's never enough. Because the person they fell in love with isn't you anymore. It's the version of you that erased herself to fit. And once you're foam, you can't un-dissolve.
 
@@ -2116,6 +2177,7 @@ It's never enough. Because the person they fell in love with isn't you anymore. 
 **The Pattern:** Slowly dissolving your sense of self
 
 **What They Say/Do:**
+
 - Subtle criticism of things that make you "you"
 - Discouraging your interests, friends, style
 - "You're not really a [painter/runner/etc.]"
@@ -2152,6 +2214,7 @@ The discard isn't always dramatic. Sometimes it's just: they leave, and they don
 **The Pattern:** Abandonment without closure
 
 **What They Say/Do:**
+
 - Sudden ending with no explanation
 - Replaced immediately with someone new
 - Acting like you never mattered
@@ -2174,6 +2237,7 @@ Closure is something you give yourself. Their departure is information about the
 **The Pattern:** Rewriting history after you leave
 
 **What They Say/Do:**
+
 - "You abandoned me."
 - "You never gave me what I needed."
 - "You owe me."
@@ -2213,6 +2277,7 @@ This is how post-exit escalation works. The threats get louder as the door opens
 **The Pattern:** Using legal language to force contact
 
 **What They Say/Do:**
+
 - "You'll be hearing from my lawyer."
 - "I'm documenting everything."
 - "This will go to court."
@@ -2235,7 +2300,7 @@ One clean response, then silence: "All requested materials were delivered on [da
 
 # PART 3: DIGITAL MANIPULATION PATTERNS (Cards D-1 to D-4)
 
-*Same patterns, different arena. The tactics that work in person adapt to digital spaces—often becoming harder to name because they leave no physical evidence.*
+_Same patterns, different arena. The tactics that work in person adapt to digital spaces—often becoming harder to name because they leave no physical evidence._
 
 ---
 
@@ -2264,6 +2329,7 @@ She responds within minutes. And the cycle begins again.
 **The Pattern:** Disappearing without explanation to maintain power
 
 **What They Say/Do:**
+
 - Sudden radio silence after intense connection
 - Online and active, but not responding to you
 - Eventually returning as if nothing happened
@@ -2286,6 +2352,7 @@ After 72 hours of unexplained silence with someone who was previously responsive
 **The Pattern:** Minimal contact to keep you hooked without commitment
 
 **What They Say/Do:**
+
 - Sporadic "hey" texts with no follow-through
 - Liking your posts but never engaging directly
 - "We should hang out sometime" (repeated without plans)
@@ -2310,6 +2377,7 @@ Track the pattern, not the moments. Do their actions match someone who wants to 
 **The Pattern:** Using technology to monitor and control
 
 **What They Say/Do:**
+
 - Demanding passwords to email, social media, phone
 - "If you have nothing to hide, why won't you share?"
 - Tracking your location through shared apps or without your knowledge
@@ -2334,6 +2402,7 @@ Privacy is not betrayal. Adults in healthy relationships have separate inner liv
 **The Pattern:** Using public platforms to create jealousy and insecurity
 
 **What They Say/Do:**
+
 - Posting photos with attractive others after conflict
 - Vague-posting about relationship problems
 - Liking and commenting on others' posts while ignoring yours
@@ -2363,7 +2432,7 @@ If their online behavior consistently creates insecurity and they dismiss your c
 
 # PART 4: PROFESSIONAL BOUNDARY PATTERNS (Cards P-1 to P-4)
 
-*These patterns appear in professional contexts—business partnerships, workplaces, and collaborative relationships—but the underlying dynamic is the same: your autonomy is experienced as a threat.*
+_These patterns appear in professional contexts—business partnerships, workplaces, and collaborative relationships—but the underlying dynamic is the same: your autonomy is experienced as a threat._
 
 ---
 
@@ -2396,6 +2465,7 @@ The question hangs there. And she realizes: she's now defending her right to hav
 **The Pattern:** Surveillance disguised as involvement
 
 **What They Say/Do:**
+
 - Trying to join your calls, meetings, or conversations uninvited
 - Hovering when you're on the phone, asking "Who's that?"
 - Not allowing you to have private professional meetings
@@ -2415,7 +2485,7 @@ You feel guilty for wanting privacy. You start holding calls in your car or wait
 **Your Power Move:**
 "This is my meeting. I'll fill you in on anything relevant afterward." You don't need to justify having professional relationships they're not part of. Privacy in professional contexts isn't secrecy—it's sovereignty.
 
-> *"When someone needs to be in every room you're in, they're not curious—they're controlling."*
+> _"When someone needs to be in every room you're in, they're not curious—they're controlling."_
 
 ---
 
@@ -2436,6 +2506,7 @@ The manger was never theirs. But they'll guard it anyway.
 **The Pattern:** Claiming what isn't theirs
 
 **What They Say/Do:**
+
 - Treating your personal projects as shared assets
 - Trying to add ownership stakes to things you created independently
 - "If we're in this together, everything should be shared."
@@ -2447,7 +2518,7 @@ The manger was never theirs. But they'll guard it anyway.
 **What's Really Happening:**
 This is territorial absorption—the belief that being in relationship with you entitles them to everything you produce. Your independent work threatens them because it proves you exist outside of them. Claiming ownership is how they prevent that separateness.
 
-**The logic underneath:** *"If you created something without me, you don't need me. If you don't need me, you might leave. So everything you create must involve me."*
+**The logic underneath:** _"If you created something without me, you don't need me. If you don't need me, you might leave. So everything you create must involve me."_
 
 **How It Hooks You:**
 You feel selfish for wanting things that are just yours. You start hiding projects or downplaying their significance. You question whether you're being a "good partner" for having independent work. You give away equity, credit, or ownership to keep the peace.
@@ -2455,7 +2526,7 @@ You feel selfish for wanting things that are just yours. You start hiding projec
 **Your Power Move:**
 "This project existed before our partnership and isn't part of it." Healthy relationships have clear boundaries around what's shared and what's individual. Someone who can't tolerate you having something that's only yours isn't offering partnership—they're demanding absorption.
 
-> *"They don't want partnership. They want everything you are."*
+> _"They don't want partnership. They want everything you are."_
 
 ---
 
@@ -2478,6 +2549,7 @@ The sea was warning him all along. So was yours.
 **The Pattern:** Your other relationships are treated as betrayal
 
 **What They Say/Do:**
+
 - Feeling threatened by you working with anyone else
 - Treating your colleagues or collaborators as competition
 - "Why do you need to work with them? Aren't I enough?"
@@ -2497,7 +2569,7 @@ You start avoiding collaborations that might trigger their reaction. You hide pr
 **Your Power Move:**
 "I need professional relationships outside this partnership. That's healthy, not threatening." If they can't tolerate you having a professional life they don't control, the problem isn't your collaborations—it's their need for monopoly.
 
-> *"A partner who's threatened by your other relationships isn't protecting the partnership—they're preventing your growth."*
+> _"A partner who's threatened by your other relationships isn't protecting the partnership—they're preventing your growth."_
 
 ---
 
@@ -2507,9 +2579,9 @@ Br'er Fox makes a baby out of tar and places it on the road. Br'er Rabbit comes 
 
 This is what happens when you try to address these patterns directly with someone who won't acknowledge them.
 
-"Why are you on my calls?" *I'm just being supportive. Why are you so defensive?*
-"This project is mine." *You're being selfish. I thought we were partners.*
-"I'm allowed to work with other people." *Why are you attacking me? What are you hiding?*
+"Why are you on my calls?" _I'm just being supportive. Why are you so defensive?_
+"This project is mine." _You're being selfish. I thought we were partners._
+"I'm allowed to work with other people." _Why are you attacking me? What are you hiding?_
 
 Each attempt to set a boundary sticks you further. Your reasonable reaction becomes the problem. Your defense becomes the offense. You're now fighting about your reaction instead of their intrusion.
 
@@ -2522,6 +2594,7 @@ Each attempt to set a boundary sticks you further. Your reasonable reaction beco
 **The Pattern:** Your response to violation becomes the violation
 
 **What They Say/Do:**
+
 - "Why are you so angry?" (when you confront a boundary violation)
 - "I was just trying to help. Your reaction is the problem."
 - "I can't believe you're making such a big deal out of this."
@@ -2540,7 +2613,7 @@ You start managing your reactions more than the actual problem. You question whe
 **Your Power Move:**
 "My reaction is proportionate to what happened. We can discuss my tone after we address your behavior." Don't let the subject change. The violation came first. The reaction came second. Keep the sequence clear.
 
-> *"If every boundary you hold becomes evidence of your dysfunction, the conversation is rigged."*
+> _"If every boundary you hold becomes evidence of your dysfunction, the conversation is rigged."_
 
 ---
 
@@ -2564,7 +2637,7 @@ You start managing your reactions more than the actual problem. You question whe
 
 # PART 5: SUBSTANCE-RELATED PATTERNS (Cards S-1 to S-4)
 
-*These patterns use alcohol, drugs, or other substances as tools for control, excuse-making, or reality distortion.*
+_These patterns use alcohol, drugs, or other substances as tools for control, excuse-making, or reality distortion._
 
 ---
 
@@ -2593,6 +2666,7 @@ When they try to revisit the conversation sober, their partner says: "You alread
 **The Pattern:** Intoxication as a get-out-of-jail-free card
 
 **What They Say/Do:**
+
 - "I was drunk—I didn't mean it."
 - "I don't even remember saying that."
 - "That wasn't really me; I was wasted."
@@ -2609,7 +2683,7 @@ You minimize harm because "they weren't themselves." You wait for the sober vers
 **Your Power Move:**
 "Drunk or sober, you said/did that. The substance doesn't erase the impact." If this is a pattern, the pattern is the problem—not any single incident.
 
-> *"The mask slips when they're drunk. What you see isn't the alcohol talking—it's them, unfiltered."*
+> _"The mask slips when they're drunk. What you see isn't the alcohol talking—it's them, unfiltered."_
 
 ---
 
@@ -2618,6 +2692,7 @@ You minimize harm because "they weren't themselves." You wait for the sober vers
 **The Pattern:** Using your intoxication to extract compliance
 
 **What They Say/Do:**
+
 - "Come on, just one more."
 - "You're more fun when you drink."
 - "Don't be so uptight."
@@ -2634,7 +2709,7 @@ You feel like you're being social, relaxing, having fun together. You don't noti
 **Your Power Move:**
 Notice if serious conversations, conflicts, or requests consistently happen when you've been drinking. "I don't make decisions when I've been drinking. We can talk about this tomorrow." If they push: "My answer while sober is my answer."
 
-> *"If they want you drunk to have the conversation, they need you impaired to get the answer they want."*
+> _"If they want you drunk to have the conversation, they need you impaired to get the answer they want."_
 
 ---
 
@@ -2643,6 +2718,7 @@ Notice if serious conversations, conflicts, or requests consistently happen when
 **The Pattern:** High-functioning addiction with image management
 
 **What They Say/Do:**
+
 - Maintaining a public image of control while privately struggling with substance use
 - "I don't have a problem—I never miss work."
 - Drinking every night but insisting it's "not a big deal"
@@ -2659,7 +2735,7 @@ You become the secret-keeper. You manage around their use. You stop inviting cer
 **Your Power Move:**
 You're not responsible for protecting their image. "I see what I see. Your definition of 'fine' isn't mine." You can love someone and refuse to participate in their denial. Their addiction is not yours to manage, hide, or cure.
 
-> *"Functional addiction is still addiction. The mask of competence doesn't erase the chaos you absorb behind closed doors."*
+> _"Functional addiction is still addiction. The mask of competence doesn't erase the chaos you absorb behind closed doors."_
 
 ---
 
@@ -2668,6 +2744,7 @@ You're not responsible for protecting their image. "I see what I see. Your defin
 **The Pattern:** Your substance history becomes ammunition
 
 **What They Say/Do:**
+
 - "You were drunk that night, so your memory can't be trusted."
 - "You've had a glass of wine, so you're not thinking clearly."
 - "Remember when you smoked pot last month? You're in no position to judge."
@@ -2684,7 +2761,7 @@ You stop bringing up concerns because you feel like a hypocrite. You doubt your 
 **Your Power Move:**
 "Having a drink doesn't erase what I witnessed or experienced. My perception is valid." Separate conversations about their behavior from conversations about yours—they're not the same discussion.
 
-> *"They're not concerned about your drinking. They're concerned about having something to use against you."*
+> _"They're not concerned about your drinking. They're concerned about having something to use against you."_
 
 ---
 
@@ -2717,6 +2794,7 @@ Later, when he brings up the thing she said no to before, she's clear.
 > You've now covered 60 patterns of manipulation (Cards 0-53 plus D-1 to D-4 and S-1 to S-4).
 >
 > **Integration:**
+>
 > - Keep your most-triggered cards accessible
 > - Screenshot them or write them on index cards
 > - Have them ready for when your brain goes offline
@@ -2727,49 +2805,58 @@ Later, when he brings up the thing she said no to before, she's clear.
 # Tactical Summary: Universal Counter-Moves
 
 ## For Control Tactics (Cards 1-10):
+
 - State your intention once, briefly
 - Do not explain or justify
 - Follow through regardless of their reaction
 - Leave the room if they escalate
 
 ## For Validation/Devaluation Tactics (Cards 11-15):
+
 - Remember: their opinion doesn't define your reality
 - Don't compete for approval you shouldn't need to earn
 - Name the pattern internally: "This is the seesaw. I'm not getting on."
 
 ## For Psychological Manipulation (Cards 16-21):
+
 - Trust your perception even when they attack it
 - Don't over-explain—you understood each other fine
 - Document for your own reality-checking, not to prove anything to them
 
 ## For Sexual/Emotional Control (Cards 22-25):
+
 - Your body is yours. Full stop.
 - Real intimacy doesn't feel like performance or punishment
 - Withholding warmth to control you is not love
 
 ## For Energetic/Spiritual Tactics (Cards 26-31):
+
 - Your intuition doesn't require their validation
 - Pain explains behavior; it doesn't excuse it
 - Protect your rest—exhaustion is a control tool
 
 ## For Post-Encounter Tactics (Cards 32-37):
+
 - Past kindness isn't a loan requiring repayment
 - Your belongings aren't worth ongoing engagement
 - Silence is a complete sentence
 
 ## For Relational Manipulation (Cards 38-51):
+
 - Concern can be control—trust your discomfort
 - Confusion as a tactic deserves no explanation
 - Minimal contact after repair reveals capacity, not worth
 - Gestures are not growth
 
 ## For Post-Exit Tactics (Cards 52-53):
+
 - Their rewritten narrative is about supply, not truth
 - Legal threats that stay threats are leverage, not law
 - Silence is not agreement—it's refusal to participate
 - Respond to signal (actual legal action), ignore noise (threats)
 
 ## For Substance-Related Tactics (Cards S-1 to S-4):
+
 - Intoxication explains behavior; it doesn't excuse it
 - "Drunk words" often reveal what's hidden sober
 - If they need you impaired to get agreement, the answer is no
@@ -2800,82 +2887,85 @@ That's where we go next: the neuroscience of trauma bonds.
 
 ---
 
-*"When you can name what's happening, it stops happening to you and starts happening in front of you."*
+_"When you can name what's happening, it stops happening to you and starts happening in front of you."_
 
 ---
 
 # Quick Reference Card Index
 
 ## Part 1: Core Patterns (Cards 0-27)
-| Card | Pattern | Category |
-|------|---------|----------|
-| 0 | Wolf in Sheep's Clothing | Master |
-| 1 | Interruption as Dominance | Control |
-| 2 | "We Need to Talk" Urgency | Control |
-| 3 | Volume as Victory | Control |
-| 4 | Physical Intimidation | Control ⚠️ |
-| 5 | Chaos as Camouflage | Control |
-| 6 | Shame Inversion | Control |
-| 7 | Mockery Voice | Control |
-| 8 | Financial Superiority | Control |
-| 9 | Trivial Demand Tests | Control |
-| 10 | The False Urgency | Control |
-| 11 | The Aesthetic Seesaw | Validation |
-| 12 | Selective Idealization | Validation |
-| 13 | Moving Goalposts | Validation |
-| 14 | Comparison Triangulation | Validation |
-| 15 | Conditional Affection | Validation |
-| 16 | The Gaslight Loop | Psychological |
-| 17 | Projection | Psychological |
-| 18 | Minimization | Psychological |
-| 19 | Righteous Justification | Psychological |
-| 20 | Reversal of Blame | Psychological |
-| 21 | Weaponized Humor | Psychological |
-| 22 | Sexualized Dominance | Sexual/Emotional |
-| 23 | Withholding Tenderness | Sexual/Emotional |
-| 24 | Love-Bombing | Sexual/Emotional |
-| 25 | Body Shaming as Preference | Sexual/Emotional |
-| 26 | Energy Invalidation | Energetic |
-| 27 | Control Through Fatigue | Energetic |
+
+| Card | Pattern                    | Category         |
+| ---- | -------------------------- | ---------------- |
+| 0    | Wolf in Sheep's Clothing   | Master           |
+| 1    | Interruption as Dominance  | Control          |
+| 2    | "We Need to Talk" Urgency  | Control          |
+| 3    | Volume as Victory          | Control          |
+| 4    | Physical Intimidation      | Control ⚠️       |
+| 5    | Chaos as Camouflage        | Control          |
+| 6    | Shame Inversion            | Control          |
+| 7    | Mockery Voice              | Control          |
+| 8    | Financial Superiority      | Control          |
+| 9    | Trivial Demand Tests       | Control          |
+| 10   | The False Urgency          | Control          |
+| 11   | The Aesthetic Seesaw       | Validation       |
+| 12   | Selective Idealization     | Validation       |
+| 13   | Moving Goalposts           | Validation       |
+| 14   | Comparison Triangulation   | Validation       |
+| 15   | Conditional Affection      | Validation       |
+| 16   | The Gaslight Loop          | Psychological    |
+| 17   | Projection                 | Psychological    |
+| 18   | Minimization               | Psychological    |
+| 19   | Righteous Justification    | Psychological    |
+| 20   | Reversal of Blame          | Psychological    |
+| 21   | Weaponized Humor           | Psychological    |
+| 22   | Sexualized Dominance       | Sexual/Emotional |
+| 23   | Withholding Tenderness     | Sexual/Emotional |
+| 24   | Love-Bombing               | Sexual/Emotional |
+| 25   | Body Shaming as Preference | Sexual/Emotional |
+| 26   | Energy Invalidation        | Energetic        |
+| 27   | Control Through Fatigue    | Energetic        |
 
 ## Part 2: Advanced Patterns (Cards 28-51)
-| Card | Pattern | Category |
-|------|---------|----------|
-| 28 | The Pity Play | Complex |
-| 29 | Suicide Threats | Complex ⚠️ |
-| 30 | Moral Camouflage | Complex |
-| 31 | Authority Hijack | Complex |
-| 32 | Guilt Hook | Post-Encounter |
-| 33 | Smear Pre-emptive | Post-Encounter |
-| 34 | "You'd Be Lucky to Have Me" | Post-Encounter |
-| 35 | Withholding as Punishment | Post-Encounter |
-| 36 | Withholding Belongings | Post-Encounter |
-| 37 | Concern as Control | Post-Encounter |
-| 38 | The "Huh?" Gaslight Loop | Relational |
-| 39 | Post-Apology Minimal Contact | Relational |
-| 40 | Information Control | Relational |
-| 41 | Strategic Vulnerability | Relational |
-| 42 | The False Apology | Relational |
-| 43 | Future Faking | Relational |
-| 44 | The Victim Narrative | Relational |
-| 45 | Boundary Testing | Relational |
-| 46 | Hoovering | Relational |
-| 47 | Playing the Long Game | Relational |
-| 48 | Flying Monkeys | Relational |
-| 49 | The Grand Gesture | Relational |
-| 50 | Identity Erosion | Relational |
-| 51 | The Final Discard | Relational |
-| 52 | Narrative Reclamation | Post-Exit |
-| 53 | Legal Threat as Leverage | Post-Exit |
+
+| Card | Pattern                      | Category       |
+| ---- | ---------------------------- | -------------- |
+| 28   | The Pity Play                | Complex        |
+| 29   | Suicide Threats              | Complex ⚠️     |
+| 30   | Moral Camouflage             | Complex        |
+| 31   | Authority Hijack             | Complex        |
+| 32   | Guilt Hook                   | Post-Encounter |
+| 33   | Smear Pre-emptive            | Post-Encounter |
+| 34   | "You'd Be Lucky to Have Me"  | Post-Encounter |
+| 35   | Withholding as Punishment    | Post-Encounter |
+| 36   | Withholding Belongings       | Post-Encounter |
+| 37   | Concern as Control           | Post-Encounter |
+| 38   | The "Huh?" Gaslight Loop     | Relational     |
+| 39   | Post-Apology Minimal Contact | Relational     |
+| 40   | Information Control          | Relational     |
+| 41   | Strategic Vulnerability      | Relational     |
+| 42   | The False Apology            | Relational     |
+| 43   | Future Faking                | Relational     |
+| 44   | The Victim Narrative         | Relational     |
+| 45   | Boundary Testing             | Relational     |
+| 46   | Hoovering                    | Relational     |
+| 47   | Playing the Long Game        | Relational     |
+| 48   | Flying Monkeys               | Relational     |
+| 49   | The Grand Gesture            | Relational     |
+| 50   | Identity Erosion             | Relational     |
+| 51   | The Final Discard            | Relational     |
+| 52   | Narrative Reclamation        | Post-Exit      |
+| 53   | Legal Threat as Leverage     | Post-Exit      |
 
 ## Part 3: Substance-Related Patterns (Cards S-1 to S-4)
-| Card | Pattern | Category |
-|------|---------|----------|
-| S-1 | The Substance Shield | Substance |
-| S-2 | Lowering Your Defenses | Substance |
-| S-3 | The Functional Facade | Substance |
-| S-4 | Weaponizing Your Use | Substance |
+
+| Card | Pattern                | Category  |
+| ---- | ---------------------- | --------- |
+| S-1  | The Substance Shield   | Substance |
+| S-2  | Lowering Your Defenses | Substance |
+| S-3  | The Functional Facade  | Substance |
+| S-4  | Weaponizing Your Use   | Substance |
 
 ---
 
-*The Decoder Playbook — Vol. 1: See — Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
+_The Decoder Playbook — Vol. 1: See — Recognizing Narcissistic Manipulation in Relationships, Family, and Work_
