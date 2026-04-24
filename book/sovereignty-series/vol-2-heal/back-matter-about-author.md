@@ -20,7 +20,7 @@ What followed was years of nervous system work, shadow integration, and the slow
 
 She wrote *Heal* because she needed it. Because insight alone hadn't healed her. Because the book that bridged understanding and embodiment didn't exist—so she created it.
 
-She now lives in Costa Rica, where she offers healing sessions and integration work through Auracle — the platform she created. She serves as COO at Light Brands AI and writes and creates as **Jae Lawless**, the voice behind Auracle.
+She offers healing sessions and integration work through Auracle — the platform she created. She writes and creates as **Jae Lawless**, the voice behind Auracle. She lives happily, growing with her partner Daniel of 10+ years.
 
 ---
 
