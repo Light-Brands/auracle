@@ -42,11 +42,23 @@ Above the window: hyperactivation. Anxiety, panic, racing thoughts, anger. Too m
 
 Below the window: hypoactivation. Numbness, dissociation, collapse, shutdown. Too little arousal.
 
+These aren't dysfunction. They're your nervous system doing exactly what it was trained to do.
+
 Inside the window: regulation. Presence, clarity, choice.
 
 Manipulation repeatedly pushed you outside your window. You got used to living in hyperactivation (constantly anxious, hypervigilant) or hypoactivation (checked out, numb, frozen).
 
 Recovery means expanding your window and learning to return to it when pushed out.
+
+**A note before we begin: adapt to your body**
+
+The practices in this lesson are written in one common form. They assume a reader who can stand, shake, cross their arms, feel their feet on a floor, and move through the five senses. Not everyone reading this has access to all of that.
+
+If you use a wheelchair, live with chronic pain, are Deaf or hard of hearing, have limited vision, have paralysis, or otherwise move through the world in a body the standard script doesn't describe: the principle is what matters, not the choreography.
+
+The principle behind grounding is bringing attention to the present through sensation—any sensation available to you. The principle behind shaking is discharging trapped activation—through whatever movement or sound your body can produce. The principle behind orienting is letting your nervous system register safety in your current environment—through whichever senses work.
+
+If a practice doesn't fit your body, try the principle in a way that does. "Find your feet on the floor" can become "feel the contact between your body and your seat." The 5-4-3-2-1 grounding can work with whichever senses you have—three of them, or one of them, done slowly. Your nervous system is not graded on form.
 
 **Practice 1: Grounding**
 

@@ -108,6 +108,18 @@ If you feel unsafe with someone, that is data—regardless of how they appear to
 
 You don't have to prove that you should feel unsafe. You just have to honor that you do.
 
+**A note for neurodivergent readers**
+
+If you're autistic, have ADHD, or otherwise experience your body and social cues differently, some of what we've been describing may not land the way it's written.
+
+Interoception—the sense of what's happening inside your body—is reduced for many neurodivergent people. The five-second scan may return "I don't know" the first dozen times you try it. That's not a failure. It's information about how your nervous system is wired, and the practice builds over time.
+
+If reading subtle social cues has always been hard for you, know this: you don't have to rely on in-the-moment intuitive reading to recognize manipulation. You can rely on pattern documentation over time.
+
+Keep a simple log after interactions: what happened, how you felt after (even if "felt" is fuzzy), whether this has happened before. Patterns become visible through data collection even when in-the-moment sensing is unreliable. The decoder cards in Module 4 are built for exactly this kind of explicit, systematic recognition. Many autistic readers find they excel at pattern recognition once the patterns are made concrete.
+
+You're not missing a faculty other people have. You're using a different one.
+
 **A guided practice**
 
 Let's do a brief body-awareness exercise together.
