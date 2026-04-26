@@ -106,7 +106,7 @@ This newsletter is a companion, not a replacement for care.
 
 - **Newsletter:** You're here! Subscribe if you haven't.
 - **Events:** I co-host transformative retreats through [Amate Events](https://instagram.com/amatesoulware)
-- **Website:** LightBrands.ai
+- **Website:** JaeLawless.com
 - **Sessions:** Book a soul therapy energy healing session at JaeLawless.com
 - **Email:** happylawless9@gmail.com
 

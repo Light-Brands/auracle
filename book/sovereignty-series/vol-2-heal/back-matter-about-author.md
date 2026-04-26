@@ -26,7 +26,7 @@ She now lives in Costa Rica, where she offers soul therapy energy healing sessio
 
 **Connect with Jennifer**
 
-- Website: LightBrands.ai
+- Website: JaeLawless.com
 - Instagram: @jae.lawless
 
 ---

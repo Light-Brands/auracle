@@ -553,7 +553,7 @@ All Times Square campaign assets must remain consistent with the established bra
 | **Color palette** | Series accent color: orange-red `#E0522D`. Volume-specific palettes per brand guide. |
 | **Series name** | "The Sovereignty Series" — always use full name |
 | **Author name** | "Jennifer Brooke Lawless" — always use full name |
-| **Website URL** | LightBrands.ai — this should appear on billboard composites |
+| **Website URL** | JaeLawless.com — this should appear on billboard composites |
 | **Taglines** | Use only approved series taglines (see Brand Identity Guide) |
 | **Tone** | Aspirational but grounded. Never flashy or salesy. The billboards should feel like a natural extension of the book's authority, not a gimmick. |
 

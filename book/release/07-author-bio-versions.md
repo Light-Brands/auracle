@@ -36,7 +36,7 @@ Her healing journey led her beyond traditional therapy—through shadow work, ne
 
 Today, Jennifer lives in Costa Rica surrounded by community, where she offers soul therapy energy healing sessions at JaeLawless.com. Her book—*See*—was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
-**Connect:** LightBrands.ai | @jae.lawless
+**Connect:** JaeLawless.com | @jae.lawless
 
 ---
 

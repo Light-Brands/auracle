@@ -281,7 +281,7 @@ When you're ready to move from recognition to secure attachment, **Heal: Nervous
 
 ## Connect with Jennifer
 
-- **Website:** LightBrands.ai
+- **Website:** JaeLawless.com
 - **Instagram:** @jae.lawless
 
 ---

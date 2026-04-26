@@ -14,7 +14,7 @@ Todos los derechos reservados. Ninguna parte de este libro puede ser reproducida
 
 Publicado por KDP Amazon
 
-Diseño de portada por Light Brands — LightBrands.ai
+Diseño de portada por Light Brands — JaeLawless.com
 
 ISBN 978-X-XXXX-XXXX-X (tapa blanda)
 ISBN 978-X-XXXX-XXXX-X (libro electrónico)

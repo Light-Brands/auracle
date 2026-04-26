@@ -26,7 +26,7 @@ The answer is here. And so are you.
 
 **Connect with Jennifer**
 
-- Website: LightBrands.ai
+- Website: JaeLawless.com
 - Instagram: @jae.lawless
 
 ---
