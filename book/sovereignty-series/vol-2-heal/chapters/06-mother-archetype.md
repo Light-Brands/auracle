@@ -512,6 +512,25 @@ This adaptation later shows up as:
 
 ---
 
+## When the Mother's Suffering Is Culturally Sanctified
+
+The archetypes above describe the psychological imprint of a dysregulated mother. For many readers there is a second layer: a culture that elevated her suffering into a form of holiness, and trained the child, early, not to notice what was being paid for that holiness.
+
+This pattern appears across communities in different vocabulary:
+
+- **The self-sacrificing mother as moral ideal.** Her exhaustion is evidence of her love. Her depression is read as devotion. Her disappearance into the household is read as virtue. Naming her harm feels like desecrating something sacred. The child learns to protect the story of her goodness at the cost of naming the cost of her goodness.
+- **The strong mother who must not break.** A mother positioned as the unbreakable one — inside communities that have had to be unbreakable in order to survive — where her breaking is culturally unthinkable. The child learns to manage their own pain quietly so as not to add to hers, and internalizes the rule before any narcissist ever arrives: *your feelings are an extra weight the women in this family cannot carry.*
+- **The achievement mother.** Love expressed as drill, standard, and discipline. Her withdrawal of warmth when you fell short registered to your nervous system as the primary threat of childhood. Affection became a resource earned by performance. Failure became a form of family betrayal.
+- **The restrained mother as pre-gaslighter.** A mother whose culture taught her that affect itself is dangerous — that to be felt is to shame the family. She did not need to deny your reality directly. The climate did it for her. By the time a narcissist arrived telling you your feelings were too much, the proof had been assembling for years.
+- **The mother who protects sons over daughters.** In patriarchal-clan systems — religious, ethnic, or both — a daughter learns early that her pain is structurally less important than a brother's comfort. Her boundaries are read as betrayal of the family project. Her leaving is read as attack on the family's name.
+- **The mother who passed her own unspoken trauma forward.** A mother formed by colonization, migration, persecution, war, or the cultural pattern above — who never had language or permission for what happened to her, and handed the unprocessed load to the child. The inheritance is not an accusation. It is an inventory.
+
+None of this erases her love. All of it names what the love was tangled with. Many readers discover, in recovery, that their mother was also harmed — by the same system that harmed them, often by the same man. Holding both at once is the work. It is possible to honor her and still name accurately what her culture required her to hand you.
+
+The full per-community treatment — Marianismo, Strong Black Woman, Tiger Mother, Korean emotional-restraint as pre-gaslighting, Marian suffering-as-holiness, patriarchal-clan protection of sons over daughters, and others — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The community-internal voice for each is being written by people who hold it.
+
+---
+
 ## The Bridge Distinction
 
 **A dysregulated mother is not unloving—but she is not emotionally containing.**

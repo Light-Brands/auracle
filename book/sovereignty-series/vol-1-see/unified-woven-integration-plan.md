@@ -6,6 +6,14 @@ This document supersedes the individual proposals (`hispanic-cultural-integratio
 
 ---
 
+## Standing Decisions (Top-Level)
+
+1. **All appendixes and resources go to the website.** There is no "Appendix A" in the printed book. Every directory-like item — hotlines, therapist directories, apps, community-specific resource lists, URLs — lives on the companion resource page. See [`website-appendixes-and-resources.md`](./website-appendixes-and-resources.md) for the master source.
+2. **Anonymize the author's sibling references.** Any relational detail about the author's sibling is anonymized throughout the manuscript as **"a family member"** — no sibling role, no named relationship. This applies everywhere in the plan and the book.
+3. **The Testimony is anonymized.** The Ch 8 Testimony passage stays in the book in close third or second person, attributed only to **"a family member."** No sibling label, no named role, no identifying relational detail.
+
+---
+
 ## The Thesis
 
 **Narcissism adapts to whatever community you can't afford to leave.**
@@ -39,7 +47,7 @@ Same wolf. Different clothing. One integration pass.
 
 **Why this matters:** The book's credibility on collectivist narcissism comes from having survived at the intersection — Jewrican, machismo culture + Jewish guilt, two collectivist systems compounding. The reader needs to know this person isn't theorizing. She broke through the religious conditioning AND the cultural conditioning. She lived it. She got out.
 
-**Critical distinction the book must make:** The author left her relationships. She never left her family. Not her brother (who chose no-contact with their mother for self-preservation), not her sister (the effort was always one-sided — she stopped putting in and they never did, so that was that — no dramatic break, just a quiet fading), not her mother and her mother's boyfriend whom she chooses to continue being around, not her father. The family is intact — complicated, guarded, sometimes painful, but intact. This is not a no-contact success story. This is the real version: you leave the romantic relationships that are destroying you, and you stay in the family that shaped you. Both require different kinds of sovereignty. The book covers both.
+**Critical distinction the book must make:** The author left her relationships. She never left her family. Not her brother (who chose no-contact with their mother for self-preservation), not the family member (the effort was always one-sided — she stopped putting in and they never did, so that was that — no dramatic break, just a quiet fading), not her mother and her mother's boyfriend whom she chooses to continue being around, not her father. The family is intact — complicated, guarded, sometimes painful, but intact. This is not a no-contact success story. This is the real version: you leave the romantic relationships that are destroying you, and you stay in the family that shaped you. Both require different kinds of sovereignty. The book covers both.
 
 ---
 
@@ -52,12 +60,12 @@ Same wolf. Different clothing. One integration pass.
 | Detail | Problem | Solution |
 |---|---|---|
 | "Employee of the Month" — laminated photo, kitchen, current boyfriend | Too specific — one person on earth did this | Reframe as anonymous composite: "A display that made her feel subordinate in her own home" |
-| Sister's specific behaviors (threats to leave in front of kids, poisoning grandchildren against grandmother, the wrath) | Identifiable living person described in negative light = defamation risk | Keep only the author's own boundary-setting: "I stopped putting in the effort." Remove sister's specific behaviors. |
+| Specific behaviors of a family member (threats to leave in front of kids, poisoning grandchildren against grandmother, the wrath) | Identifiable living person described in negative light = defamation risk | Keep only the author's own boundary-setting: "I stopped putting in the effort." Remove the family member's specific behaviors. Anonymize as "a family member" — never name the relationship. |
 | Former lover's dinner party with his powerful business-type friends, "demotion to boyfriend" joke about current husband | The dinner party was the ex's world (he had the power players). The "demotion" joke is about the current marriage. Both identifiable. | Reframe dinner party as third-person teaching example. |
 | Both partners named Daniel | Same first name for both partners is a highly identifying detail — anyone who knows the author knows this | NEVER use real names in the manuscript. Use different pseudonyms for each. The shared name is a fact for the author's notes only. |
 | Louis Vuitton store incident | Brand + behavior = identifiable to witnesses, staff, possibly security footage | Change to "a luxury store" |
 | Chagall painting + father's alcoholic girlfriend wanting it | Extremely specific cultural artifact in a family conflict | Change to "a meaningful piece of art" |
-| "Still afraid of my sister" — present tense | Describing ongoing fear of an identifiable living person | Remove present-tense fear descriptions of living family members |
+| "Still afraid of my family member" — present tense | Describing ongoing fear of an identifiable living person | Remove present-tense fear descriptions of living family members |
 
 ### TIER 2: SHOULD CHANGE (Medium Risk)
 
@@ -172,13 +180,13 @@ The following passages are already in the book and read as lived experience — 
 
 8. **CONFIRMED. Ch 8, lines 370-427 — "Where Are the Other Two Points?"** **New detail:** "Years later he couldn't believe I was upset about that." The minimization afterward — the original incident teaches "you're not enough," the dismissal years later teaches "your memory of not being enough doesn't matter either." The near-death didn't register as evidence. This should be woven in.
 
-9. **NOT MINE TO CLAIM — sister's story. Ch 8, lines 131-160 — "The Testimony."** Stays in the book in close third or second person. Written with the intimacy of someone who witnessed the aftermath. Not hers to tell as "I."
+9. **NOT MINE TO CLAIM — a family member's story. Ch 8, lines 131-160 — "The Testimony."** Stays in the book in close third or second person, **fully anonymized** — the relationship is named only as "a family member." No sibling specificity, no sibling pronouns. Written with the intimacy of someone who witnessed the aftermath. Not hers to tell as "I," and not hers to attribute to a named role.
 
 10. **CONFIRMED. Ch 2, line 191 — "My therapist asked me to describe myself before the relationship."** **New detail:** "Lost my voice for weeks at a time." This may be literal somatic voice loss (functional dysphonia) — a documented trauma response. The body silences itself when the environment teaches that speaking is dangerous. If literal, it belongs in Ch 2 as one of the most visceral examples: not just feeling like a whisper, but the voice that was "bold" and "opinionated" going physically silent — not by choice, by nervous system override.
 
 11. **UNADDRESSED. Ch 6, line 196 — "I learned to read his silences like weather patterns."** *(Not confirmed or denied. Likely hers given the weather metaphor consistency.)*
 
-12. **CONFIRMED. Ch 2, line 232 — "A fifteen-minute phone call with my sister would knock me out for three hours."** **New detail:** "Still afraid of my sister and don't want to endure the wrath." This is active, present-tense fear. The sister is a live wire. *The author herself is living the reality of someone who can't fully leave a narcissistic family member. This connects directly to the "thriving while staying" question — she is modeling what it looks like to navigate an ongoing narcissistic relationship with a family member you love and fear simultaneously.*
+12. **CONFIRMED. Ch 2, line 232 — "A fifteen-minute phone call with a family member would knock me out for three hours."** **New detail:** "Still afraid of this family member and don't want to endure the wrath." This is active, present-tense fear. The family member is a live wire. *The author herself is living the reality of someone who can't fully leave a narcissistic family member. This connects directly to the "thriving while staying" question — she is modeling what it looks like to navigate an ongoing narcissistic relationship with a family member you love and fear simultaneously.* Anonymize the relationship — "a family member," not a named role.
 
 13. **NOT MINE. Ch 5, line 537 — "My aunt was the family saint."** Not the author's.
 
@@ -292,17 +300,17 @@ And it's "playful." So:
 
 ### NEW: The Access Gate — Three Women, Three Bottlenecks, One System
 
-**New material from author:** Her mom puts up with the sister to see her grandkids — who are being poisoned against her anyway.
+**New material from author:** Her mom puts up with a family member to see her grandkids — who are being poisoned against her anyway.
 
 This completes the picture. Three women, each tolerating a narcissist to reach someone they love:
 
 | **Who endures** | **Who they endure** | **Who they're trying to reach** | **The trap** |
 |---|---|---|---|
 | The author | Mom's boyfriend | Her mother | Must tolerate "Employee of the Month" man to see her mom |
-| Her mother | The author's sister | Her grandchildren | Must tolerate the sister's wrath to see the kids |
+| Her mother | A family member | Her grandchildren | Must tolerate the family member's wrath to see the kids |
 | Her mother | The boyfriend | Her own home/stability | Must tolerate infantilization to keep the relationship |
 
-And the cruelest layer: the grandkids — the people the grandmother is enduring all this for — are being poisoned against her. The sister is turning them. So the grandmother is tolerating abuse from the sister in order to access children who are being taught that the grandmother is the problem.
+And the cruelest layer: the grandkids — the people the grandmother is enduring all this for — are being poisoned against her. The family member is turning them. So the grandmother is tolerating abuse from the family member in order to access children who are being taught that the grandmother is the problem.
 
 She's paying the toll and the bridge leads nowhere.
 
@@ -310,7 +318,7 @@ This is the narcissist's masterpiece: controlling not just the relationship but 
 
 **VOL 1 (SEE):** Name this pattern. Help the reader recognize the access gate. The field note: three women, three bottlenecks. The recognition: "I'm tolerating someone not because I want to, but because they stand between me and someone I love."
 
-**VOL 2/3 (later):** The tactical work — how to build alternative access paths, how to reach the grandkids without going through the sister, how to maintain relationships around the bottleneck. The deeper intergenerational work on breaking the pattern of women tolerating abuse for access to love.
+**VOL 2/3 (later):** The tactical work — how to build alternative access paths, how to reach the grandkids without going through the family member, how to maintain relationships around the bottleneck. The deeper intergenerational work on breaking the pattern of women tolerating abuse for access to love.
 
 ### NEW: The Imaginary Audience — When the Reason You Stay Is a Story You Told Yourself
 
@@ -333,7 +341,7 @@ This is one of the quietest traps in the book — and one of the most common. Th
 
 **New material from author:**
 1. Mother's boyfriend threatens to leave — using abandonment threat as control
-2. Author's sister threatens to leave her own family, in front of the kids
+2. A family member threatens to leave her own family, in front of the kids
 
 Same weapon, two contexts. The threat to leave is the inverse of the narcissist who won't let *you* leave. Both are about control. Both say: *Your stability depends on my decision to stay. I could revoke it at any time. Be grateful. Behave.*
 
@@ -343,17 +351,17 @@ When this happens in front of children, it weaponizes them — the kids become t
 - **Ch 3 (Decoder Playbook)** — the abandonment threat as a tactic. Pair with the suicide threat (Tactic 29) — both create hostage situations. The suicide threat says "if you leave, I'll die." The abandonment threat says "if you displease me, I'll leave." Same mechanism, different direction.
 - **Ch 7 (Family Roles & Triangulation)** — when the threat is performed in front of children, the children become triangulated. They learn to manage the threatening parent's mood to prevent departure. They become little regulators. They grow up to be people-pleasers.
 - **Ch 11 (Romantic Manipulation)** — for partners who use the threat to leave as leverage. This belongs alongside the intermittent reinforcement section — the person who oscillates between staying and threatening to go creates the same neurological hook as the slot machine.
-- **The sister section** — the author's sister threatens to leave her family in front of the kids. This connects to the author's own experience of the sister's wrath (confirmed in passage #12 above). The sister learned the same template the author did — but deployed it differently. The author became the one who stays too long. The sister became the one who threatens to leave. Same wound, opposite expression.
+- **The family member section** — a family member threatens to leave her family in front of the kids. This connects to the author's own experience of this family member's wrath (confirmed in passage #12 above). The family member learned the same template the author did — but deployed it differently. The author became the one who stays too long. The family member became the one who threatens to leave. Same wound, opposite expression.
 
-### NEW: The Sister — Sovereignty in Practice
+### NEW: The Family Member — Sovereignty in Practice
 
-**The author's current reality:** She and her sister aren't really speaking. She stopped making an effort. And it's *freeing*.
+**The author's current reality:** She and this family member aren't really speaking. She stopped making an effort. And it's *freeing*.
 
 This is not no-contact. This is not a dramatic break. This is the quietest form of sovereignty: she just stopped being the one who tries. No announcement. No confrontation. No wrath to endure. Just... less. Fewer calls. Fewer attempts. The relationship didn't end with a door slamming. It ended with a door quietly closing.
 
 And the result — freeing. Not painful. Not guilty. *Free.*
 
-**Why this matters for the book:** This is the most honest version of "Sovereignty Without Exit." She didn't confront. She didn't go no-contact. She didn't send a letter or set a boundary out loud. She just stopped volunteering for the pain. The relationship still technically exists. She could still call. The sister could still call. But the energy she was spending — the fifteen-minute calls that knocked her out for three hours — she just... stopped offering it.
+**Why this matters for the book:** This is the most honest version of "Sovereignty Without Exit." She didn't confront. She didn't go no-contact. She didn't send a letter or set a boundary out loud. She just stopped volunteering for the pain. The relationship still technically exists. She could still call. The family member could still call. But the energy she was spending — the fifteen-minute calls that knocked her out for three hours — she just... stopped offering it.
 
 This is what many readers will actually do. Not the dramatic exit. Not the brave confrontation. The quiet withdrawal. The slow exhale. And the book should name this as valid — not as cowardice, not as avoidance, but as a form of self-protection that doesn't require anyone else's permission or participation.
 
@@ -371,17 +379,17 @@ This is the nachas wound turned inward. In Jewish culture, motherhood isn't just
 And now:
 - Her son doesn't speak to her. Not out of cruelty — out of self-preservation. The pain of contact is greater than the pain of absence. He chose himself, and the cost was his mother.
 - Her daughter (the author) has complicated, honest, present-but-guarded contact — seeing the patterns, naming them in this book, loving her mother while documenting the damage.
-- The sister has her own relationship with the mother — one that involves the grandmother tolerating wrath to access grandchildren.
+- The family member has their own relationship with the mother — one that involves the grandmother tolerating wrath to access grandchildren.
 
 Three children. Three different survival strategies. None of them the nachas she was promised.
 
 **What this does to the mother:** Her identity — the one she built her entire life around — failed by its own metric. Not because she was a bad mother (the book must be careful here) but because the systems she was in (the abusive marriage, the abusive boyfriends, the cultural conditioning, the intergenerational Holocaust trauma) made it impossible to be the mother she wanted to be. She gave what she had. What she had was shaped by what was done to her. And the children, each in their own way, had to protect themselves from the ripple effects.
 
-**The brother's no-contact as the mirror of the author's quiet release:** The author stopped reaching for the sister. The brother stopped reaching for the mother. Same mechanism — the quiet withdrawal, the door closing softly, the self-preservation that looks like abandonment from the outside but feels like oxygen from the inside. The difference: the author names hers as freeing. The brother's is described as painful — *too painful to stay*. Both are valid. Both are sovereignty. One is relief. The other is grief. Sometimes they're the same thing.
+**The brother's no-contact as the mirror of the author's quiet release:** The author stopped reaching for a family member. The brother stopped reaching for the mother. Same mechanism — the quiet withdrawal, the door closing softly, the self-preservation that looks like abandonment from the outside but feels like oxygen from the inside. The difference: the author names hers as freeing. The brother's is described as painful — *too painful to stay*. Both are valid. Both are sovereignty. One is relief. The other is grief. Sometimes they're the same thing.
 
 **Where this belongs:**
 - **Ch 8 (Parental Wounds)** — The mother whose biggest accomplishment was motherhood and whose children had to distance themselves to survive. This is the wound that doesn't have a villain. The mother isn't the narcissist here — she's the carrier. She transmitted what was transmitted to her.
-- **Ch 10 (Breaking Free)** — Three siblings, three strategies: no-contact (brother), quiet release (author with sister), complicated presence (author with mother). The book should map these as a spectrum, not a hierarchy. No-contact isn't braver than staying. Staying isn't more loving than leaving. Each person found the distance they needed to breathe.
+- **Ch 10 (Breaking Free)** — Three family members, three strategies: no-contact (brother), quiet release (author with another family member), complicated presence (author with mother). The book should map these as a spectrum, not a hierarchy. No-contact isn't braver than staying. Staying isn't more loving than leaving. Each person found the distance they needed to breathe.
 - **The nachas section (Ch 9)** — This is what happens when nachas is the mother's only identity. When the children — the "accomplishment" — can't bear to be close, the mother loses not just her family but her *self*. The nachas framework doesn't just trap the children. It traps the mother. She staked everything on one outcome, and the outcome is three different versions of distance.
 - **The intergenerational thread** — Holocaust survivor grandmother → 1950s mother whose identity is motherhood → children who had to leave to survive. The survival imperative passed down: the grandmother survived the camps, the mother survived the marriages, the children survive by creating distance. Each generation's survival strategy creates the next generation's wound.
 
@@ -491,7 +499,7 @@ This is the food control pattern completing itself. Restriction doesn't create d
 
 **The doorway — a specific remembered detail:** Her mother standing under the Chagall painting. The parents fighting in the doorway, beneath art that was supposed to mean something beautiful. Years later, her father's alcoholic girlfriend would want to keep that same Chagall painting — not because she liked it, but because it was a fight between the parents. She wanted to keep the fight going. The painting became contested territory, a trophy from someone else's war, kept alive by a person who fed on the conflict. The object that once hung over a doorway where a child watched her parents destroy each other became an instrument for extending that destruction into the next generation of relationships.
 
-This is the most complex material in the book, and the Testimony passage (Ch 8) already touches it — but this is the wider frame. Multiple things are true simultaneously:
+This is the most complex material in the book, and the Testimony passage (Ch 8) already touches it — but this is the wider frame. **The Testimony must remain fully anonymized — attributed only to "a family member," with no sibling label or named role.** Multiple things are true simultaneously:
 
 1. She felt he pushed her (the physical act that precipitated everything)
 2. They had to leave — to the grandfather's (the child uprooted, displaced, the home becoming unsafe)
@@ -504,7 +512,7 @@ This is the most complex material in the book, and the Testimony passage (Ch 8) 
 
 The child had to hold all of this. A mother who was both victim and liar. A father who was both present and accused. A doorway under a Chagall painting that was supposed to be safe that became a battleground. And her own memory — which she was told was unreliable, by the same person who asked her to be a witness. And years later, the painting itself — the backdrop to the worst night — becoming something another woman wanted to keep as a weapon.
 
-**How the book already handles this:** The Testimony (Ch 8, lines 131-160) covers the courtroom piece — the child coached to testify. But it doesn't cover:
+**How the book already handles this:** The Testimony (Ch 8, lines 131-160) covers the courtroom piece — the child coached to testify. It must be anonymized to "a family member" only — no sibling role, no named relationship. But it doesn't cover:
 - The night itself — the police, the doorway, the child as first responder
 - The mother's pattern of contradictions — begging for help while dismissing the child's perception
 - "Kids remember what they want" — one of the most devastating things a parent can say to a child who remembers everything
@@ -1198,16 +1206,11 @@ Key additions:
 
 ---
 
-### Appendix A: Resources
+### Appendixes & Resources — All Website-Bound
 
-**Add:**
-- Spanish-language domestic violence hotlines
-- Culturally competent therapist directories (Spanish-speaking, BIPOC-focused, Jewish family specialists)
-- Jewish family-specific resources (Jewish Women International, Shalom Task Force for DV in Jewish families)
-- LGBTQ+-specific resources (verify existing list is complete and current)
-- Male survivor resources (1in6.org, MankKind Initiative — already partially listed, verify)
-- Faith-based abuse resources (organizations that help religious abuse survivors across denominations)
-- Immigration-related DV resources (legal aid for visa-dependent survivors)
+**Decision:** All appendixes and resources for Vol 1 go to the **website**, not the printed book. There is no "Appendix A" in the print edition. The book references a single companion URL for everything directory-like: hotlines, therapist directories, community-specific resources, apps, legal aid, and support communities.
+
+The full list of what moves online — and why — lives in [`website-appendixes-and-resources.md`](./website-appendixes-and-resources.md). That document is the master source for the companion resource page.
 
 ---
 
@@ -1222,6 +1225,25 @@ The most powerful integration is the quietest. Throughout the book, change a sel
 
 The goal: a queer reader, a male survivor, a Latina, a churchgoer — all flip through the book and see themselves without looking for themselves. The inclusion is ambient, not announced.
 
+### Two kinds of work, not one
+
+When this pass was surveyed against the manuscript, it became clear the single "silent pronoun pass" bundle actually contains two distinct jobs that need different tools:
+
+**1a.i — Clean pronoun flips (silent).** For tactics whose *expression* is genuinely similar across genders — where flipping pronouns corrects an under-recognition without flattening anything clinically real. These get silent swaps, no annotation. Examples: covert-narcissist dynamics (one of the more gender-balanced expressions in the literature), breadcrumbing/intermittent reinforcement mechanics, intoxication-pressure mechanics where the specific dialogue works across configurations. The silent flip does honest work here: it corrects cultural defaults ("covert = female," "breadcrumbing perpetrator = male," "intoxication coercion only happens to women") without misrepresenting how the tactic actually lands.
+
+**1a.ii — Variation pass (co-located).** For tactics whose *expression* genuinely varies by gender — where a silent flip would flatten real clinical nuance and mislead the reader. These get co-located variants, not swaps. Pattern: keep the original gendered scene intact (because the cultural scaffolding is part of what makes it land) and immediately follow with a brief companion paragraph showing how the same tactic expresses in a different configuration. Example candidates:
+
+- **Ch 4, Makeup Sex Trophy (lines 254–272):** The locker-room bragging machinery is culturally keyed to hetero masculinity. Leave the original; add a companion paragraph: "The same pattern runs when the configuration reverses: the bragging moves from locker room to group chat, 'she came around' becomes 'I made them work for it,' the trophy structure is identical, the cultural grammar different." Or equivalent.
+- **Ch 3, professional video-call intrusion (lines 2358–2376):** The male-authority script ("I should probably be on this call") reads differently from the female-emotional-connection script ("I just wanted to say hi, why are you so cold?"). Either flip-plus-rewrite to neutralize the script, or co-locate a variant paragraph.
+- **Other candidates to surface during implementation** as the chapter passes reveal them.
+
+The variation pass honors the clinical truth that tactics are not genderless even when their mechanics are universal. Silent flips pretend difference doesn't exist; co-located variants name it and expand recognition instead.
+
+### Implementation order for the two sub-passes
+
+- **1a.i runs first** — alongside or just before front matter/Ch 1 rewrites. Small, clean, low-risk.
+- **1a.ii runs later** — during chapter-specific passes (Ch 4 gets handled in Phase 2 family work; Ch 3 professional-intrusion gets handled in Phase 4). Not a single unified pass; variation paragraphs are added in the chapter where each passage lives.
+
 ---
 
 ## Estimated Scope
@@ -1234,7 +1256,7 @@ The goal: a queer reader, a male survivor, a Latina, a churchgoer — all flip t
 | New scripts (Ch 16) | 15-20 scripts | ~3,500 |
 | Pronoun/example changes | 8-12 silent edits | ~0 (swaps only) |
 | Front matter rewrite | 1 section | ~300 |
-| Appendix A additions | 1 section | ~500 |
+| Appendix & resource additions (website-bound) | website | ~0 in print |
 | Content dissolved from sidebars | 2 sidebars | -1,000 (redistributed) |
 | **Net new content** | — | **~9,300 words** |
 
@@ -1297,8 +1319,8 @@ Vol 1 is **SEE** — recognition, naming, the moment the reader says "oh my God,
 | The binge eating (restriction → rebellion → surveillance) | Recognition: how food control creates disordered eating |
 | Employee of the Month (laminated photo in kitchen) | Recognition: ownership disguised as humor |
 | The access gate (three women, three bottlenecks) | Recognition: "I tolerate someone to reach someone I love" |
-| The threat to leave (boyfriend + sister in front of kids) | Recognition: abandonment threat as weapon |
-| The quiet release with sister | Recognition: sovereignty doesn't have to be loud |
+| The threat to leave (boyfriend + a family member in front of kids) | Recognition: abandonment threat as weapon |
+| The quiet release with a family member | Recognition: sovereignty doesn't have to be loud |
 | The coming out that never happened (bisexual, boyfriend's "Dyke" slur, mom's laughter, silence) | Recognition: pre-rejection through casual cruelty; strategic silence as self-preservation; "I get quiet around people who dig for weaknesses" |
 | The sexuality field notes — all three (body negotiable for peace, truth weaponized, "okay" without meaning yes) | Recognition: the origin code — where the body first learned that vulnerability is dangerous, consent is negotiable, and silence is safer than truth. Everything else traces back here. |
 | The first sexual experience — coerced | Recognition: the foundation under the field notes. The body's first definition of sex was coercion. Not a pattern that developed — the template that was installed at the start. Reader who experienced this recognizes: "I didn't know sex could be something I chose." |
@@ -1316,7 +1338,7 @@ These get a brief mention, a paragraph, or a "this will be explored further in V
 | Selective Sharing Protocol | The table (share freely / carefully / never) — this IS recognition-level. Reader sees it and immediately starts categorizing. Stays in Vol 1. | Advanced protocols for specific situations (holidays, emergencies, when the narcissist escalates) |
 | Adapted Gray Rock for collectivist gatherings | The 4-point version (warm not deep, redirect, have a role, arrive with exit). Stays in Vol 1 — it's practical enough to help and simple enough to be a "see" tool. | Extended version with scripts for specific family events, religious holidays, community functions |
 | The quiet release | First-person field note. "I stopped making the effort. It was freeing." Vol 1. | How to manage the aftermath — when the quiet release triggers the system's response, when guilt surfaces, how to stay released |
-| The police night / mother's contradictions / Testimony | The Testimony stays as-is (sister's story, second person). Brief reference to the wider frame. | The full complexity: holding a parent who is both victim and liar, navigating the mother relationship now |
+| The police night / mother's contradictions / Testimony | The Testimony stays **anonymized** — told in close third or second person, attributed only to "a family member." No sibling label, no named role. Brief reference to the wider frame. | The full complexity: holding a parent who is both victim and liar, navigating the mother relationship now |
 | Breaking the intergenerational pattern | Name it. Show the three generations. End with the question: "How does it stop here?" | Answer the question. The actual work of not passing it on. |
 | Navigating grandkids being poisoned | Name the access gate. Show the trap. | How to maintain relationship with grandchildren around the bottleneck, age-appropriate truth-telling |
 | Scripts for collectivist contexts (Ch 16) | **All scripts stay in Vol 1.** Scripts are recognition tools — the reader sees the script and recognizes the conversation they've been having. The 🟢 responses give them language for the first time. This is SEEing. | Advanced scripts for escalation scenarios, scripts for when the first boundary fails, scripts for the second conversation after the narcissist mobilizes the community |
@@ -1345,7 +1367,7 @@ These get a brief mention, a paragraph, or a "this will be explored further in V
 
 ## Implementation Order (Vol 1 Only)
 
-1. **Silent pronoun/example pass** — fastest, least disruptive, immediate impact
+1. **Silent pronoun/example pass — Phase 1a.i only (clean flips)** — fastest, least disruptive, immediate impact. Phase 1a.ii (variation pass) runs per-chapter later, not as a unified pass.
 2. **Chapter 1 and Front Matter** — sets the tone for everything that follows
 3. **Chapter 7 + 8** — family chapters, heaviest integration, most new content
 4. **Chapter 9 + 10** — childhood patterns + breaking free, follows naturally from 7/8
@@ -1353,7 +1375,7 @@ These get a brief mention, a paragraph, or a "this will be explored further in V
 6. **Chapter 5 + 11** — narcissist types + romantic manipulation, sidebar dissolution
 7. **Chapter 12** — "When the Community Is Small" addition
 8. **Chapter 16** — full scripts integration (already drafted)
-9. **Appendix A** — longevity restructure (two-tier: timeless in print, living resource page online)
+9. **Appendixes & resources** — all moved to the website; see [`website-appendixes-and-resources.md`](./website-appendixes-and-resources.md)
 10. **Confirmed first-person passages** — update the 10 confirmed passages with new details and correct voice
 11. **Sensitivity review** — full pass by Sage + ideally external cultural consultants
 
@@ -1378,64 +1400,21 @@ These get a brief mention, a paragraph, or a "this will be explored further in V
 
 ---
 
-## Structural Decision: Crisis Resources and Book Longevity
+## Structural Decision: All Appendixes and Resources Go to the Website
 
-**The concern:** Phone numbers change. Hotlines reorganize. URLs break. Apps get discontinued. Reddit communities get banned. A book filled with specific crisis numbers and resource links will date itself. The author wants this book to be **canon** — to live in the literature the way *The Body Keeps the Score* or *Why Does He Do That?* lives. Those books don't have appendices full of 1-800 numbers.
+**Decision:** All appendixes and resources for Vol 1 live on the **website**, not in the printed book. There is no "Appendix A" in the print edition. The book references a single companion URL for everything directory-like.
 
-**The reality of the current manuscript:**
-- Appendix A is 607 lines of phone numbers, hotline listings, app recommendations, Reddit communities, YouTube channels, and specific URLs
-- At least 15 places in the main chapters link to Appendix A for crisis resources
-- The deprecated chapters contain even more embedded phone numbers (1-800-799-7233, 988, etc.)
-- The resource will begin degrading the moment the book is published
+The full rationale, the list of what moves online, and the implementation notes for the manuscript are in the standalone document:
 
-**The recommendation: Two-tier approach.**
+➡️ [`website-appendixes-and-resources.md`](./website-appendixes-and-resources.md)
 
-### Tier 1: What stays in the printed book (timeless)
+**Summary:**
 
-The book itself should contain only:
-- **One crisis statement**, repeated wherever needed: *"If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country."* No specific numbers. No specific organizations. This sentence will still be true in fifty years.
-- **The Safety Planning section (Appendix A, lines 355-397)** — the personal note ("I did this too"), the checklist, the code words strategy. This is the author's lived wisdom, not a phone directory. It's timeless.
-- **The questions to ask potential therapists (lines 209-222)** — timeless advice.
-- **The red flags in therapists list (lines 217-222)** — timeless.
-- **The 90-Day Forward Protocol** — the author's original framework. Timeless.
-- **The "For Helpers and Supporters" section** — timeless advice.
-- **The Signs of Healing list** — timeless.
-- **The book recommendations** — books last. The titles in the bibliography are mostly already canon. These stay.
-
-### Tier 2: What moves to a living online resource
-
-Everything with a phone number, URL, app name, or specific organization becomes a **companion resource page** hosted at the author's domain. The book references this page exactly once, in a format like:
-
-> **For current crisis hotlines, support communities, apps, legal resources, and financial assistance programs — including resources specific to LGBTQ+, immigrant, disabled, and culturally diverse survivors — visit [companion URL].**
->
-> *This online resource is maintained and updated regularly so the information you find there is current, even if this book was published years ago.*
-
-This gives the book:
-- **Longevity** — nothing in the print edition can go stale
-- **Expandability** — the online resource can grow without new print editions
-- **Cultural specificity** — the online resource can include region-specific, language-specific, and community-specific resources that would bloat the book
-- **The author's continued presence** — readers who visit the page encounter the author's current work, community, and offerings. The book becomes a gateway, not a dead end.
-
-### What this means for the chapters:
-
-Every instance of "See Appendix A for crisis resources" in the main chapters gets replaced with one of two options:
-1. The timeless statement: *"If you are in immediate danger, contact your local emergency services."*
-2. The single companion URL reference (used sparingly, probably once per relevant chapter at most)
-
-### What stays in Appendix A (the printed book):
-
-Appendix A becomes **slimmer and more personal**:
-- The author's safety planning story and checklist
-- Questions to ask therapists + red flags
-- The 90-Day Forward Protocol
-- The book recommendation list (curated, not exhaustive)
-- Signs of healing
-- For helpers and supporters
-- One clear pointer to the online companion resource
-
-Everything else — every phone number, every hotline, every app, every Reddit community, every URL — moves online.
-
-**The result:** The printed book reads like literature. The online resource does the directory work. The book doesn't age. The resource page stays current.
+- Phone numbers, hotlines, apps, Reddit communities, URLs, therapist directories, organization names, community-specific resource lists — all **online**.
+- The printed book contains only one repeated timeless crisis statement: *"If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country."*
+- A single companion URL reference is used sparingly (at most once per relevant chapter) to point readers to the maintained resource page.
+- A small number of timeless, author-voice pieces (Safety Planning reflection, therapist questions, 90-Day Forward Protocol, For Helpers and Supporters, Signs of Healing) are woven into the chapter flow — not sectioned off as an appendix.
+- The book reads like literature and does not age. The website does the directory work and stays current.
 
 ---
 
@@ -1473,10 +1452,10 @@ This means:
 3. **The "enough" threshold** — identifying the minimum contact/engagement necessary and not giving more. Not punitive withdrawal, but energy conservation.
 4. **Nervous system management in real time** — not healing in retreat but healing in the field. Grounding during the dinner. Regulating during the phone call. The somatic tools aren't for after — they're for during.
 5. **The witness position** — learning to observe the narcissistic behavior as pattern rather than personal attack. "There it is again" instead of "Why does this keep happening to me?"
-6. **Private naming** — even if you can never say it out loud, knowing *what this is* changes everything. The book itself is this tool. You may never confront your sister. But you know what she's doing now. That knowledge is sovereignty.
+6. **Private naming** — even if you can never say it out loud, knowing *what this is* changes everything. The book itself is this tool. You may never confront your family member. But you know what they're doing now. That knowledge is sovereignty.
 7. **The long game** — some people can't leave today. The book gives them tools for today AND plants seeds for later. The reader who can't leave this year may be able to in five years. The book doesn't expire.
 
-**The author's own credibility here is enormous.** She is still navigating her sister. She still fears the wrath. She is not writing from the other side of a clean break — she is writing from *inside* an ongoing relationship with a narcissistic family member. This makes her the exact right person to write this section, because she's not offering advice she hasn't needed herself.
+**The author's own credibility here is enormous.** She is still navigating this family member. She still fears the wrath. She is not writing from the other side of a clean break — she is writing from *inside* an ongoing relationship with a narcissistic family member. This makes her the exact right person to write this section, because she's not offering advice she hasn't needed herself.
 
 **Where this belongs:** Not a new chapter. A thread woven through the existing structure:
 - Ch 4 (Trauma Bonds) — add a section: "When You Can't Leave Yet"
@@ -1485,3 +1464,77 @@ This means:
 - The front matter — the "Note on Diversity and Access" should name this directly: "This book will not tell you to leave. It will tell you to see. What you do with that seeing is yours."
 
 **The readers this serves:** Every reader who picks up this book while still in it. Every woman who reads it in the bathroom while he's in the next room. Every daughter who recognizes her mother but will still go to Thanksgiving. Every person whose culture, faith, finances, children, or immigration status makes leaving impossible. They are not failed readers. They are the readers who need this book most.
+
+---
+
+## ADDENDUM: Three Additional Points (Added During Implementation Planning)
+
+The following three points surfaced during the planning conversation for the implementation pass and are folded into the integration alongside the existing points above. They are NEW material from the author and have not been in any prior proposal.
+
+### NEW: Working for the Ex's Family Members — Employment as Enmeshment
+
+**New material from author:** She did not just marry into the enmeshed system — **she also worked for members of his family.** Her livelihood ran through the same family that controlled the relationship.
+
+This is structural capture. Enmeshment that crosses into employment removes the fallback that makes leaving theoretically possible. Quitting the partner also means quitting the job. The "going home to mom" exit doesn't exist when the in-laws are also your clients, your boss, your coworkers. The economic floor and the relational floor become the same floor. Pulling one collapses the other.
+
+**What this teaches the reader:** Enmeshment is not only emotional. Watch for the structural forms. The family business, the family lawyer, the family doctor, the apartment owned by his parents, the car in his mother's name, the health insurance through his sister's company, the job you got because his uncle vouched for you. Each one is a thread. Together they are a net. When the net is tight enough, "leaving" stops being a discrete action and becomes a logistical impossibility — *which is the point.*
+
+**Where this belongs:**
+- **Ch 5 (Narcissist Types)** — in the new "When Enmeshment Is Called Closeness" subsection, as a field note. Not just family weighing in on your relationship — family literally on your payroll, or you on theirs.
+- **Ch 8 (Parental Wounds)** — extends the Mother-Son Enmeshment subsection. The man enmeshed with his mother imports his mother's family as your *workplace*. The same enmeshment that makes him incapable of independence makes you economically dependent on the same system that produced him.
+- **Ch 11 (Romantic Manipulation)** — extends "The Takeover." Love-bombing is the emotional colonization. Working for his family is the economic colonization. The diary reading is the inner colonization. Together they describe a person who has nowhere left that is hers.
+
+**Voice:** Author first-person.
+
+**Anonymization:** Generalize the type of work and the specific family members. No roles, no business names, no industry markers that point back. "I worked for members of his family" — that sentence alone carries the lesson.
+
+### NEW: The Therapist Surprise — Therapy as Triangulation
+
+**New material from author:** The plan already names a "Shared Therapist" addition. The new detail upgrades it: **the author discovered, as a surprise during a session, that the therapist was simultaneously seeing other family members.** The discovery itself — mid-session, unannounced, the floor going out from under her — is the violation.
+
+The therapeutic container is supposed to be the one place free of the family system. It's the one room where what you say does not loop back. Discovering mid-session that it has been looping the entire time is a category-collapse moment: there is now no neutral ground anywhere. Not the family table. Not the synagogue. Not the therapist's office. The system has captured the structure designed to help you escape the system.
+
+**Why this is one of the most important field notes in the book:** It demonstrates, with surgical precision, how collectivist enmeshment weaponizes the very institutions built for individual healing. A therapist who agrees to see multiple members of an enmeshed family — without disclosure, without informed consent from each party — is not neutral. They are inside the system. Whatever you say can and will be used by the relational physics of the room you cannot see. This pattern repeats with pastors who counsel both spouses, family doctors who "know everyone," lawyers who represent the family business and the family marriage, school counselors who also coach the brother's team. The captured professional looks neutral. They are not.
+
+**Where this belongs:**
+- **Ch 8 (Parental Wounds)** — rewrite the existing "Shared Therapist" addition to lead with the moment of discovery. The body memory of realizing it. The shoulders dropping in a different direction than they ever had in that room before. Not a clinical description — the field-note version of *the room itself stopped being safe in real time.*
+- **Ch 7 (Family Roles & Triangulation)** — under "When the Whole Community Is the Triangle." The professional as a captured node in the system. The triangulation no longer needs a flying monkey because the therapist is doing the work without anyone asking.
+- **Ch 3 (Decoder Playbook)** — a captured-professional decoder paragraph or short card. Pattern-recognition language for readers: *if the same professional sees more than one member of an enmeshed family without explicit boundaries, they are not your therapist. They are the family's therapist, and you are one of its members.*
+
+**Voice:** Author first-person. The discovery moment is the field note — the body, not the analysis.
+
+**Anonymization:** Don't name the therapist, the city, the modality, or the specific family members in attendance. "I was in session. Mid-sentence, I learned that other members of my husband's family were also patients of the same therapist. I had not been told. The container had never been a container."
+
+### NEW: The Gay Family Member, Shielded — Homophobia as Inherited Family Policy
+
+**New material from author:** The author's mother shielded her brother from being around their gay uncle (the father's brother) — as if being gay were "catchy," or as if the uncle posed a predatory risk to the children. The shielding was not loud. It was logistical. Visits arranged around him. Conversations steered. A quiet family policy that the children learned without ever being told.
+
+**Why this matters — and why it belongs alongside "The Coming Out That Never Happened":** The author's strategic silence about her own bisexuality was not paranoia. It was pattern recognition built on a lifetime of evidence. She had watched her mother manage access to a queer family member as if his sexuality were dangerous to children. That family policy was the *prequel* to the boyfriend's "Dyke" joke and the mother's laughter. The laughter wasn't a one-off. It was continuous with a decades-long architecture in which queerness in this family was treated as something to be contained.
+
+When a child grows up watching the adults in her family treat a gay relative as a contamination risk — *especially* a relative whose only sin is existing — the child learns several lessons at once:
+- Queerness is a thing that adults take precautions against
+- Adults who love you will distance you from queer people "for your own good"
+- The shielding is silent; nobody has to say "we're afraid of him"
+- If you are queer, you are the thing they were shielding against
+- Coming out is not just a disclosure — it is a request to be the next person managed
+
+The author's bisexuality was held in silence not because she was ashamed, but because she had already seen what the family did with queer relatives they couldn't deny. They didn't reject. They *managed.* And being managed by your own family is its own kind of erasure.
+
+**Where this belongs:**
+- **Ch 8 (Parental Wounds)** — as a field note in the Mother Wound section. The mother's homophobia as an inherited protective instinct that is itself a wound. Not the mother as villain. The mother as the carrier of the previous generation's fear, transmitting it as protection. The wound is real even when the intent was care.
+- **Ch 9 (Childhood Patterns)** — in the cultural-conditioning section. What the child learned about queerness from watching the adults control access. The lesson installs early, before language. The child does not need to be told "we are afraid of him." She just notices that visits are scheduled around him.
+- **Ch 7 (Family Roles & Triangulation)** — gatekeeping access based on identity. The narcissistic system does not have to do this work overtly. It just has to manage who gets to be in which room. Identity-based gatekeeping is one of the quietest forms of triangulation in the book.
+- **The LGBTQ+ thread, alongside "The Coming Out That Never Happened"** — as the backstory that confirms the pre-rejection was not a single moment. The mother's laughter at the slur was the latest expression of a family policy the author had been reading since childhood. The strategic silence is intelligence.
+
+**Voice:** Author first-person, with anonymization.
+
+**Anonymization:** No "uncle." No "father's brother." No name. Suggested phrasing: *"A gay family member was kept at arm's length — as if his orientation were contagious, or as if proximity itself posed a risk to the children. Visits were scheduled around him. Conversations were steered. Nobody ever said the word 'afraid.' Nobody had to. We learned what queerness meant in this family before we had a word for what queerness was."*
+
+### Cross-cutting note: how these three points reinforce the existing thesis
+
+Each new point sharpens an existing thread:
+- **Point A (working for ex's family)** thickens the enmeshment thread — enmeshment is not just emotional, it is structural and economic. This makes "Sovereignty Without Exit" honest about why exit is sometimes literally not affordable.
+- **Point B (therapist surprise)** thickens the captured-professional / community-triangle thread — even the institutions designed to free you can be captured by the system. This is the cleanest illustration in the book of how collectivist systems metabolize individualist tools.
+- **Point C (gay family member, shielded)** thickens the LGBTQ+ pre-rejection thread — the "Coming Out That Never Happened" was not an isolated moment; it was the inheritor of a long-running family policy. This makes the strategic silence legible as intelligence rather than fear.
+
+Together they extend the book's range without expanding its skeleton. They are field notes, not new frameworks.

@@ -10,7 +10,7 @@ const ServicesSection = () => {
       icon: Calendar,
       title: 'Personal Aura Readings',
       description:
-        'Connect with your divine guides and receive profound spiritual insights in one-on-one sessions with Jennifer',
+        'Connect with your divine guides and receive profound spiritual insights in one-on-one sessions with Jae',
       features: [
         '30, 60, or 90-minute sessions',
         'Spirit connection & messages',

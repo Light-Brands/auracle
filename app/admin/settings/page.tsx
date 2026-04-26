@@ -47,9 +47,9 @@ export default function SettingsPage() {
 
   // Mock settings data
   const [profileSettings, setProfileSettings] = useState({
-    name: 'Jennifer (The Auracle)',
-    email: 'lightfieldpress@gmail.com',
-    bio: 'A sacred guide devoted to awakening divine remembrance and energetic clarity.',
+    name: 'Jae Lawless (Auracle)',
+    email: 'hello@jaelawless.com',
+    bio: 'The voice behind Auracle — writer, therapist, and sacred guide devoted to awakening divine remembrance and energetic clarity.',
     timezone: 'America/New_York',
     language: 'en',
   });
@@ -67,7 +67,7 @@ export default function SettingsPage() {
     twoFactorEnabled: false,
     sessionTimeout: '24',
     loginNotifications: true,
-    allowedDomains: ['lightbrands.ai'],
+    allowedDomains: ['jaelawless.com'],
   });
 
   const timezoneOptions = [

@@ -531,6 +531,45 @@ In a Jewrican household, this can mean the mother-in-law's standards for food, f
 
 **The decoder:** If his relationship with his mother requires your erasure, the bond isn't beautiful — it's a blueprint for how he'll treat you. You didn't marry him. You married the system.
 
+> **Field Note: When the Job Is the Family**
+>
+> It wasn't only the marriage. I also worked for members of his family.
+>
+> When I tell people that now, they nod like they understand. They don't, not yet. They think "working for family" means occasional overlap — a shared holiday, a name on an email chain. That's not what this was. My body knew it before my mind made it plain: every Sunday dinner was also a work meeting; every work meeting was also a Sunday dinner. There was no Monday that wasn't still Sunday. There was no office that wasn't also the kitchen.
+>
+> Quitting my partner would have meant quitting my livelihood. I did not have two worlds. I had one world, wearing two faces.
+>
+> This is how enmeshed systems close their exits. In individualist cultures, the "going home to your mother" fallback is a cliché — and also a safety net. It presumes you have a separate home to go to. In enmeshed systems, there often isn't one. Your family is also his family's business associate. Your church is also his aunt's congregation. Your therapist sees his cousin. The systems don't simply overlap. They are the same system wearing different clothes.
+>
+> So when the relationship became unlivable, "leave" wasn't one decision. It was six. Career, income, references, professional identity, reputation, the life you'd built that made you a person in the world. All of it was downstream of the same family.
+>
+> **The decoder:** If leaving the partner also means leaving your income, your community, your rabbi, your primary-care doctor, and the only people you've ever celebrated a holiday with — the system is not a relationship. It's a container. And the container has been sized to make your exit expensive.
+
+### The Shared Therapist
+
+I learned this mid-session.
+
+My therapist told me herself — not as a slip, not an accident, but a deliberate disclosure. She was visibly uncomfortable as she said it. I remember her face. The way a clinician's composure breaks a little when they're telling you something they know is about to rearrange the room.
+
+She was also seeing members of my husband's family. Not in the past. Currently. At the same time.
+
+I don't remember what I said. I remember my body. The way the chair became wrong. The way the room became small. The way every sentence I had ever spoken in that office rearranged itself behind me — who had heard it, who might have been told, what members of my husband's family knew about me before I walked into a holiday. I felt my privacy leaking backwards through time.
+
+Her discomfort mattered. It told me she knew. She understood — the way a trained clinician understands — what this was doing: why the rules that keep a therapist's room separate from a family's exist, and that she was living the reason in front of me. She was not the villain in this scene. She was another person caught inside a system large enough to reach into her practice, too.
+
+Technically, nothing confidential had been shared. She was careful, I'm sure. Professional. But the container I thought I had been sitting inside wasn't actually a container. It was another room in the family's house — and the therapist was in that room with me, watching it happen.
+
+This is what enmeshment looks like at its most thorough: the family doesn't stop at the dinner table, or the bedroom, or the marriage. It reaches into the one space designed to give you a view of itself — and when you reach for that view, the family is already there, holding the chair.
+
+**What this does:**
+
+- **Confidentiality becomes ambient.** Nothing has to be shared for the knowledge to land. You stop being able to say what you actually feel, because every sentence has to be pre-scanned for how it might sound in another session, another ear.
+- **The family system enters every session.** A therapist who treats multiple people in one enmeshed system isn't neutral — and often knows it. They hold, in their mind, the mother's version and the cousin's version alongside yours. Your truth enters a room already furnished with other perspectives.
+- **It mirrors the family dynamic exactly.** In enmeshed families, there is no private information. Your salary, your therapy, your problems — all shared, all adjudicated by the collective. A shared therapist is that dynamic with a couch.
+- **It makes leaving harder in both directions.** Leaving the therapist means losing the one professional who "knows the family." Staying means sitting, week after week, in a room you can no longer fully occupy.
+
+**The decoder:** Your therapist should be yours. Not shared with family members who are part of the system you are trying to see. If you discover — however carefully they disclose it — that the family has reached your therapeutic space, that space is compromised. The discomfort you feel in your body is correct. So, often, is the discomfort you'll see on the clinician's face. What you do about it is the next question. Some readers will find another clinician. Others — in small communities, in systems with one bilingual provider, in places where the therapeutic options were never plural to begin with — may not have that option. For them, the first sovereign act is not leaving the room. It is knowing what room you are in.
+
 ### When Your Identity Becomes Their Wound
 
 Some narcissistic parents don't reject your identity outright. They do something more insidious: they absorb it into their own narrative. Your coming out becomes *their* crisis. Your identity becomes *their* burden. Your truth becomes the thing *they* have to endure.
@@ -546,6 +585,20 @@ And then there's the version that never reaches disclosure at all. The environme
 > I still haven't told her. What's the point. Sharing leaves me vulnerable for ridicule. So I get quiet around certain people who dig for weaknesses to make fun of me about.
 >
 > The quiet isn't shame. It's intelligence. I read the room. I assessed the cost. And I decided my truth was worth more than their approval. I kept it for myself — not because I'm ashamed of it, but because I refuse to hand it to people who would use it as a punchline.
+
+> **Field Note: Kept at Arm's Length**
+>
+> This wasn't my first piece of evidence. It was the one I finally named.
+>
+> Long before the slur in the living room, long before the laugh, there was a pattern I grew up inside and never had language for: a gay family member was kept at arm's length. Not banned. Not confronted. Just...managed. Quietly. The children weren't allowed to spend unsupervised time with him. Holidays had choreography around him — who sat where, who left when. The distance was so carefully maintained that for years I thought it was normal. Every family has relatives they see less of, I told myself. Some people are just further out.
+>
+> It took me a long time to name what the distance was protecting the children from. Not harm — he had never harmed anyone, had never been accused of anything. His *presence* was the supposed risk. As if being near him could teach us something the family didn't want us to learn. As if what he was — just his being — could reach a child through air.
+>
+> The message I absorbed before I had words for it: people like him are a threat to children. By extension: people like me are a threat to children. By further extension: if I am that, I must never be near a child. I must never want a child. I must never come home.
+>
+> When I walked into that living room years later and heard my mother laugh at the slur, I wasn't blindsided. Some part of me had been assembling evidence for two decades. The laugh didn't tell me who my mother was. It confirmed her. And the words died in my mouth not because I was afraid — but because a system that had quietly cordoned off one of its own for being what I am was never going to make room for me to say what I was.
+>
+> The strategic silence wasn't cowardice. It was the only rational response to two decades of data.
 
 ### The Modeling Pattern
 
@@ -693,46 +746,46 @@ He cannot see it. Not because it isn't there. Because he isn't capable.
 
 ### Field Note: Where Are the Other Two Points?
 
-He gets a 98 on the test.
+I get a 98 on the test.
 
-He is proud. He did everything right. He studied. He remembered. He performed.
+I am proud. I did everything right. I studied. I remembered. I performed.
 
-He shows his father.
+I show my father.
 
 "Where are the other two points?"
 
 Not "great job." Not "I'm proud of you." Not even silence. A question. An accounting. A reminder that 98 is not 100, and not-100 is not enough.
 
-His body learns: *Perfect is the minimum. Anything less requires explanation.*
+My body learns: *Perfect is the minimum. Anything less requires explanation.*
 
-His mother teaches a different lesson—but the same wound.
+My mother teaches a different lesson—but the same wound.
 
-She says they're leaving at 2:00. He's ready at 1:45. He waits. 2:00 passes. 2:30. 3:15. She's not ready. She's never ready. He learns to wait. He learns that his readiness doesn't matter. He learns that time is something that happens *to* him, not something he controls.
+She says we're leaving at 2:00. I'm ready at 1:45. I wait. 2:00 passes. 2:30. 3:15. She's not ready. She's never ready. I learn to wait. I learn that my readiness doesn't matter. I learn that time is something that happens *to* me, not something I control.
 
-But also: he learns to *dread* being the one who isn't ready. Because he knows how it feels to wait. He will not make others feel that. He will be early. He will be prepared. He will never be the reason someone waits.
+But also: I learn to *dread* being the one who isn't ready. Because I know how it feels to wait. I will not make others feel that. I will be early. I will be prepared. I will never be the reason someone waits.
 
 Two wounds. Two parents. One nervous system trying to hold both.
 
-Now add this: his brain works differently. Not broken—but differently. The ADHD means time is slippery. Transitions are hard. Leaving on time requires a kind of executive scaffolding that doesn't come naturally. What others do automatically, he must do manually. Every departure is a negotiation with a brain that doesn't feel urgency until urgency is all there is.
+Now add this: my brain works differently. Not broken—but differently. The ADHD means time is slippery. Transitions are hard. Leaving on time requires a kind of executive scaffolding that doesn't come naturally. What others do automatically, I must do manually. Every departure is a negotiation with a brain that doesn't feel urgency until urgency is all there is.
 
-So he's fighting three battles:
-- His father's voice saying *98 isn't good enough*
-- His body remembering hours of waiting, learning his time doesn't matter
+So I'm fighting three battles:
+- My father's voice saying *98 isn't good enough*
+- My body remembering hours of waiting, learning my time doesn't matter
 - A brain that makes punctuality genuinely harder
 
 The result: being late feels like moral failure. Not inconvenience—*failure*. The same failure as those two missing points. The same invisibility as waiting in the hallway for hours.
 
-When he's running late, his nervous system doesn't say "you might be a few minutes behind." It says *you are failing*. It says *you are the problem*. It says *hurry, hurry, hurry*.
+When I'm running late, my nervous system doesn't say "you might be a few minutes behind." It says *you are failing*. It says *you are the problem*. It says *hurry, hurry, hurry*.
 
-One winter morning, running late for work, he drives too fast on icy roads.
+One winter morning, running late for work, I drive too fast on icy roads.
 
-He crashes.
+I crash.
 
-The car spins. Metal crumples. Glass shatters. He is lucky—shaken, but alive.
+The car spins. Metal crumples. Glass shatters. I am lucky—shaken, but alive.
 
-And sitting in the wreckage, heart pounding, he has a moment of terrible clarity: *I almost died because I couldn't be five minutes late.*
+And sitting in the wreckage, heart pounding, I have a moment of terrible clarity: *I almost died because I couldn't be five minutes late.*
 
-Not because of the ice. Not because of the weather. Because his body decided that death was preferable to being the person who makes others wait. Because somewhere in his nervous system, "late" and "worthless" became the same thing.
+Not because of the ice. Not because of the weather. Because my body decided that death was preferable to being the person who makes others wait. Because somewhere in my nervous system, "late" and "worthless" became the same thing.
 
 This is how childhood patterns become life-threatening.
 
@@ -744,11 +797,11 @@ The ADHD doesn't create the wound. But it makes the wound harder to outrun. The 
 
 **The work:** Separating time from shame. Learning that "running behind" is logistics, not identity. Teaching the nervous system that lateness is survivable—uncomfortable, maybe, but survivable.
 
-Years later, he told his father about the crash. About the ice and the panic and the way his body chose death over lateness. His father couldn't believe he was still upset about the two points. "That was years ago," he said. "You're still carrying that?"
+Years later, I told my father about the crash. About the ice and the panic and the way my body chose death over lateness. He couldn't believe I was still upset about the two points. "That was years ago," he said. "You're still carrying that?"
 
 The original incident teaches: *you're not enough.* The dismissal years later teaches: *your memory of not being enough doesn't matter either.* The wound and the minimization of the wound are the same pattern. The near-death didn't register as evidence — because in the narcissistic parent's world, their impact on you is never as significant as you claim.
 
-He is not chasing two points anymore. He is not waiting in a hallway. He is an adult, and he gets to decide what lateness means.
+I am not chasing two points anymore. I am not waiting in a hallway. I am an adult, and I get to decide what lateness means.
 
 It doesn't have to mean failure.
 

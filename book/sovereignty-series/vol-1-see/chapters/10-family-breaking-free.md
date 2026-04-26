@@ -384,7 +384,7 @@ Sometimes the narcissist doesn't even have to be in the room. They just have to 
 
 > **Field Note:** Three women. Three bottlenecks. One system.
 >
-> I tolerate E's boyfriend — the one who laminated her photo and calls her "Employee of the Month" — to see E. I can see what he's doing. I can name it privately. But I can't confront him without risking access to her.
+> I tolerate E's boyfriend — whose displays of ownership in their home make her feel subordinate — to see E. I can see what he's doing. I can name it privately. But I can't confront him without risking access to her.
 >
 > E tolerates N's wrath to see her grandchildren. She endures the guilt trips, the accusations, the rage — because the alternative is not seeing the kids.
 >

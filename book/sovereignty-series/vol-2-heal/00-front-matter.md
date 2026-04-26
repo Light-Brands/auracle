@@ -120,6 +120,38 @@ The people in this series are real. They are identified by single letters — no
 
 ---
 
+## A Note on Culture, Faith, and Community
+
+Most recovery books assume an individualist starting point: that you can set boundaries, create distance, and rebuild without losing your world. For many readers, that assumption fits. For many others, it doesn't.
+
+If you grew up in a collectivist culture — Hispanic, Asian, Indigenous, Middle Eastern, Black diaspora, immigrant, or any community where the self is defined by the collective — "going no contact" can mean cultural exile, not just relational distance.
+
+If you belong to a faith community where leaving the marriage means leaving the congregation, the cosmology, and sometimes every relationship you've ever had, healing carries a different weight.
+
+If you are LGBTQ+ — and especially if you are trans — the chosen family that replaced the family that rejected you may be the only family you have. Leaving a narcissist embedded in that family is a particular grief.
+
+If you live at an intersection of these — and most readers do — the layers compound. Two collectivist systems don't add. They multiply.
+
+This book sees you. The cultural layer is threaded through the volume rather than ghettoized into a single chapter. You will find it at the structural level in:
+
+- **Chapter 1** (the cultural bridge) — naming that for many readers the "between worlds" is literal
+- **Chapter 5** (the culturally-armored father) and **Chapter 6** (the culturally-sanctified mother) — the parental wounds, inside the cultural frames that protected them
+- **Chapter 7** (pre-gaslighting) — the roles installed by family and culture long before any narcissist arrived
+- **Chapter 11** (the body pre-trained to override itself) — how cultural endurance codes compound somatic trauma
+- **Chapter 12** (when the community is the relationship) — what no-contact means when leaving one person means navigating an entire world
+- **Chapter 13** (cultural and religious guilt) — the architectures of guilt across communities
+- **Chapter 14** (endings that cannot be clean by Western standards) — shunning, honor-based, small-community, and cosmological endings
+- **Chapter 15** (when the loss includes a community) — the grief layer most recovery literature does not name
+- **Chapter 16** (when hope is culturally required) — releasing the enforced hope without losing the tender one
+- **Chapter 18** (dating inside a small world) and **Chapter 19** (when the red flag is dressed as a virtue) — the cultural reading that sits inside the observational work
+- **Chapter 22** (reparenting when needs themselves were taboo) — overruling (not erasing) the inherited survival rules
+
+The companion blueprint (`cultural-coverage-integration-plan.md`) maps where six specific communities — Black, Asian, Indigenous, Middle Eastern, religious traditions, and trans — receive deeper community-voice treatment as that material develops. The author's working intent for that work lives in `sensitivity-reader-gate.md`: community-voice material is drafted with reader input from the relevant community wherever possible, because the author does not hold that voice and is writing with that awareness.
+
+You do not have to choose between healing and belonging. The work this book asks of you is to find the version of belonging that doesn't cost you yourself.
+
+---
+
 ## A Note on Volume 1
 
 This book is the second volume in a two-book series.

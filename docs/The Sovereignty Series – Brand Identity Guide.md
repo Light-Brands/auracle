@@ -6,10 +6,13 @@
 
 An 8-volume nonfiction series about healing from narcissistic abuse and building personal sovereignty. The series follows a transformational arc from recognition through embodiment to transcendence.
 
-**Author:** Jennifer Brooke Lawless
-**Publisher:** Auracle
+**Author (on cover):** Jennifer Brooke Lawless, M.S.
+**Author (digital / online identity):** Jae Lawless — *the voice behind Auracle, who writes and creates these books*
+**Publisher:** KDP Amazon
 **Trim Size:** 6" x 9" paperback / Kindle ebook / Gumroad digital
 **Volumes:** 8
+
+> **Name usage note:** Book covers, spines, and title pages use "Jennifer Brooke Lawless, M.S." for clinical credibility. Across digital, social, website, and content she writes and creates as **Jae Lawless**. Back-matter bios include a bridge line so readers can find her online. See `docs/personal-brand-strategy.md` for the full three-layer brand architecture.
 
 ### The Promise
 
@@ -80,7 +83,7 @@ From **external recognition** (truth) through **somatic healing** (body) to **re
 | 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* | "You were never becoming someone new. You were always unveiling who you'd been all along." | Integration, wholeness, arrival |
 
 **Series line on all volumes:** The Sovereignty Series — Volume N
-**Author on all volumes:** Jennifer Brooke Lawless
+**Author on all volumes (cover):** Jennifer Brooke Lawless, M.S.
 
 ---
 

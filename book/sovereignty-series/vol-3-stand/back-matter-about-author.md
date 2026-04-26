@@ -18,13 +18,15 @@ Today, Jennifer lives in Costa Rica surrounded by community—on a hill with lem
 
 She no longer seeks permission to take up space. She no longer confuses intensity with connection. She chooses without urgency, desires without fear, and separates without guilt.
 
+She writes and creates as **Jae Lawless** — the voice behind Auracle, the platform that holds the Sovereignty Series, her sessions, and the work beyond.
+
 This book is for everyone who has done the healing work and is now asking: *Who am I when I stop shrinking?*
 
 The answer is here. And so are you.
 
 ---
 
-**Connect with Jennifer**
+**Connect with Jae**
 
 - Website: JaeLawless.com
 - Instagram: @jae.lawless

@@ -11,17 +11,6 @@ Design a cohesive cover system for **The Sovereignty Series** — an 8-volume no
 
 ---
 
-## What's Been Updated
-
-> Hi Andreas, I like the subtle images and the classy seriousness of it. I want it to cohesively go together on a shelf which I think this achieves.
-
-1. **Subtitles revised** — more grounded and specific (see volume text reference below)
-2. **Author credentials corrected** — M.S. and degrees reflected accurately
-3. **Companion workbook covers added** — 8 workbook covers matching their parent volumes
-4. **Font size consistency** — all 8 titles must be the same size across every cover, regardless of character count
-
----
-
 ## Volume Text Reference
 
 ### Front Cover Text Hierarchy
@@ -49,9 +38,9 @@ Each front cover follows this exact structure:
 
 ### All 8 Volumes — Titles and Subtitles
 
-> **Note:** The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine and back-cover metadata block). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+> **Note:** The **Subtitle** is the descriptive subtitle used on the **front cover, spine, and KDP metadata**. The **Guide Subtitle** is reader-facing marketing language used in the **Amazon description, Gumroad hero text, and social cards** — it is NOT rendered on the cover.
 
-| Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) |
+| Vol | Title | Subtitle (Cover / Spine / Metadata) | Guide Subtitle (Amazon / Gumroad / Social) |
 |:---:|:-----:|-----------------------------|-------------------------------|
 | 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
 | 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
@@ -63,20 +52,6 @@ Each front cover follows this exact structure:
 | 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* |
 
 **Author on all volumes:** Jennifer Brooke Lawless
-
-### The Two Through-Lines
-
-**The Titles form a mantra:** SEE → HEAL → STAND → LIVE → GIVE → SERVE → THRIVE → BECOME
-
-**The Subtitles form a poem when read together:**
-> *The truth that was hidden in plain sight...*
-> *The body that remembers the way home...*
-> *The ground that was always yours...*
-> *The presence that changes everything...*
-> *The chain that ends with you...*
-> *The light that doesn't consume...*
-> *The life you were told you couldn't have...*
-> *The self that was never lost.*
 
 ---
 
@@ -134,7 +109,7 @@ SEE | HEAL | STAND | LIVE | GIVE | SERVE | THRIVE | BECOME
 
 **Barcode area:** Reserve 2" x 1.2" white rectangle in lower-right corner, 0.25" from spine and trim edge.
 
-**Author photo:** AI-enhanced professional headshot from real photo (at `public/photos/author-headshot.jpg`). Same photo across all 8 volumes.
+**Author photo:** AI-enhanced professional headshot from real photo. Same photo across all 8 volumes. **Placeholder in repo:** `public/photos/author-headshot.png` (copy of `bios/CFBA4920-C863-42D6-9180-60A42E826949.png`) — swap with final AI-enhanced headshot before print.
 
 ---
 
@@ -228,7 +203,7 @@ SEE | HEAL | STAND | LIVE | GIVE | SERVE | THRIVE | BECOME
 
 ### Back Cover Connect Info
 
-- **JaeLawless.com**
+- **jaelawless.com**
 - **@jae.lawless**
 
 ---
@@ -465,14 +440,14 @@ The full canonical designer brief and cover specifications live in the repositor
 
 - **`book/release/15-designer-brief.md`** — Complete designer brief (single source of truth)
 - **`book/release/11-cover-specifications.md`** — Platform-specific cover specifications
-- **`public/photos/author-headshot.jpg`** — Author headshot for back cover
+- **`public/photos/author-headshot.png`** — Author headshot for back cover (current file is a placeholder; replace with final AI-enhanced headshot before print)
 
 ---
 
 ## What the Designer Will Receive
 
 1. This issue (complete specifications)
-2. Author headshot photo (`public/photos/author-headshot.jpg`)
+2. Author headshot photo (`public/photos/author-headshot.png` — placeholder in repo; final AI-enhanced version to replace before print)
 3. Access to the [KDP Cover Calculator](https://kdp.amazon.com/en_US/cover-calculator) for final spine width confirmation
 4. Final page counts once manuscripts are formatted
 

@@ -347,6 +347,26 @@ Someone can want to be better and still not have the emotional resources to show
 
 ---
 
+## When the Red Flag Is Dressed as a Virtue
+
+The green-flag / red-flag framework in the next two sections assumes a shared reading of what each flag means. For many readers, certain behaviors are read by the surrounding culture as virtues — specifically as *masculine virtues*, *traditional virtues*, *spiritual virtues* — and the mismatch between what the culture calls the behavior and what your nervous system registers while it's happening is a central reason survivors do not trust their own reading.
+
+The structural patterns below appear across communities in different vocabulary:
+
+- **Protection that is actually control.** Machismo in some Latin frames, similar patterns in SWANA, South Asian, and some Mediterranean communities, and "traditional provider" framing in some Western religious communities — where jealousy is read as love, surveillance is read as devotion, and restriction of your movement is read as care for your safety. The behavior is identical to the coercive pattern. The frame is the only thing that changes.
+- **Headship that is actually domination.** In some Evangelical, LDS, and traditional Catholic communities, the husband-as-spiritual-head doctrine can be held humbly or weaponized. Weaponized, it presents as calm, as order, as maturity — while functioning as unilateral decision-making with spiritual authority as the enforcement tool. Your nervous system is reading the enforcement. The culture is reading the calm.
+- **Respect for elders that is actually silencing.** In many collectivist and tradition-bearing communities, "he defers to his parents" or "he respects the elders" is read as maturity. It is — except when it is the mechanism by which your concerns are routed away from him and into a council that will always side with him. The green flag and the red flag look the same from the outside.
+- **Religious seriousness that is actually grievance architecture.** In high-control religious subcultures, a partner's intense spiritual discipline can be real devotion, or can be the infrastructure for later using scripture, the pastor, the bishop, or the community to enforce your compliance. Early in the relationship, both look the same.
+- **Strength that is actually unreachability.** The Strong Black Man, the stoic patriarch, the unflappable provider — cultures vary, the archetype recurs. Strength without access to his inner life is not safety; it is a wall. But the surrounding culture, and often your own family, will read the wall as manhood.
+- **Quiet that is actually contempt.** In cultures where emotional restraint is virtue, a partner's quiet registers as mastery. The nervous system, meanwhile, is reading the shape of the silence. The body knows a silence full of withdrawal from a silence full of presence. It rarely has permission to say so out loud.
+- **Sacrifice that is actually ledger-keeping.** A partner who sacrifices conspicuously — for your family, for your immigration status, for your transition, for your recovery — may be giving freely or building an account to be collected later. The culture reads sacrifice as love. The nervous system, at eighteen months in, starts reading the interest payments.
+
+None of these behaviors are red flags in isolation. Many are the very virtues that hold cultures together. The question is not *is this behavior happening* but *is my body regulated around it.* The Body Test later in this chapter is the tool. This section exists so you know you are not imagining the gap between what the culture is telling you about a behavior and what your body is telling you.
+
+The full per-community treatment — with community-specific red flag translations, cultural-context language, and survivor-voice field notes from people who learned to trust the body's read against the culture's read — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The voice each one needs will be written by people who hold it.
+
+---
+
 ## Green Flags for Nervous System Compatibility
 
 ✓ You feel calm after interactions, not activated

@@ -14,14 +14,12 @@ All rights reserved. No part of this book may be reproduced, distributed, or tra
 
 Published by KDP Amazon
 
-Cover design by Light Brands — JaeLawless.com
-
 ISBN 978-X-XXXX-XXXX-X (paperback)
 ISBN 978-X-XXXX-XXXX-X (ebook)
 
 First Edition
 
-**Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. It is sold with the understanding that the publisher and author are not engaged in rendering psychological, medical, or other professional services. If expert assistance or counseling is needed, the services of a competent professional should be sought. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
+**Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
 
 **Author's Note:** This is a work of creative nonfiction. The examples, field notes, and illustrative narratives throughout draw from the author's professional experience as a trauma-trained therapist, as well as from personal observation and lived experience. All names, identifying details, and circumstances have been changed. Some examples are composites. Some events have been compressed, and some dialogue has been recreated from memory. No example should be read as a direct account of any specific individual. The information and opinions expressed in this book represent the author's professional and personal perspective and should not be considered a representation of the views or experiences of any other persons referenced herein, whether directly or indirectly.
 
@@ -15912,13 +15910,13 @@ If substance use (yours or theirs) is significantly impacting your relationship 
 
 
 
-## Jennifer Brooke Lawless
+## Jennifer Brooke Lawless, M.S.
 
 
 
 ---
 
-Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
+Jennifer Brooke Lawless, M.S., studied psychology and communications at Boston University and earned her Master's in Mental Health Counseling at Nova Southeastern University. Her clinical work ranged from locked psychiatric units to family therapy, individual sessions, and couples counseling.
 
 But none of her training prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
 
@@ -15930,13 +15928,16 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi — still doing the work, one conversation at a time.
+*See* is the first step. What comes after recognition, the healing and the reclaiming of your own authority, is its own journey.
+
+Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi, still doing the work, one conversation at a time. She writes and creates as **Jae Lawless** — the voice behind Auracle, the platform that holds this series, her sessions, and the work beyond.
 
 ---
 
-**Connect with Jennifer**
+**Connect with Jae**
 
-- @jae.lawless
+- Website: jaelawless.com
+- Instagram: @jae.lawless
 
 ---
 

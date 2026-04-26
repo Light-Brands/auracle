@@ -85,8 +85,9 @@ Each front cover follows this exact structure:
 │                                         │
 │    SEE                                  │  ← TITLE (largest, single word, ALL CAPS, WHITE)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle (medium, mixed case, OFF-WHITE)
-│    in Plain Sight                       │
+│    Recognizing Narcissistic             │  ← Subtitle (medium, mixed case, OFF-WHITE)
+│    Manipulation in Relationships,       │
+│    Family, and Work                     │
 │                                         │
 │                                         │
 │    Jennifer Brooke Lawless              │  ← Author (smallest, legible)
@@ -96,9 +97,9 @@ Each front cover follows this exact structure:
 
 ### Volume Text Reference
 
-> **Note:** The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine and back-cover metadata block). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+> **Note:** The **Subtitle** is the descriptive subtitle used on the **front cover, spine, and KDP metadata**. The **Guide Subtitle** is reader-facing marketing language used in the **Amazon description, Gumroad hero text, and social cards** — it is NOT rendered on the cover.
 
-| Vol | Title | Subtitle (Spine / Metadata) | Guide Subtitle (Front Cover) |
+| Vol | Title | Subtitle (Cover / Spine / Metadata) | Guide Subtitle (Amazon / Gumroad / Social) |
 |:---:|:-----:|-----------------------------|-------------------------------|
 | 1 | **SEE** | *Recognizing Narcissistic Manipulation in Relationships, Family, and Work* | *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns* |
 | 2 | **HEAL** | *Nervous System Recovery and Attachment Repair After Narcissistic Abuse* | *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection* |
@@ -296,10 +297,10 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 The back cover should include two simple lines beneath the author bio:
 
-- **JaeLawless.com**
+- **jaelawless.com**
 - **@jae.lawless**
 
-**Branding note:** JaeLawless.com is the author's brand hub. The book's back cover points readers to JaeLawless.com and Instagram. If the designer visits JaeLawless.com for brand reference, the visual language there should feel like it belongs to the same family as these covers.
+**Branding note:** jaelawless.com is the author's primary digital destination — home of Auracle, the platform that holds the series, sessions, and courses. The book's back cover points readers to jaelawless.com and Instagram. The visual language at jaelawless.com should feel like it belongs to the same family as these covers (kingfisher palette, Cormorant Garamond + Inter typography). See `docs/personal-brand-strategy.md` for the brand architecture (Trust → Jennifer, Connection → Jae, Transformation → Auracle).
 
 ---
 
@@ -516,8 +517,9 @@ Each volume has an accompanying **companion workbook**. The workbook covers shou
 │                                         │
 │    SEE                                  │  ← TITLE (same as main cover)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle (same as main cover)
-│    in Plain Sight                       │
+│    Recognizing Narcissistic             │  ← Subtitle (same as main cover)
+│    Manipulation in Relationships,       │
+│    Family, and Work                     │
 │                                         │
 │    ── Companion Workbook ──             │  ← Workbook designation (white, small,
 │                                         │     with decorative rules or lighter weight)

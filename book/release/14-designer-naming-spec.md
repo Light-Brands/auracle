@@ -13,11 +13,12 @@ Each cover follows this exact text hierarchy:
 │                                         │
 │    SEE                                  │  ← TITLE (largest, single word)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle (medium)
-│    in Plain Sight                       │
+│    Recognizing Narcissistic             │  ← Subtitle (medium)
+│    Manipulation in Relationships,       │
+│    Family, and Work                     │
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless        │  ← Author (smallest)
+│    Jennifer Brooke Lawless              │  ← Author (smallest)
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -26,7 +27,7 @@ Each cover follows this exact text hierarchy:
 
 ## Complete Volume Naming
 
-> **Note on subtitles:** Each volume has two subtitle fields. The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine and back-cover metadata block). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+> **Note on subtitles:** Each volume has two subtitle fields. The **Subtitle** is the descriptive subtitle used on the **front cover, spine, and KDP metadata**. The **Guide Subtitle** is reader-facing marketing language used in the **Amazon description, Gumroad hero text, and social cards** — it is NOT rendered on the cover.
 
 ### Volume 1: See
 

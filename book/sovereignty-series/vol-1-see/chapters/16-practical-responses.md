@@ -457,7 +457,7 @@ That's not betrayal. That's separation.
 
 **Your response:**
 
-1. **Call emergency services or a crisis line immediately** (see [Appendix A](../appendices/appendix-a-resources.md)). Say: "I'm calling for help because you're saying you want to hurt yourself."
+1. **Call emergency services or a crisis line immediately** (for current hotlines, visit [companion website URL]). Say: "I'm calling for help because you're saying you want to hurt yourself."
 2. **Contact their family, friends, or emergency contacts** if you have them.
 3. **Do not take responsibility for their life.** You are not a mental health professional. You cannot prevent someone else's suicide by staying in an abusive relationship.
 4. **Still leave if you need to leave.** Their threat does not obligate you to stay.
@@ -475,7 +475,7 @@ That's not betrayal. That's separation.
 - Don't keep it secret. Tell people. This is too big to carry alone.
 - Don't become their suicide prevention plan. That's not love—that's hostage-taking.
 
-*See [Appendix A](../appendices/appendix-a-resources.md) for crisis resources.*
+*For current crisis resources, visit [companion website URL].*
 
 (See Chapter 3, Tactic 29; Chapter 11, Exit Phase Escalation for more context)
 

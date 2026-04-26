@@ -65,6 +65,85 @@ When seeking a therapist for attachment and trauma work, look for:
 
 ---
 
+## Community-Specific Resources
+
+The following organizations offer culturally-grounded support for survivors whose recovery requires more than the individualist template most resources are written for. Each list is partial — the companion website maintains a current, expanded directory.
+
+### Black / African American Survivors
+
+- **Therapy for Black Girls** — therapyforblackgirls.com — directory of culturally competent therapists
+- **BEAM** (Black Emotional and Mental Health Collective) — beam.community
+- **Loveland Foundation** — therapy fund for Black women and girls
+- **The Confess Project** — Black men's mental health
+- **Ujima** — National Center on Violence Against Women in the Black Community
+
+### Asian (East, South, Southeast) Survivors
+
+- **Asian Mental Health Collective** — asianmhc.org
+- **South Asian Sexual & Mental Health Alliance (SASMHA)**
+- **Manavi** — South Asian women facing abuse
+- **Asian Women's Shelter** (San Francisco) — culturally specific DV services, multilingual
+- **Subtle Asian Mental Health** — online community
+
+### Indigenous / Native Survivors
+
+- **StrongHearts Native Helpline** — 1-844-762-8483 — Native-specific DV support
+- **National Indigenous Women's Resource Center (NIWRC)**
+- **We R Native** — youth mental health
+- **Native Wellness Institute**
+- **Mending the Sacred Hoop**
+
+### Middle Eastern / Arab / SWANA Survivors
+
+- **AHA Foundation** — ahafoundation.org — honor-based violence and forced marriage
+- **Tahirih Justice Center** — immigrant women facing gender-based violence
+- **Karma Nirvana** (UK-based, international reach) — honor-based abuse
+- **Apna Ghar** (Chicago) — South Asian, Middle Eastern, and immigrant survivors
+- **Arab American Family Services**
+
+### Hispanic / Latino Survivors
+
+- **National Domestic Violence Hotline (Spanish)** — 1-800-799-7233
+- **La Línea Nacional de Violencia Doméstica**
+- **Casa de Esperanza** — casadeesperanza.org — Latina-focused DV services
+- **Mujeres Latinas en Acción**
+
+### Religious-Exit and Spiritual Abuse Recovery
+
+- **Tears of Eden** — spiritual abuse recovery, Christian contexts
+- **Give Her Wings** — evangelical DV recovery
+- **Faithtrust Institute** — multi-faith DV resources
+- **Recovering from Religion** / Hotline Project — recoveringfromreligion.org
+- **Sound Choices Coalition** — LDS context
+- **Advocates for Awareness of Watchtower Abuses (AAWA)** — JW context
+- Ex-JW peer networks (online communities for those navigating disfellowshipping/shunning)
+
+### LGBTQ+ Survivors
+
+- **The Network/La Red** — LGBTQ+ DV organization
+- **NCAVP** (National Coalition of Anti-Violence Programs)
+- **The Trevor Project** — crisis support for LGBTQ+ youth, 1-866-488-7386
+
+### Trans-Specific Survivors
+
+- **Trans Lifeline** — 1-877-565-8860 — peer-run, trans-specific
+- **FORGE** — forge-forward.org — trans survivors of violence
+- **Trans Women of Color Collective**
+- **Sylvia Rivera Law Project**
+- **Point of Pride** — HRT access fund
+
+### Jewish Survivors
+
+- **Jewish Women International** — jwi.org
+- **Shalom Task Force** — DV in Jewish families
+
+### Male Survivors
+
+- **1in6** — 1in6.org — male survivors of sexual abuse
+- **ManKind Initiative** — UK-based male DV support
+
+---
+
 ## Online Communities and Support
 
 ### Support Groups

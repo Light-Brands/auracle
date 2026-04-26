@@ -68,11 +68,12 @@ Typography is no longer a separate layer — it IS the main visual. The single-w
 │                                         │
 │    ──────────────────────               │  ← Subtle gold accent rule (optional)
 │                                         │
-│    The Truth That Was Hidden            │  ← Subtitle — OFF-WHITE, medium weight
-│    in Plain Sight                       │     Mixed case, italic or light
+│    Recognizing Narcissistic             │  ← Subtitle — OFF-WHITE, medium weight
+│    Manipulation in Relationships,       │     Mixed case, italic or light
+│    Family, and Work                     │
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless        │  ← Author (small, legible, off-white)
+│    Jennifer Brooke Lawless              │  ← Author (small, legible, off-white)
 │                                         │
 └─────────────────────────────────────────┘
 ```

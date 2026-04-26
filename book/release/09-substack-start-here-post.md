@@ -30,7 +30,7 @@ Let me show you around.
 
 ## Who I Am
 
-I'm Jennifer Brooke Lawless. I hold a Bachelor's in Psychology and a Master's in Mental Health Counseling, and I spent years in traditional therapy—both as a practitioner and as someone trying to heal.
+I'm Jae Lawless — though in my books you'll see my legal name, Jennifer Brooke Lawless. I hold a Bachelor's in Psychology and a Master's in Mental Health Counseling, and I spent years in traditional therapy—both as a practitioner and as someone trying to heal.
 
 What I learned: insight alone doesn't heal. You can understand everything and still react the same way.
 
@@ -107,7 +107,8 @@ This newsletter is a companion, not a replacement for care.
 - **Newsletter:** You're here! Subscribe if you haven't.
 - **Events:** I co-host transformative retreats through [Amate Events](https://instagram.com/amatesoulware)
 - **Website:** JaeLawless.com
-- **Sessions:** Book an aura therapy session at JaeLawless.com
+- **Instagram:** @jae.lawless
+- **Sessions:** Book an aura therapy session through Auracle at JaeLawless.com
 - **Email:** happylawless9@gmail.com
 
 ---
@@ -122,7 +123,8 @@ This work takes time. Go slowly. Come back when you need to.
 
 I'm here.
 
-— Jennifer
+— Jae
+*(Jennifer Brooke Lawless, M.S.)*
 
 ---
 

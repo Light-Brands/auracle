@@ -424,6 +424,25 @@ The problem is: they persist long after they're needed. The adult continues to p
 
 ---
 
+## Pre-Gaslighting: Roles That Arrived Before the Narcissist
+
+The six roles above describe universal adaptations to dysregulated family systems. For many readers, the role was not just a private adaptation — it was also a *cultural* expectation, installed early, long before any narcissist arrived to exploit it.
+
+This layer is worth naming because otherwise the recovery work feels like it is only about one relationship, when the conditioning actually predates it by a generation or more.
+
+- **"Your feelings were burdens before a narcissist ever told you so."** In many Asian, East African, Middle Eastern, and collectivist family systems, emotional restraint is taught as maturity. The child learns to swallow the response before the face can register it. By the time a gaslighter says *you're overreacting*, the internal censor has been working on that message for two decades. The narcissist only completes a sentence the culture started.
+- **"Acceptance must be earned."** For many queer and trans readers — and for many readers in high-control religious families — belonging was conditional long before the relationship was. Love was a performance review. A partner who began withdrawing warmth as punishment did not introduce the rule; the rule was the family's native language.
+- **"The immigrant debt."** In families shaped by migration — from anywhere to anywhere — the child often carries a founding story: *we sacrificed so you could be here*. The debt is real. It is also unpayable. A narcissist who tells you that you are never grateful enough is working a channel the family story carved decades ago.
+- **"You were taught not to know."** In communities where naming harm is framed as betrayal of the family, the neighborhood, the tribe, the diaspora, or the faith — the child learns to manage their own knowing so as not to make reality inconvenient for the people they love. A partner who later tells you *that didn't happen, you're imagining it* is making use of a silence that was already architected.
+- **"Honor is fragile, and you are its keeper."** In honor-based cultures — SWANA, South Asian, some Latin American, some European — a daughter in particular is raised as the structural bearer of the family's reputation. The pressure to be unimpeachable is a pre-installed Hero role with cosmological weight. Exiting a harmful marriage becomes not just a personal decision but a perceived attack on the family's public name.
+- **"The oldest daughter is the second mother."** Across many cultures, the oldest daughter role (which the scapegoat, hero, and peacekeeper roles often combine into) is explicit and named. She is expected to parent the younger children, absorb the mother's emotional load, and manage the family's moral standing. She is rarely asked whether she wants the role. She often does not realize, until adulthood, that she had the option to refuse.
+
+These are not excuses for the narcissist. They are the prior cargo your nervous system was carrying when the relationship began. Understanding that cargo is the work. Naming it is how you begin to put it down.
+
+The full per-community treatment — with community-specific language, family scripts, and survivor-voice field notes — is being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`. The structural pattern above holds across communities. The community-internal voice will be written by people who hold it.
+
+---
+
 ## The Role Combination Effect
 
 Most people identify with multiple roles—either simultaneously or at different life stages.

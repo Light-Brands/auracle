@@ -22,7 +22,7 @@ Choose one:
 
 **Welcome to the journey.**
 
-I'm Jennifer, and I'm genuinely glad you're here.
+I'm Jae, and I'm genuinely glad you're here.
 
 If you found me, you probably know what it's like to leave a conversation feeling worse about yourself—without being able to explain why. To doubt your own perception. To wonder if you're "too sensitive" or if something really is wrong.
 
@@ -91,7 +91,8 @@ Thank you for trusting me with your inbox. I don't take that lightly.
 
 See you soon,
 
-**Jennifer**
+**Jae**
+*(Jennifer Brooke Lawless, M.S.)*
 
 P.S. — If this email resonated, reply and tell me one thing. What pattern are you most trying to understand right now? I read every response.
 
@@ -138,7 +139,7 @@ The less you say, the less they have to twist.
 
 More coming soon.
 
-— Jennifer
+— Jae
 
 P.S. Want the full toolkit? [Get the free Decoder Cards →]
 

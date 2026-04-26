@@ -304,7 +304,7 @@ series-mockup-all-eight.png
 
 ## Cover Text (For Designer Reference)
 
-> **Note on subtitles:** Each volume has two subtitle fields. The **Subtitle** is the descriptive / KDP-metadata subtitle (used on the spine, back-cover metadata block, and Amazon search indexing). The **Guide Subtitle** is the reader-facing marketing subtitle to be rendered on the front cover.
+> **Note on subtitles:** Each volume has two subtitle fields. The **Subtitle** is the descriptive subtitle used on the **front cover, spine, and KDP metadata** (and Amazon search indexing). The **Guide Subtitle** is reader-facing marketing language used in the **Amazon description, Gumroad hero text, and social cards** — it is NOT rendered on the cover.
 
 ### Volume 1
 

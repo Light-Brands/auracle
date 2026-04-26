@@ -271,6 +271,25 @@ If your culture, religion, or community only sees one way—full compliance, no 
 
 You are not betraying your culture by refusing to be destroyed.
 
+### How Guilt Is Architected Across Communities
+
+Cultural guilt is not generic. Each community has its own architecture — its own sacred values that get weaponized, its own phrasing that the guilt arrives in, its own enforcement network. Naming the architecture you live inside makes the guilt easier to recognize as conditioning rather than truth. The structural patterns below name the *shape* of the guilt across several communities. Community-internal language and survivor-voice testimony for each are being drafted with sensitivity readers per `cultural-coverage-integration-plan.md`.
+
+- **Hispanic / Latino** — Familismo (family above all), respeto (reverence for elders), marianismo (the self-sacrificing woman), machismo (masculine authority), and vergüenza / qué dirán (shame / what people will say). The guilt sounds like *después de todo lo que esta familia ha hecho por ti* — after everything this family did for you. The enforcement network is the extended family, often thirty or more people, whose calls begin within hours of any boundary.
+- **Black / African American** — The Strong Black Woman / Strong Black Man trope as a culturally sanctioned silencer. The Black church as community infrastructure where leaving the marriage means leaving the congregation. "We don't air dirty laundry" — silence as racial solidarity. The intergenerational trauma comparison: *our people have been through worse*. The guilt is not just personal; it is racial, historical, and communal.
+- **Asian (East, South, Southeast)** — Filial piety as foundational ethic; honor and shame (face) as family-level assets; the model minority myth that converts struggle into personal failure; emotional restraint as virtue. The guilt sounds like *after everything we sacrificed*. The reach is intergenerational: pre-gaslighting that began before the narcissist arrived.
+- **Indigenous / Native** — Tribal belonging as inseparable from identity; elder reverence as protection of ceremony and language; historical trauma as comparison weapon (*our people survived worse than this*); the legitimate, heavy awareness that the culture is endangered and every member matters to its survival. The guilt is not personal failure — it is framed as participating in the colonizer's work.
+- **Middle Eastern / Arab / SWANA** — Sharaf and ird (family honor, women's honor) as collective assets; patriarchal authority that owes no justification; the diaspora gossip network that crosses continents in an afternoon. The guilt is *you'll destroy us* — not as hyperbole but, in some communities, as social fact.
+- **Religious traditions** — Each tradition supplies its own architecture: Evangelical/Protestant headship and "God hates divorce"; Mormon/LDS eternal sealing and ward infrastructure; Jehovah's Witness shunning, the most efficient coercive mechanism in modern Western religion; Catholic sacrament and Catholic guilt. Across all four, the guilt isn't only personal — it's cosmological. *You are not just leaving him. You are leaving God.* This is a manipulation. It is not a theology.
+- **LGBTQ+** — The acceptance trap: a partner or community that accepted you when your family didn't, weaponizing that acceptance as a leash. The chosen family that may be the only family. Outing as leverage. The guilt is *who else will love you like this*.
+- **Trans-specific** — Acceptance as leverage doubled: the partner who accepted your transition, who kept the prescription, who knew your name. The guilt is medical, social, documentary, and existential at once.
+- **Immigrant families** — Sacrifice as currency. *We crossed an ocean / a desert / a war so you could have this — and now you complain?* The guilt is built into the founding story.
+- **Male survivors** — The cultural prohibition on being the one who got hurt. The guilt is both for the harm done to you (*you should have been able to handle this*) and for naming it (*real men don't say these things*).
+
+If you are reading any of these and recognizing yourself, what you are feeling is conditioning, not conscience. Conditioning was installed. Conscience is yours. They are not the same thing.
+
+The principles in this chapter — naming guilt, not acting on it, riding the wave, distinguishing guilt from grief and from shame — apply across all of these architectures. The cost is heavier in some. The reframe is the same: you are not betraying the people you love by refusing to be destroyed. You are giving them the version of you that will still be alive in twenty years.
+
 ---
 
 ## What Guilt Actually Indicates

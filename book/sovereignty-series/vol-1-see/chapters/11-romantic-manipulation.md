@@ -224,6 +224,20 @@ The theology becomes the cage. Your pastor isn't the narcissist — but the past
 
 **The truth that sets you free:** No theology that requires your destruction is holy. No covenant that demands your erasure is sacred. If your faith tradition says you must endure abuse, the tradition needs questioning — not you.
 
+### The Takeover
+
+It doesn't start with control. It starts with welcome.
+
+His family is warm. Open. They bring you in like you've always belonged. The dinners, the holidays, the "you're one of us now." It feels like gaining a family, not entering a system.
+
+Then: "You should work with us. You're so talented. We could use someone like you." It sounds like opportunity. It sounds like love.
+
+By the time I realized what had happened, my livelihood ran through his family. The people whose approval I needed at Sunday dinner were the same people whose approval I needed at work on Monday. My chest would tighten walking into both rooms — same room, different address.
+
+This is the takeover. Not the dramatic kind. The kind where every boundary gets absorbed so gradually that by the time you see the pattern, there's nothing left that isn't downstream of the same system.
+
+**The decoder:** Love-bombing that extends into economic integration isn't generosity — it's colonization with a warm face. If the relationship ends, you should still have a job. If the family dissolves, you should still have an income. If both disappear together, the system was never supporting you. It was acquiring you.
+
 ---
 
 ### Healthy Romance for Contrast
@@ -455,7 +469,7 @@ You don't need their behavior to escalate for your unhappiness to be valid. Mid-
 > - Do you have a trusted person you can reach if this content activates you?
 > - Consider reading this section with support rather than alone.
 >
-> **Crisis Resources:** See [Appendix A](../appendices/appendix-a-resources.md) for 24/7 crisis hotlines.
+> **Crisis Resources:** If you are in immediate danger, contact your local emergency services or a domestic violence hotline in your country. For current crisis hotlines, visit **[companion website URL]**.
 >
 > When you're ready, continue.
 
@@ -467,32 +481,34 @@ This phase is the most dangerous time in the relationship. The tactics combine a
 
 ### Case Study: When Leaving Triggers Everything at Once
 
-**The Context:**
+I had decided internally that I needed to leave. I hadn't said it yet, but he sensed the shift — the emotional withdrawal, the way I stopped engaging, the quiet preparation. He knew his grip was loosening.
 
-She has decided internally that she needs to leave the relationship. She hasn't announced it yet, but the narcissist senses the shift—the emotional withdrawal, the lack of engagement, the quiet preparation. He knows his grip is loosening.
+**The escalation:**
 
-**What Happened:**
+It started on the balcony. "If you leave, I'll kill myself. I'll jump right now." He said it looking at me, then looking over the railing. The threat hung in the air — this impossible equation where staying meant enduring and leaving meant being responsible for his death.
 
-The escalation began with **suicide threats** (Tactic 29): "If you leave, I'll kill myself. I'll jump off this balcony right now." The threat hangs in the air, creating an impossible choice—stay and endure abuse, or leave and risk his death being "your fault."
+Then came the neck.
 
-This was followed by **physical intimidation** (Tactic 4): First came the marveling — repeated, almost admiring, turning the observation over like he was noticing something beautiful: "Your neck is so small and delicate." He said it more than once, with a tenderness that made her skin crawl. Then he placed his hand around her throat. Not squeezing. Demonstrating. "I could snap it with one hand." The message was clear: your safety depends on my restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. And afterward, every time someone admired something about her body, her neck remembered. The admiration and the violence became the same gesture.
+First the admiration — repeated, almost tender, turning the observation over like he was noticing something beautiful for the first time: "Your neck is so small and delicate." He said it more than once. Then he placed his hand around my throat. Not squeezing. Demonstrating. "I could snap it with one hand."
 
-Then came the **trivial demands as compliance tests**: "Get me another popsicle." Not because he wanted it, but to test dominance. When she didn't immediately comply, the response was explosive—screaming, making a scene in front of a visiting friend. This was **public humiliation** (combined tactics) designed to punish non-compliance and demonstrate power.
+The message was clear: my safety depended on his restraint. But the real horror was the sequence — the tenderness *before* the threat. The compliment was the setup. The threat was the punchline. Every time he marveled at how small my neck was — and he did it often, casually, as though he were noticing something precious — the hand was already in the room. The marveling and the threat were never separate.
 
-The aftermath involved **reversal of blame** (Tactic 18): "If you had just done what I wanted in the first place, none of this would have happened. This is your fault." The explosion was reframed as a reasonable response to non-compliance.
+Then the trivial demand. "Get me a popsicle." Not because he wanted it — because he wanted to test whether I'd still comply. When I didn't jump immediately, the response was explosive. Screaming. In front of a friend who was visiting. The friend sat there, frozen. I sat there, burning. The popsicle was never about the popsicle. It was a compliance test, and I had failed it publicly.
 
-Throughout the relationship, there had been ongoing **appearance control** (Tactic 9): Critiquing hair color in public at the salon. Demanding "neutral" hair and nails—no red hair, no sparkles—especially when seeing his friends. Dictating how she presented herself to ensure she reflected well on him and remained "appropriate."
+Afterward: "If you had just done what I wanted in the first place, none of this would have happened. This is your fault." The explosion was reframed as a reasonable response to my non-compliance.
 
-**Tactics in Play:**
+Throughout the relationship — not just during the exit phase — there was the appearance control. My hair critiqued at the salon, in front of the stylist. Neutral hair demanded when seeing his friends. No red. No sparkles on my nails. Nothing that drew attention to me as a separate person. I was to be appropriate. Meaning: his.
+
+**Tactics in play:**
 
 This situation demonstrates how multiple tactics interlock during high-stakes moments:
 
-1. **Tactic 29, Suicide Threats.** Creating emotional hostage situation
+1. **Tactic 29, Suicide Threats.** Creating an emotional hostage situation
 2. **Tactic 4, Physical Intimidation.** Establishing physical dominance through threat
 3. **Tactic 3, Volume Escalation.** Yelling to dominate the space
-4. **Tactic 18, Reversal of Blame.** Making her responsible for his behavior
+4. **Tactic 18, Reversal of Blame.** Making you responsible for their behavior
 5. **Tactic 9, The Aesthetic Seesaw.** Controlling appearance as ownership
-6. **Public Humiliation.** Scene in front of friend (combination of tactics)
+6. **Public Humiliation.** Scene in front of a friend (combination of tactics)
 
 **The Pattern: The Extinction Burst**
 
@@ -521,22 +537,22 @@ The trivial demands are particularly insidious. "Get me a popsicle" seems small�
 
 ### When Ownership Is Performed in Public
 
-Some narcissistic behaviors don't happen behind closed doors. They happen in the Louis Vuitton store. At the hair salon. In the yoga class. In front of your friends.
+Some narcissistic behaviors don't happen behind closed doors. They happen at a luxury store. At the hair salon. In the yoga class. In front of your friends.
 
 **What it looks like:**
 
-He causes a scene at a luxury store to get a zipper replaced — not because the zipper matters, but because the scene itself is the point. The staff scrambles. The other customers watch. You stand there, small, mortified. He wins. And on the way out, he's calm. Smiling, even. Because that performance wasn't about the bag. It was about demonstrating — to you, to the room, to the world — that he takes what he wants and no one stops him.
+He caused a scene at a luxury store over the piping on a bag — not because the piping mattered, but because the scene itself was the point. The staff scrambled. The other customers watched. I stood there, small, mortified. He won. And on the way out, he was calm. Smiling, even. Because that performance wasn't about the bag. It was about demonstrating — to me, to the room, to the world — that he takes what he wants and no one stops him.
 
-She yells at the hair salon because your color isn't right — not your dissatisfaction, *her* dissatisfaction with *your* appearance. She corrects the stylist as though she's the client and you're the product being serviced.
+She yelled at the hair salon because my color wasn't right — not my dissatisfaction, *her* dissatisfaction with *my* appearance. She corrected the stylist as though she were the client and I were the product being serviced.
 
-He raises his voice in the yoga class, breaking the silence, breaking the peace, breaking the room — and you feel the shame radiating off you like heat. Everyone looks. You want to disappear.
+He raised his voice in the yoga class, breaking the silence, breaking the peace, breaking the room — and I felt the shame radiating off me like heat. Everyone looked. I wanted to disappear.
 
 **What it does to you:**
 
-- **Embarrassment becomes a control tool.** You learn to avoid anything that might trigger a scene. You preemptively comply — wearing what he wants, saying what he wants, being who he wants — because the public alternative is unbearable.
-- **Fear of the scene replaces fear of the person.** You're not afraid of *him* exactly. You're afraid of what he'll do *in front of people*. The humiliation is worse than the abuse. So you manage him like a live wire — constantly scanning, anticipating, defusing.
-- **You become his reputation manager.** Your job is to make sure he doesn't erupt. When he does, you apologize — to the staff, to your friends, to the room. You clean up his wreckage and feel grateful when it's over.
-- **Isolation through embarrassment.** You stop going to yoga. You stop bringing friends around. You stop going to restaurants. Not because he forbids it — because you can't survive another scene. The isolation looks voluntary. It isn't.
+- **Embarrassment becomes a control tool.** You learn to avoid anything that might trigger a scene. You preemptively comply — wearing what they want, saying what they want, being who they want — because the public alternative is unbearable.
+- **Fear of the scene replaces fear of the person.** You're not afraid of *them* exactly. You're afraid of what they'll do *in front of people*. The humiliation is worse than the abuse. So you manage them like a live wire — constantly scanning, anticipating, defusing.
+- **You become their reputation manager.** Your job is to make sure they don't erupt. When they do, you apologize — to the staff, to your friends, to the room. You clean up their wreckage and feel grateful when it's over.
+- **Isolation through embarrassment.** You stop going to yoga. You stop bringing friends around. You stop going to restaurants. Not because they forbid it — because you can't survive another scene. The isolation looks voluntary. It isn't.
 
 **The cultural amplifier:**
 
@@ -547,6 +563,18 @@ In machismo cultures, public displays of dominance aren't red flags — they're 
 **What it feels like in your body:**
 
 The anticipatory scan before leaving the house. The tight chest walking into any public space with them. The flinch when they call the waiter over. The shame-heat when their voice rises. The relief — actual physical relief, shoulders dropping, breath releasing — when an outing ends without incident. If you're relieved that a normal dinner was *normal*, that's your body telling you the truth.
+
+### The Dinner Party Silence
+
+At dinner parties with his friends — powerful, business-type, people who spoke for a living — I couldn't get a word in. "You have to jump in," he'd say afterward, as though the problem were my timidity and not a room full of professional interrupters who'd never been asked to make space for anyone.
+
+I just became more quiet. It was too much energy to fight to be heard in a room that wasn't designed to hear me.
+
+"Jump in" sounds like encouragement. It's actually blame. It says: *the reason you're invisible is your fault. You're not trying hard enough. The room is fine — you're the problem.* It reframes his friends' dominance as normal and my silence as a deficit I need to fix. It puts the burden of inclusion on the excluded person.
+
+This is a different shape of the same silencing. Not the strategic quiet I use with certain family members — the one born of pattern recognition, the one that protects my truth from people who'd weaponize it. This is the quiet of exhaustion. The quiet of a person who calculated the energy required to be heard in a room that wasn't built to hear her — and decided the cost was too high.
+
+**The decoder:** If you're told to "jump in" instead of being made space for — and if your silence is treated as your failure rather than the room's — you're not in a partnership. You're in a system that requires your performance to function, and blames you when you can't perform.
 
 ### The Collectivist Extinction Burst
 
@@ -627,7 +655,7 @@ If you're seeing these signs, you're in the danger zone:
 If you recognize exit-phase escalation, treat this as the dangerous situation it is:
 
 **1. Take the threats seriously**
-- Suicide threats: Call emergency services or a crisis line immediately (see [Appendix A](../appendices/appendix-a-resources.md)). You are not qualified to manage this.
+- Suicide threats: Call emergency services or a crisis line immediately (for current hotlines, visit [companion website URL]). You are not qualified to manage this.
 - Physical threats: Document everything. Tell someone you trust. Contact domestic violence resources.
 - Don't try to be the hero or therapist. Professional intervention is required.
 
@@ -653,7 +681,7 @@ If you recognize exit-phase escalation, treat this as the dangerous situation it
 - Quietly prepare, then exit when they're not present if possible
 
 **5. Get professional support**
-- Domestic violence advocate (see [Appendix A](../appendices/appendix-a-resources.md) for hotlines)
+- Domestic violence advocate (for current hotlines, visit [companion website URL])
 - Therapist who specializes in abuse recovery
 - Lawyer if needed for protection orders
 - Support group for survivors
@@ -695,6 +723,24 @@ This is the same pattern as early hoovering. The only thing that's changed is th
 You do not owe a response to a door you've already closed. Years of distance do not reset the pattern. Softer language does not change what it's doing.
 
 If you feel the pull to respond—curiosity, nostalgia, the old loop reactivating—that is not a signal to engage. It's a signal that the old pattern still knows your address. Recognizing it is the whole point. Returning to it is not required.
+
+### The Damage You Bring Forward
+
+Nobody talks about this part.
+
+The narcissistic abuse literature ends at "you left." Or "you're healing." It doesn't cover the part where you're in a new relationship — a good one, maybe, a real one — and you can feel yourself doing something wrong. Something corrosive. And you can *name* it but you can't stop it.
+
+The contempt that leaks sideways. The sarcasm that carries a blade. The withdrawal when you should be present. The test you set up without admitting you're testing. You hear yourself and you think: *that's not me. That's what was done to me.* And you're right. And you do it anyway.
+
+Because the alternative — being direct, being vulnerable, asking for what you need without armor — requires a kind of safety your nervous system doesn't believe in yet.
+
+The narcissistic relationship didn't just damage you *in* that relationship — it installed patterns that follow you into the next one. Contempt, passive aggression, sarcasm, withdrawal — these aren't personality flaws. They're survival skills that outlived their context. You learned them because they worked. They kept you alive in a system that punished directness. And now they're running in a relationship that doesn't require them.
+
+The current partner isn't the problem. But the current partner is *experiencing* the problem. And that's a truth this book has to be honest about.
+
+You can SEE yourself doing it. That's what this volume is for. Naming the pattern is sovereignty. Fixing it is the next volume.
+
+**The decoder:** If you recognize yourself in any of these patterns — the sarcasm, the withdrawal, the sideways punishment — that recognition is not shame. It's the beginning. You are not becoming the narcissist. You are carrying the narcissist's tools because you had no others. Putting them down is the work that comes next.
 
 ### For Those Who Are Still There
 

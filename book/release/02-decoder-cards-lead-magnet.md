@@ -279,7 +279,7 @@ When you're ready to move from recognition to secure attachment, **Heal: Nervous
 
 ---
 
-## Connect with Jennifer
+## Connect with Jae
 
 - **Website:** JaeLawless.com
 - **Instagram:** @jae.lawless
@@ -304,7 +304,7 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi. She offers aura therapy sessions at JaeLawless.com.
+Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi. She offers aura therapy sessions through Auracle at JaeLawless.com.
 
 *Your sensitivity is not your weakness. It's your superpower.*
 
