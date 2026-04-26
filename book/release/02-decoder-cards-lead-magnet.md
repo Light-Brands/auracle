@@ -304,7 +304,7 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi. She offers soul therapy energy healing sessions at JaeLawless.com.
+Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi. She offers aura therapy sessions at JaeLawless.com.
 
 *Your sensitivity is not your weakness. It's your superpower.*
 

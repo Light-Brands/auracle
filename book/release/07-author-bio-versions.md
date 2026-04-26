@@ -34,7 +34,7 @@ Jennifer Brooke Lawless, M.S. is a therapist, writer, and survivor of narcissist
 
 Her healing journey led her beyond traditional therapy—through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
-Today, Jennifer lives in Costa Rica surrounded by community, where she offers soul therapy energy healing sessions at JaeLawless.com. Her book—*See*—was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
+Today, Jennifer lives in Costa Rica surrounded by community, where she offers aura therapy sessions at JaeLawless.com. Her book—*See*—was written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
 **Connect:** JaeLawless.com | @jae.lawless
 

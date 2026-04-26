@@ -20,7 +20,7 @@ What followed was years of nervous system work, shadow integration, and the slow
 
 She wrote *Heal* because she needed it. Because insight alone hadn't healed her. Because the book that bridged understanding and embodiment didn't exist—so she created it.
 
-She now lives in Costa Rica, where she offers soul therapy energy healing sessions at JaeLawless.com.
+She now lives in Costa Rica, where she offers aura therapy sessions at JaeLawless.com.
 
 ---
 
