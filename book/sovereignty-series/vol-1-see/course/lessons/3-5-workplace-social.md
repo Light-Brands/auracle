@@ -41,6 +41,8 @@ This person undermines you subtly. Takes credit when things go well; assigns bla
 
 They're often skilled at appearing cooperative while operating competitively.
 
+Workplace narcissism intersects with gender bias in both directions. Women running these patterns are often labeled "bossy" or "difficult" for behaviors men get praised for as "decisive" or "driven"—which can both undercount female-run patterns and miscount assertive women as narcissistic. Men's emotional manipulation often goes unrecognized because manipulation is stereotyped as feminine, leaving male-run patterns under-named. Watch the behavior, not the gender.
+
 **The narcissistic culture**
 
 Sometimes the narcissism is systemic. The organization itself operates on narcissistic principles:
@@ -188,6 +190,8 @@ Digital spaces create unique vulnerabilities:
 **RELIGIOUS AND SPIRITUAL CONTEXTS**
 
 Narcissistic dynamics also appear in religious communities and spiritual relationships. These contexts add complexity because spiritual authority creates additional power imbalances.
+
+The examples in this section lean toward Christian-adjacent and New Age framings—the traditions where this course's review readers could speak with firsthand knowledge—but the underlying patterns (divine-authority claims, spiritual bypassing of accountability, manufactured shame) appear across traditions.
 
 **Spiritual manipulation patterns**
 

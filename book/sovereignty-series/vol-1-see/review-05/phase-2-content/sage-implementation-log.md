@@ -146,3 +146,136 @@ these still need additional prose:
 
 `review-state.json` updated to record Sage Round 5 implementation as
 complete and to register the Round 6 sensitivity refresh.
+
+---
+
+# Round 6 — Sensitivity Refresh Implementation
+
+**Date:** 2026-04-26
+**Branch:** `claude/add-sensitivity-reader-vol1-kHAbL`
+**Source:** `review-06-sage-refresh/author-decisions-sage-sensitivity.md`
+**Decision plan:** `~/.claude/plans/can-we-go-point-binary-scroll.md`
+
+This second pass closes the Round 6 sensitivity refresh: 5 questions
+flagged in the Round 5 log as needing follow-through, 3 form questions
+introducing new observations, and 3 off-form polish items identified
+during decision review. Decisions were taken point-by-point; 8 produced
+manuscript edits, 6 were explicit no-ops, 1 was already covered.
+
+## Manuscript Edits Made (8 across 5 files)
+
+### `3-3-parental-wounds.md`
+
+- **A1 — Trim parallel "gender doesn't change the pattern" closing lines.**
+  Three consecutive subsections (enmeshed, dismissive, oscillating) ended
+  with variations of the same statement. Kept the strongest (enmeshed
+  closing line). Removed the closing sentence from dismissive
+  ("Dismissive narcissism is often attributed to fathers…") and from
+  oscillating ("The pattern isn't gendered. The shame…"). Father/mother
+  examples in enmeshed and oscillating remain intact.
+- **B2 / Q7 — Insert two mid-lesson grounding pauses.** Round 5 added the
+  opening "This lesson may be the most difficult" warning. This pass
+  added italicized grounding cues at two breakpoints: after "The core
+  wound" subsection ("*Take a breath. Notice your feet on the floor. The
+  past is in the past. Come back when you're ready.*") and after "The
+  parent who uses the child" subsection ("*Pause if you need to. Feel
+  where your body meets the chair. You are not that child anymore. Move
+  on when you're ready.*"). Variation between the two avoids boilerplate
+  feel.
+
+### `3-4-romantic-manipulation.md`
+
+- **A2 — Cut dating-pool clause from same-sex isolation sentence.** The
+  Round 5 same-sex isolation example packed three dynamics in one
+  sentence. Kept queer-community isolation and outing-threats; dropped
+  the small-dating-pool-in-a-smaller-city clause as less universal.
+- **C2 / Q2 — Add same-sex example to the Devaluation phase.** Same-sex
+  examples already lived in the love bombing and isolation tactic
+  subsections; the four-phase relationship arc (Idealization →
+  Devaluation → Cycling → Discard) used opposite-sex examples
+  throughout. Added 1–2 sentences to Devaluation about a woman whose
+  girlfriend's praise turns into "I just want what's best for you"
+  corrections — integrated into existing narrative, not a labeled aside.
+
+### `3-5-workplace-social.md`
+
+- **B1 / Q6 — Workplace × gender intersection paragraph.** Round 5 closed
+  Q4 as 🟡 partial: workplace section was gender-neutral but didn't
+  name the bias. Added ~75-word paragraph after "The narcissistic
+  colleague" naming both directions: women labeled "bossy"/"difficult"
+  for behavior men get praised for as "decisive"/"driven", and men's
+  emotional manipulation often unrecognized because manipulation is
+  stereotyped as feminine. Closes with "Watch the behavior, not the
+  gender."
+- **C4 / Q11 — Christian-adjacent acknowledgment.** Religious/spiritual
+  subsection examples lean Christian-adjacent and New Age; other
+  traditions aren't named. Per the standing sensitivity-reader rule
+  against drafting other-tradition voice without named human readers,
+  added a single sentence at the top of the subsection acknowledging
+  this and noting that underlying patterns (divine-authority claims,
+  spiritual bypassing of accountability, manufactured shame) appear
+  across traditions.
+
+### `5-1-energetic-remapping.md`
+
+- **B3 / Q8 — Normalization line after hypoactivation.** Round 5 closed
+  Q13 as ✅ verified, but the normalization framing lived in `1-1` and
+  `1-3`, not in the dense window-of-tolerance section in `5-1`. Added
+  one line after the hypoactivation description: "These aren't
+  dysfunction. They're your nervous system doing exactly what it was
+  trained to do." Matches phrasing established in earlier lessons.
+
+### `5-2-practical-responses.md`
+
+- **A3 / Q5 — Distribute caveat block.** Round 5 added "These are
+  options," "Safety first," and "Context changes the script" as a
+  ~250-word stack before the first script. This pass redistributed:
+  "These are options" stays up front; "Context changes the script"
+  moved to the transition between Universal Responses and
+  Tactic-Specific Scripts; "Safety first" became a highlighted
+  blockquote callout positioned right before the first tactic-specific
+  script (gaslighting), where readers most need the framing.
+
+## No-Op Decisions (no manuscript change)
+
+- **A4 / Q4 — Neurodivergence note voice match.** The clinical register
+  in `1-3` is appropriate; the reader group it serves benefits from the
+  precise anchor.
+- **A5 / Q3 — "A note on culture" placement.** Stayed in `3-3` only.
+  Readers reach the cultural frame in the next lesson; duplication
+  isn't worth the overhead.
+- **B4 — `3-1b` survivor-centering closing.** The mechanism explanation
+  gives readers the protective frame implicitly. No closing-paragraph
+  pivot added.
+- **C1 / Q1 — "For Men Reading This" callout placement.** Round 5
+  short mention in `1-1` plus deeper callout in `3-4` is sufficient.
+- **C3 / Q10 — "The narcissist" as a noun.** Audit shows 37 uses across
+  33 lesson files — not actually overused. The `1-1` "you don't need to
+  prove someone is 'a narcissist'" disclaimer covers the labeling
+  concern.
+- **C5 / Q12 — Case 2 "never maintained" archetype.** Below the
+  threshold for a sensitivity revision pass. Revisit when adding or
+  rewriting case studies in a future cycle.
+- **D1 / Q9 — Anonymous-example gender default audit.** Audit reframed
+  the premise: examples lean balanced-to-slightly-male-coded (5
+  male-coded vs 3 female-coded across the sampled lessons). Question
+  dropped.
+
+## Files Touched (Round 6)
+
+- `course/lessons/3-3-parental-wounds.md`
+- `course/lessons/3-4-romantic-manipulation.md`
+- `course/lessons/3-5-workplace-social.md`
+- `course/lessons/5-1-energetic-remapping.md`
+- `course/lessons/5-2-practical-responses.md`
+
+## Round 5 Items Resolved
+
+The four items flagged in the original Round 5 log "Items Flagged for the
+Fresh Pass" section are now closed:
+
+- ✅ Q4 — workplace × gender bias note added
+- ✅ Q11 — mid-lesson grounding pauses added in `3-3`
+- ✅ Q13 — normalization line added in `5-1`
+- ✅ Q18 — `2-6` and `3-1b` reviewed; no closing pivot added (mechanism
+  explanation deemed sufficient)

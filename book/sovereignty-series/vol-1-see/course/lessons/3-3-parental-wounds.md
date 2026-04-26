@@ -50,6 +50,8 @@ Instead, they learn: I am valuable when I perform correctly. I am safe when I ma
 
 This becomes the template for all future relationships. They seek partners who replicate the dynamic. They work to earn love that should have been given freely. They don't know that love without conditions exists.
 
+*Take a breath. Notice your feet on the floor. The past is in the past. Come back when you're ready.*
+
 **The specific patterns**
 
 **The enmeshed parent**
@@ -68,7 +70,7 @@ Other narcissistic parents are simply unavailable. They're preoccupied with thei
 
 The child learns: I am not interesting. My needs are burdensome. I should be low-maintenance.
 
-This can be harder to identify than active abuse because nothing overtly "happened." But neglect is its own injury. Dismissive narcissism is often attributed to fathers—the emotionally absent dad, the one always at work—but mothers can be equally unavailable, lost in their own pursuits, their own pain, their own reflection.
+This can be harder to identify than active abuse because nothing overtly "happened." But neglect is its own injury.
 
 **The oscillating parent**
 
@@ -76,7 +78,7 @@ Many narcissistic parents oscillate between enmeshment and dismissal.
 
 Sometimes they're overwhelming—calling constantly, needing to know everything, involving themselves in every decision. Other times they're completely unavailable—ignoring calls, forgetting birthdays, lost in their own world.
 
-The child never knows which parent will show up. They stay hypervigilant, constantly adjusting. One father calls his daughter daily for a week, then doesn't return her texts for two months, then reappears wounded that she didn't reach out. One mother drops in unannounced to insert herself in her son's marriage, then vanishes for his child's birthday. The pattern isn't gendered. The shame it generates in the child is the same.
+The child never knows which parent will show up. They stay hypervigilant, constantly adjusting. One father calls his daughter daily for a week, then doesn't return her texts for two months, then reappears wounded that she didn't reach out. One mother drops in unannounced to insert herself in her son's marriage, then vanishes for his child's birthday.
 
 **The parent who uses the child**
 
@@ -89,6 +91,8 @@ They might use the child as a confidant—sharing inappropriate information abou
 They might use the child for supply—requiring constant attention, reassurance, or achievement to feel good about themselves.
 
 The child learns: My job is to serve. My needs are secondary. My function is to meet someone else's needs.
+
+*Pause if you need to. Feel where your body meets the chair. You are not that child anymore. Move on when you're ready.*
 
 **Breaking the loyalty bond**
 

@@ -42,6 +42,8 @@ Above the window: hyperactivation. Anxiety, panic, racing thoughts, anger. Too m
 
 Below the window: hypoactivation. Numbness, dissociation, collapse, shutdown. Too little arousal.
 
+These aren't dysfunction. They're your nervous system doing exactly what it was trained to do.
+
 Inside the window: regulation. Presence, clarity, choice.
 
 Manipulation repeatedly pushed you outside your window. You got used to living in hyperactivation (constantly anxious, hypervigilant) or hypoactivation (checked out, numb, frozen).

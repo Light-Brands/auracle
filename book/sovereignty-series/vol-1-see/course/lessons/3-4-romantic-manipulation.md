@@ -51,6 +51,8 @@ It often starts subtly. Small criticisms. Occasional coldness. Things that don't
 
 The wonderful person who idealized you starts treating you like the problem.
 
+This shift cuts across orientation. A woman who once told her girlfriend she'd "finally found home" begins finding small things to correct—her clothes, her family, the way she laughs—each one softened with "I just want what's best for you."
+
 Common patterns in this phase:
 - Criticism disguised as "helping you improve"
 - Comparison to others (exes, friends, ideal partners)
@@ -88,7 +90,7 @@ Let's look at how the 60 patterns show up specifically in intimate relationships
 
 **Future faking** keeps you invested. Promises of marriage, children, change, the life you'll have together—that never materialize.
 
-**Isolation** cuts you off from support. They don't like your friends. Your family is a problem. Slowly, your world shrinks to them. In same-sex relationships, isolation can weaponize identity-specific vulnerabilities: cutting a partner off from their queer community, threatening to out them to family or employers, or monopolizing the limited dating pool in a smaller city to make leaving feel impossible.
+**Isolation** cuts you off from support. They don't like your friends. Your family is a problem. Slowly, your world shrinks to them. In same-sex relationships, isolation can weaponize identity-specific vulnerabilities: cutting a partner off from their queer community, or threatening to out them to family or employers.
 
 **Financial control** creates dependency. Joint accounts they control. Sabotaging your job. Making you financially reliant.
 
