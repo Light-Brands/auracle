@@ -1,6 +1,6 @@
 # SEE: The Companion Workbook
 
-## By Jennifer Brooke Lawless, M.S.
+## By Jennifer Brooke Lawless
 
 ## A Free Resource for Readers of *Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
 
@@ -190,4 +190,4 @@ The 3-3-3 Rule, 72-Hour Test, Emergency Protocol, Body Decoder, Sovereignty Stat
 > Take your time. There is no grade. There is no deadline.
 > The only rule is: trust what your body already knows.
 >
-> — Jennifer Brooke Lawless, M.S.
+> — Jennifer Brooke Lawless

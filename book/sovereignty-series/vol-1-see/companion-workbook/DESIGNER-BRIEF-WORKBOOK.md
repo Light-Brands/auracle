@@ -1,6 +1,6 @@
 # Visual Design Brief: SEE — The Companion Workbook
 
-## By Jennifer Brooke Lawless, M.S.
+## By Jennifer Brooke Lawless
 
 ### A Free Resource for Readers of *Recognizing Narcissistic Manipulation in Relationships, Family, and Work*
 
@@ -351,5 +351,5 @@ Study these workbooks for design inspiration:
 
 ---
 
-*Prepared for the design team by Jennifer Brooke Lawless, M.S.*
+*Prepared for the design team by Jennifer Brooke Lawless*
 *The Sovereignty Series — Volume 1 Companion Workbook*

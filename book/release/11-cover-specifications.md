@@ -312,7 +312,7 @@ series-mockup-all-eight.png
 **Subtitle:** Recognizing Narcissistic Manipulation in Relationships, Family, and Work
 **Guide Subtitle:** A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns
 **Series:** The Sovereignty Series — Volume 1
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline:** "Every pattern you can name is a pattern that loses power over you."
 
 ### Volume 2
@@ -321,7 +321,7 @@ series-mockup-all-eight.png
 **Subtitle:** Nervous System Recovery and Attachment Repair After Narcissistic Abuse
 **Guide Subtitle:** A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection
 **Series:** The Sovereignty Series — Volume 2
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Secure attachment is not found—it is practiced."
 
 ### Volume 3
@@ -330,7 +330,7 @@ series-mockup-all-eight.png
 **Subtitle:** Building Boundaries, Internal Authority, and Self-Trust After Trauma
 **Guide Subtitle:** A Guide for Those Ready to Stop Shrinking and Start Standing
 **Series:** The Sovereignty Series — Volume 3
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "I am not small. I am learning to stand without fear."
 
 ### Volume 4
@@ -339,7 +339,7 @@ series-mockup-all-eight.png
 **Subtitle:** Reclaiming Presence, Intimacy, and Embodied Leadership
 **Guide Subtitle:** A Guide for Those Ready to Inhabit Their Full Power
 **Series:** The Sovereignty Series — Volume 4
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "My presence is erotic when it belongs to me."
 
 ### Volume 5
@@ -348,7 +348,7 @@ series-mockup-all-eight.png
 **Subtitle:** Conscious Parenting and Breaking Generational Trauma Cycles
 **Guide Subtitle:** A Guide for Those Ready to Give Their Children What They Never Received
 **Series:** The Sovereignty Series — Volume 5
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "The chain breaks with you. Not because you're perfect, but because you're aware."
 
 ### Volume 6
@@ -357,7 +357,7 @@ series-mockup-all-eight.png
 **Subtitle:** Sustainable Helping Without Burnout for Trauma-Informed Guides
 **Guide Subtitle:** A Guide for Those Called to Help Others on This Path
 **Series:** The Sovereignty Series — Volume 6
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Your healing is your credential. Your boundaries are your offering."
 
 ### Volume 7
@@ -366,7 +366,7 @@ series-mockup-all-eight.png
 **Subtitle:** Financial Recovery, Career Rebuilding, and Prosperity After Abuse
 **Guide Subtitle:** A Guide for Those Ready to Thrive, Not Just Survive
 **Series:** The Sovereignty Series — Volume 7
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "Your prosperity is not a betrayal of your healing. It is a fruit of it."
 
 ### Volume 8
@@ -375,7 +375,7 @@ series-mockup-all-eight.png
 **Subtitle:** Integration, Identity, and Stepping Into Your Whole Self
 **Guide Subtitle:** A Guide for Those Ready to Unveil Their Infinite Self
 **Series:** The Sovereignty Series — Volume 8
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Tagline (back cover):** "You were never becoming someone new. You were always unveiling who you'd been all along."
 
 ---

@@ -2,7 +2,7 @@
 
 ## Complete Cover Design Package for All 8 Volumes
 
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Series:** The Sovereignty Series
 **Volumes:** 8
 **Trim Size:** 6" x 9"
@@ -89,7 +89,7 @@ Each front cover follows this exact structure:
 │    in Plain Sight                       │
 │                                         │
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author (smallest, legible)
+│    Jennifer Brooke Lawless              │  ← Author (smallest, legible)
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -109,7 +109,7 @@ Each front cover follows this exact structure:
 | 7 | **THRIVE** | *Financial Recovery, Career Rebuilding, and Prosperity After Abuse* | *A Guide for Those Ready to Thrive, Not Just Survive* |
 | 8 | **BECOME** | *Integration, Identity, and Stepping Into Your Whole Self* | *A Guide for Those Ready to Unveil Their Infinite Self* |
 
-**Author on all volumes:** Jennifer Brooke Lawless, M.S.
+**Author on all volumes:** Jennifer Brooke Lawless
 
 ### The Two Through-Lines (Designer Should Know)
 
@@ -132,7 +132,7 @@ Each front cover follows this exact structure:
 Standard spine format for each volume:
 
 ```
-SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless, M.S.
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
 ```
 
 When all 8 spines are shelved together, the titles read:
@@ -290,7 +290,7 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 ### Back Cover Author Bio (Short — for all volumes)
 
-> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find. She lives in Costa Rica.
+> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and individual counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find.
 
 ### Back Cover Connect Info
 
@@ -503,7 +503,7 @@ Each volume has an accompanying **companion workbook**. The workbook covers shou
 - **Identical design to the main volume cover** — same background color, same title treatment, same layout structure
 - **Add a "Companion Workbook" designation** — placed below the subtitle or in the series line area, clearly visible but secondary to the title
 - **Same white title and subtitle text** as the main covers
-- **Same author name:** Jennifer Brooke Lawless, M.S.
+- **Same author name:** Jennifer Brooke Lawless
 
 ### Suggested Workbook Designation Treatment
 
@@ -522,7 +522,7 @@ Each volume has an accompanying **companion workbook**. The workbook covers shou
 │    ── Companion Workbook ──             │  ← Workbook designation (white, small,
 │                                         │     with decorative rules or lighter weight)
 │                                         │
-│    Jennifer Brooke Lawless, M.S.        │  ← Author
+│    Jennifer Brooke Lawless              │  ← Author
 │                                         │
 └─────────────────────────────────────────┘
 ```
