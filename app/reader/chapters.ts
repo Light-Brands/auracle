@@ -1498,18 +1498,6 @@ export const volumes: Volume[] = [
         filename: 'appendix-c-case-vignettes.md',
         type: 'appendix',
       },
-      {
-        slug: 'appendix-reader-integration-workbook',
-        title: 'Appendix D: Reader Integration Workbook',
-        filename: 'appendix-d-reader-integration-workbook.md',
-        type: 'appendix',
-      },
-      {
-        slug: 'appendix-resources',
-        title: 'Appendix E: Resources & Further Reading',
-        filename: 'appendix-e-resources.md',
-        type: 'appendix',
-      },
     ],
   },
 ];

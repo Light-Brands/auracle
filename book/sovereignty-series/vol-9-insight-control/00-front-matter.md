@@ -37,7 +37,7 @@ First Edition
 
 **A Note on Names:** The people in this book are real. They are identified by single letters or role descriptions — not to protect them, but because their names were never the point. The systems are.
 
-**Crisis Resources:** If you are currently experiencing workplace abuse, wage theft, sexual harassment, or coercive control in any organizational setting, see [Appendix E: Resources](./appendices/appendix-e-resources.md) for legal resources, reporting pathways, and support services.
+**Crisis Resources:** If you are currently experiencing workplace abuse, wage theft, sexual harassment, or coercive control in any organizational setting, visit the companion resource page for legal resources, reporting pathways, support services, and the Reader Integration Workbook. *This online resource is maintained and updated regularly so the information you find there is current, even if this book was published years ago.*
 
 ---
 

@@ -173,8 +173,8 @@ The mechanism by which these systems end: isolated individuals compare notes, re
 | A | [Diagnostic Pattern Map](./appendices/appendix-a-diagnostic-pattern-map.md) | Self-assessment tool |
 | B | [Magician Tactics Decoder](./appendices/appendix-b-magician-tactics-decoder.md) | Tactic-by-tactic field guide |
 | C | [Case Vignettes](./appendices/appendix-c-case-vignettes.md) | Anonymized illustrative cases |
-| D | [Reader Integration Workbook](./appendices/appendix-d-reader-integration-workbook.md) | Embodied tools for application |
-| E | [Resources & Further Reading](./appendices/appendix-e-resources.md) | Legal, clinical, and supportive links |
+
+The **Reader Integration Workbook** and the **Resources & Further Reading** list live on the companion website rather than in the printed book — see [`website-appendixes-and-resources.md`](./website-appendixes-and-resources.md). Phone numbers, organizations, and crisis URLs age; the workbook is most useful as a living, fillable resource. The book stays canonical.
 
 ---
 
