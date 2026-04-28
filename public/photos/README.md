@@ -1,11 +1,41 @@
 # Author Photos
 
-Place author headshot photo here for use on book back covers and marketing materials.
+Place author headshots and personal photos here. Files in `public/` are served
+from the URL root, so a file at `public/photos/pages/about/portrait.jpg` is
+reachable at `/photos/pages/about/portrait.jpg`.
+
+For decorative website imagery (heroes, backgrounds, illustrations, OG cards),
+use `public/images/` instead.
 
 ## Directory Structure
 
 - **`author-headshot.jpg`** — Professional headshot for book covers (AI-enhanced from real photo recommended)
 - **`bios/`** — Author bio photos and portrait source images
+- **`pages/`** — Photos of the author used on specific website pages. One
+  subfolder per route:
+  - `pages/home/` — used on `/`
+  - `pages/about/` — used on a future `/about` route
+  - `pages/book/` — used on `/book`
+  - `pages/courses/` — used on `/courses`
+  - `pages/essence/` — used on `/essence`
+  - `pages/library/` — used on `/library`
+  - `pages/schedule/` — used on `/schedule`
+
+  Add more page folders as needed. Use lowercase, hyphenated filenames
+  (e.g. `pages/about/portrait-warm.webp`).
+
+## Using a page photo in a component
+
+```tsx
+import Image from "next/image";
+
+<Image
+  src="/photos/pages/about/portrait.webp"
+  alt="..."
+  width={800}
+  height={1000}
+/>
+```
 
 ## Photos
 
