@@ -106,10 +106,10 @@ This newsletter is a companion, not a replacement for care.
 
 - **Newsletter:** You're here! Subscribe if you haven't.
 - **Events:** I co-host transformative retreats through [Amate Events](https://instagram.com/amatesoulware)
-- **Website:** jaelawless.com
+- **Website:** JaeLawless.com
 - **Instagram:** @jae.lawless
-- **Sessions:** Book an aura reading through The Auracle at jaelawless.com
-- **Day job:** COO at Light Brands AI
+- **Sessions:** Book an aura therapy session through Auracle at JaeLawless.com
+- **Email:** happylawless9@gmail.com
 
 ---
 

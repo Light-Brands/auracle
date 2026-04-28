@@ -281,7 +281,7 @@ When you're ready to move from recognition to secure attachment, **Heal: Nervous
 
 ## Connect with Jae
 
-- **Website:** jaelawless.com
+- **Website:** JaeLawless.com
 - **Instagram:** @jae.lawless
 
 ---
@@ -304,7 +304,7 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her partner and her spiritual community. She serves as COO at Light Brands AI and writes and creates as **Jae Lawless** — the voice behind Auracle.
+Today, Jennifer lives in Costa Rica with her partner Daniel and their cat Lumi. She offers aura therapy sessions through Auracle at JaeLawless.com.
 
 *Your sensitivity is not your weakness. It's your superpower.*
 

@@ -6,7 +6,7 @@
 
 **Date:** 2026-02-22
 **Series:** The Sovereignty Series (8 volumes)
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 
 ---
 
@@ -148,7 +148,7 @@ while gaining readability and complementary energy.
 │    in Plain Sight                       │     Light-weight italic serif
 │                                         │
 │                                         │
-│    JENNIFER BROOKE LAWLESS, M.S.        │  ← White or light cream
+│    JENNIFER BROOKE LAWLESS              │  ← White or light cream
 │                                         │
 │         ─── cream background ───        │     #F5F0E1
 └─────────────────────────────────────────┘
@@ -337,7 +337,7 @@ hierarchy:
 ### Spine Design
 
 ```
-SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless, M.S.
+SEE  |  Recognizing Narcissistic Manipulation in Relationships, Family, and Work  |  Jennifer Brooke Lawless
  ↑                    ↑                                      ↑
  White              White                                White
  (bold)            (light italic)                       (regular)

@@ -2,7 +2,7 @@
 
 ## Complete Cover Design Package for All 8 Volumes
 
-**Author:** Jennifer Brooke Lawless, M.S.
+**Author:** Jennifer Brooke Lawless
 **Series:** The Sovereignty Series
 **Volumes:** 8
 **Trim Size:** 6" x 9"
@@ -291,7 +291,7 @@ Amazon KDP gives the designer full control over the back cover as part of the fu
 
 ### Back Cover Author Bio (Short — for all volumes)
 
-> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find.
+> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and individual counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find.
 
 ### Back Cover Connect Info
 

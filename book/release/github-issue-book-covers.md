@@ -4,7 +4,7 @@
 
 Design a cohesive cover system for **The Sovereignty Series** — an 8-volume nonfiction series about healing from narcissistic abuse and building personal sovereignty, plus **8 companion workbooks** (one per volume).
 
-- **Author:** Jennifer Brooke Lawless, M.S.
+- **Author:** Jennifer Brooke Lawless
 - **Trim Size:** 6" x 9"
 - **Paper Type:** White (black ink interior)
 - **Volumes:** 8 main + 8 companion workbooks = **16 covers total**
@@ -199,7 +199,7 @@ SEE | HEAL | STAND | LIVE | GIVE | SERVE | THRIVE | BECOME
 
 ## Back Cover Author Bio (All Volumes)
 
-> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find.
+> **Jennifer Brooke Lawless, M.S.** holds degrees in Psychology and Mental Health Counseling. Her clinical work ranged from psychiatric units to family therapy and individual counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the book she needed but couldn't find.
 
 ### Back Cover Connect Info
 
