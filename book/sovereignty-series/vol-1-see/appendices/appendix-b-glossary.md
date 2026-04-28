@@ -176,6 +176,9 @@ Acronym for Justify, Argue, Defend, Explain. These are behaviors to avoid when d
 
 ## L
 
+### Limerence
+An involuntary state of obsessive romantic fixation on one person, marked by intrusive thoughts, intense longing, idealization, and a fantasy of how life will feel once they finally choose you. Coined by psychologist Dorothy Tennov in 1979. Limerence is not love. Love can rest; limerence cannot. The intensity comes from the uncertainty itself, not from the person, which is why it often attaches to those who give just enough and then withdraw. In narcissistic dynamics, limerence is frequently mistaken for "deep connection" or "soulmate" feeling, and it tends to grow strongest with partners who are emotionally inconsistent.
+
 ### Love-Bombing
 Overwhelming someone with excessive affection, attention, and admiration, especially early in a relationship. Used to quickly establish connection and dependency. Often too much, too soon.
 
