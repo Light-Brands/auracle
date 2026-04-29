@@ -5,7 +5,7 @@
 **Phase:** 1 — Strategic Decisions
 **Manuscript:** Vol 1: SEE (book edition, post-integration)
 
-This document captures decisions on the 26 questions from Diana (15) and Morgan (11). Decisions marked **PROVISIONAL** depend on author-only judgment (calendar, biographical, Vol-2 outline) and are explicit candidates for author override. Decisions without that flag are grounded in the manuscript, the unified woven integration plan, and standing decisions; author override remains available, but the rationale is defensible without further input.
+This document captures decisions on the 26 questions from Diana (15) and Morgan (11). Initial draft included five **PROVISIONAL** decisions awaiting author confirmation on calendar, bandwidth, and Vol 2 status. Author confirmed 2026-04-27: Vol 2 is drafted (not locked), launch is open, decision fatigue is not a constraint. Four provisionals resolved cleanly (two CONFIRMED, two REVISED to flip with Vol 2 = drafted). One process-level provisional remains on Diana Q14's Ch 16 voice beats — resolved per-beat during implementation rather than up-front. See the resolution table below.
 
 The decisions interlock in a few places:
 
@@ -105,9 +105,9 @@ The decisions interlock in a few places:
 - **Author Note:** PROVISIONAL on Ch 16 — the chapter is scripts/practical responses; first-person may sit awkwardly there. Diana drafts samples; author keeps or vetoes per beat.
 
 **Q15. Vol 2 Promise**
-- **Decision:** **A — Audit forward-references; ensure none read as deferred-content rather than future-of-series.** (PROVISIONAL)
-- **Rationale:** Vol 2 doesn't exist yet. Committing Vol 1 to specific Vol 2 content before Vol 2 is drafted creates downstream contradiction risk. The book's own front matter ("This book is complete on its own") supports the conservative reading. Strengthening the Vol 2 bridge (Option B) is premature.
-- **Author Note:** PROVISIONAL — flips to C (audit + bridge) if Vol 2 outline is locked. Author confirms outline status before this decision finalizes. Pairs with Morgan Q11 (Vol 2 handoff document).
+- **Decision:** **C — Both: audit forward-references *and* draft a substantive bridge to Vol 2 in Ch 17.** (REVISED 2026-04-27)
+- **Rationale:** Initial decision was A on the assumption Vol 2 didn't exist yet. Author confirms Vol 2 (HEAL) is drafted at `book/sovereignty-series/vol-2-heal/` with 27 chapters including direct architectural extensions of Vol 1 (Ch 14 Clean Endings, Ch 25 Decoder Cards, the family-roles/archetype/attachment progression). With real Vol 2 content existing, the Vol 1 → Vol 2 bridge can be substantive rather than promissory. The "complete on its own" framing in Vol 1's front matter is preserved; Ch 17 gains a "What Comes Next" section that previews Vol 2 as roadmap, not as marketing.
+- **Author Note:** Diana drafts the Ch 17 bridge section (~400–600 words) referencing actual Vol 2 chapter content — minimal contact (Ch 12), grief (Ch 15), reparenting (Ch 22), secure attachment training (Ch 21). Bridge stays voice-driven, not table-of-contents-driven. Vol 2 outline status: drafted but not locked, so the bridge avoids committing Vol 1 to specific Vol 2 phrasing that may shift. Pairs with Morgan Q11 (now reconciliation rather than forward-promise capture).
 
 ---
 
@@ -116,9 +116,9 @@ The decisions interlock in a few places:
 ### Section A: Round 7 Charter and Scope
 
 **Q1. Round 7 Scope**
-- **Decision:** **D — Diana-driven scoping.** (PROVISIONAL)
+- **Decision:** **D — Diana-driven scoping.** (CONFIRMED 2026-04-27)
 - **Rationale:** Diana's review surfaces aggressive restructuring (Q1 Part rebalance, Q3 Ch 14 reframing, Q10 Ch 3 split). All three are accepted in this decisions document. Phase 3 prose polish on chapters that get restructured is wasted work. Hold Phase 3 launch until restructuring is implemented; if implementation runs long, defer Phase 3 to Round 8.
-- **Author Note:** PROVISIONAL on calendar — flips to A (full pass) if there's a launch deadline driving the round, with the rework risk accepted explicitly. Author confirms deadline status (or absence).
+- **Author Note:** Confirmed 2026-04-27 — launch is open, no calendar pressure. Diana-driven scoping stands. Round 7 prioritizes structural integrity over speed.
 
 **Q2. Round 5 Carry-Over**
 - **Decision:** **A — Audit Round 5 before Phase 2 launches.**
@@ -164,9 +164,9 @@ The decisions interlock in a few places:
 - **Author Note:** Re-ratification is a lightweight document — author marks each of the integration plan's standing decisions as STILL HOLDS / REVISED / RETIRED. Morgan briefs Phase 2/3/4 reviewers against the ratified set.
 
 **Q9. Decision Authority Matrix**
-- **Decision:** **A — Conventional split.** (PROVISIONAL)
+- **Decision:** **A — Conventional split.** (CONFIRMED 2026-04-27)
 - **Rationale:** Mechanical → reviewer-autonomous (typo, comma, dictionary spelling). Substantive → reviewer-recommends, author-decides (structure, voice, cut/keep, content additions). Identity/values → author-only with veto power. Standard editorial convention; well-understood by reviewers; balances author bandwidth against reviewer effectiveness.
-- **Author Note:** PROVISIONAL on bandwidth — flips to C (looser author control, ~30–50 author decisions across the round) if author calendar is constrained. Round 5 produced 160 questions; if Round 7 stays at conventional split, expect ~80–120 author decisions across all four phases.
+- **Author Note:** Confirmed 2026-04-27 — author bandwidth is not a constraint for Round 7. Conventional split stands; ~80–120 author decisions across all four phases is acceptable.
 
 ---
 
@@ -178,9 +178,9 @@ The decisions interlock in a few places:
 - **Author Note:** Tag name pattern matches recent commit conventions; release note auto-generated from Round 7 commit log.
 
 **Q11. Vol 2 Cross-Volume Continuity**
-- **Decision:** **A — Round 7 produces a Vol 1 → Vol 2 handoff document.** (PROVISIONAL)
-- **Rationale:** Light infrastructure that pays off across the rest of the series. Catalogs every Vol 2 reference in Vol 1 prose, the implicit content commitment, and the deferral status. Vol 2 development reconciles against this document. Pairs with Diana Q15 (Vol 2 promise audit).
-- **Author Note:** PROVISIONAL on Vol 2 outline status — if outline is locked, the handoff document also notes which Vol 1 commitments are already-honored vs. open. Author confirms.
+- **Decision:** **A — Round 7 produces a Vol 1 → Vol 2 reconciliation document.** (REVISED 2026-04-27)
+- **Rationale:** Initial framing was a forward-promise capture (Vol 2 didn't exist yet). With Vol 2 drafted, the document changes character: it becomes a **reconciliation matrix** mapping Vol 1's forward-references against actual Vol 2 prose. Three columns: (1) Vol 1 reference + line; (2) Vol 2 chapter+section that delivers it (or "not yet"); (3) status — HONORED / CONTRADICTED / OPEN. Light infrastructure; valuable across the rest of the series; foundation for Vol 2's own Round 1+ review work.
+- **Author Note:** Confirmed 2026-04-27 — Vol 2 is drafted, not locked. Reconciliation runs against current Vol 2 manuscript; OPEN entries are both deliverable (could be added to Vol 2) and waivable (could be cut from Vol 1). Author triages OPEN items per case. Pairs with Diana Q15 (Vol 2 bridge in Ch 17).
 
 ---
 
@@ -207,7 +207,7 @@ The decisions interlock in a few places:
    - Recovery arc cultural integration (Diana Q7) — Ch 15/16 field notes + Ch 17 section
    - Field note rebalance (Diana Q8 + Q11) — Ch 2 audit, Ch 11 additions
    - Author voice beats in Ch 11 + Ch 16 (Diana Q14)
-   - Vol 2 forward-reference audit (Diana Q15)
+   - Vol 2 forward-reference audit + Ch 17 bridge section drafting against actual Vol 2 chapters (Diana Q15)
 
 3. **Phase 2 (Felix in parallel; Bailey + Sage after Phase 1 close):** Selective parallelism per Morgan Q4.
 
@@ -224,22 +224,34 @@ The decisions interlock in a few places:
 - **Diana Q1** (Part rebalance) — the cleanest structural fix in the round; everything downstream renumbers cleanly.
 - **Morgan Q2** (Round 5 audit) — cheap; prevents compounding confusion in Phase 2.
 
-**Decisions to revisit if calendar tightens:**
+**Calendar-tightening fallbacks (not currently active — launch is open):**
 
 - Diana Q5 (woven thesis surfacing) can scale back to Option A only (Ch 1 only, no Part headers).
 - Diana Q7 can scale back to Option B only (Ch 17 section only, no Ch 15/16 field notes).
 - Diana Q14 can scale back to Ch 11 only (drop Ch 16 voice beats).
-- Morgan Q1 flips to selective scope (Option E) if the round needs to ship faster.
+- Morgan Q1 flips to selective scope (Option E) if a deadline emerges.
+- Diana Q15 can scale back to Option A (audit only, no Ch 17 bridge) if the bridge work runs long.
 
-**Decisions explicitly flagged PROVISIONAL — author confirmation requested:**
+**Provisional flags resolved 2026-04-27:**
 
-- Diana Q14 (author voice arc — Ch 16 specifically may sit awkwardly with first-person)
-- Diana Q15 (Vol 2 promise — depends on Vol 2 outline status)
-- Morgan Q1 (Round 7 scope — depends on calendar pressure)
-- Morgan Q9 (decision authority matrix — depends on author bandwidth)
-- Morgan Q11 (Vol 2 handoff — depends on Vol 2 outline status)
+| Question | Original flag | Resolution | Final decision |
+|----------|---------------|------------|----------------|
+| Diana Q15 | Depends on Vol 2 outline status | Vol 2 is drafted (27 chapters at `vol-2-heal/`); not locked | **Flipped A → C** (audit + Ch 17 bridge) |
+| Morgan Q1 | Depends on calendar pressure | Launch is open; no deadline driving | **Confirmed D** (Diana-driven scoping) |
+| Morgan Q9 | Depends on author bandwidth | Bandwidth not a constraint | **Confirmed A** (conventional split) |
+| Morgan Q11 | Depends on Vol 2 outline status | Vol 2 is drafted; not locked | **Confirmed A, but reshaped** as a reconciliation matrix against actual Vol 2 prose, not a forward-promise capture |
+
+**Remaining provisional (process-resolution, not a flip):**
+
+- **Diana Q14** — author voice arc in Ch 16. Decision stands at C (add first-person beats to Ch 11 and Ch 16). Ch 11 portion is final. Ch 16 portion resolves per-beat: Diana drafts samples; author keeps or vetoes each one in context.
+
+**New cross-volume work unlocked by Vol 2 = drafted:**
+
+- Diana Q15's Ch 17 bridge becomes a real bridge (references actual Vol 2 content: minimal contact at Ch 12, grief at Ch 15, reparenting at Ch 22, secure attachment training at Ch 21).
+- Morgan Q11's reconciliation matrix can be produced now and consumed by Vol 2's eventual Round 1 review work.
+- Felix's Phase 2 fact-check can include Vol 1 → Vol 2 cross-reference verification (e.g., does Vol 1's "see Vol 2" actually point to content that exists in Vol 2?).
 
 ---
 
-*Author decisions recorded by Claude on behalf of Jennifer Brooke Lawless / Jae Lawless, April 27, 2026, with explicit PROVISIONAL flags on decisions requiring author-only confirmation.*
+*Author decisions recorded by Claude on behalf of Jennifer Brooke Lawless / Jae Lawless. Initial draft: April 27, 2026. Revised same day after author confirmed Vol 2 is drafted and Round 7 has no calendar/bandwidth constraints.*
 
