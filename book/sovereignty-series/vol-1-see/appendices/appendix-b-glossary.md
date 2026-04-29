@@ -301,7 +301,7 @@ A deep, pervasive sense that you're fundamentally flawed or defective as a perso
 An attachment you form through repeated cycles of abuse and intermittent reinforcement. This creates powerful psychological bonds that make leaving difficult. Similar to Stockholm Syndrome.
 
 ### Triangulation
-Bringing a third party into the dynamic to create jealousy, insecurity, or competition. Examples: comparing you unfavorably to an ex, flirting with others, or using children as messengers.
+Bringing a third party into the dynamic to create jealousy, insecurity, or competition. Examples: comparing you unfavorably to an ex, comparing your body or appearance to other women's — even when framed as a compliment ("*other men prefer X, but your body type is perfect for me*") — flirting with others, or using children as messengers.
 
 ### Trigger
 A stimulus (word, sensation, situation) that activates a trauma response in you, often bringing back emotions from past experiences.

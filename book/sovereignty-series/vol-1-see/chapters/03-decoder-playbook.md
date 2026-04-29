@@ -683,12 +683,14 @@ When someone constantly compares you to others—exes, friends, hypothetical alt
 - "You're not like other people I've dated"
 - "I could find someone who..."
 - Hints at attention from others
+- Comparing your body to other women's, even as a "compliment": *"Other men prefer big breasts, but your body type is perfect for me."* The structure is always the same — invoke the comparison, then exempt you from it. You're meant to feel both rated and reassured at once.
+- Pointing out, watching, or praising other women's bodies in your presence so you absorb the comparison without it ever being said directly
 
 **What's Really Happening:**
-They're importing competition into a space that should be collaborative. By reminding you that you're replaceable, they keep you insecure and compliant.
+They're importing competition into a space that should be collaborative. By reminding you that you're replaceable — or that your body, your style, your attractiveness sits on a scale they're holding — they keep you insecure and compliant. The "compliment" version is the most disorienting: you can't object without looking ungrateful, but the comparison has already done its work.
 
 **How It Hooks You:**
-You feel like you're auditioning for a role, not inhabiting a partnership. You measure yourself against phantoms—past relationships, hypothetical alternatives. You try harder to be worthy of being chosen.
+You feel like you're auditioning for a role, not inhabiting a partnership. You measure yourself against phantoms — past relationships, hypothetical alternatives, the women he just rated in front of you. You try harder to be worthy of being chosen. You start monitoring your own body through his eyes.
 
 **Your Power Move:**
 "I'm not in competition with anyone for this relationship. If you'd prefer to be with someone else, that's a choice you can make."
